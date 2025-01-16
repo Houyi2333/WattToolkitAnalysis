@@ -29,11 +29,67 @@
 
 ## Watt Toolkit 整体模块分析
 
-
+1. **客户端插件模块**：
+   - 目录：`src/BD.WTTS.Client.Plugins.Accelerator`
+   - 主要文件：
+     - `ProxyService`：实现了代理服务的相关逻辑，包括脚本管理、代理服务状态等
+2. **发布工具模块**：
+   - 目录：`src/BD.WTTS.Client.Tools.Publish`
+   - 主要文件：
+     - `AppPublishInfo`：管理应用发布信息的模型类
+     - `IDotNetPublishCommand`：定义了 .NET 发布命令的接口和相关方法
+     - `ObfuscarHelper`：提供了混淆工具 Obfuscar 的辅助方法
+3. **IPC 服务模块**：
+   - 目录：`src/BD.WTTS.Client/Services.Implementation/IPC`
+   - 主要文件：
+     - `IPCMainProcessServiceImpl`：实现了主进程的 IPC 服务，包括模块启动、退出和消息写入等功能
+4. **资源文件模块**：
+   - 目录：`src/BD.WTTS.Client/Resources`
+   - 主要文件：
+     - `Strings.zh-Hant.resx`：繁体中文的资源文件，包含了界面显示的本地化字符串
+     - `Strings.Designer.cs`：自动生成的资源文件访问类
+5. **配置文件模块**：
+   - 目录：根目录
+   - 主要文件：
+     - `.gitignore`：Git 忽略文件配置
+     - `NuGet.Config`：NuGet 包源配置
+     - `.gitmodules`：Git 子模块配置
+6. **文档模块**：
+   - 目录：doc
+   - 主要文件：
+     - `file-system.md`：文件系统相关文档
+     - `open-source-library.md`：开源库相关文档
+7. **解决方案文件**：
+   - 目录：根目录
+   - 主要文件：
+     - `WattToolkit.sln`：Visual Studio 解决方案文件，包含了项目的整体结构和各个子项目的引用
 
 ## 提交历史分析
 
+使用 `GitPython` 库来提取提交历史数据，代码位于 `./src/commit_analysis.py`
+
+1. **克隆仓库**：使用 `git.Repo.clone_from` 方法克隆目标 GitHub 仓库
+2. **获取提交历史**：通过 `iter_commits` 获取所有提交记录
+3. **作者统计**：通过 `Counter` 统计每个作者的提交次数
+4. **提交时间统计**：提取提交的时间并绘制提交次数随时间变化的趋势图
+5. **可视化**：使用 `matplotlib` 生成两个图表：
+   - 提交作者与提交次数的柱状图
+   - 提交日期与提交次数的折线图
+6. **数据保存**：提交信息保存于 `./data` 下
+
+图表位于 `./results` 下
+
+![author_commit_counts.png](./results/author_commit_counts.png)
+
+![commit_time_distribution.png](./results/commit_time_distribution.png)
+
+可以看出，Aigio Liu 和 RMBGAME 是主要的贡献者，贡献次数远超其他人，其次是一些次要贡献者和少量贡献的其他贡献
+
+提交频率在2021年下半年显著增加，表明该时间段内项目活动较为活跃
+
 ## Issue 和 PR 分析
+
+
 
 ## 代码静态分析
 
