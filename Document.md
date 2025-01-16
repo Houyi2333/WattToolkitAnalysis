@@ -69,15 +69,21 @@
 使用 `GitPython` 库来提取提交历史数据，代码位于 `./src/commit_analysis.py`
 
 1. **克隆仓库**：使用 `git.Repo.clone_from` 方法克隆目标 GitHub 仓库
+
 2. **获取提交历史**：通过 `iter_commits` 获取所有提交记录
+
 3. **作者统计**：通过 `Counter` 统计每个作者的提交次数
+
 4. **提交时间统计**：提取提交的时间并绘制提交次数随时间变化的趋势图
+
 5. **可视化**：使用 `matplotlib` 生成两个图表：
+
    - 提交作者与提交次数的柱状图
    - 提交日期与提交次数的折线图
-6. **数据保存**：提交信息保存于 `./data` 下
 
-图表位于 `./results` 下
+   图表位于 `./results` 下
+
+6. **数据保存**：提交信息保存于 `./data` 下
 
 ![author_commit_counts.png](./results/author_commit_counts.png)
 
