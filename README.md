@@ -35,8 +35,7 @@ WattToolkitAnalysis/
 │   ├── commit_analysis.py  # 提交历史分析脚本
 │   ├── issue_pr_analysis.py# Issue 和 PR 分析脚本
 │   ├── static_analysis.py  # 代码静态分析脚本
-│   ├── fuzz_test.py        # 模糊测试实现脚本
-│   └── visualization.py    # 数据可视化脚本
+│   └── fuzz_test.py        # 模糊测试实现脚本
 ├── results/                # 分析结果（图表和报告）
 ├── README.md               # 项目说明文档
 └── requirements.txt        # 依赖库清单
