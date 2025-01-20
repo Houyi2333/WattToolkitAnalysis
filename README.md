@@ -30,9 +30,10 @@
 
 ```plaintext
 WattToolkitAnalysis/
-├── data/                   # 分析过程中的数据文件
+├── data/                   # 分析过程中生成的数据文件
 ├── src/                    # 代码文件目录
 │   ├── commit_analysis.py  # 提交历史分析脚本
+│   ├── issue_pr_get.py     # Issue 和 PR 获取脚本
 │   ├── issue_pr_analysis.py# Issue 和 PR 分析脚本
 │   ├── static_analysis.py  # 代码静态分析脚本
 │   └── fuzz_test.py        # 模糊测试实现脚本
@@ -42,47 +43,6 @@ WattToolkitAnalysis/
 ```
 
 ---
-
-## **快速开始**  
-
-### **1. 克隆项目**
-
-```bash
-git clone https://github.com/username/WattToolkit-Analysis.git
-cd WattToolkit-Analysis
-```
-
-### **2. 安装依赖**
-
-```bash
-pip install -r requirements.txt
-```
-
-### **3. 运行分析脚本**
-
-#### 运行提交历史分析：
-
-```bash
-python src/commit_analysis.py
-```
-
-#### 运行 Issue 和 Pull Request 分析：
-
-```bash
-python src/issue_pr_analysis.py
-```
-
-#### 运行代码静态分析：
-
-```bash
-python src/static_analysis.py
-```
-
-#### 运行模糊测试： 
-
-```bash
-python src/fuzz_test.py
-```
 
 ## **成果展示**  
 
