@@ -95,7 +95,7 @@
 
 ## Issue 和 PR 分析
 
-使用 `request` 库与 `GithubAPI`来提取提交历史数据，代码位于 `issue_pr_analysis.py`
+使用 `request` 库与 `GithubAPI`来提取提交历史数据，代码位于 `issue_pr_get.py`
 
 1. **构建请求 URL**：将 GITHUB_API_URL、REPO_OWNER、REPO_NAME拼接到 GitHub API 的 issues 接口 URL 中。
 2. **发送 GET 请求**：调用 `requests.get` 方法，向 GitHub API 发送 GET 请求获取 Issue 信息。
@@ -103,6 +103,15 @@
    - **请求成功（状态码 200）**：解析响应的 JSON 数据，并将相关信息存储到 issues_data 列表中。
    - **请求失败**：打印无法获取 Issue 信息及对应的错误状态码。
 4. **保存数据**：将 issues_data 列表以 JSON 格式写入 `./data/issue_info.json` 文件
+
+通过 `issue_pr_analysis.py` 可读取 `./data/issue_info.json` 文件计算问题解决率和平均解决时间
+
+结果如下：
+
+```shell
+问题解决率: 53.84%
+平均解决时间: 1157.87 小时
+```
 
 ## 代码静态分析
 
