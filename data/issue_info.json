@@ -1,0 +1,302 @@
+[
+    {
+        "id": 2781585324,
+        "title": "🧐[Question] 登录出现错误代码e43",
+        "state": "open",
+        "created_at": "2025-01-11T03:40:14Z",
+        "updated_at": "2025-01-11T06:36:47Z",
+        "user": "XDpla",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3598"
+    },
+    {
+        "id": 2779180345,
+        "title": "🧐[Question] 启动加速后出现StartProxyFail: BindPortError  ",
+        "state": "open",
+        "created_at": "2025-01-10T03:14:01Z",
+        "updated_at": "2025-01-15T11:17:54Z",
+        "user": "maoweijiajia",
+        "comments": 1,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3597"
+    },
+    {
+        "id": 2778276150,
+        "title": "🐛[BUG] 启用加速后，访问 docs.github.com会被重定向至github",
+        "state": "open",
+        "created_at": "2025-01-09T16:32:42Z",
+        "updated_at": "2025-01-09T16:32:42Z",
+        "user": "harry-xi",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3596"
+    },
+    {
+        "id": 2768632649,
+        "title": "Add support of AOSC OS and loongson architecture",
+        "state": "open",
+        "created_at": "2025-01-04T08:22:51Z",
+        "updated_at": "2025-01-17T03:52:15Z",
+        "user": "4Darmygeometry",
+        "comments": 1,
+        "url": "https://github.com/BeyondDimension/SteamTools/pull/3593"
+    },
+    {
+        "id": 2767081042,
+        "title": "🐛[BUG] 3.3.0 RC13 挂时长-挂机页面右键点击游戏无法弹出选项",
+        "state": "open",
+        "created_at": "2025-01-03T07:01:54Z",
+        "updated_at": "2025-01-03T10:18:48Z",
+        "user": "eren1017",
+        "comments": 2,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3592"
+    },
+    {
+        "id": 2764014343,
+        "title": "🐛[BUG] Steam商店无法访问",
+        "state": "open",
+        "created_at": "2024-12-31T06:35:22Z",
+        "updated_at": "2025-01-11T16:17:39Z",
+        "user": "nangongjing1",
+        "comments": 9,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3591"
+    },
+    {
+        "id": 2760924679,
+        "title": "🐛[BUG] 3.3.0 RC13 NAT类型检测不能使用",
+        "state": "open",
+        "created_at": "2024-12-27T14:03:28Z",
+        "updated_at": "2024-12-27T14:03:28Z",
+        "user": "liyuhaolol",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3590"
+    },
+    {
+        "id": 2759850197,
+        "title": "👑[Enhancement] 希望网络加速支持 Edge 浏览器的 Copilot",
+        "state": "open",
+        "created_at": "2024-12-26T14:44:31Z",
+        "updated_at": "2024-12-26T14:44:31Z",
+        "user": "LinWanCen",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3589"
+    },
+    {
+        "id": 2759049024,
+        "title": "🐛[BUG] OneDrive网页版打开“回收站”页面会提示连接失败",
+        "state": "open",
+        "created_at": "2024-12-25T18:22:02Z",
+        "updated_at": "2024-12-25T18:23:44Z",
+        "user": "blqdswkl",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3588"
+    },
+    {
+        "id": 2755432541,
+        "title": "👑[Enhancement] MacOS 版本在运行时请隐藏dock图标",
+        "state": "open",
+        "created_at": "2024-12-23T07:43:53Z",
+        "updated_at": "2024-12-23T07:43:53Z",
+        "user": "ElderJames",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3587"
+    },
+    {
+        "id": 2752271104,
+        "title": "🐛[BUG] 当DoH地址拒绝连接的时候造成CPU占用100%",
+        "state": "open",
+        "created_at": "2024-12-20T09:04:51Z",
+        "updated_at": "2024-12-20T09:04:51Z",
+        "user": "duilehaojiu",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3585"
+    },
+    {
+        "id": 2746657338,
+        "title": "🐛[BUG] rc.13偶尔闪退，窗口位置及背景图位置不固定",
+        "state": "open",
+        "created_at": "2024-12-18T03:27:49Z",
+        "updated_at": "2024-12-18T08:14:10Z",
+        "user": "FlashDragons",
+        "comments": 1,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3583"
+    },
+    {
+        "id": 2744279274,
+        "title": "🧐[Question] 从 `docker.io` 拉取镜像加速需求及实现原理",
+        "state": "open",
+        "created_at": "2024-12-17T08:41:23Z",
+        "updated_at": "2024-12-17T08:41:23Z",
+        "user": "wangliang181230",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3582"
+    },
+    {
+        "id": 2742552681,
+        "title": "👑[Enhancement] 能不能搞一个Paradox Interactive网站加速啊",
+        "state": "open",
+        "created_at": "2024-12-16T14:32:32Z",
+        "updated_at": "2024-12-16T14:32:32Z",
+        "user": "Alengying",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3581"
+    },
+    {
+        "id": 2738350935,
+        "title": "🐛[BUG] Can not bind steam account!",
+        "state": "open",
+        "created_at": "2024-12-13T13:02:33Z",
+        "updated_at": "2024-12-14T08:11:33Z",
+        "user": "kiusorey",
+        "comments": 1,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3579"
+    },
+    {
+        "id": 2738154448,
+        "title": "🐛[BUG] NAT类型检测BUG",
+        "state": "open",
+        "created_at": "2024-12-13T11:15:36Z",
+        "updated_at": "2024-12-13T11:15:36Z",
+        "user": "backstage1203",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3578"
+    },
+    {
+        "id": 2738037223,
+        "title": "🐛[BUG] rc.13打开“网络加速”标签页后右侧区域完全空白，同时软件卡死无法退出",
+        "state": "open",
+        "created_at": "2024-12-13T10:18:10Z",
+        "updated_at": "2024-12-28T09:06:58Z",
+        "user": "VictoireWood",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3577"
+    },
+    {
+        "id": 2737987209,
+        "title": "🐛[BUG] 网络重新连接时会导致挂时长失效",
+        "state": "open",
+        "created_at": "2024-12-13T09:55:46Z",
+        "updated_at": "2024-12-13T09:55:46Z",
+        "user": "Mishasama",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3576"
+    },
+    {
+        "id": 2737174678,
+        "title": "🐛[BUG] Windows商店版本的界面碎掉了",
+        "state": "open",
+        "created_at": "2024-12-13T01:19:05Z",
+        "updated_at": "2024-12-13T01:19:05Z",
+        "user": "txf0990",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3575"
+    },
+    {
+        "id": 2736730651,
+        "title": "🐛[BUG] 插件列表消失",
+        "state": "open",
+        "created_at": "2024-12-12T19:36:16Z",
+        "updated_at": "2024-12-12T19:59:16Z",
+        "user": "gay-chicken",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3574"
+    },
+    {
+        "id": 2731851010,
+        "title": "👑[Enhancement] MacOS 状态栏图标可否改为系统样式？",
+        "state": "open",
+        "created_at": "2024-12-11T05:16:54Z",
+        "updated_at": "2025-01-09T19:17:09Z",
+        "user": "ElderJames",
+        "comments": 2,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3572"
+    },
+    {
+        "id": 2725068416,
+        "title": "👑[Enhancement] 适配arm版",
+        "state": "open",
+        "created_at": "2024-12-08T09:20:08Z",
+        "updated_at": "2024-12-08T09:20:08Z",
+        "user": "ghghfnb",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3570"
+    },
+    {
+        "id": 2721774863,
+        "title": "👑[Enhancement] ",
+        "state": "open",
+        "created_at": "2024-12-06T00:44:32Z",
+        "updated_at": "2024-12-06T00:44:32Z",
+        "user": "EddieTianxing",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3568"
+    },
+    {
+        "id": 2719735953,
+        "title": "👑[Enhancement] 有没有可能加一个填写clash订阅的功能，这样就不用再打开clash软件了",
+        "state": "open",
+        "created_at": "2024-12-05T08:34:06Z",
+        "updated_at": "2024-12-05T08:34:06Z",
+        "user": "332123342",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3566"
+    },
+    {
+        "id": 2718134880,
+        "title": "🐛[BUG] 字体难以看清",
+        "state": "open",
+        "created_at": "2024-12-04T15:39:08Z",
+        "updated_at": "2024-12-04T15:39:37Z",
+        "user": "alovelydoge",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3565"
+    },
+    {
+        "id": 2710718666,
+        "title": "🐛[BUG] MSIX版窗口位置大小不固定",
+        "state": "open",
+        "created_at": "2024-12-02T06:49:28Z",
+        "updated_at": "2024-12-11T12:37:32Z",
+        "user": "250h",
+        "comments": 2,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3562"
+    },
+    {
+        "id": 2707280355,
+        "title": "建议新增GeForce Now加速",
+        "state": "open",
+        "created_at": "2024-11-30T12:13:13Z",
+        "updated_at": "2024-11-30T12:13:13Z",
+        "user": "pyzhangyongjia",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3561"
+    },
+    {
+        "id": 2705442731,
+        "title": "🐛[BUG] 账号切换 中的账户永远都是同一个",
+        "state": "open",
+        "created_at": "2024-11-29T15:30:30Z",
+        "updated_at": "2024-11-29T15:30:39Z",
+        "user": "ghost",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3559"
+    },
+    {
+        "id": 2705339007,
+        "title": "🐛[BUG] Asf start Fail",
+        "state": "open",
+        "created_at": "2024-11-29T14:42:56Z",
+        "updated_at": "2024-11-29T14:43:54Z",
+        "user": "Biaogo",
+        "comments": 0,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3558"
+    },
+    {
+        "id": 2703956276,
+        "title": "🧐[Question] 界面有重叠，运存占用是提高了吗",
+        "state": "open",
+        "created_at": "2024-11-29T05:39:08Z",
+        "updated_at": "2024-12-11T09:54:25Z",
+        "user": "botaofenghuo",
+        "comments": 1,
+        "url": "https://github.com/BeyondDimension/SteamTools/issues/3557"
+    }
+]

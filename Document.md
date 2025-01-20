@@ -95,7 +95,15 @@
 
 ## Issue 和 PR 分析
 
+使用 `request` 库与 `GithubAPI`来提取提交历史数据，代码位于 `issue_pr_analysis.py`
 
+1. **配置 GitHub 信息**：设置 GitHub 用户名、仓库名和个人访问令牌。
+2. **构建请求 URL**：使将 GITHUB_USER 和 GITHUB_REPO 拼接到 GitHub API 的 issues 接口 URL 中。
+3. **发送 GET 请求**：调用 `requests.get` 方法，向 GitHub API 发送 GET 请求获取 Issue 信息。
+4. **处理响应结果**：
+   - **请求成功（状态码 200）**：解析响应的 JSON 数据，并将相关信息存储到 issues_data 列表中。
+   - **请求失败**：打印无法获取 Issue 信息及对应的错误状态码。
+5. **保存数据**：将 issues_data 列表以 JSON 格式写入 `./data/issue_info.json` 文件
 
 ## 代码静态分析
 
