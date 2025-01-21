@@ -95,7 +95,7 @@
 
 ## Issue 和 PR 分析
 
-使用 `request` 库与 `GithubAPI`来提取提交历史数据，代码位于 `issue_pr_get.py`
+使用 `request` 库与 `GithubAPI`来提取提交历史数据，代码位于 `./src/issue_pr_get.py`
 
 1. **构建请求 URL**：将 GITHUB_API_URL、REPO_OWNER、REPO_NAME拼接到 GitHub API 的 issues 接口 URL 中。
 2. **发送 GET 请求**：调用 `requests.get` 方法，向 GitHub API 发送 GET 请求获取 Issue 信息。
