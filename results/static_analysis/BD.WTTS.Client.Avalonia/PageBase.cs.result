@@ -1,0 +1,158 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“FluentAvalonia”(是否缺少 using 指令或程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“FluentAvalonia”(是否缺少 using 指令或程序集引用?)
+(8,25): error CS0246: 未能找到类型或命名空间名“UserControl”(是否缺少 using 指令或程序集引用?)
+(324,47): error CS0246: 未能找到类型或命名空间名“IViewFor<>”(是否缺少 using 指令或程序集引用?)
+(352,13): error CS0246: 未能找到类型或命名空间名“IViewFor”(是否缺少 using 指令或程序集引用?)
+(137,24): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(352,11): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(352,13): error CS0538: '显式接口声明中的“IViewFor”不是接口
+(346,22): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(27,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(30,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(30,49): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(358,50): error CS0246: 未能找到类型或命名空间名“EventArgs”(是否缺少 using 指令或程序集引用?)
+(364,43): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(33,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(33,49): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(326,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(326,53): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(36,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(36,43): error CS0246: 未能找到类型或命名空间名“IconSource”(是否缺少 using 指令或程序集引用?)
+(39,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(39,49): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(42,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(42,49): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(45,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(45,49): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(48,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(51,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(51,43): error CS0246: 未能找到类型或命名空间名“IBrush”(是否缺少 using 指令或程序集引用?)
+(54,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(54,49): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(57,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(60,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(69,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(75,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(81,12): error CS0246: 未能找到类型或命名空间名“IconSource”(是否缺少 using 指令或程序集引用?)
+(87,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(93,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(99,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(105,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(129,12): error CS0246: 未能找到类型或命名空间名“IBrush”(是否缺少 using 指令或程序集引用?)
+(135,12): error CS0246: 未能找到类型或命名空间名“ScrollViewer”(是否缺少 using 指令或程序集引用?)
+(139,45): error CS0246: 未能找到类型或命名空间名“TemplateAppliedEventArgs”(是否缺少 using 指令或程序集引用?)
+(155,38): error CS0246: 未能找到类型或命名空间名“RoutedEventArgs”(是否缺少 using 指令或程序集引用?)
+(163,40): error CS0246: 未能找到类型或命名空间名“RoutedEventArgs”(是否缺少 using 指令或程序集引用?)
+(170,44): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(170,54): error CS0246: 未能找到类型或命名空间名“SizeChangedEventArgs”(是否缺少 using 指令或程序集引用?)
+(312,13): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(315,13): error CS0246: 未能找到类型或命名空间名“Panel”(是否缺少 using 指令或程序集引用?)
+(316,13): error CS0246: 未能找到类型或命名空间名“Panel”(是否缺少 using 指令或程序集引用?)
+(317,13): error CS0246: 未能找到类型或命名空间名“Border”(是否缺少 using 指令或程序集引用?)
+(320,13): error CS0246: 未能找到类型或命名空间名“ScrollViewer”(是否缺少 using 指令或程序集引用?)
+(321,13): error CS0246: 未能找到类型或命名空间名“CompositeDisposable”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(326,76): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(326,134): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(28,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(31,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(31,51): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(34,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(34,51): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(37,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(37,45): error CS0246: 未能找到类型或命名空间名“IconSource”(是否缺少 using 指令或程序集引用?)
+(40,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(40,51): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(43,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(43,51): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(46,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(46,51): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(49,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(52,8): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(52,44): error CS0246: 未能找到类型或命名空间名“IBrush”(是否缺少 using 指令或程序集引用?)
+(55,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(55,51): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(58,9): error CS0103: 当前上下文中不存在名称“SplitView”
+(61,9): error CS0103: 当前上下文中不存在名称“SplitView”
+(336,14): error CS1061: “PageBase<TViewModel>”未包含“WhenActivated”的定义，并且找不到可接受第一个“PageBase<TViewModel>”类型参数的可访问扩展方法“WhenActivated”(是否缺少 using 指令或程序集引用?)
+(340,14): error CS1061: “PageBase<TViewModel>”未包含“GetObservable”的定义，并且找不到可接受第一个“PageBase<TViewModel>”类型参数的可访问扩展方法“GetObservable”(是否缺少 using 指令或程序集引用?)
+(348,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(349,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(355,39): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(360,14): error CS0117: “PageBase”未包含“OnDataContextChanged”的定义
+(361,21): error CS0103: 当前上下文中不存在名称“DataContext”
+(368,13): error CS0103: 当前上下文中不存在名称“ClearValue”
+(368,24): error CS0103: 当前上下文中不存在名称“DataContextProperty”
+(370,18): error CS0103: 当前上下文中不存在名称“DataContext”
+(372,13): error CS0103: 当前上下文中不存在名称“DataContext”
+(10,25): error CS1729: “UserControl”不包含采用 0 个参数的构造函数
+(14,9): error CS0103: 当前上下文中不存在名称“SizeChanged”
+(16,13): error CS0019: 运算符“==”无法应用于“IBrush?”和“<null>”类型的操作数
+(18,51): error CS0246: 未能找到类型或命名空间名“DynamicResourceExtension”(是否缺少 using 指令或程序集引用?)
+(21,26): error CS0103: 当前上下文中不存在名称“UISettings”
+(65,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(66,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(71,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(72,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(77,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(78,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(83,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(84,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(89,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(90,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(95,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(96,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(101,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(102,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(107,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(108,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(113,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(114,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(119,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(120,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(125,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(126,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(131,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(132,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(143,9): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(144,9): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(149,41): error CS0246: 未能找到类型或命名空间名“Panel”(是否缺少 using 指令或程序集引用?)
+(150,38): error CS0246: 未能找到类型或命名空间名“Border”(是否缺少 using 指令或程序集引用?)
+(151,42): error CS0246: 未能找到类型或命名空间名“Panel”(是否缺少 using 指令或程序集引用?)
+(152,38): error CS0246: 未能找到类型或命名空间名“ScrollViewer”(是否缺少 using 指令或程序集引用?)
+(176,9): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(177,9): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(193,28): error CS0019: 运算符“==”无法应用于“Panel?”和“<null>”类型的操作数
+(198,20): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(201,23): error CS0246: 未能找到类型或命名空间名“Animation”(是否缺少 using 指令或程序集引用?)
+(203,24): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(206,21): error CS0246: 未能找到类型或命名空间名“KeyFrame”(是否缺少 using 指令或程序集引用?)
+(208,31): error CS0246: 未能找到类型或命名空间名“Cue”(是否缺少 using 指令或程序集引用?)
+(211,29): error CS0246: 未能找到类型或命名空间名“Setter”(是否缺少 using 指令或程序集引用?)
+(211,36): error CS0103: 当前上下文中不存在名称“TranslateTransform”
+(212,29): error CS0246: 未能找到类型或命名空间名“Setter”(是否缺少 using 指令或程序集引用?)
+(212,36): error CS0103: 当前上下文中不存在名称“TranslateTransform”
+(213,29): error CS0246: 未能找到类型或命名空间名“Setter”(是否缺少 using 指令或程序集引用?)
+(213,36): error CS0103: 当前上下文中不存在名称“OpacityProperty”
+(216,21): error CS0246: 未能找到类型或命名空间名“KeyFrame”(是否缺少 using 指令或程序集引用?)
+(218,31): error CS0246: 未能找到类型或命名空间名“Cue”(是否缺少 using 指令或程序集引用?)
+(221,29): error CS0246: 未能找到类型或命名空间名“Setter”(是否缺少 using 指令或程序集引用?)
+(221,36): error CS0103: 当前上下文中不存在名称“TranslateTransform”
+(222,29): error CS0246: 未能找到类型或命名空间名“Setter”(是否缺少 using 指令或程序集引用?)
+(222,36): error CS0103: 当前上下文中不存在名称“TranslateTransform”
+(223,29): error CS0246: 未能找到类型或命名空间名“Setter”(是否缺少 using 指令或程序集引用?)
+(223,36): error CS0103: 当前上下文中不存在名称“OpacityProperty”
+(225,37): error CS0246: 未能找到类型或命名空间名“KeySpline”(是否缺少 using 指令或程序集引用?)
+(230,47): error CS1061: “CancellationTokenSource?”未包含“Token”的定义，并且找不到可接受第一个“CancellationTokenSource?”类型参数的可访问扩展方法“Token”(是否缺少 using 指令或程序集引用?)
+(237,13): error CS0019: 运算符“==”无法应用于“Border?”和“<null>”类型的操作数
+(240,18): error CS0103: 当前上下文中不存在名称“ElementComposition”
+(248,36): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(258,13): error CS0019: 运算符“==”无法应用于“Panel?”和“<null>”类型的操作数
+(261,18): error CS0103: 当前上下文中不存在名称“ElementComposition”
+(269,36): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(1,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

@@ -1,0 +1,21 @@
+(7,33): error CS0246: 未能找到类型或命名空间名“IAuthHelper”(是否缺少 using 指令或程序集引用?)
+(77,11): error CS0246: 未能找到类型或命名空间名“Action”(是否缺少 using 指令或程序集引用?)
+(17,5): error CS0246: 未能找到类型或命名空间名“CurrentUser”(是否缺少 using 指令或程序集引用?)
+(24,5): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(24,15): error CS0246: 未能找到类型或命名空间名“CurrentUser”(是否缺少 using 指令或程序集引用?)
+(31,30): error CS0246: 未能找到类型或命名空间名“CurrentUser”(是否缺少 using 指令或程序集引用?)
+(31,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(38,5): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(38,15): error CS0246: 未能找到类型或命名空间名“IdentityUserInfoDTO”(是否缺少 using 指令或程序集引用?)
+(46,34): error CS0246: 未能找到类型或命名空间名“IdentityUserInfoDTO”(是否缺少 using 指令或程序集引用?)
+(46,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(53,53): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(53,5): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(53,10): error CS0246: 未能找到类型或命名空间名“IdentityUserInfoDTO”(是否缺少 using 指令或程序集引用?)
+(60,30): error CS0246: 未能找到类型或命名空间名“IUserDTO”(是否缺少 using 指令或程序集引用?)
+(60,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(67,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(77,19): error CS0066: “IUserManager.OnSignOut”: 事件必须是委托类型的
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(14,37): error CS0103: 当前上下文中不存在名称“Ioc”
+(71,51): error CS0103: 当前上下文中不存在名称“PhoneNumberHelper”

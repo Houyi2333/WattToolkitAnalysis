@@ -1,0 +1,64 @@
+(12,37): error CS0246: 未能找到类型或命名空间名“Func<>”(是否缺少 using 指令或程序集引用?)
+(10,27): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(43,43): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(55,22): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(79,16): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(79,28): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(148,9): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(55,38): error CS0066: “Startup.SingleInstancePipeline.MessageReceived”: 事件必须是委托类型的
+(70,10): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(70,10): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(70,21): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(78,10): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(78,10): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(78,21): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(118,10): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(118,10): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(118,21): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(141,10): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(141,10): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(141,21): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(150,10): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(150,10): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(150,21): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(18,78): error CS0103: 当前上下文中不存在名称“IsMainProcess”
+(18,94): error CS0103: 当前上下文中不存在名称“key_show”
+(62,17): error CS0103: 当前上下文中不存在名称“Task”
+(81,27): error CS0103: 当前上下文中不存在名称“Process”
+(93,25): error CS0019: 运算符“!=”无法应用于“ProcessModule?”和“<null>”类型的操作数
+(95,44): error CS1061: “ProcessModule?”未包含“FileName”的定义，并且找不到可接受第一个“ProcessModule?”类型参数的可访问扩展方法“FileName”(是否缺少 using 指令或程序集引用?)
+(96,41): error CS1061: “ProcessModule?”未包含“ModuleName”的定义，并且找不到可接受第一个“ProcessModule?”类型参数的可访问扩展方法“ModuleName”(是否缺少 using 指令或程序集引用?)
+(89,32): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(89,43): error CS0246: 未能找到类型或命名空间名“ProcessModule”(是否缺少 using 指令或程序集引用?)
+(110,35): error CS0103: 当前上下文中不存在名称“Process”
+(130,35): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(144,31): error CS0103: 当前上下文中不存在名称“Environment”
+(145,20): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(145,57): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(145,99): error CS0103: 当前上下文中不存在名称“Hashs”
+(153,23): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(158,23): error CS0246: 未能找到类型或命名空间名“PipeDirection”(是否缺少 using 指令或程序集引用?)
+(158,49): error CS0103: 当前上下文中不存在名称“PipeDirection”
+(160,23): error CS0246: 未能找到类型或命名空间名“PipeTransmissionMode”(是否缺少 using 指令或程序集引用?)
+(160,63): error CS0103: 当前上下文中不存在名称“PipeTransmissionMode”
+(161,23): error CS0246: 未能找到类型或命名空间名“PipeOptions”(是否缺少 using 指令或程序集引用?)
+(161,45): error CS0103: 当前上下文中不存在名称“PipeOptions”
+(178,28): error CS0246: 未能找到类型或命名空间名“NamedPipeServerStream”(是否缺少 using 指令或程序集引用?)
+(156,13): error CS0246: 未能找到类型或命名空间名“NamedPipeServerStream”(是否缺少 using 指令或程序集引用?)
+(187,40): error CS0246: 未能找到类型或命名空间名“StreamReader”(是否缺少 using 指令或程序集引用?)
+(198,28): error CS0246: 未能找到类型或命名空间名“IOException”(是否缺少 using 指令或程序集引用?)
+(202,25): error CS1061: “CancellationTokenSource?”未包含“Token”的定义，并且找不到可接受第一个“CancellationTokenSource?”类型参数的可访问扩展方法“Token”(是否缺少 using 指令或程序集引用?)
+(204,24): error CS0246: 未能找到类型或命名空间名“OperationCanceledException”(是否缺少 using 指令或程序集引用?)
+(207,24): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(209,21): error CS0103: 当前上下文中不存在名称“GlobalExceptionHandler”
+(162,27): warning CS0219: 变量“inBufferSize”已被赋值，但从未使用过它的值
+(163,27): warning CS0219: 变量“outBufferSize”已被赋值，但从未使用过它的值
+(224,44): error CS0246: 未能找到类型或命名空间名“NamedPipeClientStream”(是否缺少 using 指令或程序集引用?)
+(225,21): error CS0103: 当前上下文中不存在名称“PipeDirection”
+(225,40): error CS0103: 当前上下文中不存在名称“PipeOptions”
+(226,21): error CS0103: 当前上下文中不存在名称“TokenImpersonationLevel”
+(227,36): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(228,23): error CS0246: 未能找到类型或命名空间名“StreamWriter”(是否缺少 using 指令或程序集引用?)
+(228,45): error CS0246: 未能找到类型或命名空间名“StreamWriter”(是否缺少 using 指令或程序集引用?)
+(261,13): error CS0103: 当前上下文中不存在名称“GC”

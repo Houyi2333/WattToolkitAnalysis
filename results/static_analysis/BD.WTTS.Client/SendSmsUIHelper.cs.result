@@ -1,0 +1,25 @@
+(1,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(27,62): error CS0246: 未能找到类型或命名空间名“Func<>”(是否缺少 using 指令或程序集引用?)
+(27,67): error CS0246: 未能找到类型或命名空间名“SendSmsRequest”(是否缺少 using 指令或程序集引用?)
+(27,25): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(88,69): error CS0246: 未能找到类型或命名空间名“SendSmsRequest”(是否缺少 using 指令或程序集引用?)
+(88,18): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(88,28): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(10,9): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(22,9): error CS0246: 未能找到类型或命名空间名“Action”(是否缺少 using 指令或程序集引用?)
+(24,9): error CS0246: 未能找到类型或命名空间名“Action”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(29,30): error CS0126: 需要一个类型可转换为“Task”的对象
+(32,25): error CS0103: 当前上下文中不存在名称“Ioc”
+(32,33): error CS0246: 未能找到类型或命名空间名“IModelValidator”(是否缺少 using 指令或程序集引用?)
+(27,30): error CS0161: “SendSmsUIHelper.SendSmsAsync(SendSmsUIHelper.IViewModel, Func<SendSmsRequest>)”: 并非所有的代码路径都返回值
+(45,31): error CS0103: 当前上下文中不存在名称“ApiConstants”
+(59,27): error CS1061: “CancellationTokenSource?”未包含“Token”的定义，并且找不到可接受第一个“CancellationTokenSource?”类型参数的可访问扩展方法“Token”(是否缺少 using 指令或程序集引用?)
+(78,30): error CS0103: 当前上下文中不存在名称“Task”
+(80,20): error CS0246: 未能找到类型或命名空间名“OperationCanceledException”(是否缺少 using 指令或程序集引用?)
+(92,22): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(99,34): error CS0103: 当前上下文中不存在名称“ApiRspCode”
+(100,34): error CS0103: 当前上下文中不存在名称“ApiRspCode”
+(101,34): error CS0103: 当前上下文中不存在名称“ApiRspCode”
+(116,13): error CS0103: 当前上下文中不存在名称“Toast”
+(116,24): error CS0103: 当前上下文中不存在名称“ToastIcon”

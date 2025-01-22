@@ -1,0 +1,10 @@
+(59,21): error CS0246: 未能找到类型或命名空间名“Version”(是否缺少 using 指令或程序集引用?)
+(50,53): error CS0103: 当前上下文中不存在名称“IPC”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,14): error CS0103: 当前上下文中不存在名称“Directory”
+(11,17): error CS0103: 当前上下文中不存在名称“Directory”
+(16,69): error CS0103: 当前上下文中不存在名称“ASFSettings”
+(22,70): error CS0103: 当前上下文中不存在名称“File”
+(24,31): error CS0246: 未能找到类型或命名空间名“Version”(是否缺少 using 指令或程序集引用?)
+(24,39): error CS0103: 当前上下文中不存在名称“FileVersionInfo”
+(36,19): error CS0103: 当前上下文中不存在名称“Path”

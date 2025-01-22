@@ -1,0 +1,82 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(5,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(6,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(7,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(8,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(9,7): error CS0246: 未能找到类型或命名空间名“AvaloniaEdit”(是否缺少 using 指令或程序集引用?)
+(10,7): error CS0246: 未能找到类型或命名空间名“AvaloniaEdit”(是否缺少 using 指令或程序集引用?)
+(11,7): error CS0246: 未能找到类型或命名空间名“TextMateSharp”(是否缺少 using 指令或程序集引用?)
+(264,33): error CS0246: 未能找到类型或命名空间名“EventArgs”(是否缺少 using 指令或程序集引用?)
+(15,37): error CS0246: 未能找到类型或命名空间名“UserControl”(是否缺少 using 指令或程序集引用?)
+(266,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(127,18): error CS0246: 未能找到类型或命名空间名“EventHandler<>”(是否缺少 using 指令或程序集引用?)
+(23,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(29,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(35,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(41,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(47,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(47,43): error CS0246: 未能找到类型或命名空间名“IEnumerable”(是否缺少 using 指令或程序集引用?)
+(53,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(53,43): error CS0246: 未能找到类型或命名空间名“IDataTemplate”(是否缺少 using 指令或程序集引用?)
+(56,13): error CS0246: 未能找到类型或命名空间名“IEnumerable”(是否缺少 using 指令或程序集引用?)
+(61,12): error CS0246: 未能找到类型或命名空间名“IEnumerable”(是否缺少 using 指令或程序集引用?)
+(77,12): error CS0246: 未能找到类型或命名空间名“IDataTemplate”(是否缺少 using 指令或程序集引用?)
+(122,29): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(130,22): error CS0246: 未能找到类型或命名空间名“AutoCompleteBox”(是否缺少 using 指令或程序集引用?)
+(131,22): error CS0246: 未能找到类型或命名空间名“TextEditor”(是否缺少 using 指令或程序集引用?)
+(133,22): error CS0246: 未能找到类型或命名空间名“ArchiSteamFarmCommandHistory”(是否缺少 using 指令或程序集引用?)
+(207,45): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(207,55): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(127,50): error CS0066: “ConsoleShell.CommandSubmit”: 事件必须是委托类型的
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(24,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(30,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(36,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(42,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(48,9): error CS0103: 当前上下文中不存在名称“ItemsControl”
+(54,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(54,49): error CS0246: 未能找到类型或命名空间名“IDataTemplate”(是否缺少 using 指令或程序集引用?)
+(56,53): error CS0246: 未能找到类型或命名空间名“AvaloniaList<>”(是否缺少 using 指令或程序集引用?)
+(70,13): error CS0103: 当前上下文中不存在名称“SetValue”
+(81,20): error CS0103: 当前上下文中不存在名称“GetValue”
+(83,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(91,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(92,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(100,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(101,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(109,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(110,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(118,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(119,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(144,39): error CS0246: 未能找到类型或命名空间名“TextEditor”(是否缺少 using 指令或程序集引用?)
+(144,27): error CS1061: “ConsoleShell”未包含“FindControl”的定义，并且找不到可接受第一个“ConsoleShell”类型参数的可访问扩展方法“FindControl”(是否缺少 using 指令或程序集引用?)
+(146,43): error CS0246: 未能找到类型或命名空间名“AutoCompleteBox”(是否缺少 using 指令或程序集引用?)
+(146,31): error CS1061: “ConsoleShell”未包含“FindControl”的定义，并且找不到可接受第一个“ConsoleShell”类型参数的可访问扩展方法“FindControl”(是否缺少 using 指令或程序集引用?)
+(149,25): error CS0103: 当前上下文中不存在名称“AutoCompleteBox”
+(150,25): error CS0103: 当前上下文中不存在名称“AutoCompleteBox”
+(152,38): error CS0103: 当前上下文中不存在名称“AutoCompleteBox”
+(169,14): error CS1061: “ConsoleShell”未包含“GetObservable”的定义，并且找不到可接受第一个“ConsoleShell”类型参数的可访问扩展方法“GetObservable”(是否缺少 using 指令或程序集引用?)
+(173,35): error CS0246: 未能找到类型或命名空间名“TextMateSharp”(是否缺少 using 指令或程序集引用?)
+(173,74): error CS0103: 当前上下文中不存在名称“ThemeName”
+(182,14): error CS1061: “ConsoleShell”未包含“GetObservable”的定义，并且找不到可接受第一个“ConsoleShell”类型参数的可访问扩展方法“GetObservable”(是否缺少 using 指令或程序集引用?)
+(211,18): error CS0103: 当前上下文中不存在名称“Avalonia”
+(218,18): error CS0103: 当前上下文中不存在名称“Avalonia”
+(225,18): error CS0103: 当前上下文中不存在名称“Avalonia”
+(235,18): error CS0103: 当前上下文中不存在名称“Avalonia”
+(247,13): error CS0019: 运算符“!=”无法应用于“EventHandler<CommandEventArgs>?”和“<null>”类型的操作数
+(254,13): error CS0149: 应输入方法名称
+(260,9): error CS0103: 当前上下文中不存在名称“AvaloniaXamlLoader”
+(11,1): hidden CS8019: 不需要的 using 指令。
+(7,1): hidden CS8019: 不需要的 using 指令。
+(6,1): hidden CS8019: 不需要的 using 指令。
+(9,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(10,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(5,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。
+(8,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

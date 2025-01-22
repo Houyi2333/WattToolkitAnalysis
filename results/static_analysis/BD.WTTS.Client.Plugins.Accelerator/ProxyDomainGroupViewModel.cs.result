@@ -1,0 +1,14 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“FluentAvalonia”(是否缺少 using 指令或程序集引用?)
+(2,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Reactive”(是否缺少程序集引用?)
+(6,42): error CS0246: 未能找到类型或命名空间名“ReactiveObject”(是否缺少 using 指令或程序集引用?)
+(8,22): error CS0246: 未能找到类型或命名空间名“INetworkTestService”(是否缺少 using 指令或程序集引用?)
+(14,12): error CS0246: 未能找到类型或命名空间名“ReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(14,31): error CS0246: 未能找到类型或命名空间名“ProxyDomainViewModel”(是否缺少 using 指令或程序集引用?)
+(16,12): error CS0246: 未能找到类型或命名空间名“ReactiveCommand<,>”(是否缺少 using 指令或程序集引用?)
+(16,28): error CS0246: 未能找到类型或命名空间名“Unit”(是否缺少 using 指令或程序集引用?)
+(16,34): error CS0246: 未能找到类型或命名空间名“Unit”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(8,63): error CS0103: 当前上下文中不存在名称“INetworkTestService”
+(20,30): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

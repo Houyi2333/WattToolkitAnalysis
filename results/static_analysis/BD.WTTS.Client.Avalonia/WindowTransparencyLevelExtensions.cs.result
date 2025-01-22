@@ -1,0 +1,17 @@
+(8,14): error CS0246: 未能找到类型或命名空间名“WindowBackgroundMaterial”(是否缺少 using 指令或程序集引用?)
+(7,19): error CS0246: 未能找到类型或命名空间名“WindowTransparencyLevel”(是否缺少 using 指令或程序集引用?)
+(6,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(6,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(6,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,13): error CS0103: 当前上下文中不存在名称“WindowBackgroundMaterial”
+(12,46): error CS0103: 当前上下文中不存在名称“WindowTransparencyLevel”
+(13,13): error CS0103: 当前上下文中不存在名称“WindowBackgroundMaterial”
+(13,46): error CS0103: 当前上下文中不存在名称“WindowTransparencyLevel”
+(14,13): error CS0103: 当前上下文中不存在名称“WindowBackgroundMaterial”
+(14,53): error CS0103: 当前上下文中不存在名称“WindowTransparencyLevel”
+(15,13): error CS0103: 当前上下文中不存在名称“WindowBackgroundMaterial”
+(15,46): error CS0103: 当前上下文中不存在名称“WindowTransparencyLevel”
+(16,13): error CS0103: 当前上下文中不存在名称“WindowBackgroundMaterial”
+(16,53): error CS0103: 当前上下文中不存在名称“WindowTransparencyLevel”
+(17,18): error CS0103: 当前上下文中不存在名称“WindowTransparencyLevel”

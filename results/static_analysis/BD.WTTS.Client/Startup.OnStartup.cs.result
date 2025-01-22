@@ -1,0 +1,39 @@
+(86,24): error CS0246: 未能找到类型或命名空间名“ActiveUserRecordDTO”(是否缺少 using 指令或程序集引用?)
+(86,44): error CS0513: “Startup.GetActiveUserRecord()”是抽象的，但它包含在非抽象类型“Startup”中
+(88,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(88,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(88,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(89,38): error CS0246: 未能找到类型或命名空间名“ActiveUserAnonymousStatisticType”(是否缺少 using 指令或程序集引用?)
+(89,11): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(6,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(6,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(6,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(12,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(12,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(12,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,9): error CS0103: 当前上下文中不存在名称“VisualStudioAppCenterSDK”
+(15,13): error CS0103: 当前上下文中不存在名称“Ioc”
+(15,30): error CS0246: 未能找到类型或命名空间名“IToastIntercept”(是否缺少 using 指令或程序集引用?)
+(15,52): error CS0246: 未能找到类型或命名空间名“StartupToastIntercept”(是否缺少 using 指令或程序集引用?)
+(20,9): error CS0103: 当前上下文中不存在名称“Toast”
+(20,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(20,36): error CS0103: 当前上下文中不存在名称“Strings”
+(25,17): error CS0103: 当前上下文中不存在名称“IApplication”
+(27,9): error CS0103: 当前上下文中不存在名称“UISettings”
+(28,9): error CS0103: 当前上下文中不存在名称“UISettings”
+(28,39): error CS0103: 当前上下文中不存在名称“ResourceService”
+(30,9): error CS0103: 当前上下文中不存在名称“GeneralSettings”
+(35,9): error CS0103: 当前上下文中不存在名称“GeneralSettings”
+(52,9): error CS0103: 当前上下文中不存在名称“StartupToastIntercept”
+(62,13): error CS0103: 当前上下文中不存在名称“IsMainProcess”
+(64,13): error CS0103: 当前上下文中不存在名称“Task2”
+(68,17): error CS0103: 当前上下文中不存在名称“GeneralSettings”
+(70,17): error CS0103: 当前上下文中不存在名称“Task2”
+(91,14): error CS0103: 当前上下文中不存在名称“IsMainProcess”
+(92,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(96,31): error CS0103: 当前上下文中不存在名称“UserService”
+(98,23): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(114,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(116,13): error CS0103: 当前上下文中不存在名称“GlobalExceptionHandler”
+(89,16): error CS0161: “Startup.ActiveUserRecordAsync(ActiveUserAnonymousStatisticType)”: 并非所有的代码路径都返回值

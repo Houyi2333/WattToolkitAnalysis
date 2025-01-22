@@ -1,0 +1,72 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Fusillade”(是否缺少 using 指令或程序集引用?)
+(6,48): error CS0246: 未能找到类型或命名空间名“CacheRepository<,>”(是否缺少 using 指令或程序集引用?)
+(6,64): error CS0246: 未能找到类型或命名空间名“RequestCache”(是否缺少 using 指令或程序集引用?)
+(6,87): error CS0246: 未能找到类型或命名空间名“IRequestCacheRepository”(是否缺少 using 指令或程序集引用?)
+(10,16): error CS0246: 未能找到类型或命名空间名“IRequestCache”(是否缺少 using 指令或程序集引用?)
+(118,24): error CS0246: 未能找到类型或命名空间名“IRequestCache”(是否缺少 using 指令或程序集引用?)
+(11,9): error CS0246: 未能找到类型或命名空间名“HttpRequestMessage”(是否缺少 using 指令或程序集引用?)
+(12,9): error CS0246: 未能找到类型或命名空间名“HttpResponseMessage”(是否缺少 using 指令或程序集引用?)
+(14,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(10,11): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(10,16): error CS0538: '显式接口声明中的“IRequestCache”不是接口
+(103,59): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(103,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(119,9): error CS0246: 未能找到类型或命名空间名“HttpRequestMessage”(是否缺少 using 指令或程序集引用?)
+(121,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(118,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(118,24): error CS0538: '显式接口声明中的“IRequestCache”不是接口
+(162,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(169,43): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(169,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(178,66): error CS0246: 未能找到类型或命名空间名“HttpRequestMessage”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(17,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(19,42): error CS0103: 当前上下文中不存在名称“ApiConstants”
+(20,42): error CS0103: 当前上下文中不存在名称“ApiConstants”
+(23,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(28,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(32,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(34,32): error CS0103: 当前上下文中不存在名称“IRequestCacheRepository”
+(35,30): error CS0103: 当前上下文中不存在名称“FileFormat”
+(36,23): error CS0103: 当前上下文中不存在名称“Hashs”
+(42,28): error CS0103: 当前上下文中不存在名称“Path”
+(43,27): error CS0103: 当前上下文中不存在名称“Path”
+(43,40): error CS0103: 当前上下文中不存在名称“IOPath”
+(44,9): error CS0103: 当前上下文中不存在名称“IOPath”
+(45,24): error CS0103: 当前上下文中不存在名称“Path”
+(49,32): error CS0246: 未能找到类型或命名空间名“FileInfo”(是否缺少 using 指令或程序集引用?)
+(66,23): error CS0103: 当前上下文中不存在名称“File”
+(70,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(78,25): error CS0103: 当前上下文中不存在名称“IOPath”
+(89,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(93,26): error CS0246: 未能找到类型或命名空间名“RequestCache”(是否缺少 using 指令或程序集引用?)
+(100,15): error CS0103: 当前上下文中不存在名称“InsertOrUpdateAsync”
+(10,30): error CS0161: “RequestCacheRepository.Save(HttpRequestMessage, HttpResponseMessage, string, CancellationToken)”: 并非所有的代码路径都返回值
+(105,34): error CS0103: 当前上下文中不存在名称“GetDbConnection”
+(106,15): error CS0103: 当前上下文中不存在名称“AttemptAndRetry”
+(103,23): error CS0161: “RequestCacheRepository.UpdateUsageTimeByIdAsync(string, CancellationToken)”: 并非所有的代码路径都返回值
+(123,32): error CS0103: 当前上下文中不存在名称“IRequestCacheRepository”
+(126,28): error CS0103: 当前上下文中不存在名称“FirstOrDefaultAsync”
+(133,13): error CS0103: 当前上下文中不存在名称“Task2”
+(146,32): error CS0103: 当前上下文中不存在名称“Path”
+(146,45): error CS0103: 当前上下文中不存在名称“IOPath”
+(147,21): error CS0103: 当前上下文中不存在名称“File”
+(149,39): error CS0103: 当前上下文中不存在名称“File”
+(159,20): error CS0103: 当前上下文中不存在名称“Array”
+(164,34): error CS0103: 当前上下文中不存在名称“GetDbConnection”
+(165,51): error CS0246: 未能找到类型或命名空间名“RequestCache”(是否缺少 using 指令或程序集引用?)
+(171,34): error CS0103: 当前上下文中不存在名称“GetDbConnection”
+(172,31): error CS0103: 当前上下文中不存在名称“SQLStrings”
+(172,55): error CS0103: 当前上下文中不存在名称“RequestCache”
+(173,26): error CS0103: 当前上下文中不存在名称“RequestCache”
+(182,27): error CS0246: 未能找到类型或命名空间名“MemoryStream”(是否缺少 using 指令或程序集引用?)
+(183,17): error CS0103: 当前上下文中不存在名称“Encoding”
+(185,17): error CS0103: 当前上下文中不存在名称“Encoding”
+(193,29): error CS0103: 当前上下文中不存在名称“Encoding”
+(187,27): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(187,37): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(206,21): error CS0103: 当前上下文中不存在名称“Encoding”
+(214,25): error CS0103: 当前上下文中不存在名称“Encoding”
+(215,21): error CS0103: 当前上下文中不存在名称“Encoding”
+(219,21): error CS0103: 当前上下文中不存在名称“SHA384”
+(1,1): hidden CS8019: 不需要的 using 指令。

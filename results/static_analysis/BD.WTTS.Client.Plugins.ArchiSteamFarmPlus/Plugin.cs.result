@@ -1,0 +1,43 @@
+(5,16): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“DecompressionMethods”(是否缺少程序集引用?)
+(6,16): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“CookieContainer”(是否缺少程序集引用?)
+(7,16): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“IWebProxy”(是否缺少程序集引用?)
+(1,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Properties”(是否缺少程序集引用?)
+(2,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)
+(15,30): error CS0246: 未能找到类型或命名空间名“PluginBase<>”(是否缺少 using 指令或程序集引用?)
+(15,50): error CS0246: 未能找到类型或命名空间名“IPlugin”(是否缺少 using 指令或程序集引用?)
+(19,21): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(25,37): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(29,34): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(31,21): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(31,33): error CS0246: 未能找到类型或命名空间名“MenuTabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(42,50): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(42,79): error CS0246: 未能找到类型或命名空间名“Startup”(是否缺少 using 指令或程序集引用?)
+(51,52): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(51,81): error CS0246: 未能找到类型或命名空间名“Startup”(是否缺少 using 指令或程序集引用?)
+(61,12): error CS0246: 未能找到类型或命名空间名“HttpMessageHandler”(是否缺少 using 指令或程序集引用?)
+(107,42): error CS0246: 未能找到类型或命名空间名“IMapperConfigurationExpression”(是否缺少 using 指令或程序集引用?)
+(112,21): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(112,34): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(112,41): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(117,27): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+(17,31): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(19,32): error CS0103: 当前上下文中不存在名称“Guid”
+(19,43): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(23,36): error CS0103: 当前上下文中不存在名称“BDStrings”
+(29,44): error CS0103: 当前上下文中不存在名称“Resources”
+(33,26): error CS0246: 未能找到类型或命名空间名“MenuTabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(33,60): error CS0103: 当前上下文中不存在名称“BDStrings”
+(35,31): error CS0246: 未能找到类型或命名空间名“MainFramePage”(是否缺少 using 指令或程序集引用?)
+(31,56): error CS1624: “IEnumerable<MenuTabItemViewModel>?”不是迭代器接口类型，因此“Plugin.GetMenuTabItems()”体不能是迭代器块
+(64,24): error CS0103: 当前上下文中不存在名称“GeneralHttpClientFactory”
+(114,39): error CS0246: 未能找到类型或命名空间名“ASFSettings_”(是否缺少 using 指令或程序集引用?)
+(114,22): error CS0308: 非泛型 方法“Plugin.GetConfiguration(bool)”不能与类型参数一起使用
+(112,104): error CS1624: “IEnumerable<(Action<IServiceCollection>? @delegate, bool isInvalid, string name)>?”不是迭代器接口类型，因此“Plugin.GetConfiguration(bool)”体不能是迭代器块
+(119,13): error CS0103: 当前上下文中不存在名称“ArchiSteamFarmServiceImpl”
+(123,31): error CS0103: 当前上下文中不存在名称“Process”
+(123,54): error CS0103: 当前上下文中不存在名称“ArchiSteamFarmServiceImpl”
+(127,20): error CS0246: 未能找到类型或命名空间名“ArgumentException”(是否缺少 using 指令或程序集引用?)
+(117,37): error CS0161: “Plugin.OnExit()”: 并非所有的代码路径都返回值
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

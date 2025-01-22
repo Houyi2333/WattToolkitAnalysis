@@ -1,0 +1,34 @@
+(44,39): error CS0227: 不安全代码只会在使用 /unsafe 编译的情况下出现
+(44,39): error CS8795: 分部方法“XunYouSDK.xunyou_testspeed_ex(int, int, int, delegate* unmanaged[Stdcall]<XunYouSpeedNotifyState, SpeedCallbackInfo*, int>)”必须具有实现部分，因为它具有可访问性修饰符。
+(17,9): error CS0246: 未能找到类型或命名空间名“TestSpeedCallback”(是否缺少 using 指令或程序集引用?)
+(14,19): error CS0246: 未能找到类型或命名空间名“XunYouTestSpeedCode”(是否缺少 using 指令或程序集引用?)
+(47,38): error CS0246: 未能找到类型或命名空间名“XunYouSpeedNotifyState”(是否缺少 using 指令或程序集引用?)
+(47,62): error CS0246: 未能找到类型或命名空间名“SpeedCallbackInfo”(是否缺少 using 指令或程序集引用?)
+(47,87): warning CS8500: 这会获取托管类型(“SpeedCallbackInfo”)的地址、获取其大小或声明指向它的指针
+(13,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(13,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(13,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(42,6): error CS0246: 未能找到类型或命名空间名“LibraryImportAttribute”(是否缺少 using 指令或程序集引用?)
+(42,6): error CS0246: 未能找到类型或命名空间名“LibraryImport”(是否缺少 using 指令或程序集引用?)
+(43,6): error CS0246: 未能找到类型或命名空间名“UnmanagedCallConvAttribute”(是否缺少 using 指令或程序集引用?)
+(43,6): error CS0246: 未能找到类型或命名空间名“UnmanagedCallConv”(是否缺少 using 指令或程序集引用?)
+(42,20): error CS0103: 当前上下文中不存在名称“libraryName”
+(43,44): error CS0246: 未能找到类型或命名空间名“CallConvStdcall”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(20,9): error CS0227: 不安全代码只会在使用 /unsafe 编译的情况下出现
+(25,29): error CS0103: 当前上下文中不存在名称“Marshal”
+(25,52): error CS0246: 未能找到类型或命名空间名“SpeedCallbackInfo”(是否缺少 using 指令或程序集引用?)
+(26,43): error CS0246: 未能找到类型或命名空间名“SpeedCallbackWrapper”(是否缺少 using 指令或程序集引用?)
+(30,29): error CS0246: 未能找到类型或命名空间名“XunYouTestSpeedCode”(是否缺少 using 指令或程序集引用?)
+(23,43): error CS0246: 未能找到类型或命名空间名“XunYouSpeedNotifyState”(是否缺少 using 指令或程序集引用?)
+(23,73): error CS0246: 未能找到类型或命名空间名“SpeedCallbackInfo”(是否缺少 using 指令或程序集引用?)
+(23,73): warning CS8500: 这会获取托管类型(“SpeedCallbackInfo”)的地址、获取其大小或声明指向它的指针
+(22,14): error CS0246: 未能找到类型或命名空间名“UnmanagedCallConvAttribute”(是否缺少 using 指令或程序集引用?)
+(22,14): error CS0246: 未能找到类型或命名空间名“UnmanagedCallConv”(是否缺少 using 指令或程序集引用?)
+(22,52): error CS0246: 未能找到类型或命名空间名“CallConvStdcall”(是否缺少 using 指令或程序集引用?)
+(35,114): error CS0103: 当前上下文中不存在名称“Marshal”
+(35,152): error CS0103: 当前上下文中不存在名称“testSpeedCallback”
+(35,65): error CS0246: 未能找到类型或命名空间名“XunYouSpeedNotifyState”(是否缺少 using 指令或程序集引用?)
+(35,89): error CS0246: 未能找到类型或命名空间名“SpeedCallbackInfo”(是否缺少 using 指令或程序集引用?)
+(35,89): warning CS8500: 这会获取托管类型(“SpeedCallbackInfo”)的地址、获取其大小或声明指向它的指针
+(39,17): error CS0246: 未能找到类型或命名空间名“XunYouTestSpeedCode”(是否缺少 using 指令或程序集引用?)

@@ -1,0 +1,41 @@
+(34,35): error CS0246: 未能找到类型或命名空间名“ConnectionDelegate”(是否缺少 using 指令或程序集引用?)
+(34,60): error CS0246: 未能找到类型或命名空间名“ConnectionContext”(是否缺少 using 指令或程序集引用?)
+(34,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(65,46): error CS0246: 未能找到类型或命名空间名“HostString”(是否缺少 using 指令或程序集引用?)
+(65,63): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(65,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(65,16): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(94,64): error CS0246: 未能找到类型或命名空间名“HostString”(是否缺少 using 指令或程序集引用?)
+(94,106): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(94,11): error CS0246: 未能找到类型或命名空间名“IAsyncEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(94,28): error CS0246: 未能找到类型或命名空间名“EndPoint”(是否缺少 using 指令或程序集引用?)
+(11,14): error CS0246: 未能找到类型或命名空间名“IReverseProxyConfig”(是否缺少 using 指令或程序集引用?)
+(12,14): error CS0246: 未能找到类型或命名空间名“IDomainResolver”(是否缺少 using 指令或程序集引用?)
+(13,14): error CS0246: 未能找到类型或命名空间名“TimeSpan”(是否缺少 using 指令或程序集引用?)
+(21,9): error CS0246: 未能找到类型或命名空间名“IReverseProxyConfig”(是否缺少 using 指令或程序集引用?)
+(22,9): error CS0246: 未能找到类型或命名空间名“IDomainResolver”(是否缺少 using 指令或程序集引用?)
+(94,82): error CS0246: 未能找到类型或命名空间名“EnumeratorCancellationAttribute”(是否缺少 using 指令或程序集引用?)
+(94,82): error CS0246: 未能找到类型或命名空间名“EnumeratorCancellation”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(13,40): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(36,49): error CS0246: 未能找到类型或命名空间名“IHttpProxyFeature”(是否缺少 using 指令或程序集引用?)
+(38,43): error CS0103: 当前上下文中不存在名称“ProxyProtocol”
+(39,34): error CS0246: 未能找到类型或命名空间名“ITlsConnectionFeature”(是否缺少 using 指令或程序集引用?)
+(45,50): error CS0246: 未能找到类型或命名空间名“IConnectionTransportFeature”(是否缺少 using 指令或程序集引用?)
+(53,23): error CS0103: 当前上下文中不存在名称“Task”
+(34,23): error CS0161: “TunnelMiddleware.InvokeAsync(ConnectionDelegate, ConnectionContext)”: 并非所有的代码路径都返回值
+(67,35): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(67,40): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(70,30): error CS0246: 未能找到类型或命名空间名“Socket”(是否缺少 using 指令或程序集引用?)
+(70,37): error CS0103: 当前上下文中不存在名称“SocketType”
+(70,56): error CS0103: 当前上下文中不存在名称“ProtocolType”
+(73,52): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(74,47): error CS0103: 当前上下文中不存在名称“CancellationTokenSource”
+(76,28): error CS0246: 未能找到类型或命名空间名“NetworkStream”(是否缺少 using 指令或程序集引用?)
+(78,20): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(85,19): error CS0246: 未能找到类型或命名空间名“AggregateException”(是否缺少 using 指令或程序集引用?)
+(100,13): error CS0103: 当前上下文中不存在名称“IPAddress”
+(102,30): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(106,30): error CS0246: 未能找到类型或命名空间名“DnsEndPoint”(是否缺少 using 指令或程序集引用?)
+(110,35): error CS0246: 未能找到类型或命名空间名“DnsEndPoint”(是否缺少 using 指令或程序集引用?)
+(113,34): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)

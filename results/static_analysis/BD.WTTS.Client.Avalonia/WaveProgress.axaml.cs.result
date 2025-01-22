@@ -1,0 +1,11 @@
+(3,44): error CS0246: 未能找到类型或命名空间名“UserControl”(是否缺少 using 指令或程序集引用?)
+(5,28): error CS0246: 未能找到类型或命名空间名“DirectProperty<,>”(是否缺少 using 指令或程序集引用?)
+(13,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(6,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(10,33): error CS0103: 当前上下文中不存在名称“BindingMode”
+(14,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(34,9): error CS0103: 当前上下文中不存在名称“AvaloniaXamlLoader”
+(47,13): error CS0103: 当前上下文中不存在名称“SetAndRaise”
+(55,20): error CS0103: 当前上下文中不存在名称“GetValue”
+(60,13): error CS0103: 当前上下文中不存在名称“SetValue”

@@ -1,0 +1,18 @@
+(8,36): error CS0246: 未能找到类型或命名空间名“IEntity<>”(是否缺少 using 指令或程序集引用?)
+(8,44): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(6,2): error CS0246: 未能找到类型或命名空间名“SQLiteTableAttribute”(是否缺少 using 指令或程序集引用?)
+(6,2): error CS0246: 未能找到类型或命名空间名“SQLiteTable”(是否缺少 using 指令或程序集引用?)
+(7,2): error CS0246: 未能找到类型或命名空间名“DebuggerDisplayAttribute”(是否缺少 using 指令或程序集引用?)
+(7,2): error CS0246: 未能找到类型或命名空间名“DebuggerDisplay”(是否缺少 using 指令或程序集引用?)
+(14,12): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(17,12): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(12,6): error CS0246: 未能找到类型或命名空间名“ColumnAttribute”(是否缺少 using 指令或程序集引用?)
+(12,6): error CS0246: 未能找到类型或命名空间名“Column”(是否缺少 using 指令或程序集引用?)
+(13,6): error CS0246: 未能找到类型或命名空间名“PrimaryKeyAttribute”(是否缺少 using 指令或程序集引用?)
+(13,6): error CS0246: 未能找到类型或命名空间名“PrimaryKey”(是否缺少 using 指令或程序集引用?)
+(16,6): error CS0246: 未能找到类型或命名空间名“ColumnAttribute”(是否缺少 using 指令或程序集引用?)
+(16,6): error CS0246: 未能找到类型或命名空间名“Column”(是否缺少 using 指令或程序集引用?)
+(19,6): error CS0246: 未能找到类型或命名空间名“ColumnAttribute”(是否缺少 using 指令或程序集引用?)
+(19,6): error CS0246: 未能找到类型或命名空间名“Column”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(17,58): error CS0103: 当前上下文中不存在名称“DateTimeOffset”

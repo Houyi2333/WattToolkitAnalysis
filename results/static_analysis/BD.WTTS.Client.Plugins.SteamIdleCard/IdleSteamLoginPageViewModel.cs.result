@@ -1,0 +1,83 @@
+(1,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(2,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“SteamKit2”(是否缺少 using 指令或程序集引用?)
+(7,59): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(9,14): error CS0246: 未能找到类型或命名空间名“ISteamAccountService”(是否缺少 using 指令或程序集引用?)
+(10,14): error CS0246: 未能找到类型或命名空间名“ISteamSessionService”(是否缺少 using 指令或程序集引用?)
+(12,12): error CS0246: 未能找到类型或命名空间名“SteamLoginState”(是否缺少 using 指令或程序集引用?)
+(14,44): error CS0246: 未能找到类型或命名空间名“SteamLoginState”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,45): error CS0103: 当前上下文中不存在名称“Ioc”
+(9,53): error CS0246: 未能找到类型或命名空间名“ISteamAccountService”(是否缺少 using 指令或程序集引用?)
+(10,50): error CS0103: 当前上下文中不存在名称“Ioc”
+(10,58): error CS0246: 未能找到类型或命名空间名“ISteamSessionService”(是否缺少 using 指令或程序集引用?)
+(17,14): error CS1061: “IdleSteamLoginPageViewModel”未包含“Login”的定义，并且找不到可接受第一个“IdleSteamLoginPageViewModel”类型参数的可访问扩展方法“Login”(是否缺少 using 指令或程序集引用?)
+(17,22): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(18,14): error CS1061: “IdleSteamLoginPageViewModel”未包含“CookieLogin”的定义，并且找不到可接受第一个“IdleSteamLoginPageViewModel”类型参数的可访问扩展方法“CookieLogin”(是否缺少 using 指令或程序集引用?)
+(18,28): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(25,18): error CS0103: 当前上下文中不存在名称“IsLoading”
+(27,17): error CS0103: 当前上下文中不存在名称“IsLoading”
+(29,37): error CS1061: “SteamLoginState”未包含“SteamId”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“SteamId”(是否缺少 using 指令或程序集引用?)
+(31,37): error CS1061: “SteamLoginState”未包含“Username”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“Username”(是否缺少 using 指令或程序集引用?)
+(31,48): error CS0103: 当前上下文中不存在名称“UserNameText”
+(32,37): error CS1061: “SteamLoginState”未包含“Password”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“Password”(是否缺少 using 指令或程序集引用?)
+(32,48): error CS0103: 当前上下文中不存在名称“PasswordText”
+(36,26): error CS1061: “IdleSteamLoginPageViewModel”未包含“TwofactorCode”的定义，并且找不到可接受第一个“IdleSteamLoginPageViewModel”类型参数的可访问扩展方法“TwofactorCode”(是否缺少 using 指令或程序集引用?)
+(38,41): error CS1061: “SteamLoginState”未包含“Requires2FA”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“Requires2FA”(是否缺少 using 指令或程序集引用?)
+(40,41): error CS1061: “SteamLoginState”未包含“TwofactorCode”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“TwofactorCode”(是否缺少 using 指令或程序集引用?)
+(40,62): error CS1061: “IdleSteamLoginPageViewModel”未包含“TwofactorCode”的定义，并且找不到可接受第一个“IdleSteamLoginPageViewModel”类型参数的可访问扩展方法“TwofactorCode”(是否缺少 using 指令或程序集引用?)
+(42,46): error CS1061: “SteamLoginState”未包含“RequiresEmailAuth”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“RequiresEmailAuth”(是否缺少 using 指令或程序集引用?)
+(44,41): error CS1061: “SteamLoginState”未包含“EmailCode”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“EmailCode”(是否缺少 using 指令或程序集引用?)
+(44,58): error CS1061: “IdleSteamLoginPageViewModel”未包含“TwofactorCode”的定义，并且找不到可接受第一个“IdleSteamLoginPageViewModel”类型参数的可访问扩展方法“TwofactorCode”(是否缺少 using 指令或程序集引用?)
+(50,17): error CS0103: 当前上下文中不存在名称“Requires2FA”
+(50,47): error CS1061: “SteamLoginState”未包含“Requires2FA”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“Requires2FA”(是否缺少 using 指令或程序集引用?)
+(51,17): error CS0103: 当前上下文中不存在名称“RequiresEmailAuth”
+(51,53): error CS1061: “SteamLoginState”未包含“RequiresEmailAuth”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“RequiresEmailAuth”(是否缺少 using 指令或程序集引用?)
+(53,37): error CS1061: “SteamLoginState”未包含“Success”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“Success”(是否缺少 using 指令或程序集引用?)
+(55,25): error CS0103: 当前上下文中不存在名称“RemenberLogin”
+(57,80): error CS1061: “SteamLoginState”未包含“SteamId”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“SteamId”(是否缺少 using 指令或程序集引用?)
+(62,21): error CS0103: 当前上下文中不存在名称“Toast”
+(62,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(62,51): error CS0103: 当前上下文中不存在名称“Strings”
+(62,75): error CS0103: 当前上下文中不存在名称“Strings”
+(63,21): error CS0103: 当前上下文中不存在名称“IsLoading”
+(64,21): error CS0103: 当前上下文中不存在名称“Close”
+(66,42): error CS1061: “SteamLoginState”未包含“Message”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“Message”(是否缺少 using 指令或程序集引用?)
+(68,21): error CS0103: 当前上下文中不存在名称“IsLoading”
+(69,21): error CS0103: 当前上下文中不存在名称“Toast”
+(69,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(69,67): error CS1061: “SteamLoginState”未包含“Message”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“Message”(是否缺少 using 指令或程序集引用?)
+(73,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(75,13): error CS0103: 当前上下文中不存在名称“IsLoading”
+(82,14): error CS0103: 当前上下文中不存在名称“IsLoading”
+(84,13): error CS0103: 当前上下文中不存在名称“IsLoading”
+(85,39): error CS0103: 当前上下文中不存在名称“SeesionId”
+(85,75): error CS0103: 当前上下文中不存在名称“SteamLoginSecure”
+(87,29): error CS0103: 当前上下文中不存在名称“SteamLoginSecure”
+(87,52): error CS0103: 当前上下文中不存在名称“SteamLoginSecure”
+(90,37): error CS1061: “SteamLoginState”未包含“SteamId”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“SteamId”(是否缺少 using 指令或程序集引用?)
+(91,37): error CS1061: “SteamLoginState”未包含“AccessToken”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“AccessToken”(是否缺少 using 指令或程序集引用?)
+(92,47): error CS0246: 未能找到类型或命名空间名“CookieContainer”(是否缺少 using 指令或程序集引用?)
+(93,45): error CS0246: 未能找到类型或命名空间名“Cookie”(是否缺少 using 指令或程序集引用?)
+(93,72): error CS0103: 当前上下文中不存在名称“SteamLoginSecure”
+(94,45): error CS0246: 未能找到类型或命名空间名“Cookie”(是否缺少 using 指令或程序集引用?)
+(94,65): error CS0103: 当前上下文中不存在名称“SeesionId”
+(95,45): error CS0246: 未能找到类型或命名空间名“Cookie”(是否缺少 using 指令或程序集引用?)
+(95,72): error CS0103: 当前上下文中不存在名称“SteamLoginSecure”
+(96,45): error CS0246: 未能找到类型或命名空间名“Cookie”(是否缺少 using 指令或程序集引用?)
+(96,65): error CS0103: 当前上下文中不存在名称“SeesionId”
+(97,21): error CS0246: 未能找到类型或命名空间名“SteamSession”(是否缺少 using 指令或程序集引用?)
+(97,48): error CS0246: 未能找到类型或命名空间名“SteamSession”(是否缺少 using 指令或程序集引用?)
+(100,55): error CS1061: “SteamLoginState”未包含“AccessToken”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“AccessToken”(是否缺少 using 指令或程序集引用?)
+(107,25): error CS0103: 当前上下文中不存在名称“RemenberLogin”
+(112,37): error CS1061: “SteamLoginState”未包含“Success”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“Success”(是否缺少 using 指令或程序集引用?)
+(113,21): error CS0103: 当前上下文中不存在名称“Toast”
+(113,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(113,51): error CS0103: 当前上下文中不存在名称“Strings”
+(113,75): error CS0103: 当前上下文中不存在名称“Strings”
+(114,21): error CS0103: 当前上下文中不存在名称“IsLoading”
+(115,21): error CS0103: 当前上下文中不存在名称“Close”
+(118,13): error CS0103: 当前上下文中不存在名称“IsLoading”
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

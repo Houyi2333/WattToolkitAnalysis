@@ -1,0 +1,9 @@
+(15,47): error CS0246: 未能找到类型或命名空间名“HttpRequestMessage”(是否缺少 using 指令或程序集引用?)
+(15,86): error CS0246: 未能找到类型或命名空间名“RequestContext”(是否缺少 using 指令或程序集引用?)
+(25,57): error CS0246: 未能找到类型或命名空间名“HttpRequestMessage”(是否缺少 using 指令或程序集引用?)
+(25,19): error CS0246: 未能找到类型或命名空间名“RequestContext”(是否缺少 using 指令或程序集引用?)
+(8,21): error CS0246: 未能找到类型或命名空间名“HttpRequestOptionsKey<>”(是否缺少 using 指令或程序集引用?)
+(8,43): error CS0246: 未能找到类型或命名空间名“RequestContext”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(8,76): error CS0103: 当前上下文中不存在名称“RequestContext”
+(29,25): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)

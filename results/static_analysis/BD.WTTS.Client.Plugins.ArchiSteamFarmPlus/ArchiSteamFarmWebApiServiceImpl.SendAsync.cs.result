@@ -1,0 +1,45 @@
+(4,7): error CS0246: 未能找到类型或命名空间名“GeneralHttpClientFactory”(是否缺少 using 指令或程序集引用?)
+(6,13): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(11,5): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(21,9): error CS0246: 未能找到类型或命名空间名“HttpMethod”(是否缺少 using 指令或程序集引用?)
+(22,21): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(24,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(25,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(19,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(19,16): error CS0246: 未能找到类型或命名空间名“IApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(19,37): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(6,35): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(9,59): error CS0103: 当前上下文中不存在名称“Uri”
+(9,81): error CS0103: 当前上下文中不存在名称“UriKind”
+(13,22): error CS0103: 当前上下文中不存在名称“CreateClient”
+(13,38): error CS0103: 当前上下文中不存在名称“TAG”
+(13,71): error CS0103: 当前上下文中不存在名称“HttpHandlerCategory”
+(32,13): error CS0103: 当前上下文中不存在名称“conn_helper”
+(39,33): error CS0246: 未能找到类型或命名空间名“HttpRequestMessage”(是否缺少 using 指令或程序集引用?)
+(47,38): error CS0103: 当前上下文中不存在名称“Serialize”
+(50,24): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(52,28): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(52,59): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(53,25): error CS0103: 当前上下文中不存在名称“ApiRspCode”
+(65,79): error CS0246: 未能找到类型或命名空间名“GenericResponse”(是否缺少 using 指令或程序集引用?)
+(65,105): error CS0246: 未能找到类型或命名空间名“GenericResponse<>”(是否缺少 using 指令或程序集引用?)
+(65,134): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(66,36): error CS0103: 当前上下文中不存在名称“DeserializeAsync”
+(68,31): error CS0246: 未能找到类型或命名空间名“GenericResponse”(是否缺少 using 指令或程序集引用?)
+(70,51): error CS0103: 当前上下文中不存在名称“ApiRspCode”
+(70,68): error CS0246: 未能找到类型或命名空间名“ApiRspCode”(是否缺少 using 指令或程序集引用?)
+(72,47): error CS0246: 未能找到类型或命名空间名“GenericResponse<>”(是否缺少 using 指令或程序集引用?)
+(72,76): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(73,28): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(73,59): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(80,28): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(80,59): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(80,62): error CS0103: 当前上下文中不存在名称“ApiRspCode”
+(83,20): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(85,24): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(85,55): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(86,21): error CS0103: 当前上下文中不存在名称“ApiRspCode”
+(36,15): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(36,20): error CS0246: 未能找到类型或命名空间名“IApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(36,41): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。

@@ -1,0 +1,4 @@
+(4,34): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(4,47): error CS0246: 未能找到类型或命名空间名“IAsyncDisposable”(是否缺少 using 指令或程序集引用?)
+(8,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

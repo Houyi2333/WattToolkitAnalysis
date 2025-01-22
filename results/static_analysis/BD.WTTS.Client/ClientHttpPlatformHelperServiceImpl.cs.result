@@ -1,0 +1,7 @@
+(1,26): error CS0234: 命名空间“BD”中不存在类型或命名空间名“Common”(是否缺少程序集引用?)
+(6,52): error CS0246: 未能找到类型或命名空间名“HttpPlatformHelperService”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(15,17): error CS0103: 当前上下文中不存在名称“CommonEssentials”
+(17,37): error CS0103: 当前上下文中不存在名称“Connectivity2”
+(26,46): error CS0103: 当前上下文中不存在名称“ResourceService”
+(28,41): error CS0103: 当前上下文中不存在名称“DefaultUserAgent”

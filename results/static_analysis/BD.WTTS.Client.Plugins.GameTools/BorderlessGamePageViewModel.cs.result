@@ -1,0 +1,8 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,18): error CS0234: 命名空间“BD.WTTS.UI”中不存在类型或命名空间名“Views”(是否缺少程序集引用?)
+(3,25): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“Mime”(是否缺少程序集引用?)
+(7,59): error CS0246: 未能找到类型或命名空间名“ViewModelBase”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(3,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

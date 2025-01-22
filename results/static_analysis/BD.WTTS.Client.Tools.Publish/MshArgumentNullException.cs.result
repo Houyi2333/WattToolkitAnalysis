@@ -1,0 +1,4 @@
+(105,30): warning CS0672: 成员“PSArgumentNullException.GetObjectData(SerializationInfo, StreamingContext)”将重写过时的成员“Exception.GetObjectData(SerializationInfo, StreamingContext)”。请向“PSArgumentNullException.GetObjectData(SerializationInfo, StreamingContext)”中添加 Obsolete 特性。
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(94,17): warning SYSLIB0051: “ArgumentNullException.ArgumentNullException(SerializationInfo, StreamingContext)”已过时:“This API supports obsolete formatter-based serialization. It should not be called or extended by application code.”
+(112,13): warning SYSLIB0051: “Exception.GetObjectData(SerializationInfo, StreamingContext)”已过时:“This API supports obsolete formatter-based serialization. It should not be called or extended by application code.”

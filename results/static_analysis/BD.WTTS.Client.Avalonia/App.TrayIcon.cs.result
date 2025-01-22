@@ -1,0 +1,43 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(3,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(4,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Converters”(是否缺少程序集引用?)
+(5,26): error CS0234: 命名空间“System.Collections”中不存在类型或命名空间名“Specialized”(是否缺少程序集引用?)
+(6,22): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Services”(是否缺少程序集引用?)
+(12,12): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(12,31): error CS0246: 未能找到类型或命名空间名“TrayMenuItem”(是否缺少 using 指令或程序集引用?)
+(14,12): error CS0246: 未能找到类型或命名空间名“TrayIcons”(是否缺少 using 指令或程序集引用?)
+(18,12): error CS0246: 未能找到类型或命名空间名“IReadOnlyDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(18,40): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(209,49): error CS0246: 未能找到类型或命名空间名“TrayMenuItem”(是否缺少 using 指令或程序集引用?)
+(16,14): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(16,33): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,70): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(12,89): error CS0246: 未能找到类型或命名空间名“TrayMenuItem”(是否缺少 using 指令或程序集引用?)
+(14,53): error CS0246: 未能找到类型或命名空间名“TrayIcons”(是否缺少 using 指令或程序集引用?)
+(22,13): error CS0103: 当前上下文中不存在名称“ApplicationLifetime”
+(23,13): error CS0246: 未能找到类型或命名空间名“IClassicDesktopStyleApplicationLifetime”(是否缺少 using 指令或程序集引用?)
+(26,17): error CS0103: 当前上下文中不存在名称“Startup”
+(29,29): error CS0103: 当前上下文中不存在名称“GeneralSettings”
+(32,17): error CS0103: 当前上下文中不存在名称“TrayIcon”
+(33,35): error CS0246: 未能找到类型或命名空间名“TrayIcon”(是否缺少 using 指令或程序集引用?)
+(35,32): error CS0246: 未能找到类型或命名空间名“WindowIcon”(是否缺少 using 指令或程序集引用?)
+(35,43): error CS0103: 当前上下文中不存在名称“AssetLoader”
+(35,64): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(36,35): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(37,31): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(37,54): error CS0103: 当前上下文中不存在名称“RestoreMainWindow”
+(39,32): error CS0246: 未能找到类型或命名空间名“NativeMenu”(是否缺少 using 指令或程序集引用?)
+(33,27): error CS1061: “TrayIcons”未包含“Add”的定义，并且找不到可接受第一个“TrayIcons”类型参数的可访问扩展方法“Add”(是否缺少 using 指令或程序集引用?)
+(54,27): error CS1061: “TrayIcons”未包含“Clear”的定义，并且找不到可接受第一个“TrayIcons”类型参数的可访问扩展方法“Clear”(是否缺少 using 指令或程序集引用?)
+(55,17): error CS0103: 当前上下文中不存在名称“TrayIcon”
+(64,33): error CS0103: 当前上下文中不存在名称“ShutdownMode”
+(64,67): error CS0103: 当前上下文中不存在名称“ShutdownMode”
+(112,9): error CS0103: 当前上下文中不存在名称“MainThread2”
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。
+(5,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(6,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。

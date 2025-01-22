@@ -1,0 +1,98 @@
+(2,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(3,36): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(1,7): error CS0246: 未能找到类型或命名空间名“Fleck”(是否缺少 using 指令或程序集引用?)
+(22,19): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(29,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(60,54): error CS0246: 未能找到类型或命名空间名“IWebSocketConnection”(是否缺少 using 指令或程序集引用?)
+(60,25): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(149,9): error CS0246: 未能找到类型或命名空间名“LoginOrRegisterResponse”(是否缺少 using 指令或程序集引用?)
+(150,9): error CS0246: 未能找到类型或命名空间名“Action”(是否缺少 using 指令或程序集引用?)
+(148,25): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(163,29): error CS0246: 未能找到类型或命名空间名“IApplication”(是否缺少 using 指令或程序集引用?)
+(220,41): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(220,61): error CS0246: 未能找到类型或命名空间名“ExternalLoginChannel”(是否缺少 using 指令或程序集引用?)
+(220,25): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(161,12): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(199,12): error CS0246: 未能找到类型或命名空间名“Aes”(是否缺少 using 指令或程序集引用?)
+(201,12): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(206,12): error CS0246: 未能找到类型或命名空间名“WebSocketServer”(是否缺少 using 指令或程序集引用?)
+(299,28): error CS0246: 未能找到类型或命名空间名“ExternalLoginChannel”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(23,11): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(301,13): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(302,13): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(303,13): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(304,13): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(31,15): error CS0103: 当前上下文中不存在名称“MainThread2”
+(29,23): error CS0161: “ThirdPartyLoginHelper.ManualLoginAsync()”: 并非所有的代码路径都返回值
+(62,13): error CS0019: 运算符“==”无法应用于“Aes?”和“<null>”类型的操作数
+(62,30): error CS0126: 需要一个类型可转换为“Task”的对象
+(63,45): error CS0126: 需要一个类型可转换为“Task”的对象
+(64,27): error CS0103: 当前上下文中不存在名称“Ioc”
+(64,35): error CS0246: 未能找到类型或命名空间名“IApiConnectionPlatformHelper”(是否缺少 using 指令或程序集引用?)
+(67,33): error CS1061: “string”未包含“Base64UrlDecodeToByteArray”的定义，并且找不到可接受第一个“string”类型参数的可访问扩展方法“Base64UrlDecodeToByteArray”(是否缺少 using 指令或程序集引用?)
+(70,37): error CS1061: “Aes?”未包含“Decrypt”的定义，并且找不到可接受第一个“Aes?”类型参数的可访问扩展方法“Decrypt”(是否缺少 using 指令或程序集引用?)
+(74,17): error CS0103: 当前上下文中不存在名称“Toast”
+(74,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(75,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(77,23): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(77,48): error CS0246: 未能找到类型或命名空间名“LoginOrRegisterResponse”(是否缺少 using 指令或程序集引用?)
+(81,30): error CS0103: 当前上下文中不存在名称“ApiRspExtensions”
+(81,58): error CS0103: 当前上下文中不存在名称“ApiRspCode”
+(82,21): error CS0019: 运算符“!=”无法应用于“IWebSocketConnection?”和“<null>”类型的操作数
+(83,34): error CS1061: “IWebSocketConnection?”未包含“Send”的定义，并且找不到可接受第一个“IWebSocketConnection?”类型参数的可访问扩展方法“Send”(是否缺少 using 指令或程序集引用?)
+(85,21): error CS0103: 当前上下文中不存在名称“Toast”
+(85,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(86,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(89,17): error CS0019: 运算符“!=”无法应用于“IWebSocketConnection?”和“<null>”类型的操作数
+(90,30): error CS1061: “IWebSocketConnection?”未包含“Send”的定义，并且找不到可接受第一个“IWebSocketConnection?”类型参数的可访问扩展方法“Send”(是否缺少 using 指令或程序集引用?)
+(92,17): error CS0103: 当前上下文中不存在名称“Toast”
+(92,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(98,41): error CS0126: 需要一个类型可转换为“Task”的对象
+(99,27): error CS0103: 当前上下文中不存在名称“MainThread2”
+(122,27): error CS0103: 当前上下文中不存在名称“MainThread2”
+(130,23): error CS0103: 当前上下文中不存在名称“MainThread2”
+(137,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(139,23): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(140,19): error CS0103: 当前上下文中不存在名称“MainThread2”
+(60,30): error CS0161: “ThirdPartyLoginHelper.LoginForStr(string, IWebSocketConnection?)”: 并非所有的代码路径都返回值
+(152,15): error CS0103: 当前上下文中不存在名称“UserService”
+(157,9): error CS0103: 当前上下文中不存在名称“Toast”
+(157,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(158,9): error CS0103: 当前上下文中不存在名称“UserService”
+(148,30): error CS0161: “ThirdPartyLoginHelper.LoginOrRegisterSuccessAsync(LoginOrRegisterResponse, Action?)”: 并非所有的代码路径都返回值
+(165,13): error CS0019: 运算符“!=”无法应用于“WebSocketServer?”和“<null>”类型的操作数
+(166,18): error CS0103: 当前上下文中不存在名称“IPAddress”
+(167,16): error CS0103: 当前上下文中不存在名称“SocketHelper”
+(171,28): error CS0103: 当前上下文中不存在名称“Disposable”
+(179,20): error CS0246: 未能找到类型或命名空间名“IDisposableHolder”(是否缺少 using 指令或程序集引用?)
+(181,30): error CS1061: “IDisposable?”未包含“AddTo”的定义，并且找不到可接受第一个“IDisposable?”类型参数的可访问扩展方法“AddTo”(是否缺少 using 指令或程序集引用?)
+(184,12): error CS1061: “WebSocketServer?”未包含“Start”的定义，并且找不到可接受第一个“WebSocketServer?”类型参数的可访问扩展方法“Start”(是否缺少 using 指令或程序集引用?)
+(222,19): error CS0103: 当前上下文中不存在名称“IApplication”
+(223,14): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(223,47): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(223,76): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(228,27): error CS0103: 当前上下文中不存在名称“Ioc”
+(228,35): error CS0246: 未能找到类型或命名空间名“IApiConnectionPlatformHelper”(是否缺少 using 指令或程序集引用?)
+(229,26): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(236,9): error CS0103: 当前上下文中不存在名称“Disposable”
+(243,21): error CS0103: 当前上下文中不存在名称“AESUtils”
+(244,34): error CS1061: “Aes?”未包含“ToParamsByteArray”的定义，并且找不到可接受第一个“Aes?”类型参数的可访问扩展方法“ToParamsByteArray”(是否缺少 using 指令或程序集引用?)
+(246,19): error CS0103: 当前上下文中不存在名称“Ioc”
+(246,27): error CS0246: 未能找到类型或命名空间名“IMicroServiceClient”(是否缺少 using 指令或程序集引用?)
+(247,23): error CS0103: 当前上下文中不存在名称“RSAUtils”
+(257,40): error CS1061: “Aes?”未包含“EncryptHex”的定义，并且找不到可接受第一个“Aes?”类型参数的可访问扩展方法“EncryptHex”(是否缺少 using 指令或程序集引用?)
+(258,27): error CS0103: 当前上下文中不存在名称“DateTime”
+(259,72): error CS0103: 当前上下文中不存在名称“DateTimeFormat”
+(259,48): error CS1061: “Aes?”未包含“EncryptHex”的定义，并且找不到可接受第一个“Aes?”类型参数的可访问扩展方法“EncryptHex”(是否缺少 using 指令或程序集引用?)
+(264,19): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(265,18): error CS0103: 当前上下文中不存在名称“HttpUtility”
+(273,22): error CS0103: 当前上下文中不存在名称“DeviceIdHelper”
+(274,22): error CS0103: 当前上下文中不存在名称“DeviceIdHelper”
+(275,22): error CS0103: 当前上下文中不存在名称“DeviceIdHelper”
+(276,13): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(280,22): error CS0246: 未能找到类型或命名空间名“UriBuilder”(是否缺少 using 指令或程序集引用?)
+(286,15): error CS0103: 当前上下文中不存在名称“Browser2”
+(286,42): error CS0103: 当前上下文中不存在名称“BrowserLaunchMode”
+(220,30): error CS0161: “ThirdPartyLoginHelper.StartAsync(WindowViewModel, ExternalLoginChannel, bool)”: 并非所有的代码路径都返回值
+(1,1): hidden CS8019: 不需要的 using 指令。

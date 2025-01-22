@@ -1,0 +1,30 @@
+(7,44): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(27,43): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(27,58): error CS0246: 未能找到类型或命名空间名“ResizeMode”(是否缺少 using 指令或程序集引用?)
+(47,48): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(77,42): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(6,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(6,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(6,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(26,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(26,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(26,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(46,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(46,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(46,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(76,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(76,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(76,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,13): error CS0019: 运算符“==”无法应用于“Window?”和“<null>”类型的操作数
+(11,13): error CS0103: 当前上下文中不存在名称“App”
+(11,49): error CS0246: 未能找到类型或命名空间名“IClassicDesktopStyleApplicationLifetime”(是否缺少 using 指令或程序集引用?)
+(29,17): error CS0103: 当前上下文中不存在名称“Ioc”
+(29,25): error CS0246: 未能找到类型或命名空间名“IPlatformService”(是否缺少 using 指令或程序集引用?)
+(32,18): error CS0103: 当前上下文中不存在名称“ResizeMode”
+(33,18): error CS0103: 当前上下文中不存在名称“ResizeMode”
+(36,18): error CS0103: 当前上下文中不存在名称“ResizeMode”
+(38,18): error CS0103: 当前上下文中不存在名称“ResizeMode”
+(49,9): error CS0103: 当前上下文中不存在名称“ArgumentNullException”
+(79,35): error CS0103: 当前上下文中不存在名称“WindowState”
+(79,76): error CS0103: 当前上下文中不存在名称“WindowState”

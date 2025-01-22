@@ -1,0 +1,52 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(5,7): error CS0246: 未能找到类型或命名空间名“FluentAvalonia”(是否缺少 using 指令或程序集引用?)
+(12,41): error CS0246: 未能找到类型或命名空间名“PageBase<>”(是否缺少 using 指令或程序集引用?)
+(12,50): error CS0246: 未能找到类型或命名空间名“AcceleratorPageViewModel”(是否缺少 using 指令或程序集引用?)
+(14,14): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(16,5): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(83,49): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(83,59): error CS0246: 未能找到类型或命名空间名“SelectionChangedEventArgs”(是否缺少 using 指令或程序集引用?)
+(92,38): error CS0246: 未能找到类型或命名空间名“RoutedEventArgs”(是否缺少 using 指令或程序集引用?)
+(99,53): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(99,63): error CS0246: 未能找到类型或命名空间名“EventArgs”(是否缺少 using 指令或程序集引用?)
+(121,37): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(121,51): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(24,20): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(26,9): error CS0103: 当前上下文中不存在名称“InitializeComponent”
+(27,27): error CS0246: 未能找到类型或命名空间名“AcceleratorPageViewModel”(是否缺少 using 指令或程序集引用?)
+(27,14): error CS1061: “AcceleratorPage2”未包含“SetViewModel”的定义，并且找不到可接受第一个“AcceleratorPage2”类型参数的可访问扩展方法“SetViewModel”(是否缺少 using 指令或程序集引用?)
+(29,29): error CS0103: 当前上下文中不存在名称“AcceleratorTabs”
+(31,24): error CS0103: 当前上下文中不存在名称“AcceleratorTabs”
+(32,25): error CS0246: 未能找到类型或命名空间名“Visual”(是否缺少 using 指令或程序集引用?)
+(37,25): error CS0103: 当前上下文中不存在名称“AcceleratorTabs”
+(38,44): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(43,17): error CS0103: 当前上下文中不存在名称“AcceleratorTabs”
+(47,9): error CS0103: 当前上下文中不存在名称“AcceleratorTabs”
+(50,9): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(51,14): error CS1061: “AcceleratorPage2”未包含“WhenActivated”的定义，并且找不到可接受第一个“AcceleratorPage2”类型参数的可访问扩展方法“WhenActivated”(是否缺少 using 指令或程序集引用?)
+(78,9): error CS0103: 当前上下文中不存在名称“SearchGameBox”
+(79,9): error CS0103: 当前上下文中不存在名称“SearchGameBox”
+(80,9): error CS0103: 当前上下文中不存在名称“SearchGameBox”
+(85,21): error CS0103: 当前上下文中不存在名称“AcceleratorTabs”
+(88,13): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(95,13): error CS0103: 当前上下文中不存在名称“AcceleratorTabs”
+(95,57): error CS0103: 当前上下文中不存在名称“ProxyService”
+(96,13): error CS0103: 当前上下文中不存在名称“AcceleratorTabs”
+(101,13): error CS0103: 当前上下文中不存在名称“SearchGameBox”
+(101,43): error CS0246: 未能找到类型或命名空间名“XunYouGame”(是否缺少 using 指令或程序集引用?)
+(103,13): error CS0103: 当前上下文中不存在名称“GameAcceleratorService”
+(104,13): error CS0103: 当前上下文中不存在名称“SearchGameBox”
+(105,13): error CS0103: 当前上下文中不存在名称“SearchGameBox”
+(106,13): error CS0103: 当前上下文中不存在名称“GameScrollViewer”
+(127,30): error CS0103: 当前上下文中不存在名称“StringComparison”
+(131,27): error CS0103: 当前上下文中不存在名称“Pinyin”
+(132,13): error CS0103: 当前上下文中不存在名称“Pinyin”
+(3,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。
+(5,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

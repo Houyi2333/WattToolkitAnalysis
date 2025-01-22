@@ -1,0 +1,50 @@
+(1,22): error CS0234: 命名空间“BD.WTTS.Markup”中不存在类型或命名空间名“Abstractions”(是否缺少程序集引用?)
+(5,43): error CS0246: 未能找到类型或命名空间名“MarkupExtension<>”(是否缺少 using 指令或程序集引用?)
+(12,46): error CS0246: 未能找到类型或命名空间名“IServiceProvider”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(7,49): error CS1729: “MarkupExtension<bool>”不包含采用 1 个参数的构造函数
+(13,9): error CS0103: 当前上下文中不存在名称“member”
+(15,26): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(17,35): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(18,35): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(19,24): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(20,22): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(21,25): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(21,52): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(21,75): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(22,25): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(22,52): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(22,75): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(23,26): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(24,23): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(25,24): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(26,31): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(26,61): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(27,26): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(28,33): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(28,64): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(28,87): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(29,31): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(29,62): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(29,85): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(30,32): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(30,63): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(30,86): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(31,31): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(31,62): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(31,85): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(32,28): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(32,59): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(32,82): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(33,22): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(34,23): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(35,43): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(36,32): error CS0103: 当前上下文中不存在名称“DesktopBridge”
+(37,27): error CS0103: 当前上下文中不存在名称“Startup”
+(38,36): error CS0103: 当前上下文中不存在名称“Startup”
+(38,67): error CS0103: 当前上下文中不存在名称“DesktopBridge”
+(39,26): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(40,21): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(41,21): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(42,23): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(1,1): hidden CS8019: 不需要的 using 指令。

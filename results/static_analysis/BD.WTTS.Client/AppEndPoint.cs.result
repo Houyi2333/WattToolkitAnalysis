@@ -1,0 +1,7 @@
+(22,6): error CS0246: 未能找到类型或命名空间名“ObsoleteAttribute”(是否缺少 using 指令或程序集引用?)
+(22,6): error CS0246: 未能找到类型或命名空间名“Obsolete”(是否缺少 using 指令或程序集引用?)
+(25,6): error CS0246: 未能找到类型或命名空间名“ObsoleteAttribute”(是否缺少 using 指令或程序集引用?)
+(25,6): error CS0246: 未能找到类型或命名空间名“Obsolete”(是否缺少 using 指令或程序集引用?)
+(27,6): error CS0246: 未能找到类型或命名空间名“ObsoleteAttribute”(是否缺少 using 指令或程序集引用?)
+(27,6): error CS0246: 未能找到类型或命名空间名“Obsolete”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

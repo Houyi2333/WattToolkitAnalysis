@@ -1,0 +1,55 @@
+(3,45): error CS0246: 未能找到类型或命名空间名“IPlatformSwitcher”(是否缺少 using 指令或程序集引用?)
+(5,14): error CS0246: 未能找到类型或命名空间名“ISteamService”(是否缺少 using 指令或程序集引用?)
+(6,14): error CS0246: 未能找到类型或命名空间名“ISteamworksWebApiService”(是否缺少 using 指令或程序集引用?)
+(8,34): error CS0246: 未能找到类型或命名空间名“ISteamService”(是否缺少 using 指令或程序集引用?)
+(8,62): error CS0246: 未能找到类型或命名空间名“ISteamworksWebApiService”(是否缺少 using 指令或程序集引用?)
+(14,48): error CS0246: 未能找到类型或命名空间名“IAccount”(是否缺少 using 指令或程序集引用?)
+(14,67): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(14,18): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(65,56): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(65,18): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(71,54): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(71,18): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(77,36): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(83,41): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(83,18): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+(89,56): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(89,12): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(91,39): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(101,56): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(101,82): error CS0246: 未能找到类型或命名空间名“Action”(是否缺少 using 指令或程序集引用?)
+(101,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(101,23): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(101,35): error CS0246: 未能找到类型或命名空间名“IAccount”(是否缺少 using 指令或程序集引用?)
+(144,33): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(149,47): error CS0246: 未能找到类型或命名空间名“IAccount”(是否缺少 using 指令或程序集引用?)
+(149,65): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(149,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(17,45): error CS0246: 未能找到类型或命名空间名“SteamAccount”(是否缺少 using 指令或程序集引用?)
+(20,28): error CS0246: 未能找到类型或命名空间名“SteamAccount”(是否缺少 using 指令或程序集引用?)
+(32,58): error CS0103: 当前上下文中不存在名称“PersonaState”
+(33,29): error CS0103: 当前上下文中不存在名称“ISteamService”
+(40,36): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(59,13): error CS0103: 当前上下文中不存在名称“Toast”
+(59,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(59,41): error CS0103: 当前上下文中不存在名称“Strings”
+(83,28): error CS0161: “SteamPlatformSwitcher.NewUserLogin(PlatformAccount)”: 并非所有的代码路径都返回值
+(89,85): error CS0103: 当前上下文中不存在名称“ValueTask”
+(103,9): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(104,9): error CS0103: 当前上下文中不存在名称“Task2”
+(110,21): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(134,9): error CS0103: 当前上下文中不存在名称“IApplication”
+(134,47): error CS0103: 当前上下文中不存在名称“Plugin”
+(134,86): error CS0246: 未能找到类型或命名空间名“TrayMenuItem”(是否缺少 using 指令或程序集引用?)
+(136,20): error CS0103: 当前上下文中不存在名称“Plugin”
+(140,15): error CS0103: 当前上下文中不存在名称“Task”
+(151,24): error CS0246: 未能找到类型或命名空间名“SteamAccount”(是否缺少 using 指令或程序集引用?)
+(153,32): error CS0103: 当前上下文中不存在名称“MessageBox”
+(153,53): error CS0103: 当前上下文中不存在名称“Strings”
+(153,95): error CS0103: 当前上下文中不存在名称“MessageBox”
+(154,27): error CS0103: 当前上下文中不存在名称“MessageBox”
+(156,32): error CS0103: 当前上下文中不存在名称“MessageBox”
+(156,53): error CS0103: 当前上下文中不存在名称“Strings”
+(156,99): error CS0103: 当前上下文中不存在名称“MessageBox”
+(157,31): error CS0103: 当前上下文中不存在名称“MessageBox”

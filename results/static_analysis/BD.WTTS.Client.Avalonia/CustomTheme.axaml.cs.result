@@ -1,0 +1,30 @@
+(6,28): error CS0246: 未能找到类型或命名空间名“Styles”(是否缺少 using 指令或程序集引用?)
+(6,36): error CS0246: 未能找到类型或命名空间名“IResourceProvider”(是否缺少 using 指令或程序集引用?)
+(95,10): error CS0246: 未能找到类型或命名空间名“IResourceNode”(是否缺少 using 指令或程序集引用?)
+(95,10): error CS0538: '显式接口声明中的“IResourceNode”不是接口
+(30,24): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(36,24): error CS0246: 未能找到类型或命名空间名“IServiceProvider”(是否缺少 using 指令或程序集引用?)
+(12,28): error CS0246: 未能找到类型或命名空间名“ThemeVariant”(是否缺少 using 指令或程序集引用?)
+(15,22): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(18,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(72,13): error CS0246: 未能找到类型或命名空间名“ThemeVariant”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,65): error CS0246: 未能找到类型或命名空间名“ThemeVariant”(是否缺少 using 指令或程序集引用?)
+(13,9): error CS0103: 当前上下文中不存在名称“ThemeVariant”
+(19,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(26,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(27,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(38,69): error CS0246: 未能找到类型或命名空间名“IUriContext”(是否缺少 using 指令或程序集引用?)
+(38,22): error CS0246: 未能找到类型或命名空间名“IUriContext”(是否缺少 using 指令或程序集引用?)
+(44,9): error CS0103: 当前上下文中不存在名称“AvaloniaXamlLoader”
+(56,9): error CS0246: 未能找到类型或命名空间名“ThemeVariant”(是否缺少 using 指令或程序集引用?)
+(66,13): error CS0019: 运算符“!=”无法应用于“ThemeVariant?”和“<null>”类型的操作数
+(66,30): error CS0103: 当前上下文中不存在名称“Application”
+(68,13): error CS0103: 当前上下文中不存在名称“Application”
+(76,32): error CS0103: 当前上下文中不存在名称“ThemeVariant”
+(77,31): error CS0103: 当前上下文中不存在名称“ThemeVariant”
+(79,18): error CS0103: 当前上下文中不存在名称“ThemeVariant”
+(85,13): error CS0103: 当前上下文中不存在名称“Resources”
+(87,13): error CS0103: 当前上下文中不存在名称“Resources”
+(91,13): error CS0103: 当前上下文中不存在名称“Resources”
+(16,18): warning CS0414: 字段“CustomTheme._hasLoaded”已被赋值，但从未使用过它的值

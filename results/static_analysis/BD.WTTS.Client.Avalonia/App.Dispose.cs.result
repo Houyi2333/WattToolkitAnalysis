@@ -1,0 +1,10 @@
+(3,21): error CS0246: 未能找到类型或命名空间名“IDisposableHolder”(是否缺少 using 指令或程序集引用?)
+(3,40): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(9,30): error CS0246: 未能找到类型或命名空间名“IDisposableHolder”(是否缺少 using 指令或程序集引用?)
+(9,5): error CS0246: 未能找到类型或命名空间名“ICollection<>”(是否缺少 using 指令或程序集引用?)
+(9,17): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(9,30): error CS0538: '显式接口声明中的“IDisposableHolder”不是接口
+(7,12): error CS0246: 未能找到类型或命名空间名“CompositeDisposable”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(18,37): error CS1061: “CompositeDisposable”未包含“Dispose”的定义，并且找不到可接受第一个“CompositeDisposable”类型参数的可访问扩展方法“Dispose”(是否缺少 using 指令或程序集引用?)
+(31,9): error CS0103: 当前上下文中不存在名称“GC”

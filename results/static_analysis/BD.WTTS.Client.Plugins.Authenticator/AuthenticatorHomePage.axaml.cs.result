@@ -1,0 +1,12 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(7,46): error CS0246: 未能找到类型或命名空间名“PageBase<>”(是否缺少 using 指令或程序集引用?)
+(7,55): error CS0246: 未能找到类型或命名空间名“AuthenticatorHomePageViewModel”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(11,9): error CS0103: 当前上下文中不存在名称“InitializeComponent”
+(12,9): error CS0103: 当前上下文中不存在名称“DataContext”
+(12,29): error CS0246: 未能找到类型或命名空间名“AuthenticatorHomePageViewModel”(是否缺少 using 指令或程序集引用?)
+(1,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。

@@ -1,0 +1,57 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(5,7): error CS0246: 未能找到类型或命名空间名“LiveChartsCore”(是否缺少 using 指令或程序集引用?)
+(6,7): error CS0246: 未能找到类型或命名空间名“LiveChartsCore”(是否缺少 using 指令或程序集引用?)
+(7,7): error CS0246: 未能找到类型或命名空间名“LiveChartsCore”(是否缺少 using 指令或程序集引用?)
+(11,39): error CS0246: 未能找到类型或命名空间名“UserControl”(是否缺少 using 指令或程序集引用?)
+(13,22): error CS0246: 未能找到类型或命名空间名“LineSeries<>”(是否缺少 using 指令或程序集引用?)
+(32,22): error CS0246: 未能找到类型或命名空间名“LineSeries<>”(是否缺少 using 指令或程序集引用?)
+(51,22): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(52,22): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(54,12): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(56,12): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(58,5): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(60,28): error CS0246: 未能找到类型或命名空间名“AvaloniaProperty<>”(是否缺少 using 指令或程序集引用?)
+(60,45): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(60,57): error CS0246: 未能找到类型或命名空间名“ISeries”(是否缺少 using 指令或程序集引用?)
+(63,12): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(63,33): error CS0246: 未能找到类型或命名空间名“ISeries”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(61,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(61,35): error CS0246: 未能找到类型或命名空间名“CartesianChart”(是否缺少 using 指令或程序集引用?)
+(61,51): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(61,63): error CS0246: 未能找到类型或命名空间名“ISeries”(是否缺少 using 指令或程序集引用?)
+(61,83): error CS0103: 当前上下文中不存在名称“Enumerable”
+(61,100): error CS0246: 未能找到类型或命名空间名“ISeries”(是否缺少 using 指令或程序集引用?)
+(22,16): error CS0103: 当前上下文中不存在名称“Strings”
+(40,16): error CS0103: 当前上下文中不存在名称“Strings”
+(67,51): error CS0103: 当前上下文中不存在名称“GetValue”
+(67,21): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(67,42): error CS0246: 未能找到类型或命名空间名“ISeries”(是否缺少 using 指令或程序集引用?)
+(72,13): error CS0103: 当前上下文中不存在名称“SetValue”
+(78,9): error CS0103: 当前上下文中不存在名称“InitializeComponent”
+(84,13): error CS0103: 当前上下文中不存在名称“Chart”
+(88,13): error CS0103: 当前上下文中不存在名称“Chart”
+(88,20): error CS0103: 当前上下文中不存在名称“CartesianChart”
+(89,13): error CS0103: 当前上下文中不存在名称“Chart”
+(89,31): error CS0246: 未能找到类型或命名空间名“Axis”(是否缺少 using 指令或程序集引用?)
+(89,44): error CS0246: 未能找到类型或命名空间名“Axis”(是否缺少 using 指令或程序集引用?)
+(90,13): error CS0103: 当前上下文中不存在名称“Chart”
+(90,31): error CS0246: 未能找到类型或命名空间名“Axis”(是否缺少 using 指令或程序集引用?)
+(90,44): error CS0246: 未能找到类型或命名空间名“Axis”(是否缺少 using 指令或程序集引用?)
+(93,9): error CS0103: 当前上下文中不存在名称“ProxyService”
+(133,38): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+(136,21): error CS0103: 当前上下文中不存在名称“Thread”
+(140,51): error CS1061: “ProxyChartView”未包含“IsAttachedToVisualTree”的定义，并且找不到可接受第一个“ProxyChartView”类型参数的可访问扩展方法“IsAttachedToVisualTree”(是否缺少 using 指令或程序集引用?)
+(144,21): error CS0103: 当前上下文中不存在名称“Dispatcher”
+(151,33): error CS0103: 当前上下文中不存在名称“DateTime”
+(175,17): error CS0103: 当前上下文中不存在名称“Thread”
+(5,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。
+(6,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。
+(7,1): hidden CS8019: 不需要的 using 指令。

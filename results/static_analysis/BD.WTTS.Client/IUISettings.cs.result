@@ -1,0 +1,28 @@
+(28,5): error CS0246: 未能找到类型或命名空间名“AppTheme”(是否缺少 using 指令或程序集引用?)
+(50,5): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(50,13): error CS0246: 未能找到类型或命名空间名“MessageBox”(是否缺少 using 指令或程序集引用?)
+(60,5): error CS0246: 未能找到类型或命名空间名“ConcurrentDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(60,34): error CS0246: 未能找到类型或命名空间名“SizePosition”(是否缺少 using 指令或程序集引用?)
+(87,5): error CS0246: 未能找到类型或命名空间名“WindowBackgroundMaterial”(是否缺少 using 指令或程序集引用?)
+(112,5): error CS0246: 未能找到类型或命名空间名“XamlMediaStretch”(是否缺少 using 指令或程序集引用?)
+(119,5): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(129,11): error CS0246: 未能找到类型或命名空间名“AppTheme”(是否缺少 using 指令或程序集引用?)
+(149,5): error CS0283: 不能将类型“HashSet<MessageBox.DontPromptType>?”声明为 const
+(149,11): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(149,19): error CS0246: 未能找到类型或命名空间名“MessageBox”(是否缺少 using 指令或程序集引用?)
+(159,5): error CS0283: 不能将类型“ConcurrentDictionary<string, SizePosition>?”声明为 const
+(159,11): error CS0246: 未能找到类型或命名空间名“ConcurrentDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(159,40): error CS0246: 未能找到类型或命名空间名“SizePosition”(是否缺少 using 指令或程序集引用?)
+(184,21): error CS0246: 未能找到类型或命名空间名“WindowBackgroundMaterial”(是否缺少 using 指令或程序集引用?)
+(209,11): error CS0246: 未能找到类型或命名空间名“XamlMediaStretch”(是否缺少 using 指令或程序集引用?)
+(214,5): error CS0283: 不能将类型“HashSet<string>?”声明为 const
+(214,11): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(129,35): error CS0103: 当前上下文中不存在名称“AppTheme”
+(209,72): error CS0103: 当前上下文中不存在名称“XamlMediaStretch”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(179,61): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(184,80): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(184,120): error CS0103: 当前上下文中不存在名称“Enums”
+(184,158): error CS0103: 当前上下文中不存在名称“Enums”
+(21,12): error CS0103: 当前上下文中不存在名称“Ioc”
+(21,29): error CS0246: 未能找到类型或命名空间名“IOptionsMonitor<>”(是否缺少 using 指令或程序集引用?)

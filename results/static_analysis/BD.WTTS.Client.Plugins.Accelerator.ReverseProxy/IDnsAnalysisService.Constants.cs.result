@@ -1,0 +1,28 @@
+(43,21): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(44,21): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(45,21): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(46,21): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(47,21): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(49,21): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(50,21): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(54,32): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(56,32): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(58,32): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(60,32): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(43,52): error CS0103: 当前上下文中不存在名称“IPAddress”
+(43,85): error CS0103: 当前上下文中不存在名称“IPAddress”
+(44,55): error CS0103: 当前上下文中不存在名称“IPAddress”
+(44,91): error CS0103: 当前上下文中不存在名称“IPAddress”
+(45,52): error CS0103: 当前上下文中不存在名称“IPAddress”
+(45,85): error CS0103: 当前上下文中不存在名称“IPAddress”
+(49,50): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(49,78): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(49,107): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(50,53): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(50,80): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(50,108): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(54,65): error CS0103: 当前上下文中不存在名称“IPAddress”
+(56,66): error CS0103: 当前上下文中不存在名称“IPAddress”
+(58,60): error CS0103: 当前上下文中不存在名称“IPAddress”
+(60,61): error CS0103: 当前上下文中不存在名称“IPAddress”

@@ -1,0 +1,10 @@
+(55,36): error CS0246: 未能找到类型或命名空间名“DirectoryInfo”(是否缺少 using 指令或程序集引用?)
+(64,35): error CS0246: 未能找到类型或命名空间名“FileInfo”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(14,9): error CS0246: 未能找到类型或命名空间名“FileInfo”(是否缺少 using 指令或程序集引用?)
+(15,9): error CS0246: 未能找到类型或命名空间名“DirectoryInfo”(是否缺少 using 指令或程序集引用?)
+(24,26): error CS1061: “FileInfo?”未包含“Exists”的定义，并且找不到可接受第一个“FileInfo?”类型参数的可访问扩展方法“Exists”(是否缺少 using 指令或程序集引用?)
+(28,31): error CS1061: “FileInfo?”未包含“DirectoryName”的定义，并且找不到可接受第一个“FileInfo?”类型参数的可访问扩展方法“DirectoryName”(是否缺少 using 指令或程序集引用?)
+(30,46): error CS1061: “FileInfo?”未包含“DirectoryName”的定义，并且找不到可接受第一个“FileInfo?”类型参数的可访问扩展方法“DirectoryName”(是否缺少 using 指令或程序集引用?)
+(46,21): error CS0019: 运算符“!=”无法应用于“FileInfo?”和“<null>”类型的操作数
+(46,64): error CS1503: 参数 1: 无法从“FileInfo?”转换为“FileInfo”

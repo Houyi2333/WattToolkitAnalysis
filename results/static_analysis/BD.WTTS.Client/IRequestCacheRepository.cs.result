@@ -1,0 +1,15 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Fusillade”(是否缺少 using 指令或程序集引用?)
+(6,44): error CS0246: 未能找到类型或命名空间名“IRequestCache”(是否缺少 using 指令或程序集引用?)
+(14,46): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(14,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(20,5): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(26,30): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(26,5): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(31,41): error CS0246: 未能找到类型或命名空间名“HttpRequestMessage”(是否缺少 using 指令或程序集引用?)
+(30,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(30,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(30,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(33,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(34,24): error CS0246: 未能找到类型或命名空间名“ImageHttpClientService”(是否缺少 using 指令或程序集引用?)
+(1,1): hidden CS8019: 不需要的 using 指令。

@@ -1,0 +1,33 @@
+(3,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Linq”(是否缺少程序集引用?)
+(9,45): error CS0246: 未能找到类型或命名空间名“ViewModelBase”(是否缺少 using 指令或程序集引用?)
+(13,14): error CS0246: 未能找到类型或命名空间名“ReadOnlyObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(13,43): error CS0246: 未能找到类型或命名空间名“SteamApp”(是否缺少 using 指令或程序集引用?)
+(15,12): error CS0246: 未能找到类型或命名空间名“ReadOnlyObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(15,41): error CS0246: 未能找到类型或命名空间名“SteamApp”(是否缺少 using 指令或程序集引用?)
+(19,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(11,41): error CS0103: 当前上下文中不存在名称“Strings”
+(23,9): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(26,22): error CS0103: 当前上下文中不存在名称“RxApp”
+(27,40): error CS0246: 未能找到类型或命名空间名“SteamApp”(是否缺少 using 指令或程序集引用?)
+(27,17): error CS0103: 当前上下文中不存在名称“SortExpressionComparer”
+(28,11): error CS0023: 运算符“.”无法应用于“void”类型的操作数
+(31,35): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(31,58): error CS0246: 未能找到类型或命名空间名“SteamApp”(是否缺少 using 指令或程序集引用?)
+(31,68): error CS0103: 当前上下文中不存在名称“GameListPageViewModel”
+(38,9): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(43,26): error CS0103: 当前上下文中不存在名称“ISteamService”
+(46,23): error CS0103: 当前上下文中不存在名称“MessageBox”
+(46,44): error CS0103: 当前上下文中不存在名称“Strings”
+(46,87): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(46,111): error CS0103: 当前上下文中不存在名称“MessageBox”
+(46,142): error CS0103: 当前上下文中不存在名称“MessageBox”
+(51,13): error CS0103: 当前上下文中不存在名称“Toast”
+(51,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(51,43): error CS0103: 当前上下文中不存在名称“Strings”
+(55,13): error CS0103: 当前上下文中不存在名称“Toast”
+(55,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(55,41): error CS0103: 当前上下文中不存在名称“Strings”
+(3,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

@@ -1,0 +1,71 @@
+(1,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(2,18): error CS0234: 命名空间“BD.WTTS.UI”中不存在类型或命名空间名“Views”(是否缺少程序集引用?)
+(3,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Reactive”(是否缺少程序集引用?)
+(7,44): error CS0246: 未能找到类型或命名空间名“TabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(9,5): error CS0246: 未能找到类型或命名空间名“DateTime”(是否缺少 using 指令或程序集引用?)
+(11,12): error CS0246: 未能找到类型或命名空间名“ReactiveCommand<,>”(是否缺少 using 指令或程序集引用?)
+(11,28): error CS0246: 未能找到类型或命名空间名“Unit”(是否缺少 using 指令或程序集引用?)
+(11,34): error CS0246: 未能找到类型或命名空间名“Unit”(是否缺少 using 指令或程序集引用?)
+(83,36): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+(88,40): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+(107,46): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+(126,32): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+(156,41): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(16,9): error CS0103: 当前上下文中不存在名称“AddNewScriptCommand”
+(16,31): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(35,9): error CS0103: 当前上下文中不存在名称“EditScriptItemCommand”
+(35,33): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(35,56): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+(37,9): error CS0103: 当前上下文中不存在名称“RefreshScriptItemCommand”
+(37,36): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(37,59): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+(39,9): error CS0103: 当前上下文中不存在名称“ScriptStoreCommand”
+(39,30): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(41,9): error CS0103: 当前上下文中不存在名称“DeleteScriptItemCommand”
+(41,35): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(41,58): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+(43,9): error CS0103: 当前上下文中不存在名称“DownloadScriptItemCommand”
+(43,37): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(43,60): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+(45,9): error CS0103: 当前上下文中不存在名称“RefreshALLScriptCommand”
+(45,35): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(59,9): error CS0103: 当前上下文中不存在名称“ProxyService”
+(62,24): error CS0103: 当前上下文中不存在名称“RxApp”
+(63,42): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+(63,19): error CS0103: 当前上下文中不存在名称“SortExpressionComparer”
+(64,23): error CS0103: 当前上下文中不存在名称“_ProxyScripts”
+(70,13): error CS0103: 当前上下文中不存在名称“UserService”
+(72,13): error CS0103: 当前上下文中不存在名称“Toast”
+(72,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(73,13): error CS0103: 当前上下文中不存在名称“UserService”
+(76,25): error CS0246: 未能找到类型或命名空间名“ScriptStorePageViewModel”(是否缺少 using 指令或程序集引用?)
+(77,15): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(78,24): error CS0103: 当前上下文中不存在名称“Strings”
+(79,41): error CS0246: 未能找到类型或命名空间名“ScriptStorePage”(是否缺少 using 指令或程序集引用?)
+(85,9): error CS0103: 当前上下文中不存在名称“ProxyService”
+(90,9): error CS0103: 当前上下文中不存在名称“MessageBox”
+(90,30): error CS0103: 当前上下文中不存在名称“Strings”
+(90,65): error CS0103: 当前上下文中不存在名称“MessageBox”
+(109,22): error CS0103: 当前上下文中不存在名称“MessageBox”
+(109,43): error CS0103: 当前上下文中不存在名称“Strings”
+(109,84): error CS0103: 当前上下文中不存在名称“MessageBox”
+(128,19): error CS0103: 当前上下文中不存在名称“Path”
+(128,32): error CS0103: 当前上下文中不存在名称“Plugin”
+(129,28): error CS0246: 未能找到类型或命名空间名“FileInfo”(是否缺少 using 指令或程序集引用?)
+(132,13): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(133,26): error CS0103: 当前上下文中不存在名称“MessageBox”
+(133,47): error CS0103: 当前上下文中不存在名称“Strings”
+(133,79): error CS0103: 当前上下文中不存在名称“MessageBox”
+(160,30): error CS0103: 当前上下文中不存在名称“IScriptManager”
+(160,69): error CS0103: 当前上下文中不存在名称“Path”
+(160,82): error CS0103: 当前上下文中不存在名称“Plugin”
+(165,21): error CS0103: 当前上下文中不存在名称“ProxyService”
+(166,21): error CS0103: 当前上下文中不存在名称“Toast”
+(166,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(166,51): error CS0103: 当前上下文中不存在名称“Strings”
+(171,21): error CS0103: 当前上下文中不存在名称“Toast”
+(171,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(3,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

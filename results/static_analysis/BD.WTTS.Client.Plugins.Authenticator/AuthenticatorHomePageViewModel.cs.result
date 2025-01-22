@@ -1,0 +1,333 @@
+(1,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(2,37): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(4,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(5,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(6,18): error CS0234: 命名空间“BD.WTTS.UI”中不存在类型或命名空间名“Views”(是否缺少程序集引用?)
+(7,7): error CS0246: 未能找到类型或命名空间名“WinAuth”(是否缺少 using 指令或程序集引用?)
+(8,7): error CS0246: 未能找到类型或命名空间名“AngleSharp”(是否缺少 using 指令或程序集引用?)
+(9,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(10,7): error CS0246: 未能找到类型或命名空间名“SteamKit2”(是否缺少 using 指令或程序集引用?)
+(11,18): error CS0234: 命名空间“BD.WTTS.UI”中不存在类型或命名空间名“Views”(是否缺少程序集引用?)
+(26,60): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(26,5): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(26,10): error CS0246: 未能找到类型或命名空间名“AuthenticatorItemModel”(是否缺少 using 指令或程序集引用?)
+(153,43): error CS0246: 未能找到类型或命名空间名“AccountPlatformAuthenticator”(是否缺少 using 指令或程序集引用?)
+(153,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(181,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(218,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(241,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(258,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(289,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(430,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(464,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(502,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(522,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(602,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(623,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(644,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(666,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(675,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(731,26): error CS0115: “AuthenticatorHomePageViewModel.Activation()”: 没有找到适合的方法来重写
+(737,29): error CS0115: “AuthenticatorHomePageViewModel.Dispose(bool)”: 没有找到适合的方法来重写
+(19,11): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(21,11): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(24,14): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(50,9): error CS0103: 当前上下文中不存在名称“AuthSource”
+(65,31): error CS1061: “AuthenticatorHomePageViewModel”未包含“WhenAnyValue”的定义，并且找不到可接受第一个“AuthenticatorHomePageViewModel”类型参数的可访问扩展方法“WhenAnyValue”(是否缺少 using 指令或程序集引用?)
+(67,14): error CS1061: “AuthenticatorHomePageViewModel”未包含“AuthSource”的定义，并且找不到可接受第一个“AuthenticatorHomePageViewModel”类型参数的可访问扩展方法“AuthSource”(是否缺少 using 指令或程序集引用?)
+(70,24): error CS0103: 当前上下文中不存在名称“RxApp”
+(71,42): error CS0246: 未能找到类型或命名空间名“AuthenticatorItemModel”(是否缺少 using 指令或程序集引用?)
+(71,19): error CS0103: 当前上下文中不存在名称“SortExpressionComparer”
+(72,23): error CS0103: 当前上下文中不存在名称“_Auths”
+(78,13): error CS0103: 当前上下文中不存在名称“IsLoading”
+(80,9): error CS0103: 当前上下文中不存在名称“IsLoading”
+(90,9): error CS0103: 当前上下文中不存在名称“AuthSource”
+(92,32): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(95,14): error CS0103: 当前上下文中不存在名称“HasLocalPcEncrypt”
+(95,33): error CS0103: 当前上下文中不存在名称“HasPasswordEncrypt”
+(95,55): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(97,17): error CS0103: 当前上下文中不存在名称“HasPasswordEncrypt”
+(97,39): error CS0103: 当前上下文中不存在名称“IsVerificationPass”
+(101,21): error CS0103: 当前上下文中不存在名称“IsLoading”
+(107,17): error CS0103: 当前上下文中不存在名称“IsVerificationPass”
+(113,31): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(118,17): error CS0103: 当前上下文中不存在名称“AuthSource”
+(118,44): error CS0246: 未能找到类型或命名空间名“AuthenticatorItemModel”(是否缺少 using 指令或程序集引用?)
+(121,29): error CS0103: 当前上下文中不存在名称“AuthSource”
+(138,13): error CS0103: 当前上下文中不存在名称“IApplication”
+(138,51): error CS0103: 当前上下文中不存在名称“Plugin”
+(138,90): error CS0246: 未能找到类型或命名空间名“TrayMenuItem”(是否缺少 using 指令或程序集引用?)
+(140,24): error CS0103: 当前上下文中不存在名称“Plugin”
+(147,13): error CS0103: 当前上下文中不存在名称“IsVerificationPass”
+(150,9): error CS0103: 当前上下文中不存在名称“IsLoading”
+(155,33): error CS0246: 未能找到类型或命名空间名“TextBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(157,25): error CS0103: 当前上下文中不存在名称“TextBoxWindowViewModel”
+(159,19): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(163,23): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(167,17): error CS0103: 当前上下文中不存在名称“IsVerificationPass”
+(172,17): error CS0103: 当前上下文中不存在名称“Toast”
+(172,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(177,9): error CS0103: 当前上下文中不存在名称“IsVerificationPass”
+(183,14): error CS0103: 当前上下文中不存在名称“Auths”
+(183,29): error CS0103: 当前上下文中不存在名称“IsVerificationPass”
+(185,13): error CS0103: 当前上下文中不存在名称“Toast”
+(185,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(186,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(189,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(190,33): error CS0246: 未能找到类型或命名空间名“TextBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(192,25): error CS0103: 当前上下文中不存在名称“TextBoxWindowViewModel”
+(194,19): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(200,25): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(202,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(204,14): error CS0126: 需要一个类型可转换为“Task”的对象
+(206,19): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(206,70): error CS0103: 当前上下文中不存在名称“HasLocalPcEncrypt”
+(206,89): error CS0103: 当前上下文中不存在名称“Auths”
+(209,13): error CS0103: 当前上下文中不存在名称“Toast”
+(209,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(213,14): error CS0103: 当前上下文中不存在名称“Toast”
+(213,25): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(215,9): error CS0103: 当前上下文中不存在名称“HasPasswordEncrypt”
+(181,23): error CS0161: “AuthenticatorHomePageViewModel.SetPasswordProtection()”: 并非所有的代码路径都返回值
+(220,14): error CS0103: 当前上下文中不存在名称“Auths”
+(220,29): error CS0103: 当前上下文中不存在名称“IsVerificationPass”
+(222,13): error CS0103: 当前上下文中不存在名称“Toast”
+(222,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(223,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(226,32): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(229,23): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(229,74): error CS0103: 当前上下文中不存在名称“HasLocalPcEncrypt”
+(229,93): error CS0103: 当前上下文中不存在名称“Auths”
+(231,17): error CS0103: 当前上下文中不存在名称“Toast”
+(231,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(234,18): error CS0103: 当前上下文中不存在名称“Toast”
+(234,29): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(236,13): error CS0103: 当前上下文中不存在名称“HasPasswordEncrypt”
+(237,13): error CS0103: 当前上下文中不存在名称“IsVerificationPass”
+(218,23): error CS0161: “AuthenticatorHomePageViewModel.RemovePasswordProtection()”: 并非所有的代码路径都返回值
+(243,14): error CS0103: 当前上下文中不存在名称“Auths”
+(243,29): error CS0103: 当前上下文中不存在名称“IsVerificationPass”
+(245,13): error CS0103: 当前上下文中不存在名称“Toast”
+(245,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(246,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(249,26): error CS0103: 当前上下文中不存在名称“HasLocalPcEncrypt”
+(251,19): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(251,81): error CS0103: 当前上下文中不存在名称“Auths”
+(252,13): error CS0103: 当前上下文中不存在名称“Toast”
+(252,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(253,14): error CS0103: 当前上下文中不存在名称“Toast”
+(253,25): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(255,9): error CS0103: 当前上下文中不存在名称“HasLocalPcEncrypt”
+(241,23): error CS0161: “AuthenticatorHomePageViewModel.ToggleLocalProtection()”: 并非所有的代码路径都返回值
+(260,36): error CS0246: 未能找到类型或命名空间名“MessageBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(263,18): error CS0103: 当前上下文中不存在名称“Strings”
+(265,18): error CS0103: 当前上下文中不存在名称“Strings”
+(267,18): error CS0103: 当前上下文中不存在名称“Strings”
+(269,18): error CS0103: 当前上下文中不存在名称“Strings”
+(271,18): error CS0103: 当前上下文中不存在名称“Strings”
+(274,15): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(258,23): error CS0161: “AuthenticatorHomePageViewModel.EncryptHelp()”: 并非所有的代码路径都返回值
+(279,14): error CS0103: 当前上下文中不存在名称“HasPasswordEncrypt”
+(281,13): error CS0103: 当前上下文中不存在名称“Toast”
+(281,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(285,9): error CS0103: 当前上下文中不存在名称“AuthSource”
+(286,9): error CS0103: 当前上下文中不存在名称“IsVerificationPass”
+(291,30): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(292,30): error CS0103: 当前上下文中不存在名称“ApiRspCode”
+(296,22): error CS0103: 当前上下文中不存在名称“ApiRspCode”
+(297,21): error CS0103: 当前上下文中不存在名称“Toast”
+(297,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(301,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(308,32): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(310,18): error CS0126: 需要一个类型可转换为“Task”的对象
+(316,50): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(318,33): error CS0103: 当前上下文中不存在名称“Auths”
+(327,33): error CS0103: 当前上下文中不存在名称“Auths”
+(345,48): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(346,31): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(347,29): error CS0103: 当前上下文中不存在名称“HasLocalPcEncrypt”
+(355,23): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(356,21): error CS0103: 当前上下文中不存在名称“HasLocalPcEncrypt”
+(364,13): error CS0103: 当前上下文中不存在名称“Toast”
+(364,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(366,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(370,26): error CS0103: 当前上下文中不存在名称“Auths”
+(386,13): error CS0103: 当前上下文中不存在名称“Toast”
+(386,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(387,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(390,34): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(398,13): error CS0103: 当前上下文中不存在名称“Toast”
+(398,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(399,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(404,13): error CS0103: 当前上下文中不存在名称“Toast”
+(404,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(405,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(407,26): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(408,41): error CS0103: 当前上下文中不存在名称“Auths”
+(410,13): error CS0103: 当前上下文中不存在名称“Toast”
+(410,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(411,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(415,29): error CS0103: 当前上下文中不存在名称“Auths”
+(421,36): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(422,19): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(423,17): error CS0103: 当前上下文中不存在名称“HasLocalPcEncrypt”
+(427,9): error CS0103: 当前上下文中不存在名称“Toast”
+(427,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(289,23): error CS0161: “AuthenticatorHomePageViewModel.SyncAuthenticators()”: 并非所有的代码路径都返回值
+(433,19): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(436,13): error CS0103: 当前上下文中不存在名称“Toast”
+(436,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(437,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(439,32): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(440,51): error CS0126: 需要一个类型可转换为“Task”的对象
+(441,33): error CS0246: 未能找到类型或命名空间名“TextBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(442,20): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(443,89): error CS0126: 需要一个类型可转换为“Task”的对象
+(445,29): error CS0246: 未能找到类型或命名空间名“TextBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(446,20): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(447,40): error CS0126: 需要一个类型可转换为“Task”的对象
+(449,77): error CS0126: 需要一个类型可转换为“Task”的对象
+(450,35): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(458,13): error CS0103: 当前上下文中不存在名称“Toast”
+(458,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(459,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(430,23): error CS0161: “AuthenticatorHomePageViewModel.ResetIndependentPassword()”: 并非所有的代码路径都返回值
+(466,27): error CS0246: 未能找到类型或命名空间名“AuthenticatorItemModel”(是否缺少 using 指令或程序集引用?)
+(466,74): error CS0126: 需要一个类型可转换为“Task”的对象
+(468,17): error CS0246: 未能找到类型或命名空间名“MessageBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(468,55): error CS0103: 当前上下文中不存在名称“Strings”
+(469,19): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(476,44): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(477,63): error CS0126: 需要一个类型可转换为“Task”的对象
+(479,38): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(492,21): error CS0103: 当前上下文中不存在名称“Toast”
+(492,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(494,21): error CS0103: 当前上下文中不存在名称“Toast”
+(494,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(496,13): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(497,13): error CS0103: 当前上下文中不存在名称“AuthSource”
+(498,13): error CS0103: 当前上下文中不存在名称“Toast”
+(498,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(464,23): error CS0161: “AuthenticatorHomePageViewModel.DeleteAuthAsync(object)”: 并非所有的代码路径都返回值
+(504,14): error CS0103: 当前上下文中不存在名称“Auths”
+(506,13): error CS0103: 当前上下文中不存在名称“Toast”
+(506,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(507,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(510,15): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(510,63): error CS0246: 未能找到类型或命名空间名“AuthenticatorExportViewModel”(是否缺少 using 指令或程序集引用?)
+(511,30): error CS0246: 未能找到类型或命名空间名“AuthenticatorExportPage”(是否缺少 using 指令或程序集引用?)
+(502,23): error CS0161: “AuthenticatorHomePageViewModel.OpenExportWindow()”: 并非所有的代码路径都返回值
+(516,15): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(516,63): error CS0246: 未能找到类型或命名空间名“AuthenticatorImportPageViewModel”(是否缺少 using 指令或程序集引用?)
+(517,26): error CS0246: 未能找到类型或命名空间名“AuthenticatorImportPage”(是否缺少 using 指令或程序集引用?)
+(525,36): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(526,51): error CS0126: 需要一个类型可转换为“Task”的对象
+(527,15): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(527,63): error CS0246: 未能找到类型或命名空间名“AuthenticatorRecoverPageViewModel”(是否缺少 using 指令或程序集引用?)
+(528,30): error CS0246: 未能找到类型或命名空间名“AuthenticatorRecoverPage”(是否缺少 using 指令或程序集引用?)
+(522,23): error CS0161: “AuthenticatorHomePageViewModel.ShowRecoverWindow()”: 并非所有的代码路径都返回值
+(533,27): error CS0246: 未能找到类型或命名空间名“AuthenticatorItemModel”(是否缺少 using 指令或程序集引用?)
+(535,54): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(540,17): error CS0103: 当前上下文中不存在名称“ImportFileModelJsonContext”
+(544,36): error CS0246: 未能找到类型或命名空间名“SdaFileModel”(是否缺少 using 指令或程序集引用?)
+(558,32): error CS0103: 当前上下文中不存在名称“Convert”
+(561,70): error CS0103: 当前上下文中不存在名称“ImportFileModelJsonContext”
+(565,17): error CS0103: 当前上下文中不存在名称“CommonEssentials”
+(567,17): error CS0246: 未能找到类型或命名空间名“AvaloniaFilePickerFileTypeFilter”(是否缺少 using 指令或程序集引用?)
+(567,66): error CS0246: 未能找到类型或命名空间名“AvaloniaFilePickerFileTypeFilter”(是否缺少 using 指令或程序集引用?)
+(569,48): error CS0103: 当前上下文中不存在名称“FileEx”
+(574,40): error CS0103: 当前上下文中不存在名称“FilePicker2”
+(574,66): error CS0246: 未能找到类型或命名空间名“PickOptions”(是否缺少 using 指令或程序集引用?)
+(577,74): error CS0103: 当前上下文中不存在名称“FileEx”
+(586,28): error CS0103: 当前上下文中不存在名称“Encoding”
+(593,17): error CS0103: 当前上下文中不存在名称“Toast”
+(593,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(593,47): error CS0103: 当前上下文中不存在名称“Strings”
+(598,13): error CS0103: 当前上下文中不存在名称“Toast”
+(598,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(604,27): error CS0246: 未能找到类型或命名空间名“AuthenticatorItemModel”(是否缺少 using 指令或程序集引用?)
+(604,74): error CS0126: 需要一个类型可转换为“Task”的对象
+(605,21): error CS0103: 当前上下文中不存在名称“Auths”
+(607,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(611,40): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(613,28): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(613,71): error CS0246: 未能找到类型或命名空间名“AuthenticatorItemModel”(是否缺少 using 指令或程序集引用?)
+(613,114): error CS0103: 当前上下文中不存在名称“Auths”
+(617,13): error CS0103: 当前上下文中不存在名称“Toast”
+(617,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(618,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(602,23): error CS0161: “AuthenticatorHomePageViewModel.AuthenticatorIndexMoveUp(object)”: 并非所有的代码路径都返回值
+(625,27): error CS0246: 未能找到类型或命名空间名“AuthenticatorItemModel”(是否缺少 using 指令或程序集引用?)
+(625,74): error CS0126: 需要一个类型可转换为“Task”的对象
+(626,21): error CS0103: 当前上下文中不存在名称“Auths”
+(627,22): error CS0103: 当前上下文中不存在名称“Auths”
+(628,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(632,40): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(634,28): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(634,71): error CS0246: 未能找到类型或命名空间名“AuthenticatorItemModel”(是否缺少 using 指令或程序集引用?)
+(634,114): error CS0103: 当前上下文中不存在名称“Auths”
+(638,13): error CS0103: 当前上下文中不存在名称“Toast”
+(638,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(639,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(623,23): error CS0161: “AuthenticatorHomePageViewModel.AuthenticatorIndexMoveDown(object)”: 并非所有的代码路径都返回值
+(646,27): error CS0246: 未能找到类型或命名空间名“AuthenticatorItemModel”(是否缺少 using 指令或程序集引用?)
+(646,74): error CS0126: 需要一个类型可转换为“Task”的对象
+(647,21): error CS0103: 当前上下文中不存在名称“Auths”
+(651,40): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(653,28): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(653,73): error CS0246: 未能找到类型或命名空间名“AuthenticatorItemModel”(是否缺少 using 指令或程序集引用?)
+(654,13): error CS0103: 当前上下文中不存在名称“Auths”
+(658,13): error CS0103: 当前上下文中不存在名称“Toast”
+(658,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(659,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(661,19): error CS0103: 当前上下文中不存在名称“Auths”
+(662,9): error CS0103: 当前上下文中不存在名称“AuthSource”
+(663,9): error CS0103: 当前上下文中不存在名称“AuthSource”
+(644,23): error CS0161: “AuthenticatorHomePageViewModel.AuthenticatorIndexSticky(object)”: 并非所有的代码路径都返回值
+(668,27): error CS0246: 未能找到类型或命名空间名“AuthenticatorItemModel”(是否缺少 using 指令或程序集引用?)
+(668,74): error CS0126: 需要一个类型可转换为“Task”的对象
+(669,32): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(669,100): error CS0103: 当前上下文中不存在名称“FileEx”
+(671,33): error CS0126: 需要一个类型可转换为“Task”的对象
+(672,9): error CS0103: 当前上下文中不存在名称“Toast”
+(672,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(672,39): error CS0103: 当前上下文中不存在名称“Strings”
+(666,23): error CS0161: “AuthenticatorHomePageViewModel.DefaultExport(object)”: 并非所有的代码路径都返回值
+(677,27): error CS0246: 未能找到类型或命名空间名“AuthenticatorItemModel”(是否缺少 using 指令或程序集引用?)
+(677,74): error CS0126: 需要一个类型可转换为“Task”的对象
+(679,57): error CS0103: 当前上下文中不存在名称“AuthenticatorPlatform”
+(681,13): error CS0103: 当前上下文中不存在名称“Toast”
+(681,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(682,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(685,19): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(686,21): error CS0246: 未能找到类型或命名空间名“MessageBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(689,58): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(691,23): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(692,41): error CS0246: 未能找到类型或命名空间名“TextBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(694,33): error CS0103: 当前上下文中不存在名称“TextBoxWindowViewModel”
+(696,27): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(701,22): error CS0126: 需要一个类型可转换为“Task”的对象
+(703,53): error CS0126: 需要一个类型可转换为“Task”的对象
+(705,43): error CS0103: 当前上下文中不存在名称“Ioc”
+(705,51): error CS0246: 未能找到类型或命名空间名“ISteamAccountService”(是否缺少 using 指令或程序集引用?)
+(706,17): error CS0246: 未能找到类型或命名空间名“SteamLoginState”(是否缺少 using 指令或程序集引用?)
+(716,21): error CS0103: 当前上下文中不存在名称“Toast”
+(716,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(717,21): error CS0126: 需要一个类型可转换为“Task”的对象
+(722,21): error CS0103: 当前上下文中不存在名称“Toast”
+(722,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(723,21): error CS0126: 需要一个类型可转换为“Task”的对象
+(726,17): error CS0103: 当前上下文中不存在名称“Toast”
+(726,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(675,23): error CS0161: “AuthenticatorHomePageViewModel.UnbindingSteamAuthAsync(object)”: 并非所有的代码路径都返回值
+(733,14): error CS0117: “object”未包含“Activation”的定义
+(739,14): error CS0117: “object”未包含“Dispose”的定义
+(11,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。
+(9,1): hidden CS8019: 不需要的 using 指令。
+(8,1): hidden CS8019: 不需要的 using 指令。
+(6,1): hidden CS8019: 不需要的 using 指令。
+(5,1): hidden CS8019: 不需要的 using 指令。
+(10,1): hidden CS8019: 不需要的 using 指令。
+(7,1): hidden CS8019: 不需要的 using 指令。

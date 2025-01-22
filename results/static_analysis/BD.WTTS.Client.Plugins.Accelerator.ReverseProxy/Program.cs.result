@@ -1,0 +1,47 @@
+(3,22): error CS0246: 未能找到类型或命名空间名“BD”(是否缺少 using 指令或程序集引用?)
+(1,7): error CS0246: 未能找到类型或命名空间名“BD”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“dotnetCampus”(是否缺少 using 指令或程序集引用?)
+(154,49): error CS0246: 未能找到类型或命名空间名“HttpPlatformHelperService”(是否缺少 using 指令或程序集引用?)
+(101,40): error CS0246: 未能找到类型或命名空间名“Repository<,>”(是否缺少 using 指令或程序集引用?)
+(101,74): error CS0246: 未能找到类型或命名空间名“ISecureStorage”(是否缺少 using 指令或程序集引用?)
+(103,10): error CS0246: 未能找到类型或命名空间名“ISecureStorage”(是否缺少 using 指令或程序集引用?)
+(107,25): error CS0246: 未能找到类型或命名空间名“ISecureStorage”(是否缺少 using 指令或程序集引用?)
+(126,10): error CS0246: 未能找到类型或命名空间名“ISecureStorage”(是否缺少 using 指令或程序集引用?)
+(139,22): error CS0246: 未能找到类型或命名空间名“ISecureStorage”(是否缺少 using 指令或程序集引用?)
+(146,22): error CS0246: 未能找到类型或命名空间名“ISecureStorage”(是否缺少 using 指令或程序集引用?)
+(103,10): error CS0538: '显式接口声明中的“ISecureStorage”不是接口
+(107,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(107,22): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(107,25): error CS0538: '显式接口声明中的“ISecureStorage”不是接口
+(116,11): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(126,52): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(126,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(126,10): error CS0538: '显式接口声明中的“ISecureStorage”不是接口
+(139,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(139,22): error CS0538: '显式接口声明中的“ISecureStorage”不是接口
+(146,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(146,22): error CS0538: '显式接口声明中的“ISecureStorage”不是接口
+(105,41): error CS0103: 当前上下文中不存在名称“Hashs”
+(110,26): error CS0103: 当前上下文中不存在名称“FirstOrDefaultAsync”
+(5,27): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(6,27): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(40,26): error CS0103: 当前上下文中不存在名称“IPCSubProcessService”
+(57,8): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(59,5): error CS0103: 当前上下文中不存在名称“Console”
+(60,5): error CS0103: 当前上下文中不存在名称“Console”
+(67,9): error CS0103: 当前上下文中不存在名称“VisualStudioAppCenterSDK”
+(67,66): error CS0103: 当前上下文中不存在名称“EventArgs”
+(88,5): error CS0103: 当前上下文中不存在名称“Repository”
+(88,36): error CS0103: 当前上下文中不存在名称“IOPath”
+(89,30): error CS0246: 未能找到类型或命名空间名“ISecureStorage”(是否缺少 using 指令或程序集引用?)
+(93,27): error CS0246: 未能找到类型或命名空间名“IHttpPlatformHelperService”(是否缺少 using 指令或程序集引用?)
+(98,27): error CS0246: 未能找到类型或命名空间名“ICertificateManager”(是否缺少 using 指令或程序集引用?)
+(98,48): error CS0246: 未能找到类型或命名空间名“CertificateManagerImpl”(是否缺少 using 指令或程序集引用?)
+(75,31): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(122,28): error CS1061: “byte[]”未包含“ThrowIsNull”的定义，并且找不到可接受第一个“byte[]”类型参数的可访问扩展方法“ThrowIsNull”(是否缺少 using 指令或程序集引用?)
+(116,16): error CS0161: “RepositorySecureStorage.InsertOrUpdateAsync(string, byte[])”: 并非所有的代码路径都返回值
+(131,20): error CS0103: 当前上下文中不存在名称“DeleteAsync”
+(142,28): error CS0103: 当前上下文中不存在名称“DeleteAsync”
+(149,26): error CS0103: 当前上下文中不存在名称“FirstOrDefaultAsync”
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

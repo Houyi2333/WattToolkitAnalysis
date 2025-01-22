@@ -1,0 +1,52 @@
+(8,36): error CS0234: 命名空间“System.Security.Cryptography”中不存在类型或命名空间名“X509Certificates”(是否缺少程序集引用?)
+(9,36): error CS0234: 命名空间“System.Management.Automation”中不存在类型或命名空间名“Internal”(是否缺少程序集引用?)
+(509,14): error CS0227: 不安全代码只会在使用 /unsafe 编译的情况下出现
+(527,13): error CS0227: 不安全代码只会在使用 /unsafe 编译的情况下出现
+(2106,46): error CS0227: 不安全代码只会在使用 /unsafe 编译的情况下出现
+(729,13): error CS0246: 未能找到类型或命名空间名“SigningOption”(是否缺少 using 指令或程序集引用?)
+(758,32): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(761,32): error CS0246: 未能找到类型或命名空间名“SigningOption”(是否缺少 using 指令或程序集引用?)
+(495,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(503,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(507,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(623,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(623,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+(727,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(727,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+(755,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(755,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+(837,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(837,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+(850,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(850,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+(979,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(979,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+(1003,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(1003,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+(1027,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(1027,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+(1513,29): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1745,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1757,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1767,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1773,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1777,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1787,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1790,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1805,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1808,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1811,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1818,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1826,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1833,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1843,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1859,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+(1865,20): error CS0103: 当前上下文中不存在名称“PinvokeDllNames”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(735,22): error CS0103: 当前上下文中不存在名称“SigningOption”
+(739,22): error CS0103: 当前上下文中不存在名称“SigningOption”
+(743,22): error CS0103: 当前上下文中不存在名称“SigningOption”
+(1030,30): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(1161,30): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(8,1): hidden CS8019: 不需要的 using 指令。
+(9,1): hidden CS8019: 不需要的 using 指令。

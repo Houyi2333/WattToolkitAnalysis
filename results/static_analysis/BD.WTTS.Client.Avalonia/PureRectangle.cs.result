@@ -1,0 +1,12 @@
+(6,30): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(8,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(8,43): error CS0246: 未能找到类型或命名空间名“IBrush”(是否缺少 using 指令或程序集引用?)
+(11,12): error CS0246: 未能找到类型或命名空间名“IBrush”(是否缺少 using 指令或程序集引用?)
+(22,33): error CS0246: 未能找到类型或命名空间名“DrawingContext”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,9): error CS0103: 当前上下文中不存在名称“Border”
+(13,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(14,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(19,9): error CS0103: 当前上下文中不存在名称“AffectsRender”
+(25,53): error CS0246: 未能找到类型或命名空间名“Rect”(是否缺少 using 指令或程序集引用?)
+(25,58): error CS0103: 当前上下文中不存在名称“Bounds”

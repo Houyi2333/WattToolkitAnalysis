@@ -1,0 +1,29 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(5,37): error CS0246: 未能找到类型或命名空间名“PageBase<>”(是否缺少 using 指令或程序集引用?)
+(5,46): error CS0246: 未能找到类型或命名空间名“SettingsPageViewModel”(是否缺少 using 指令或程序集引用?)
+(18,45): error CS0246: 未能找到类型或命名空间名“TemplateAppliedEventArgs”(是否缺少 using 指令或程序集引用?)
+(26,59): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(26,69): error CS0246: 未能找到类型或命名空间名“ScrollChangedEventArgs”(是否缺少 using 指令或程序集引用?)
+(46,49): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(46,59): error CS0246: 未能找到类型或命名空间名“TappedEventArgs”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,9): error CS0103: 当前上下文中不存在名称“InitializeComponent”
+(10,27): error CS0246: 未能找到类型或命名空间名“SettingsPageViewModel”(是否缺少 using 指令或程序集引用?)
+(10,14): error CS1061: “SettingsPage”未包含“SetViewModel”的定义，并且找不到可接受第一个“SettingsPage”类型参数的可访问扩展方法“SetViewModel”(是否缺少 using 指令或程序集引用?)
+(14,9): error CS0103: 当前上下文中不存在名称“SettingsScrollTab”
+(22,18): error CS1061: “SettingsPage”未包含“PageScroller”的定义，并且找不到可接受第一个“SettingsPage”类型参数的可访问扩展方法“PageScroller”(是否缺少 using 指令或程序集引用?)
+(23,18): error CS1061: “SettingsPage”未包含“PageScroller”的定义，并且找不到可接受第一个“SettingsPage”类型参数的可访问扩展方法“PageScroller”(是否缺少 using 指令或程序集引用?)
+(28,23): error CS0246: 未能找到类型或命名空间名“ScrollViewer”(是否缺少 using 指令或程序集引用?)
+(30,35): error CS0103: 当前上下文中不存在名称“SettingPanel”
+(33,42): error CS0246: 未能找到类型或命名空间名“Rect”(是否缺少 using 指令或程序集引用?)
+(33,48): error CS0246: 未能找到类型或命名空间名“Point”(是否缺少 using 指令或程序集引用?)
+(33,79): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(37,36): error CS0103: 当前上下文中不存在名称“SettingsScrollTab”
+(38,25): error CS0103: 当前上下文中不存在名称“SettingsScrollTab”
+(40,21): error CS0103: 当前上下文中不存在名称“SettingsScrollTab”
+(48,13): error CS0103: 当前上下文中不存在名称“SettingsScrollTab”
+(48,55): error CS0103: 当前上下文中不存在名称“SettingsScrollTab”
+(48,89): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(50,43): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(50,31): error CS1061: “SettingsPage”未包含“FindControl”的定义，并且找不到可接受第一个“SettingsPage”类型参数的可访问扩展方法“FindControl”(是否缺少 using 指令或程序集引用?)
+(1,1): hidden CS8019: 不需要的 using 指令。

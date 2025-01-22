@@ -1,0 +1,72 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“dotnetCampus”(是否缺少 using 指令或程序集引用?)
+(2,22): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Services”(是否缺少程序集引用?)
+(6,44): error CS0246: 未能找到类型或命名空间名“IPlugin”(是否缺少 using 指令或程序集引用?)
+(149,65): error CS0246: 未能找到类型或命名空间名“IPlugin”(是否缺少 using 指令或程序集引用?)
+(8,14): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(9,14): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(10,14): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(10,19): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(19,20): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(19,32): error CS0246: 未能找到类型或命名空间名“MenuTabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(22,159): error CS0246: 未能找到类型或命名空间名“ISettings<>”(是否缺少 using 指令或程序集引用?)
+(22,16): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(22,23): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(28,20): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(28,33): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(28,40): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(30,20): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+(33,9): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(34,9): error CS0246: 未能找到类型或命名空间名“Startup”(是否缺少 using 指令或程序集引用?)
+(40,9): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(41,9): error CS0246: 未能找到类型或命名空间名“Startup”(是否缺少 using 指令或程序集引用?)
+(47,9): error CS0246: 未能找到类型或命名空间名“IpcProvider”(是否缺少 using 指令或程序集引用?)
+(48,9): error CS0246: 未能找到类型或命名空间名“Startup”(是否缺少 using 指令或程序集引用?)
+(53,41): error CS0246: 未能找到类型或命名空间名“IMapperConfigurationExpression”(是否缺少 using 指令或程序集引用?)
+(58,46): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(63,65): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(69,20): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+(92,26): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(115,24): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(115,31): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(115,71): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(115,78): error CS0246: 未能找到类型或命名空间名“IpcProvider”(是否缺少 using 指令或程序集引用?)
+(120,20): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+(125,20): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+(130,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(130,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(130,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(133,9): error CS0246: 未能找到类型或命名空间名“IPCMainProcessService”(是否缺少 using 指令或程序集引用?)
+(134,9): error CS0246: 未能找到类型或命名空间名“TaskCompletionSource<>”(是否缺少 using 指令或程序集引用?)
+(131,28): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+(63,35): error CS0246: 未能找到类型或命名空间名“NotNullWhenAttribute”(是否缺少 using 指令或程序集引用?)
+(63,35): error CS0246: 未能找到类型或命名空间名“NotNullWhen”(是否缺少 using 指令或程序集引用?)
+(21,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(21,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(21,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(79,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(79,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(79,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(88,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(88,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(88,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(153,9): error CS0103: 当前上下文中不存在名称“Instance”
+(16,28): error CS0103: 当前上下文中不存在名称“GetInstallTime”
+(24,25): error CS0103: 当前上下文中不存在名称“ISettings”
+(25,39): error CS0704: 由于 "TSettings" 是一个类型参数，无法在其中执行非虚拟成员查找
+(30,53): error CS0103: 当前上下文中不存在名称“ValueTask”
+(71,16): error CS0103: 当前上下文中不存在名称“ValueTask”
+(81,12): error CS0103: 当前上下文中不存在名称“HttpUtility”
+(90,12): error CS0103: 当前上下文中不存在名称“HttpUtility”
+(90,51): error CS0103: 当前上下文中不存在名称“StringSplitOptions”
+(99,13): error CS0019: 运算符“==”无法应用于“Action<IServiceCollection>?”和“Action<IServiceCollection>?”类型的操作数
+(99,13): error CS0019: 运算符“==”无法应用于“Action<IpcProvider>?”和“Action<IpcProvider>?”类型的操作数
+(100,25): error CS0103: 当前上下文中不存在名称“CommandExitCode”
+(102,26): error CS0103: 当前上下文中不存在名称“UniqueEnglishName”
+(103,30): error CS0103: 当前上下文中不存在名称“IPCSubProcessService”
+(122,16): error CS0103: 当前上下文中不存在名称“ValueTask”
+(127,16): error CS0103: 当前上下文中不存在名称“ValueTask”
+(142,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(131,38): error CS0161: “PluginBase.GetIpcRemoteServiceAsync<T>(string, IPCMainProcessService, TaskCompletionSource<T>)”: 并非所有的代码路径都返回值
+(1,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

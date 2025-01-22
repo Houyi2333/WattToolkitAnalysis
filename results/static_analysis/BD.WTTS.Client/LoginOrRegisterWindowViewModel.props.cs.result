@@ -1,0 +1,76 @@
+(1,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Drawing”(是否缺少程序集引用?)
+(2,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(3,22): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“ApiConstants”(是否缺少程序集引用?)
+(7,53): error CS0246: 未能找到类型或命名空间名“RIdTitleIconViewModel<,>”(是否缺少 using 指令或程序集引用?)
+(7,83): error CS0246: 未能找到类型或命名空间名“ResIcon”(是否缺少 using 指令或程序集引用?)
+(95,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(98,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(101,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(135,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(13,5): error CS0246: 未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+(137,12): error CS0246: 未能找到类型或命名空间名“Action”(是否缺少 using 指令或程序集引用?)
+(139,12): error CS0246: 未能找到类型或命名空间名“Action”(是否缺少 using 指令或程序集引用?)
+(141,12): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(143,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(145,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(147,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(149,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(154,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(15,12): error CS0246: 未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+(160,12): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(21,47): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(28,50): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(28,24): error CS0246: 未能找到类型或命名空间名“ResIcon”(是否缺少 using 指令或程序集引用?)
+(42,50): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(60,43): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(60,12): error CS0246: 未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+(81,67): error CS0246: 未能找到类型或命名空间名“IDisposableHolder”(是否缺少 using 指令或程序集引用?)
+(94,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(94,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(97,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(97,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(100,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(100,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(117,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(117,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(124,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(124,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(127,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(127,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(130,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(130,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(159,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(159,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(103,30): error CS0103: 当前上下文中不存在名称“SMSInterval”
+(18,21): error CS1061: “ExternalLoginChannelViewModel”未包含“RaiseAndSetIfChanged”的定义，并且找不到可接受第一个“ExternalLoginChannelViewModel”类型参数的可访问扩展方法“RaiseAndSetIfChanged”(是否缺少 using 指令或程序集引用?)
+(110,18): error CS1061: “LoginOrRegisterWindowViewModel”未包含“RaiseAndSetIfChanged”的定义，并且找不到可接受第一个“LoginOrRegisterWindowViewModel”类型参数的可访问扩展方法“RaiseAndSetIfChanged”(是否缺少 using 指令或程序集引用?)
+(111,18): error CS1061: “LoginOrRegisterWindowViewModel”未包含“RaisePropertyChanged”的定义，并且找不到可接受第一个“LoginOrRegisterWindowViewModel”类型参数的可访问扩展方法“RaisePropertyChanged”(是否缺少 using 指令或程序集引用?)
+(115,55): error CS0103: 当前上下文中不存在名称“Strings”
+(120,47): error CS0103: 当前上下文中不存在名称“SMSInterval”
+(32,20): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(32,51): error CS0103: 当前上下文中不存在名称“ResIcon”
+(33,20): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(34,20): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(34,55): error CS0103: 当前上下文中不存在名称“ResIcon”
+(35,20): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(35,51): error CS0103: 当前上下文中不存在名称“ResIcon”
+(36,20): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(36,48): error CS0103: 当前上下文中不存在名称“ResIcon”
+(37,28): error CS0103: 当前上下文中不存在名称“ResIcon”
+(38,18): error CS0103: 当前上下文中不存在名称“ResIcon”
+(46,20): error CS0103: 当前上下文中不存在名称“Strings”
+(50,30): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(51,30): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(55,20): error CS0103: 当前上下文中不存在名称“Strings”
+(64,20): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(65,20): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(66,20): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(67,20): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(68,20): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(72,48): error CS0103: 当前上下文中不存在名称“ColorConverters”
+(83,51): error CS0117: “ExternalLoginChannelViewModel”未包含“Id”的定义
+(84,11): error CS1061: “ExternalLoginChannelViewModel”未包含“OnBind”的定义，并且找不到可接受第一个“ExternalLoginChannelViewModel”类型参数的可访问扩展方法“OnBind”(是否缺少 using 指令或程序集引用?)
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

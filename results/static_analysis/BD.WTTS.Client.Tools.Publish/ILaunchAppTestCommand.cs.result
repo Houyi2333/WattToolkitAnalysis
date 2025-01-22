@@ -1,0 +1,56 @@
+(6,35): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(10,20): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(20,34): error CS0246: 未能找到类型或命名空间名“InvocationContext”(是否缺少 using 指令或程序集引用?)
+(57,12): error CS0246: 未能找到类型或命名空间名“FileStream”(是否缺少 using 指令或程序集引用?)
+(70,39): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(70,12): error CS0246: 未能找到类型或命名空间名“JsonNode”(是否缺少 using 指令或程序集引用?)
+(87,47): error CS0246: 未能找到类型或命名空间名“Platform”(是否缺少 using 指令或程序集引用?)
+(127,36): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(127,52): error CS0246: 未能找到类型或命名空间名“JsonNode”(是否缺少 using 指令或程序集引用?)
+(10,12): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(10,20): error CS0538: '显式接口声明中的“ICommand”不是接口
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,27): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(22,20): error CS0103: 当前上下文中不存在名称“DebugRuntimeConfigPath”
+(24,32): error CS0103: 当前上下文中不存在名称“Platform”
+(27,24): error CS0103: 当前上下文中不存在名称“runtimeconfigjsonfilename”
+(27,60): error CS0103: 当前上下文中不存在名称“exefileName”
+(28,14): error CS0103: 当前上下文中不存在名称“File”
+(30,23): error CS0103: 当前上下文中不存在名称“Process”
+(35,17): error CS0103: 当前上下文中不存在名称“Thread”
+(35,30): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(38,21): error CS0103: 当前上下文中不存在名称“Console”
+(44,21): error CS0103: 当前上下文中不存在名称“Console”
+(52,9): error CS0103: 当前上下文中不存在名称“Console”
+(61,24): error CS0246: 未能找到类型或命名空间名“FileStream”(是否缺少 using 指令或程序集引用?)
+(61,41): error CS0103: 当前上下文中不存在名称“FileMode”
+(62,17): error CS0103: 当前上下文中不存在名称“FileAccess”
+(62,39): error CS0103: 当前上下文中不存在名称“IOPath”
+(74,24): error CS0103: 当前上下文中不存在名称“JsonNode”
+(89,9): error CS1674: “FileStream?”: using 语句中使用的类型必须可隐式转换为“System.IDisposable”
+(90,37): error CS1503: 参数 1: 无法从“FileStream?”转换为“Stream?”
+(91,13): error CS0019: 运算符“!=”无法应用于“FileStream?”和“<null>”类型的操作数
+(91,31): error CS0019: 运算符“!=”无法应用于“JsonNode?”和“<null>”类型的操作数
+(96,22): error CS0103: 当前上下文中不存在名称“Platform”
+(97,22): error CS0103: 当前上下文中不存在名称“Platform”
+(98,22): error CS0103: 当前上下文中不存在名称“Platform”
+(112,25): error CS1503: 参数 2: 无法从“FileStream?”转换为“Stream?”
+(116,24): error CS0103: 当前上下文中不存在名称“runtimeconfigjsonfilename”
+(116,60): error CS0103: 当前上下文中不存在名称“depsjsonfilename”
+(122,9): error CS1674: “FileStream?”: using 语句中使用的类型必须可隐式转换为“System.IDisposable”
+(123,37): error CS1503: 参数 1: 无法从“FileStream?”转换为“Stream?”
+(124,21): error CS1503: 参数 2: 无法从“FileStream?”转换为“Stream?”
+(129,13): error CS0019: 运算符“==”无法应用于“Stream?”和“<null>”类型的操作数
+(129,31): error CS0019: 运算符“==”无法应用于“JsonNode?”和“<null>”类型的操作数
+(130,26): error CS1061: “Stream?”未包含“Length”的定义，并且找不到可接受第一个“Stream?”类型参数的可访问扩展方法“Length”(是否缺少 using 指令或程序集引用?)
+(131,16): error CS1061: “Stream?”未包含“Position”的定义，并且找不到可接受第一个“Stream?”类型参数的可访问扩展方法“Position”(是否缺少 using 指令或程序集引用?)
+(132,32): error CS0246: 未能找到类型或命名空间名“Utf8JsonWriter”(是否缺少 using 指令或程序集引用?)
+(133,14): error CS1061: “JsonNode?”未包含“WriteTo”的定义，并且找不到可接受第一个“JsonNode?”类型参数的可访问扩展方法“WriteTo”(是否缺少 using 指令或程序集引用?)
+(135,16): error CS1061: “Stream?”未包含“Flush”的定义，并且找不到可接受第一个“Stream?”类型参数的可访问扩展方法“Flush”(是否缺少 using 指令或程序集引用?)
+(136,9): error CS0103: 当前上下文中不存在名称“Console”
+(136,30): error CS0103: 当前上下文中不存在名称“Path”
+(136,61): error CS0103: 当前上下文中不存在名称“IOPath”
+(136,103): error CS0103: 当前上下文中不存在名称“IOPath”
+(136,142): error CS1061: “Stream?”未包含“Position”的定义，并且找不到可接受第一个“Stream?”类型参数的可访问扩展方法“Position”(是否缺少 using 指令或程序集引用?)
+(137,33): error CS1061: “Stream?”未包含“Position”的定义，并且找不到可接受第一个“Stream?”类型参数的可访问扩展方法“Position”(是否缺少 using 指令或程序集引用?)
+(137,16): error CS1061: “Stream?”未包含“SetLength”的定义，并且找不到可接受第一个“Stream?”类型参数的可访问扩展方法“SetLength”(是否缺少 using 指令或程序集引用?)

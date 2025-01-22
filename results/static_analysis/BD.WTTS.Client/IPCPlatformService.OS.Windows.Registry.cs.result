@@ -1,0 +1,47 @@
+(15,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(16,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(14,5): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(105,9): error CS0246: 未能找到类型或命名空间名“RegistryView”(是否缺少 using 指令或程序集引用?)
+(106,39): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(102,24): error CS0051: 可访问性不一致: 参数类型“IPCPlatformService”的可访问性低于方法“IPCPlatformServiceExtensions.TryReadRegistryKey(IPCPlatformService, string, RegistryView, out string?)”
+(58,49): error CS0246: 未能找到类型或命名空间名“RegistryView”(是否缺少 using 指令或程序集引用?)
+(58,11): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(118,39): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(115,24): error CS0051: 可访问性不一致: 参数类型“IPCPlatformService”的可访问性低于方法“IPCPlatformServiceExtensions.TryReadRegistryKey(IPCPlatformService, string, out string?)”
+(70,45): error CS0246: 未能找到类型或命名空间名“RegistryView”(是否缺少 using 指令或程序集引用?)
+(70,70): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(82,48): error CS0246: 未能找到类型或命名空间名“RegistryView”(是否缺少 using 指令或程序集引用?)
+(130,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(127,24): error CS0051: 可访问性不一致: 参数类型“IPCPlatformService”的可访问性低于方法“IPCPlatformServiceExtensions.SetRegistryKey(IPCPlatformService, string, string?)”
+(9,6): error CS0246: 未能找到类型或命名空间名“SupportedOSPlatformAttribute”(是否缺少 using 指令或程序集引用?)
+(9,6): error CS0246: 未能找到类型或命名空间名“SupportedOSPlatform”(是否缺少 using 指令或程序集引用?)
+(106,10): error CS0246: 未能找到类型或命名空间名“NotNullWhenAttribute”(是否缺少 using 指令或程序集引用?)
+(106,10): error CS0246: 未能找到类型或命名空间名“NotNullWhen”(是否缺少 using 指令或程序集引用?)
+(57,6): error CS0246: 未能找到类型或命名空间名“SupportedOSPlatformAttribute”(是否缺少 using 指令或程序集引用?)
+(57,6): error CS0246: 未能找到类型或命名空间名“SupportedOSPlatform”(是否缺少 using 指令或程序集引用?)
+(118,10): error CS0246: 未能找到类型或命名空间名“NotNullWhenAttribute”(是否缺少 using 指令或程序集引用?)
+(118,10): error CS0246: 未能找到类型或命名空间名“NotNullWhen”(是否缺少 using 指令或程序集引用?)
+(100,6): error CS0246: 未能找到类型或命名空间名“SupportedOSPlatformAttribute”(是否缺少 using 指令或程序集引用?)
+(100,6): error CS0246: 未能找到类型或命名空间名“SupportedOSPlatform”(是否缺少 using 指令或程序集引用?)
+(101,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(101,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(101,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(113,6): error CS0246: 未能找到类型或命名空间名“SupportedOSPlatformAttribute”(是否缺少 using 指令或程序集引用?)
+(113,6): error CS0246: 未能找到类型或命名空间名“SupportedOSPlatform”(是否缺少 using 指令或程序集引用?)
+(114,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(114,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(114,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(125,6): error CS0246: 未能找到类型或命名空间名“SupportedOSPlatformAttribute”(是否缺少 using 指令或程序集引用?)
+(125,6): error CS0246: 未能找到类型或命名空间名“SupportedOSPlatform”(是否缺少 using 指令或程序集引用?)
+(126,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(126,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(126,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(58,69): error CS0103: 当前上下文中不存在名称“Registry2”
+(69,6): error CS0246: 未能找到类型或命名空间名“SupportedOSPlatformAttribute”(是否缺少 using 指令或程序集引用?)
+(69,6): error CS0246: 未能找到类型或命名空间名“SupportedOSPlatform”(是否缺少 using 指令或程序集引用?)
+(81,6): error CS0246: 未能找到类型或命名空间名“SupportedOSPlatformAttribute”(是否缺少 using 指令或程序集引用?)
+(81,6): error CS0246: 未能找到类型或命名空间名“SupportedOSPlatform”(是否缺少 using 指令或程序集引用?)
+(82,68): error CS0103: 当前上下文中不存在名称“Registry2”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(50,16): error CS0103: 当前上下文中不存在名称“Task”
+(132,52): error CS0103: 当前上下文中不存在名称“Registry2”

@@ -1,0 +1,83 @@
+(37,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(37,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(37,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(38,42): error CS0246: 未能找到类型或命名空间名“Action”(是否缺少 using 指令或程序集引用?)
+(38,18): error CS0246: 未能找到类型或命名空间名“ThreadTask”(是否缺少 using 指令或程序集引用?)
+(50,31): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(62,31): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(119,32): error CS0246: 未能找到类型或命名空间名“Architecture”(是否缺少 using 指令或程序集引用?)
+(128,13): error CS0246: 未能找到类型或命名空间名“Platform”(是否缺少 using 指令或程序集引用?)
+(128,32): error CS0246: 未能找到类型或命名空间名“DeviceIdiom”(是否缺少 using 指令或程序集引用?)
+(128,57): error CS0246: 未能找到类型或命名空间名“Architecture”(是否缺少 using 指令或程序集引用?)
+(98,34): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(99,36): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(106,38): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(33,9): error CS0103: 当前上下文中不存在名称“IOPath”
+(34,9): error CS0103: 当前上下文中不存在名称“IOPath”
+(11,45): error CS0103: 当前上下文中不存在名称“Path”
+(11,58): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(11,134): error CS0103: 当前上下文中不存在名称“Environment”
+(11,162): error CS0103: 当前上下文中不存在名称“Environment”
+(13,37): error CS0103: 当前上下文中不存在名称“Path”
+(13,50): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(15,37): error CS0103: 当前上下文中不存在名称“Path”
+(15,50): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(17,46): error CS0103: 当前上下文中不存在名称“Path”
+(17,59): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(19,42): error CS0103: 当前上下文中不存在名称“Path”
+(19,55): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(40,9): error CS0246: 未能找到类型或命名空间名“TaskCreationOptions”(是否缺少 using 指令或程序集引用?)
+(40,39): error CS0103: 当前上下文中不存在名称“TaskCreationOptions”
+(44,24): error CS0103: 当前上下文中不存在名称“TaskCreationOptions”
+(44,58): error CS0103: 当前上下文中不存在名称“TaskCreationOptions”
+(47,15): error CS0103: 当前上下文中不存在名称“ThreadTask”
+(47,51): error CS0103: 当前上下文中不存在名称“CancellationToken”
+(47,84): error CS0103: 当前上下文中不存在名称“TaskScheduler”
+(38,29): error CS0161: “Constants.InBackground(Action, bool)”: 并非所有的代码路径都返回值
+(55,13): error CS0103: 当前上下文中不存在名称“DeploymentMode”
+(55,35): error CS0103: 当前上下文中不存在名称“Path”
+(56,13): error CS0103: 当前上下文中不存在名称“DeploymentMode”
+(56,35): error CS0103: 当前上下文中不存在名称“Path”
+(57,28): error CS0246: 未能找到类型或命名空间名“ArgumentOutOfRangeException”(是否缺少 using 指令或程序集引用?)
+(69,13): error CS0103: 当前上下文中不存在名称“DeploymentMode”
+(70,20): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(71,13): error CS0103: 当前上下文中不存在名称“DeploymentMode”
+(72,20): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(73,28): error CS0246: 未能找到类型或命名空间名“ArgumentOutOfRangeException”(是否缺少 using 指令或程序集引用?)
+(116,16): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(110,67): error CS0103: 当前上下文中不存在名称“Environment”
+(110,95): error CS0103: 当前上下文中不存在名称“Environment”
+(111,75): error CS0103: 当前上下文中不存在名称“Environment”
+(111,103): error CS0103: 当前上下文中不存在名称“Environment”
+(121,9): error CS0103: 当前上下文中不存在名称“Architecture”
+(122,9): error CS0103: 当前上下文中不存在名称“Architecture”
+(123,9): error CS0103: 当前上下文中不存在名称“Architecture”
+(124,9): error CS0103: 当前上下文中不存在名称“Architecture”
+(125,24): error CS0246: 未能找到类型或命名空间名“ArgumentOutOfRangeException”(是否缺少 using 指令或程序集引用?)
+(130,10): error CS0246: 未能找到类型或命名空间名“Platform”(是否缺少 using 指令或程序集引用?)
+(130,29): error CS0246: 未能找到类型或命名空间名“DeviceIdiom”(是否缺少 using 指令或程序集引用?)
+(130,54): error CS0246: 未能找到类型或命名空间名“Architecture”(是否缺少 using 指令或程序集引用?)
+(131,36): error CS0103: 当前上下文中不存在名称“StringSplitOptions”
+(137,37): error CS0103: 当前上下文中不存在名称“Platform”
+(138,40): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(141,37): error CS0103: 当前上下文中不存在名称“Platform”
+(142,40): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(145,37): error CS0103: 当前上下文中不存在名称“Platform”
+(146,40): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(152,41): error CS0103: 当前上下文中不存在名称“Architecture”
+(155,41): error CS0103: 当前上下文中不存在名称“Architecture”
+(158,41): error CS0103: 当前上下文中不存在名称“Architecture”
+(161,41): error CS0103: 当前上下文中不存在名称“Architecture”
+(179,41): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(180,35): error CS0103: 当前上下文中不存在名称“Environment”
+(180,63): error CS0103: 当前上下文中不存在名称“Environment”
+(180,91): error CS0103: 当前上下文中不存在名称“Environment”
+(188,23): error CS0246: 未能找到类型或命名空间名“DirectoryInfo”(是否缺少 using 指令或程序集引用?)
+(192,23): error CS0246: 未能找到类型或命名空间名“DirectoryNotFoundException”(是否缺少 using 指令或程序集引用?)
+(195,9): error CS0246: 未能找到类型或命名空间名“DirectoryInfo”(是否缺少 using 指令或程序集引用?)
+(198,9): error CS0103: 当前上下文中不存在名称“IOPath”
+(201,18): error CS0246: 未能找到类型或命名空间名“FileInfo”(是否缺少 using 指令或程序集引用?)
+(203,37): error CS0103: 当前上下文中不存在名称“Path”
+(210,22): error CS0246: 未能找到类型或命名空间名“DirectoryInfo”(是否缺少 using 指令或程序集引用?)
+(212,44): error CS0103: 当前上下文中不存在名称“Path”

@@ -1,0 +1,20 @@
+(22,29): error CS0234: 命名空间“System.ComponentModel”中不存在类型或命名空间名“DataAnnotations”(是否缺少程序集引用?)
+(24,22): error CS0234: 命名空间“ArchiSteamFarm”中不存在类型或命名空间名“Helpers”(是否缺少程序集引用?)
+(25,7): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(37,12): error CS0246: 未能找到类型或命名空间名“ArchiCryptoHelper”(是否缺少 using 指令或程序集引用?)
+(35,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(35,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(36,6): error CS0246: 未能找到类型或命名空间名“RequiredAttribute”(是否缺少 using 指令或程序集引用?)
+(36,6): error CS0246: 未能找到类型或命名空间名“Required”(是否缺少 using 指令或程序集引用?)
+(35,30): error CS0103: 当前上下文中不存在名称“Required”
+(42,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(42,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(43,6): error CS0246: 未能找到类型或命名空间名“RequiredAttribute”(是否缺少 using 指令或程序集引用?)
+(43,6): error CS0246: 未能找到类型或命名空间名“Required”(是否缺少 using 指令或程序集引用?)
+(42,30): error CS0103: 当前上下文中不存在名称“Required”
+(46,6): error CS0246: 未能找到类型或命名空间名“JsonConstructorAttribute”(是否缺少 using 指令或程序集引用?)
+(46,6): error CS0246: 未能找到类型或命名空间名“JsonConstructor”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(25,1): hidden CS8019: 不需要的 using 指令。
+(22,1): hidden CS8019: 不需要的 using 指令。
+(24,1): hidden CS8019: 不需要的 using 指令。

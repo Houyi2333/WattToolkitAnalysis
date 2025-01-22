@@ -1,0 +1,110 @@
+(1,24): error CS0234: 命名空间“System.Threading”中不存在类型或命名空间名“Channels”(是否缺少程序集引用?)
+(9,34): error CS0246: 未能找到类型或命名空间名“XunYouState”(是否缺少 using 指令或程序集引用?)
+(47,45): error CS0246: 未能找到类型或命名空间名“XunYouAccelStateModel”(是否缺少 using 指令或程序集引用?)
+(67,59): error CS0246: 未能找到类型或命名空间名“XunYouState”(是否缺少 using 指令或程序集引用?)
+(67,12): error CS0246: 未能找到类型或命名空间名“XunYouAccelStateModel”(是否缺少 using 指令或程序集引用?)
+(81,50): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(81,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(81,23): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(94,65): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(94,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(94,23): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(94,30): error CS0246: 未能找到类型或命名空间名“XunYouUninstallCode”(是否缺少 using 指令或程序集引用?)
+(113,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(114,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(115,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(107,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(107,23): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(144,13): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(145,13): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(146,7): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(140,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(140,23): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(164,74): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(164,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(164,23): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(164,30): error CS0246: 未能找到类型或命名空间名“XunYouAccelStateModel”(是否缺少 using 指令或程序集引用?)
+(177,104): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(177,18): error CS0246: 未能找到类型或命名空间名“IAsyncEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(177,35): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(210,66): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(210,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(210,23): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(210,30): error CS0246: 未能找到类型或命名空间名“XunYouSendResultCode”(是否缺少 using 指令或程序集引用?)
+(223,65): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(223,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(223,23): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(223,30): error CS0246: 未能找到类型或命名空间名“XunYouIsRunningCode”(是否缺少 using 指令或程序集引用?)
+(236,65): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(236,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(236,23): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(236,30): error CS0246: 未能找到类型或命名空间名“XunYouStartGameCode”(是否缺少 using 指令或程序集引用?)
+(249,65): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(249,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(249,23): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(7,5): error CS0246: 未能找到类型或命名空间名“XunYouState”(是否缺少 using 指令或程序集引用?)
+(177,80): error CS0246: 未能找到类型或命名空间名“EnumeratorCancellationAttribute”(是否缺少 using 指令或程序集引用?)
+(177,80): error CS0246: 未能找到类型或命名空间名“EnumeratorCancellation”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,9): error CS0246: 未能找到类型或命名空间名“XunYouAccelStateModel”(是否缺少 using 指令或程序集引用?)
+(15,18): error CS0103: 当前上下文中不存在名称“XunYouState”
+(16,18): error CS0103: 当前上下文中不存在名称“XunYouState”
+(17,18): error CS0103: 当前上下文中不存在名称“XunYouState”
+(21,25): error CS0246: 未能找到类型或命名空间名“XunYouAccelStateModel”(是否缺少 using 指令或程序集引用?)
+(49,13): error CS0103: 当前上下文中不存在名称“disposedValue”
+(57,48): error CS0103: 当前上下文中不存在名称“Ioc”
+(57,56): error CS0246: 未能找到类型或命名空间名“IXunYouAccelStateToFrontendCallback”(是否缺少 using 指令或程序集引用?)
+(61,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(63,13): error CS0103: 当前上下文中不存在名称“Log”
+(69,24): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(70,20): error CS0246: 未能找到类型或命名空间名“XunYouAccelStateModel”(是否缺少 using 指令或程序集引用?)
+(83,14): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(85,20): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(88,22): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(89,15): error CS0103: 当前上下文中不存在名称“Task”
+(96,14): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(98,20): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(98,36): error CS0103: 当前上下文中不存在名称“XunYouUninstallCode”
+(101,22): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(102,15): error CS0103: 当前上下文中不存在名称“Task”
+(117,14): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(119,20): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(122,20): error CS0103: 当前上下文中不存在名称“XunYouShowCommands”
+(123,22): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(132,13): error CS0103: 当前上下文中不存在名称“GameAcceleratorSettings”
+(135,15): error CS0103: 当前上下文中不存在名称“Task”
+(148,14): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(150,20): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(153,22): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(159,15): error CS0103: 当前上下文中不存在名称“Task”
+(160,26): error CS0103: 当前上下文中不存在名称“XunYouSendResultCode”
+(166,14): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(168,20): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(168,37): error CS0246: 未能找到类型或命名空间名“XunYouAccelStateModel”(是否缺少 using 指令或程序集引用?)
+(172,15): error CS0103: 当前上下文中不存在名称“Task”
+(179,14): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(184,23): error CS0103: 当前上下文中不存在名称“Channel”
+(194,31): error CS0103: 当前上下文中不存在名称“Plugin”
+(195,22): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(212,14): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(214,20): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(214,36): error CS0103: 当前上下文中不存在名称“XunYouSendResultCode”
+(217,22): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(218,15): error CS0103: 当前上下文中不存在名称“Task”
+(225,14): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(227,20): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(227,36): error CS0103: 当前上下文中不存在名称“XunYouIsRunningCode”
+(230,22): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(231,15): error CS0103: 当前上下文中不存在名称“Task”
+(238,14): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(240,20): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(240,36): error CS0103: 当前上下文中不存在名称“XunYouStartGameCode”
+(243,22): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(244,15): error CS0103: 当前上下文中不存在名称“Task”
+(251,14): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(253,20): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(256,9): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(256,31): error CS0103: 当前上下文中不存在名称“Convert”
+(257,15): error CS0103: 当前上下文中不存在名称“Task”
+(258,16): error CS0103: 当前上下文中不存在名称“ApiRspHelper”
+(1,1): hidden CS8019: 不需要的 using 指令。

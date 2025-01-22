@@ -1,0 +1,7 @@
+(4,34): error CS0246: 未能找到类型或命名空间名“IDisposableHolder”(是否缺少 using 指令或程序集引用?)
+(6,9): error CS0246: 未能找到类型或命名空间名“CompositeDisposable”(是否缺少 using 指令或程序集引用?)
+(12,33): error CS0246: 未能找到类型或命名空间名“AppTheme”(是否缺少 using 指令或程序集引用?)
+(32,5): error CS0246: 未能找到类型或命名空间名“IReadOnlyDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(32,33): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(6,29): warning CS0109: 成员“IApplication.CompositeDisposable”不会隐藏可访问成员。不需要关键字 new。
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

@@ -1,0 +1,49 @@
+(65,39): error CS0227: 不安全代码只会在使用 /unsafe 编译的情况下出现
+(65,39): error CS8795: 分部方法“XunYouSDK.xunyou_start_ex3(int, string?, int, int, string?, int, string?, int, XunYouShowCommands, int, int, int, delegate* unmanaged[Stdcall]<int, nint, int>, nint, string?, int, string?, int, string?, int)”必须具有实现部分，因为它具有可访问性修饰符。
+(30,9): error CS0246: 未能找到类型或命名空间名“XunYouShowCommands”(是否缺少 using 指令或程序集引用?)
+(34,9): error CS0246: 未能找到类型或命名空间名“XunYouDownLoadCallback”(是否缺少 using 指令或程序集引用?)
+(36,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(37,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(38,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(67,48): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(70,48): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(72,52): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(74,9): error CS0246: 未能找到类型或命名空间名“XunYouShowCommands”(是否缺少 using 指令或程序集引用?)
+(80,48): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(82,48): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(84,48): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(30,35): error CS0103: 当前上下文中不存在名称“XunYouShowCommands”
+(63,6): error CS0246: 未能找到类型或命名空间名“LibraryImportAttribute”(是否缺少 using 指令或程序集引用?)
+(63,6): error CS0246: 未能找到类型或命名空间名“LibraryImport”(是否缺少 using 指令或程序集引用?)
+(64,6): error CS0246: 未能找到类型或命名空间名“UnmanagedCallConvAttribute”(是否缺少 using 指令或程序集引用?)
+(64,6): error CS0246: 未能找到类型或命名空间名“UnmanagedCallConv”(是否缺少 using 指令或程序集引用?)
+(63,20): error CS0103: 当前上下文中不存在名称“libraryName”
+(64,44): error CS0246: 未能找到类型或命名空间名“CallConvStdcall”(是否缺少 using 指令或程序集引用?)
+(67,10): error CS0246: 未能找到类型或命名空间名“MarshalAsAttribute”(是否缺少 using 指令或程序集引用?)
+(67,10): error CS0246: 未能找到类型或命名空间名“MarshalAs”(是否缺少 using 指令或程序集引用?)
+(67,20): error CS0103: 当前上下文中不存在名称“UnmanagedType”
+(70,10): error CS0246: 未能找到类型或命名空间名“MarshalAsAttribute”(是否缺少 using 指令或程序集引用?)
+(70,10): error CS0246: 未能找到类型或命名空间名“MarshalAs”(是否缺少 using 指令或程序集引用?)
+(70,20): error CS0103: 当前上下文中不存在名称“UnmanagedType”
+(72,10): error CS0246: 未能找到类型或命名空间名“MarshalAsAttribute”(是否缺少 using 指令或程序集引用?)
+(72,10): error CS0246: 未能找到类型或命名空间名“MarshalAs”(是否缺少 using 指令或程序集引用?)
+(72,20): error CS0103: 当前上下文中不存在名称“UnmanagedType”
+(74,35): error CS0103: 当前上下文中不存在名称“XunYouShowCommands”
+(80,10): error CS0246: 未能找到类型或命名空间名“MarshalAsAttribute”(是否缺少 using 指令或程序集引用?)
+(80,10): error CS0246: 未能找到类型或命名空间名“MarshalAs”(是否缺少 using 指令或程序集引用?)
+(80,20): error CS0103: 当前上下文中不存在名称“UnmanagedType”
+(82,10): error CS0246: 未能找到类型或命名空间名“MarshalAsAttribute”(是否缺少 using 指令或程序集引用?)
+(82,10): error CS0246: 未能找到类型或命名空间名“MarshalAs”(是否缺少 using 指令或程序集引用?)
+(82,20): error CS0103: 当前上下文中不存在名称“UnmanagedType”
+(84,10): error CS0246: 未能找到类型或命名空间名“MarshalAsAttribute”(是否缺少 using 指令或程序集引用?)
+(84,10): error CS0246: 未能找到类型或命名空间名“MarshalAs”(是否缺少 using 指令或程序集引用?)
+(84,20): error CS0103: 当前上下文中不存在名称“UnmanagedType”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(41,9): error CS0227: 不安全代码只会在使用 /unsafe 编译的情况下出现
+(44,63): error CS0103: 当前上下文中不存在名称“Marshal”
+(45,21): error CS0103: 当前上下文中不存在名称“globalXunYouDownLoadCallback_xunyou_start_ex2”
+(52,22): error CS0103: 当前上下文中不存在名称“xunyou_start_ex2”
+(52,39): error CS0103: 当前上下文中不存在名称“appId”
+(53,17): error CS0103: 当前上下文中不存在名称“userType”
+(53,27): error CS0103: 当前上下文中不存在名称“channel_no”
+(53,39): error CS0103: 当前上下文中不存在名称“channel_no”

@@ -1,0 +1,154 @@
+(2,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(1,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Models”(是否缺少程序集引用?)
+(7,35): error CS0246: 未能找到类型或命名空间名“ReactiveObject”(是否缺少 using 指令或程序集引用?)
+(9,21): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(13,14): error CS0246: 未能找到类型或命名空间名“IUserManager”(是否缺少 using 指令或程序集引用?)
+(14,14): error CS0246: 未能找到类型或命名空间名“IMicroServiceClient”(是否缺少 using 指令或程序集引用?)
+(15,14): error CS0246: 未能找到类型或命名空间名“ISteamworksWebApiService”(是否缺少 using 指令或程序集引用?)
+(16,14): error CS0246: 未能找到类型或命名空间名“IWindowManager”(是否缺少 using 指令或程序集引用?)
+(19,12): error CS0246: 未能找到类型或命名空间名“IdentityUserInfoDTO”(是否缺少 using 指令或程序集引用?)
+(27,12): error CS0246: 未能找到类型或命名空间名“SteamUser”(是否缺少 using 指令或程序集引用?)
+(30,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(70,36): error CS0246: 未能找到类型或命名空间名“Func<>”(是否缺少 using 指令或程序集引用?)
+(70,41): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(70,46): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(70,79): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(70,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(99,12): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(101,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(127,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(134,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(160,45): error CS0246: 未能找到类型或命名空间名“CurrentUser”(是否缺少 using 指令或程序集引用?)
+(167,36): error CS0246: 未能找到类型或命名空间名“CurrentUser”(是否缺少 using 指令或程序集引用?)
+(173,37): error CS0246: 未能找到类型或命名空间名“IdentityUserInfoDTO”(是否缺少 using 指令或程序集引用?)
+(173,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(180,40): error CS0246: 未能找到类型或命名空间名“IdentityUserInfoDTO”(是否缺少 using 指令或程序集引用?)
+(180,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(194,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(200,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(225,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(326,47): error CS0246: 未能找到类型或命名空间名“FastLoginWebChannel”(是否缺少 using 指令或程序集引用?)
+(326,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(245,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(317,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(319,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(355,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(369,55): error CS0246: 未能找到类型或命名空间名“ExternalLoginChannel”(是否缺少 using 指令或程序集引用?)
+(369,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(404,51): error CS0246: 未能找到类型或命名空间名“ExternalLoginChannel”(是否缺少 using 指令或程序集引用?)
+(404,81): error CS0246: 未能找到类型或命名空间名“LoginOrRegisterResponse”(是否缺少 using 指令或程序集引用?)
+(404,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(18,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(18,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(26,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(26,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(29,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(29,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(35,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(35,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(41,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(41,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(326,77): error CS0103: 当前上下文中不存在名称“FastLoginWebChannel”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,67): error CS0103: 当前上下文中不存在名称“LazyThreadSafetyMode”
+(13,41): error CS0103: 当前上下文中不存在名称“IUserManager”
+(14,40): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(15,65): error CS0103: 当前上下文中不存在名称“ISteamworksWebApiService”
+(16,45): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(24,36): error CS0019: 运算符“!=”无法应用于“IdentityUserInfoDTO?”和“<null>”类型的操作数
+(51,22): error CS0246: 未能找到类型或命名空间名“LoginOrRegisterWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(63,19): error CS0246: 未能找到类型或命名空间名“NotImplementedException”(是否缺少 using 指令或程序集引用?)
+(72,13): error CS0019: 运算符“==”无法应用于“IdentityUserInfoDTO?”和“<null>”类型的操作数
+(72,27): error CS0126: 需要一个类型可转换为“Task”的对象
+(73,13): error CS0019: 运算符“!=”无法应用于“Func<Task<IApiRsp>>?”和“<null>”类型的操作数
+(75,29): error CS0149: 应输入方法名称
+(78,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(85,13): error CS0103: 当前上下文中不存在名称“Toast”
+(85,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(70,23): error CS0161: “UserService.SignOutAsync(Func<Task<IApiRsp>>?, string?)”: 并非所有的代码路径都返回值
+(92,23): error CS0103: 当前上下文中不存在名称“MessageBox”
+(92,82): error CS0103: 当前上下文中不存在名称“MessageBox”
+(93,18): error CS0103: 当前上下文中不存在名称“MessageBox”
+(103,13): error CS0019: 运算符“==”无法应用于“IdentityUserInfoDTO?”和“<null>”类型的操作数
+(105,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(107,18): error CS1061: “IdentityUserInfoDTO?”未包含“IsSignIn”的定义，并且找不到可接受第一个“IdentityUserInfoDTO?”类型参数的可访问扩展方法“IsSignIn”(是否缺少 using 指令或程序集引用?)
+(112,34): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(113,22): error CS1061: “IdentityUserInfoDTO?”未包含“Experience”的定义，并且找不到可接受第一个“IdentityUserInfoDTO?”类型参数的可访问扩展方法“Experience”(是否缺少 using 指令或程序集引用?)
+(114,22): error CS1061: “IdentityUserInfoDTO?”未包含“NextExperience”的定义，并且找不到可接受第一个“IdentityUserInfoDTO?”类型参数的可访问扩展方法“NextExperience”(是否缺少 using 指令或程序集引用?)
+(115,22): error CS1061: “IdentityUserInfoDTO?”未包含“Level”的定义，并且找不到可接受第一个“IdentityUserInfoDTO?”类型参数的可访问扩展方法“Level”(是否缺少 using 指令或程序集引用?)
+(117,22): error CS1061: “IdentityUserInfoDTO?”未包含“IsSignIn”的定义，并且找不到可接受第一个“IdentityUserInfoDTO?”类型参数的可访问扩展方法“IsSignIn”(是否缺少 using 指令或程序集引用?)
+(118,17): error CS0103: 当前上下文中不存在名称“Toast”
+(118,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(122,17): error CS0103: 当前上下文中不存在名称“Toast”
+(122,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(101,23): error CS0161: “UserService.SignInAsync()”: 并非所有的代码路径都返回值
+(129,31): error CS0126: 需要一个类型可转换为“Task”的对象
+(127,23): error CS0161: “UserService.DelAccountAsync()”: 并非所有的代码路径都返回值
+(134,23): error CS0161: “UserService.SignOutUserManagerAsync()”: 并非所有的代码路径都返回值
+(141,14): error CS1061: “UserService”未包含“WhenAnyValue”的定义，并且找不到可接受第一个“UserService”类型参数的可访问扩展方法“WhenAnyValue”(是否缺少 using 指令或程序集引用?)
+(150,35): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(151,35): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(152,9): error CS0103: 当前上下文中不存在名称“Task”
+(164,51): error CS0103: 当前上下文中不存在名称“PhoneNumberHelper”
+(173,23): error CS0161: “UserService.SaveUserAsync(IdentityUserInfoDTO)”: 并非所有的代码路径都返回值
+(183,14): error CS1061: “UserService”未包含“RaisePropertyChanged”的定义，并且找不到可接受第一个“UserService”类型参数的可访问扩展方法“RaisePropertyChanged”(是否缺少 using 指令或程序集引用?)
+(180,23): error CS0161: “UserService.RefreshUserAsync(IdentityUserInfoDTO?, bool)”: 并非所有的代码路径都返回值
+(194,23): error CS0161: “UserService.RefreshUserAsync(bool)”: 并非所有的代码路径都返回值
+(200,23): error CS0161: “UserService.RefreshShopTokenAsync(bool)”: 并非所有的代码路径都返回值
+(228,47): error CS0103: 当前上下文中不存在名称“Constants”
+(228,72): error CS0103: 当前上下文中不存在名称“StringComparison”
+(228,110): error CS0103: 当前上下文中不存在名称“FastLoginWebChannel”
+(228,141): error CS0103: 当前上下文中不存在名称“FastLoginWebChannel”
+(225,23): error CS0161: “UserService.OpenAuthUrl(string)”: 并非所有的代码路径都返回值
+(247,13): error CS0019: 运算符“!=”无法应用于“IdentityUserInfoDTO?”和“<null>”类型的操作数
+(249,22): error CS1061: “IdentityUserInfoDTO?”未包含“AvatarUrl”的定义，并且找不到可接受第一个“IdentityUserInfoDTO?”类型参数的可访问扩展方法“AvatarUrl”(是否缺少 using 指令或程序集引用?)
+(251,39): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(254,21): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(255,21): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(256,21): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(257,21): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(252,55): error CS1061: “?[]”未包含“Concat”的定义，并且找不到可接受第一个“?[]”类型参数的可访问扩展方法“Concat”(是否缺少 using 指令或程序集引用?)
+(261,30): error CS1061: “IdentityUserInfoDTO?”未包含“AvatarUrl”的定义，并且找不到可接受第一个“IdentityUserInfoDTO?”类型参数的可访问扩展方法“AvatarUrl”(是否缺少 using 指令或程序集引用?)
+(266,48): error CS0103: 当前上下文中不存在名称“ImageSource”
+(268,25): error CS0126: 需要一个类型可转换为“Task”的对象
+(270,38): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(273,25): error CS0126: 需要一个类型可转换为“Task”的对象
+(279,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(284,21): error CS0019: 运算符“!=”无法应用于“IdentityUserInfoDTO?”和“<null>”类型的操作数
+(284,42): error CS1061: “IdentityUserInfoDTO?”未包含“SteamAccountId”的定义，并且找不到可接受第一个“IdentityUserInfoDTO?”类型参数的可访问扩展方法“SteamAccountId”(是否缺少 using 指令或程序集引用?)
+(286,87): error CS1061: “IdentityUserInfoDTO?”未包含“SteamAccountId”的定义，并且找不到可接受第一个“IdentityUserInfoDTO?”类型参数的可访问扩展方法“SteamAccountId”(是否缺少 using 指令或程序集引用?)
+(291,50): error CS0103: 当前上下文中不存在名称“ImageSource”
+(282,19): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(245,23): error CS0161: “UserService.RefreshUserAvatarAsync()”: 并非所有的代码路径都返回值
+(331,18): error CS0103: 当前上下文中不存在名称“FastLoginWebChannel”
+(335,27): error CS0103: 当前上下文中不存在名称“Browser2”
+(335,60): error CS0103: 当前上下文中不存在名称“Constants”
+(335,123): error CS0103: 当前上下文中不存在名称“HttpUtility”
+(335,177): error CS0103: 当前上下文中不存在名称“HttpUtility”
+(337,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(338,18): error CS0103: 当前上下文中不存在名称“FastLoginWebChannel”
+(342,63): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(343,27): error CS0103: 当前上下文中不存在名称“Browser2”
+(343,60): error CS0103: 当前上下文中不存在名称“Constants”
+(343,120): error CS0103: 当前上下文中不存在名称“HttpUtility”
+(343,168): error CS0103: 当前上下文中不存在名称“HttpUtility”
+(345,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(347,15): error CS0103: 当前上下文中不存在名称“Browser2”
+(326,23): error CS0161: “UserService.OpenAuthUrl(string, FastLoginWebChannel)”: 并非所有的代码路径都返回值
+(358,27): error CS0126: 需要一个类型可转换为“Task”的对象
+(355,23): error CS0161: “UserService.UpdateCurrentUserPhoneNumberAsync(string)”: 并非所有的代码路径都返回值
+(372,27): error CS0126: 需要一个类型可转换为“Task”的对象
+(375,18): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(378,18): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(381,18): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(384,18): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(388,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(369,23): error CS0161: “UserService.UnbundleAccountAfterUpdateAsync(ExternalLoginChannel)”: 并非所有的代码路径都返回值
+(407,27): error CS0126: 需要一个类型可转换为“Task”的对象
+(410,18): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(413,18): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(416,18): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(420,18): error CS0103: 当前上下文中不存在名称“ExternalLoginChannel”
+(424,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(404,23): error CS0161: “UserService.BindAccountAfterUpdateAsync(ExternalLoginChannel, LoginOrRegisterResponse)”: 并非所有的代码路径都返回值
+(1,1): hidden CS8019: 不需要的 using 指令。

@@ -1,0 +1,11 @@
+(23,22): error CS0234: 命名空间“ArchiSteamFarm”中不存在类型或命名空间名“Storage”(是否缺少程序集引用?)
+(24,7): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(35,12): error CS0246: 未能找到类型或命名空间名“GlobalConfig”(是否缺少 using 指令或程序集引用?)
+(34,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(34,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(34,30): error CS0103: 当前上下文中不存在名称“Required”
+(37,6): error CS0246: 未能找到类型或命名空间名“JsonConstructorAttribute”(是否缺少 using 指令或程序集引用?)
+(37,6): error CS0246: 未能找到类型或命名空间名“JsonConstructor”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(24,1): hidden CS8019: 不需要的 using 指令。
+(23,1): hidden CS8019: 不需要的 using 指令。

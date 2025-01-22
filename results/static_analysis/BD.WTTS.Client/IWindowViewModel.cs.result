@@ -1,0 +1,6 @@
+(4,37): error CS0246: 未能找到类型或命名空间名“IPageViewModel”(是否缺少 using 指令或程序集引用?)
+(9,5): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(14,5): error CS0246: 未能找到类型或命名空间名“Action”(是否缺少 using 指令或程序集引用?)
+(16,35): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(16,45): error CS0246: 未能找到类型或命名空间名“CancelEventArgs”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

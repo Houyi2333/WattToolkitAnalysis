@@ -1,0 +1,15 @@
+(2,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(12,19): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+(16,18): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(18,25): error CS0126: 需要一个类型可转换为“ValueTask”的对象
+(19,33): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)
+(22,13): error CS0246: 未能找到类型或命名空间名“TextBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(25,29): error CS0103: 当前上下文中不存在名称“TextBoxWindowViewModel”
+(28,19): error CS0103: 当前上下文中不存在名称“TextBoxWindowViewModel”
+(30,17): error CS0126: 需要一个类型可转换为“ValueTask”的对象
+(36,13): error CS0103: 当前上下文中不存在名称“Toast”
+(36,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(16,28): error CS0161: “UnixHelper.RunShellAsync(string, bool, sbyte)”: 并非所有的代码路径都返回值
+(45,12): error CS0103: 当前上下文中不存在名称“Process2”
+(45,30): error CS0103: 当前上下文中不存在名称“Process2”

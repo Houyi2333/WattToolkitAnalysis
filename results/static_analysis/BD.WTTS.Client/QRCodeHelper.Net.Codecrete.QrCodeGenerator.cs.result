@@ -1,0 +1,23 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Net”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“SkiaSharp”(是否缺少 using 指令或程序集引用?)
+(9,106): error CS0246: 未能找到类型或命名空间名“QrCode”(是否缺少 using 指令或程序集引用?)
+(9,20): error CS0246: 未能找到类型或命名空间名“QRCodeCreateResult”(是否缺少 using 指令或程序集引用?)
+(9,47): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(9,63): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(11,19): error CS0103: 当前上下文中不存在名称“QrCode”
+(14,26): error CS0103: 当前上下文中不存在名称“QrCode”
+(15,30): error CS0103: 当前上下文中不存在名称“IApplication”
+(17,17): error CS0103: 当前上下文中不存在名称“AppTheme”
+(17,34): error CS0103: 当前上下文中不存在名称“SKColors”
+(18,22): error CS0103: 当前上下文中不存在名称“SKColors”
+(21,19): error CS0246: 未能找到类型或命名空间名“SKBitmap”(是否缺少 using 指令或程序集引用?)
+(22,13): error CS0246: 未能找到类型或命名空间名“SKData”(是否缺少 using 指令或程序集引用?)
+(22,41): error CS0103: 当前上下文中不存在名称“SKEncodedImageFormat”
+(24,21): error CS0103: 当前上下文中不存在名称“QRCodeCreateResult”
+(26,16): error CS0246: 未能找到类型或命名空间名“DataTooLongException”(是否缺少 using 指令或程序集引用?)
+(28,21): error CS0103: 当前上下文中不存在名称“QRCodeCreateResult”
+(30,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(32,21): error CS0103: 当前上下文中不存在名称“QRCodeCreateResult”
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

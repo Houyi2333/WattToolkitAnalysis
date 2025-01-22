@@ -1,0 +1,31 @@
+(15,12): error CS0246: 未能找到类型或命名空间名“DateTime”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(27,19): error CS0103: 当前上下文中不存在名称“DateTime”
+(42,13): error CS0103: 当前上下文中不存在名称“MessageBox”
+(48,31): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(49,9): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)
+(88,9): error CS0103: 当前上下文中不存在名称“AppendOSName”
+(93,18): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(112,18): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(125,13): error CS0103: 当前上下文中不存在名称“DesktopBridge”
+(168,18): error CS0103: 当前上下文中不存在名称“IOPath”
+(168,50): error CS0103: 当前上下文中不存在名称“Environment”
+(173,18): error CS0103: 当前上下文中不存在名称“IApplication”
+(177,18): error CS0103: 当前上下文中不存在名称“RuntimeInformation”
+(181,18): error CS0103: 当前上下文中不存在名称“RuntimeInformation”
+(185,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(188,26): error CS0103: 当前上下文中不存在名称“GetAssemblyVersion”
+(397,18): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(404,13): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(409,18): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(412,18): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(415,18): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(430,13): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(516,30): error CS0103: 当前上下文中不存在名称“Type”
+(520,22): error CS0103: 当前上下文中不存在名称“GetAssemblyVersion”
+(525,18): error CS0103: 当前上下文中不存在名称“GetAssemblyVersion”
+(525,44): error CS0246: 未能找到类型或命名空间名“ServiceCollection”(是否缺少 using 指令或程序集引用?)
+(529,18): error CS0103: 当前上下文中不存在名称“GetAssemblyVersion”
+(529,44): error CS0246: 未能找到类型或命名空间名“SkiaSharp”(是否缺少 using 指令或程序集引用?)
+(533,18): error CS0103: 当前上下文中不存在名称“GetAssemblyVersion”
+(537,18): error CS0103: 当前上下文中不存在名称“CommonEssentials”

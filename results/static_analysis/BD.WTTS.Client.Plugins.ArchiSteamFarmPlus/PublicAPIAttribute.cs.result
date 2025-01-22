@@ -1,0 +1,8 @@
+(6,35): error CS0246: 未能找到类型或命名空间名“Attribute”(是否缺少 using 指令或程序集引用?)
+(4,2): error CS0246: 未能找到类型或命名空间名“AttributeUsageAttribute”(是否缺少 using 指令或程序集引用?)
+(4,2): error CS0246: 未能找到类型或命名空间名“AttributeUsage”(是否缺少 using 指令或程序集引用?)
+(5,2): error CS0246: 未能找到类型或命名空间名“ConditionalAttribute”(是否缺少 using 指令或程序集引用?)
+(5,2): error CS0246: 未能找到类型或命名空间名“Conditional”(是否缺少 using 指令或程序集引用?)
+(4,17): error CS0103: 当前上下文中不存在名称“AttributeTargets”
+(8,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

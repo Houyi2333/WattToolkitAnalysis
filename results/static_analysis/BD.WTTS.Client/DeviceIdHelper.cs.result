@@ -1,0 +1,18 @@
+(10,12): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(32,21): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(6,33): error CS0103: 当前上下文中不存在名称“Constants”
+(8,34): error CS0103: 当前上下文中不存在名称“Constants”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,21): error CS0103: 当前上下文中不存在名称“Preferences2”
+(13,52): error CS0103: 当前上下文中不存在名称“ShortGuid”
+(13,82): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(15,20): error CS0103: 当前上下文中不存在名称“Guid”
+(16,13): error CS0103: 当前上下文中不存在名称“Preferences2”
+(23,21): error CS0103: 当前上下文中不存在名称“Preferences2”
+(26,21): error CS0103: 当前上下文中不存在名称“Random2”
+(26,67): error CS0103: 当前上下文中不存在名称“String2”
+(27,13): error CS0103: 当前上下文中不存在名称“Preferences2”
+(40,21): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(41,18): error CS8130: 无法推断隐式类型的析构变量“key”的类型。
+(41,27): error CS8130: 无法推断隐式类型的析构变量“iv”的类型。
+(43,20): error CS0103: 当前上下文中不存在名称“Hashs”

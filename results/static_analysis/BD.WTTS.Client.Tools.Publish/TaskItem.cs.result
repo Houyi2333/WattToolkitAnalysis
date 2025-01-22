@@ -1,0 +1,13 @@
+(1,23): error CS0234: 命名空间“Microsoft.Build”中不存在类型或命名空间名“Framework”(是否缺少程序集引用?)
+(5,32): error CS0246: 未能找到类型或命名空间名“ITaskItem”(是否缺少 using 指令或程序集引用?)
+(12,38): error CS0246: 未能找到类型或命名空间名“IDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(19,12): error CS0246: 未能找到类型或命名空间名“IDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(56,12): error CS0246: 未能找到类型或命名空间名“ICollection<>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(60,17): error CS0019: 运算符“==”无法应用于“IDictionary<string, string>?”和“<null>”类型的操作数
+(61,28): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(62,44): error CS1061: “IDictionary<string, string>?”未包含“Keys”的定义，并且找不到可接受第一个“IDictionary<string, string>?”类型参数的可访问扩展方法“Keys”(是否缺少 using 指令或程序集引用?)
+(72,13): error CS0019: 运算符“==”无法应用于“IDictionary<string, string>?”和“<null>”类型的操作数
+(73,23): error CS1061: “IDictionary<string, string>?”未包含“ContainsKey”的定义，并且找不到可接受第一个“IDictionary<string, string>?”类型参数的可访问扩展方法“ContainsKey”(是否缺少 using 指令或程序集引用?)
+(75,20): error CS0021: 无法将带 [] 的索引应用于“IDictionary<string, string>?”类型的表达式
+(1,1): hidden CS8019: 不需要的 using 指令。

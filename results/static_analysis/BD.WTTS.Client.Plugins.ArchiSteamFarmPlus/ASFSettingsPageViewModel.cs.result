@@ -1,0 +1,30 @@
+(3,49): error CS0246: 未能找到类型或命名空间名“ViewModelBase”(是否缺少 using 指令或程序集引用?)
+(5,22): error CS0246: 未能找到类型或命名空间名“IArchiSteamFarmService”(是否缺少 using 指令或程序集引用?)
+(22,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(5,58): error CS0103: 当前上下文中不存在名称“IArchiSteamFarmService”
+(9,9): error CS0103: 当前上下文中不存在名称“SelectGlobalFiles”
+(9,29): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(11,9): error CS0103: 当前上下文中不存在名称“SetEncryptionKey”
+(11,28): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(13,9): error CS0103: 当前上下文中不存在名称“OpenASFFolder”
+(13,25): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(13,56): error CS0103: 当前上下文中不存在名称“ASFService”
+(15,9): error CS0103: 当前上下文中不存在名称“RefreshGlobalConfig”
+(15,31): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(15,54): error CS0103: 当前上下文中不存在名称“ASFService”
+(24,14): error CS0103: 当前上下文中不存在名称“ASFService”
+(26,13): error CS0103: 当前上下文中不存在名称“Toast”
+(26,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(26,40): error CS0103: 当前上下文中不存在名称“BDStrings”
+(26,68): error CS0103: 当前上下文中不存在名称“ToastLength”
+(27,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(30,9): error CS0246: 未能找到类型或命名空间名“FilePickerFileType”(是否缺少 using 指令或程序集引用?)
+(31,13): error CS0103: 当前上下文中不存在名称“IApplication”
+(33,29): error CS0246: 未能找到类型或命名空间名“ValueTuple<,>”(是否缺少 using 指令或程序集引用?)
+(35,44): error CS0103: 当前上下文中不存在名称“FileEx”
+(39,18): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(41,33): error CS0103: 当前上下文中不存在名称“MediaTypeNames”
+(47,15): error CS0103: 当前上下文中不存在名称“FilePicker2”
+(47,37): error CS0103: 当前上下文中不存在名称“ASFService”
+(22,23): error CS0161: “ASFSettingsPageViewModel.SelectGlobalFiles_Click()”: 并非所有的代码路径都返回值

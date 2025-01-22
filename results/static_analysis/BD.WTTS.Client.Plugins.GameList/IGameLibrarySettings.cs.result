@@ -1,0 +1,20 @@
+(31,5): error CS0246: 未能找到类型或命名空间名“GridLayoutType”(是否缺少 using 指令或程序集引用?)
+(41,5): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(41,10): error CS0246: 未能找到类型或命名空间名“SteamAppType”(是否缺少 using 指令或程序集引用?)
+(46,5): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(51,5): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(66,11): error CS0246: 未能找到类型或命名空间名“GridLayoutType”(是否缺少 using 指令或程序集引用?)
+(76,21): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(76,26): error CS0246: 未能找到类型或命名空间名“SteamAppType”(是否缺少 using 指令或程序集引用?)
+(81,21): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(86,21): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(66,57): error CS0103: 当前上下文中不存在名称“GridLayoutType”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(76,69): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(76,74): error CS0246: 未能找到类型或命名空间名“SteamAppType”(是否缺少 using 指令或程序集引用?)
+(76,90): error CS0103: 当前上下文中不存在名称“SteamAppType”
+(76,109): error CS0103: 当前上下文中不存在名称“SteamAppType”
+(76,135): error CS0103: 当前上下文中不存在名称“SteamAppType”
+(76,154): error CS0103: 当前上下文中不存在名称“SteamAppType”
+(21,12): error CS0103: 当前上下文中不存在名称“Ioc”
+(21,29): error CS0246: 未能找到类型或命名空间名“IOptionsMonitor<>”(是否缺少 using 指令或程序集引用?)

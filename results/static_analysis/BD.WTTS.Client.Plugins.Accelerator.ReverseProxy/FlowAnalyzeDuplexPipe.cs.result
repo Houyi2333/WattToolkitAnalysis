@@ -1,0 +1,6 @@
+(6,38): error CS0246: 未能找到类型或命名空间名“DelegatingDuplexPipe<>”(是否缺少 using 指令或程序集引用?)
+(6,59): error CS0246: 未能找到类型或命名空间名“FlowAnalyzeStream”(是否缺少 using 指令或程序集引用?)
+(8,34): error CS0246: 未能找到类型或命名空间名“IDuplexPipe”(是否缺少 using 指令或程序集引用?)
+(8,58): error CS0246: 未能找到类型或命名空间名“IFlowAnalyzer”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(8,88): error CS1729: “DelegatingDuplexPipe<FlowAnalyzeStream>”不包含采用 2 个参数的构造函数

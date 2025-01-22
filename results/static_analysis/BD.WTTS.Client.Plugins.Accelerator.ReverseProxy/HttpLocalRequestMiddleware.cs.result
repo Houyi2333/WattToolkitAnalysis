@@ -1,0 +1,75 @@
+(2,41): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“Http”(是否缺少程序集引用?)
+(15,5): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(31,35): error CS0246: 未能找到类型或命名空间名“HttpContext”(是否缺少 using 指令或程序集引用?)
+(31,56): error CS0246: 未能找到类型或命名空间名“RequestDelegate”(是否缺少 using 指令或程序集引用?)
+(31,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(96,39): error CS0246: 未能找到类型或命名空间名“HttpContext”(是否缺少 using 指令或程序集引用?)
+(96,11): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(231,45): error CS0246: 未能找到类型或命名空间名“HttpContext”(是否缺少 using 指令或程序集引用?)
+(231,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(242,40): error CS0246: 未能找到类型或命名空间名“HttpContext”(是否缺少 using 指令或程序集引用?)
+(242,12): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(12,14): error CS0246: 未能找到类型或命名空间名“IReverseProxyConfig”(是否缺少 using 指令或程序集引用?)
+(13,14): error CS0246: 未能找到类型或命名空间名“CookieHttpClient”(是否缺少 using 指令或程序集引用?)
+(18,9): error CS0246: 未能找到类型或命名空间名“IReverseProxyConfig”(是否缺少 using 指令或程序集引用?)
+(19,9): error CS0246: 未能找到类型或命名空间名“CookieHttpClient”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(33,13): error CS0103: 当前上下文中不存在名称“HttpMethods”
+(39,46): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+(39,90): error CS0103: 当前上下文中不存在名称“StringComparison”
+(41,17): error CS0103: 当前上下文中不存在名称“HttpMethods”
+(49,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(56,51): error CS0103: 当前上下文中不存在名称“StatusCodes”
+(58,21): error CS0126: 需要一个类型可转换为“Task”的对象
+(61,21): error CS0126: 需要一个类型可转换为“Task”的对象
+(66,25): error CS0126: 需要一个类型可转换为“Task”的对象
+(69,79): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(74,29): error CS0126: 需要一个类型可转换为“Task”的对象
+(78,25): error CS0126: 需要一个类型可转换为“Task”的对象
+(83,25): error CS0126: 需要一个类型可转换为“Task”的对象
+(31,23): error CS0161: “HttpLocalRequestMiddleware.InvokeAsync(HttpContext, RequestDelegate)”: 并非所有的代码路径都返回值
+(102,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(103,19): error CS0103: 当前上下文中不存在名称“HttpUtility”
+(104,13): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(107,34): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(111,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(117,26): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(118,26): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(119,27): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(120,29): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(121,27): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(122,30): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(123,28): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(124,28): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(125,30): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(129,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(135,32): error CS0246: 未能找到类型或命名空间名“HttpMethod”(是否缺少 using 指令或程序集引用?)
+(131,20): error CS0246: 未能找到类型或命名空间名“HttpMethod”(是否缺少 using 指令或程序集引用?)
+(158,38): error CS0103: 当前上下文中不存在名称“HttpMethods”
+(159,31): error CS0246: 未能找到类型或命名空间名“HttpRequestMessage”(是否缺少 using 指令或程序集引用?)
+(163,51): error CS0246: 未能找到类型或命名空间名“StreamContent”(是否缺少 using 指令或程序集引用?)
+(171,54): error CS0103: 当前上下文中不存在名称“StringComparison”
+(173,29): error CS0103: 当前上下文中不存在名称“CookieHttpClient”
+(173,70): error CS0246: 未能找到类型或命名空间名“Cookie”(是否缺少 using 指令或程序集引用?)
+(180,55): error CS0103: 当前上下文中不存在名称“StringComparison”
+(182,50): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(185,94): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(185,112): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(194,59): error CS0103: 当前上下文中不存在名称“HttpCompletionOption”
+(194,44): error CS1061: “HttpClient”未包含“SendAsync”的定义，并且找不到可接受第一个“HttpClient”类型参数的可访问扩展方法“SendAsync”(是否缺少 using 指令或程序集引用?)
+(197,51): error CS0103: 当前上下文中不存在名称“StatusCodes”
+(203,51): error CS0103: 当前上下文中不存在名称“StatusCodes”
+(204,21): error CS0126: 需要一个类型可转换为“Task”的对象
+(155,24): error CS0161: “SendAsync()”: 并非所有的代码路径都返回值
+(155,19): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(208,17): error CS0103: 当前上下文中不存在名称“HttpMethods”
+(211,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(213,22): error CS0103: 当前上下文中不存在名称“HttpMethods”
+(218,21): error CS0126: 需要一个类型可转换为“Task”的对象
+(222,43): error CS0103: 当前上下文中不存在名称“StatusCodes”
+(224,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(226,43): error CS0103: 当前上下文中不存在名称“StatusCodes”
+(96,16): error CS0161: “HttpLocalRequestMiddleware.HandleHttpRequestAsync(HttpContext)”: 并非所有的代码路径都返回值
+(231,23): error CS0161: “HttpLocalRequestMiddleware.HandleStatusCodeAsync(HttpContext, int)”: 并非所有的代码路径都返回值
+(243,43): error CS0103: 当前上下文中不存在名称“StatusCodes”
+(1,1): hidden CS8019: 不需要的 using 指令。

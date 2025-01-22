@@ -1,0 +1,23 @@
+(1,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(5,49): error CS0246: 未能找到类型或命名空间名“ViewModelBase”(是否缺少 using 指令或程序集引用?)
+(28,36): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,9): error CS0103: 当前上下文中不存在名称“_ScriptsSourceList”
+(9,34): error CS0246: 未能找到类型或命名空间名“SourceList<>”(是否缺少 using 指令或程序集引用?)
+(9,45): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+(11,9): error CS0103: 当前上下文中不存在名称“_ScriptsSourceList”
+(14,24): error CS0103: 当前上下文中不存在名称“RxApp”
+(15,42): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+(15,19): error CS0103: 当前上下文中不存在名称“SortExpressionComparer”
+(16,23): error CS0103: 当前上下文中不存在名称“_Scripts”
+(19,9): error CS0103: 当前上下文中不存在名称“DownloadScriptItemCommand”
+(19,37): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(19,60): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+(21,14): error CS1061: “ScriptStorePageViewModel”未包含“WhenAnyValue”的定义，并且找不到可接受第一个“ScriptStorePageViewModel”类型参数的可访问扩展方法“WhenAnyValue”(是否缺少 using 指令或程序集引用?)
+(30,9): error CS0103: 当前上下文中不存在名称“ProxyService”
+(35,22): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(36,49): error CS0103: 当前上下文中不存在名称“SearchText”
+(36,93): error CS0103: 当前上下文中不存在名称“Strings”
+(56,9): error CS0103: 当前上下文中不存在名称“_ScriptsSourceList”
+(57,9): error CS0103: 当前上下文中不存在名称“_ScriptsSourceList”
+(1,1): hidden CS8019: 不需要的 using 指令。

@@ -1,0 +1,13 @@
+(3,25): error CS0246: 未能找到类型或命名空间名“PureCircle”(是否缺少 using 指令或程序集引用?)
+(5,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(19,33): error CS0246: 未能找到类型或命名空间名“DrawingContext”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(5,75): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(10,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(11,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(16,23): error CS0246: 未能找到类型或命名空间名“PureCircle”(是否缺少 using 指令或程序集引用?)
+(16,9): error CS0103: 当前上下文中不存在名称“AffectsRender”
+(21,24): error CS0103: 当前上下文中不存在名称“Diameter”
+(25,17): error CS0246: 未能找到类型或命名空间名“Pen”(是否缺少 using 指令或程序集引用?)
+(25,21): error CS0103: 当前上下文中不存在名称“Background”
+(26,17): error CS0246: 未能找到类型或命名空间名“Point”(是否缺少 using 指令或程序集引用?)

@@ -1,0 +1,16 @@
+(25,12): error CS0246: 未能找到类型或命名空间名“TimeSpan”(是否缺少 using 指令或程序集引用?)
+(31,21): error CS0246: 未能找到类型或命名空间名“LifetimeHttpHandler”(是否缺少 using 指令或程序集引用?)
+(19,22): error CS0246: 未能找到类型或命名空间名“ConcurrentQueue<>”(是否缺少 using 指令或程序集引用?)
+(86,34): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(91,18): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(96,18): error CS0246: 未能找到类型或命名空间名“WeakReference”(是否缺少 using 指令或程序集引用?)
+(108,30): error CS0246: 未能找到类型或命名空间名“LifetimeHttpHandler”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(25,53): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(37,13): error CS0103: 当前上下文中不存在名称“Interlocked”
+(48,15): error CS0103: 当前上下文中不存在名称“Task”
+(51,19): error CS0103: 当前上下文中不存在名称“Task”
+(66,13): error CS0103: 当前上下文中不存在名称“Debug”
+(75,17): error CS0103: 当前上下文中不存在名称“Interlocked”
+(111,33): error CS0246: 未能找到类型或命名空间名“WeakReference”(是否缺少 using 指令或程序集引用?)
+(123,20): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)

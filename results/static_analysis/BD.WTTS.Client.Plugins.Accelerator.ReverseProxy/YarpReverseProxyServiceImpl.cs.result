@@ -1,0 +1,90 @@
+(1,17): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“NLog”(是否缺少 using 指令或程序集引用?)
+(7,52): error CS0246: 未能找到类型或命名空间名“ReverseProxyServiceImpl”(是否缺少 using 指令或程序集引用?)
+(7,77): error CS0246: 未能找到类型或命名空间名“IReverseProxyService”(是否缺少 using 指令或程序集引用?)
+(7,99): error CS0246: 未能找到类型或命名空间名“IReverseProxySettings”(是否缺少 using 指令或程序集引用?)
+(7,122): error CS0246: 未能找到类型或命名空间名“IAsyncDisposable”(是否缺少 using 指令或程序集引用?)
+(242,21): error CS0246: 未能找到类型或命名空间名“IAsyncDisposable”(是否缺少 using 指令或程序集引用?)
+(39,21): error CS0246: 未能找到类型或命名空间名“CertificateManagerImpl”(是否缺少 using 指令或程序集引用?)
+(11,5): error CS0246: 未能找到类型或命名空间名“WebApplication”(是否缺少 using 指令或程序集引用?)
+(12,14): error CS0246: 未能找到类型或命名空间名“IPCSubProcessService”(是否缺少 using 指令或程序集引用?)
+(13,14): error CS0246: 未能找到类型或命名空间名“IPCToastService”(是否缺少 using 指令或程序集引用?)
+(14,14): error CS0246: 未能找到类型或命名空间名“IPCPlatformService”(是否缺少 using 指令或程序集引用?)
+(17,9): error CS0246: 未能找到类型或命名空间名“IPCSubProcessService”(是否缺少 using 指令或程序集引用?)
+(18,9): error CS0246: 未能找到类型或命名空间名“DnsAnalysisServiceImpl”(是否缺少 using 指令或程序集引用?)
+(19,9): error CS0246: 未能找到类型或命名空间名“DnsDohAnalysisService”(是否缺少 using 指令或程序集引用?)
+(20,9): error CS0246: 未能找到类型或命名空间名“ICertificateManager”(是否缺少 using 指令或程序集引用?)
+(90,20): error CS0234: 命名空间“System”中不存在类型或命名空间名“Timers”(是否缺少程序集引用?)
+(99,24): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(99,29): error CS0246: 未能找到类型或命名空间名“StartProxyResult”(是否缺少 using 指令或程序集引用?)
+(101,5): error CS0246: 未能找到类型或命名空间名“StartProxyResult”(是否缺少 using 指令或程序集引用?)
+(200,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(211,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(219,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(234,11): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+(242,11): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+(242,21): error CS0538: '显式接口声明中的“IAsyncDisposable”不是接口
+(28,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(28,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(28,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,39): error CS0103: 当前上下文中不存在名称“Path”
+(9,52): error CS0103: 当前上下文中不存在名称“IOPath”
+(20,51): error CS1729: “ReverseProxyServiceImpl”不包含采用 2 个参数的构造函数
+(23,41): error CS0246: 未能找到类型或命名空间名“IPCPlatformService”(是否缺少 using 指令或程序集引用?)
+(24,31): error CS0246: 未能找到类型或命名空间名“IPCToastService”(是否缺少 using 指令或程序集引用?)
+(25,31): error CS0246: 未能找到类型或命名空间名“CertificateManagerImpl”(是否缺少 using 指令或程序集引用?)
+(31,69): error CS0246: 未能找到类型或命名空间名“ArgumentNullException”(是否缺少 using 指令或程序集引用?)
+(32,9): error CS0103: 当前上下文中不存在名称“ipcAddSingletonServices”
+(41,42): error CS0019: 运算符“!=”无法应用于“WebApplication?”和“<null>”类型的操作数
+(45,13): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(47,13): error CS0103: 当前上下文中不存在名称“ICertificateManager”
+(53,17): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(55,21): error CS0103: 当前上下文中不存在名称“DateTime”
+(55,41): error CS1061: “X509Certificate2?”未包含“NotAfter”的定义，并且找不到可接受第一个“X509Certificate2?”类型参数的可访问扩展方法“NotAfter”(是否缺少 using 指令或程序集引用?)
+(55,57): error CS1061: “X509Certificate2?”未包含“NotAfter”的定义，并且找不到可接受第一个“X509Certificate2?”类型参数的可访问扩展方法“NotAfter”(是否缺少 using 指令或程序集引用?)
+(55,69): error CS0103: 当前上下文中不存在名称“DateTime”
+(57,40): error CS1061: “X509Certificate2?”未包含“NotAfter”的定义，并且找不到可接受第一个“X509Certificate2?”类型参数的可访问扩展方法“NotAfter”(是否缺少 using 指令或程序集引用?)
+(57,51): error CS0103: 当前上下文中不存在名称“DateTime”
+(59,52): error CS0234: 命名空间“System”中不存在类型或命名空间名“Timers”(是否缺少程序集引用?)
+(64,39): error CS1061: “Timers.Timer?”未包含“Elapsed”的定义，并且找不到可接受第一个“Timers.Timer?”类型参数的可访问扩展方法“Elapsed”(是否缺少 using 指令或程序集引用?)
+(80,39): error CS1061: “Timers.Timer?”未包含“Start”的定义，并且找不到可接受第一个“Timers.Timer?”类型参数的可访问扩展方法“Start”(是否缺少 using 指令或程序集引用?)
+(83,20): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(85,31): error CS0103: 当前上下文中不存在名称“TAG”
+(99,67): error CS0103: 当前上下文中不存在名称“Task”
+(106,13): error CS0103: 当前上下文中不存在名称“IOPath”
+(108,27): error CS0103: 当前上下文中不存在名称“WebApplication”
+(108,60): error CS0246: 未能找到类型或命名空间名“WebApplicationOptions”(是否缺少 using 指令或程序集引用?)
+(114,45): error CS0246: 未能找到类型或命名空间名“LogConsoleService”(是否缺少 using 指令或程序集引用?)
+(114,88): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(116,40): error CS0246: 未能找到类型或命名空间名“HostFilteringOptions”(是否缺少 using 指令或程序集引用?)
+(126,13): error CS0103: 当前上下文中不存在名称“StartupConfigureServices”
+(127,48): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(162,17): error CS1061: “WebApplication?”未包含“UseHostFiltering”的定义，并且找不到可接受第一个“WebApplication?”类型参数的可访问扩展方法“UseHostFiltering”(是否缺少 using 指令或程序集引用?)
+(163,13): error CS0103: 当前上下文中不存在名称“StartupConfigure”
+(165,13): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(167,28): error CS0103: 当前上下文中不存在名称“Task”
+(171,27): error CS0103: 当前上下文中不存在名称“Task”
+(184,16): error CS0103: 当前上下文中不存在名称“TaskCreationOptions”
+(185,13): error CS0103: 当前上下文中不存在名称“Task”
+(188,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(190,13): error CS0103: 当前上下文中不存在名称“OnException”
+(203,9): error CS0103: 当前上下文中不存在名称“Scripts”
+(204,13): error CS0019: 运算符“==”无法应用于“WebApplication?”和“<null>”类型的操作数
+(204,26): error CS0126: 需要一个类型可转换为“Task”的对象
+(205,19): error CS1061: “WebApplication?”未包含“StopAsync”的定义，并且找不到可接受第一个“WebApplication?”类型参数的可访问扩展方法“StopAsync”(是否缺少 using 指令或程序集引用?)
+(206,13): error CS0019: 运算符“==”无法应用于“WebApplication?”和“<null>”类型的操作数
+(206,26): error CS0126: 需要一个类型可转换为“Task”的对象
+(207,19): error CS1061: “WebApplication?”未包含“DisposeAsync”的定义，并且找不到可接受第一个“WebApplication?”类型参数的可访问扩展方法“DisposeAsync”(是否缺少 using 指令或程序集引用?)
+(200,23): error CS0161: “YarpReverseProxyServiceImpl.StopProxyAsync()”: 并非所有的代码路径都返回值
+(213,53): error CS0246: 未能找到类型或命名空间名“IFlowAnalyzer”(是否缺少 using 指令或程序集引用?)
+(215,21): error CS0103: 当前上下文中不存在名称“Serializable”
+(221,22): error CS0103: 当前上下文中不存在名称“LogConsoleService”
+(229,17): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(238,23): error CS1061: “WebApplication?”未包含“DisposeAsync”的定义，并且找不到可接受第一个“WebApplication?”类型参数的可访问扩展方法“DisposeAsync”(是否缺少 using 指令或程序集引用?)
+(234,21): error CS0161: “YarpReverseProxyServiceImpl.DisposeAsyncCore()”: 并非所有的代码路径都返回值
+(246,9): error CS0103: 当前上下文中不存在名称“Dispose”
+(247,9): error CS0103: 当前上下文中不存在名称“GC”
+(242,38): error CS0161: “YarpReverseProxyServiceImpl.DisposeAsync()”: 并非所有的代码路径都返回值
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

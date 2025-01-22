@@ -1,0 +1,59 @@
+(2,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(1,18): error CS0234: 命名空间“BD.WTTS.UI”中不存在类型或命名空间名“Views”(是否缺少程序集引用?)
+(8,12): error CS0246: 未能找到类型或命名空间名“NetworkCheckControlViewModel”(是否缺少 using 指令或程序集引用?)
+(10,5): error CS0246: 未能找到类型或命名空间名“DateTime”(是否缺少 using 指令或程序集引用?)
+(11,14): error CS0246: 未能找到类型或命名空间名“IHostsFileService”(是否缺少 using 指令或程序集引用?)
+(12,14): error CS0246: 未能找到类型或命名空间名“IPlatformService”(是否缺少 using 指令或程序集引用?)
+(13,14): error CS0246: 未能找到类型或命名空间名“IReverseProxyService”(是否缺少 using 指令或程序集引用?)
+(14,14): error CS0246: 未能找到类型或命名空间名“ICertificateManager”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,49): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(13,57): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+(14,55): error CS0103: 当前上下文中不存在名称“ICertificateManager”
+(18,9): error CS0103: 当前上下文中不存在名称“ProxyService”
+(43,9): error CS0103: 当前上下文中不存在名称“StartProxyCommand”
+(43,29): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(52,9): error CS0103: 当前上下文中不存在名称“RefreshCommand”
+(52,26): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(72,9): error CS0103: 当前上下文中不存在名称“ProxySettingsCommand”
+(72,32): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(78,13): error CS0103: 当前上下文中不存在名称“IApplication”
+(80,32): error CS0103: 当前上下文中不存在名称“IHostsFileService”
+(81,13): error CS0103: 当前上下文中不存在名称“SetupCertificateCommand”
+(81,39): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(82,13): error CS0103: 当前上下文中不存在名称“DeleteCertificateCommand”
+(82,40): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(83,13): error CS0103: 当前上下文中不存在名称“EditHostsFileCommand”
+(83,36): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(83,76): error CS1061: “IHostsFileService?”未包含“OpenFile”的定义，并且找不到可接受第一个“IHostsFileService?”类型参数的可访问扩展方法“OpenFile”(是否缺少 using 指令或程序集引用?)
+(84,13): error CS0103: 当前上下文中不存在名称“OpenHostsDirCommand”
+(84,35): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(84,75): error CS1061: “IHostsFileService?”未包含“OpenFileDir”的定义，并且找不到可接受第一个“IHostsFileService?”类型参数的可访问扩展方法“OpenFileDir”(是否缺少 using 指令或程序集引用?)
+(85,13): error CS0103: 当前上下文中不存在名称“ResetHostsFileCommand”
+(85,37): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(85,85): error CS1061: “IHostsFileService?”未包含“ResetFile”的定义，并且找不到可接受第一个“IHostsFileService?”类型参数的可访问扩展方法“ResetFile”(是否缺少 using 指令或程序集引用?)
+(86,13): error CS0103: 当前上下文中不存在名称“NetworkFixCommand”
+(86,33): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(86,56): error CS0103: 当前上下文中不存在名称“ProxyService”
+(87,13): error CS0103: 当前上下文中不存在名称“TrustCerCommand”
+(87,31): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(88,13): error CS0103: 当前上下文中不存在名称“ShowCertificateCommand”
+(88,38): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(89,13): error CS0103: 当前上下文中不存在名称“OpenCertificateDirCommand”
+(89,41): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(94,13): error CS0103: 当前上下文中不存在名称“OpenLogFileCommand”
+(94,34): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(139,13): error CS0103: 当前上下文中不存在名称“Toast”
+(139,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(139,43): error CS0103: 当前上下文中不存在名称“Strings”
+(143,13): error CS0103: 当前上下文中不存在名称“Toast”
+(143,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(143,41): error CS0103: 当前上下文中不存在名称“Strings”
+(155,13): error CS0103: 当前上下文中不存在名称“Toast”
+(155,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(155,43): error CS0103: 当前上下文中不存在名称“Strings”
+(159,13): error CS0103: 当前上下文中不存在名称“Toast”
+(159,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(159,41): error CS0103: 当前上下文中不存在名称“Strings”
+(166,9): error CS0103: 当前上下文中不存在名称“MessageBox”
+(1,1): hidden CS8019: 不需要的 using 指令。

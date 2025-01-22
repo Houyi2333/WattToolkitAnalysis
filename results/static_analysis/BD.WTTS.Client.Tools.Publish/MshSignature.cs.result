@@ -1,0 +1,33 @@
+(6,36): error CS0234: 命名空间“System.Management.Automation”中不存在类型或命名空间名“Internal”(是否缺少程序集引用?)
+(7,36): error CS0234: 命名空间“System.Security.Cryptography”中不存在类型或命名空间名“X509Certificates”(是否缺少程序集引用?)
+(124,16): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(136,16): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(271,27): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(273,27): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(224,28): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(107,17): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(109,17): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(203,28): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(204,28): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(245,28): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(206,13): error CS0103: 当前上下文中不存在名称“Utils”
+(207,13): error CS0103: 当前上下文中不存在名称“Utils”
+(208,13): error CS0103: 当前上下文中不存在名称“Utils”
+(226,13): error CS0103: 当前上下文中不存在名称“Utils”
+(227,13): error CS0103: 当前上下文中不存在名称“Utils”
+(247,13): error CS0103: 当前上下文中不存在名称“Utils”
+(248,13): error CS0103: 当前上下文中不存在名称“Utils”
+(265,13): error CS0103: 当前上下文中不存在名称“Utils”
+(337,38): error CS0103: 当前上下文中不存在名称“MshSignature”
+(341,36): error CS0103: 当前上下文中不存在名称“SecuritySupport”
+(349,42): error CS0103: 当前上下文中不存在名称“MshSignature”
+(353,42): error CS0103: 当前上下文中不存在名称“MshSignature”
+(360,38): error CS0103: 当前上下文中不存在名称“MshSignature”
+(365,38): error CS0103: 当前上下文中不存在名称“MshSignature”
+(370,38): error CS0103: 当前上下文中不存在名称“MshSignature”
+(375,38): error CS0103: 当前上下文中不存在名称“MshSignature”
+(380,42): error CS0103: 当前上下文中不存在名称“MshSignature”
+(396,31): error CS0103: 当前上下文中不存在名称“StringUtil”
+(6,1): hidden CS8019: 不需要的 using 指令。
+(7,1): hidden CS8019: 不需要的 using 指令。

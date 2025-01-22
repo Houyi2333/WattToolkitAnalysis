@@ -1,0 +1,13 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(5,38): error CS0246: 未能找到类型或命名空间名“PageBase”(是否缺少 using 指令或程序集引用?)
+(12,44): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(12,54): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,9): error CS0103: 当前上下文中不存在名称“InitializeComponent”
+(14,23): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(14,45): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(16,13): error CS0103: 当前上下文中不存在名称“NavigationService”
+(16,52): error CS0103: 当前上下文中不存在名称“NavigationTransitionEffect”
+(20,13): error CS0103: 当前上下文中不存在名称“NavigationService”
+(20,55): error CS0103: 当前上下文中不存在名称“NavigationTransitionEffect”
+(1,1): hidden CS8019: 不需要的 using 指令。

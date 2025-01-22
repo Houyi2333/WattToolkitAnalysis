@@ -1,0 +1,9 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“ArchiSteamFarm”(是否缺少 using 指令或程序集引用?)
+(5,63): error CS0246: 未能找到类型或命名空间名“TabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(12,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(17,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(22,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(27,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(34,21): error CS1061: “ArchiSteamFarmPlusPageViewModel”未包含“RaiseAndSetIfChanged”的定义，并且找不到可接受第一个“ArchiSteamFarmPlusPageViewModel”类型参数的可访问扩展方法“RaiseAndSetIfChanged”(是否缺少 using 指令或程序集引用?)
+(1,1): hidden CS8019: 不需要的 using 指令。

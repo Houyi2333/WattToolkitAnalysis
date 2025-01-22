@@ -1,0 +1,40 @@
+(3,46): error CS0246: 未能找到类型或命名空间名“IMainThreadPlatformService”(是否缺少 using 指令或程序集引用?)
+(20,49): error CS0246: 未能找到类型或命名空间名“Action”(是否缺少 using 指令或程序集引用?)
+(21,9): error CS0246: 未能找到类型或命名空间名“ThreadingDispatcherPriority”(是否缺少 using 指令或程序集引用?)
+(35,43): error CS0246: 未能找到类型或命名空间名“ThreadingDispatcherPriority”(是否缺少 using 指令或程序集引用?)
+(35,12): error CS0246: 未能找到类型或命名空间名“DispatcherPriority”(是否缺少 using 指令或程序集引用?)
+(21,48): error CS0103: 当前上下文中不存在名称“ThreadingDispatcherPriority”
+(34,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(34,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(34,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,17): error CS0103: 当前上下文中不存在名称“Startup”
+(11,24): error CS0103: 当前上下文中不存在名称“Dispatcher”
+(23,13): error CS0103: 当前上下文中不存在名称“Startup”
+(26,13): error CS0103: 当前上下文中不存在名称“Dispatcher”
+(38,9): error CS0103: 当前上下文中不存在名称“ThreadingDispatcherPriority”
+(38,48): error CS0103: 当前上下文中不存在名称“ThreadingDispatcherPriority”
+(38,88): error CS0103: 当前上下文中不存在名称“DispatcherPriority”
+(39,9): error CS0103: 当前上下文中不存在名称“ThreadingDispatcherPriority”
+(39,51): error CS0103: 当前上下文中不存在名称“DispatcherPriority”
+(40,9): error CS0103: 当前上下文中不存在名称“ThreadingDispatcherPriority”
+(40,56): error CS0103: 当前上下文中不存在名称“DispatcherPriority”
+(41,9): error CS0103: 当前上下文中不存在名称“ThreadingDispatcherPriority”
+(41,52): error CS0103: 当前上下文中不存在名称“DispatcherPriority”
+(42,9): error CS0103: 当前上下文中不存在名称“ThreadingDispatcherPriority”
+(42,51): error CS0103: 当前上下文中不存在名称“DispatcherPriority”
+(43,9): error CS0103: 当前上下文中不存在名称“ThreadingDispatcherPriority”
+(43,46): error CS0103: 当前上下文中不存在名称“DispatcherPriority”
+(44,9): error CS0103: 当前上下文中不存在名称“ThreadingDispatcherPriority”
+(44,47): error CS0103: 当前上下文中不存在名称“DispatcherPriority”
+(45,9): error CS0103: 当前上下文中不存在名称“ThreadingDispatcherPriority”
+(45,47): error CS0103: 当前上下文中不存在名称“DispatcherPriority”
+(46,9): error CS0103: 当前上下文中不存在名称“ThreadingDispatcherPriority”
+(46,49): error CS0103: 当前上下文中不存在名称“DispatcherPriority”
+(47,9): error CS0103: 当前上下文中不存在名称“ThreadingDispatcherPriority”
+(47,47): error CS0103: 当前上下文中不存在名称“DispatcherPriority”
+(48,9): error CS0103: 当前上下文中不存在名称“ThreadingDispatcherPriority”
+(48,45): error CS0103: 当前上下文中不存在名称“DispatcherPriority”
+(49,25): error CS0103: 当前上下文中不存在名称“ThreadingDispatcherPriority”
+(49,60): error CS0103: 当前上下文中不存在名称“DispatcherPriority”
+(49,86): error CS0103: 当前上下文中不存在名称“DispatcherPriority”

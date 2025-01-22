@@ -1,0 +1,20 @@
+(1,16): error CS0234: 命名空间“Avalonia”中不存在类型或命名空间名“Media”(是否缺少程序集引用?)
+(2,16): error CS0234: 命名空间“Avalonia”中不存在类型或命名空间名“Media”(是否缺少程序集引用?)
+(3,16): error CS0234: 命名空间“Avalonia”中不存在类型或命名空间名“Platform”(是否缺少程序集引用?)
+(9,41): error CS0246: 未能找到类型或命名空间名“DrawingContext”(是否缺少 using 指令或程序集引用?)
+(9,65): error CS0246: 未能找到类型或命名空间名“Bitmap”(是否缺少 using 指令或程序集引用?)
+(9,96): error CS0246: 未能找到类型或命名空间名“Rect”(是否缺少 using 指令或程序集引用?)
+(9,113): error CS0246: 未能找到类型或命名空间名“Rect”(是否缺少 using 指令或程序集引用?)
+(14,41): error CS0246: 未能找到类型或命名空间名“ImmediateDrawingContext”(是否缺少 using 指令或程序集引用?)
+(14,74): error CS0246: 未能找到类型或命名空间名“Bitmap”(是否缺少 using 指令或程序集引用?)
+(14,105): error CS0246: 未能找到类型或命名空间名“Rect”(是否缺少 using 指令或程序集引用?)
+(14,122): error CS0246: 未能找到类型或命名空间名“Rect”(是否缺少 using 指令或程序集引用?)
+(15,9): error CS0246: 未能找到类型或命名空间名“BitmapInterpolationMode”(是否缺少 using 指令或程序集引用?)
+(16,9): error CS0246: 未能找到类型或命名空间名“BitmapBlendingMode”(是否缺少 using 指令或程序集引用?)
+(15,53): error CS0103: 当前上下文中不存在名称“BitmapInterpolationMode”
+(16,45): error CS0103: 当前上下文中不存在名称“BitmapBlendingMode”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(18,33): error CS0246: 未能找到类型或命名空间名“ArgumentNullException”(是否缺少 using 指令或程序集引用?)
+(2,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

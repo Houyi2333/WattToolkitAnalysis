@@ -1,0 +1,12 @@
+(4,35): error CS0246: 未能找到类型或命名空间名“IReactiveObject”(是否缺少 using 指令或程序集引用?)
+(4,52): error CS0246: 未能找到类型或命名空间名“INotifyPropertyChanged”(是否缺少 using 指令或程序集引用?)
+(4,76): error CS0246: 未能找到类型或命名空间名“INotifyPropertyChanging”(是否缺少 using 指令或程序集引用?)
+(4,101): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(4,114): error CS0246: 未能找到类型或命名空间名“IDisposableHolder”(是否缺少 using 指令或程序集引用?)
+(8,30): error CS0246: 未能找到类型或命名空间名“IDisposableHolder”(是否缺少 using 指令或程序集引用?)
+(8,5): error CS0246: 未能找到类型或命名空间名“ICollection<>”(是否缺少 using 指令或程序集引用?)
+(8,17): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(8,30): error CS0538: '显式接口声明中的“IDisposableHolder”不是接口
+(6,9): error CS0246: 未能找到类型或命名空间名“CompositeDisposable”(是否缺少 using 指令或程序集引用?)
+(6,29): warning CS0109: 成员“IViewModelBase.CompositeDisposable”不会隐藏可访问成员。不需要关键字 new。
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

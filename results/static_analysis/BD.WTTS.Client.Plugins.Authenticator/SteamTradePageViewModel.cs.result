@@ -1,0 +1,186 @@
+(5,22): error CS0246: 未能找到类型或命名空间名“WinAuth”(是否缺少 using 指令或程序集引用?)
+(4,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(1,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(2,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“WinAuth”(是否缺少 using 指令或程序集引用?)
+(9,55): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(398,53): error CS0246: 未能找到类型或命名空间名“SteamTradeConfirmationModel”(是否缺少 using 指令或程序集引用?)
+(398,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(406,53): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(406,65): error CS0246: 未能找到类型或命名空间名“SteamTradeConfirmationModel”(是否缺少 using 指令或程序集引用?)
+(406,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(11,14): error CS0246: 未能找到类型或命名空间名“IAuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(13,14): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(14,14): error CS0246: 未能找到类型或命名空间名“ISteamAccountService”(是否缺少 using 指令或程序集引用?)
+(16,40): error CS0246: 未能找到类型或命名空间名“IAuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(64,27): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(81,18): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(130,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(147,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(237,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(237,16): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(237,28): error CS0246: 未能找到类型或命名空间名“SteamTradeConfirmationModel”(是否缺少 using 指令或程序集引用?)
+(267,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(290,36): error CS0246: 未能找到类型或命名空间名“SteamTradeConfirmationModel”(是否缺少 using 指令或程序集引用?)
+(313,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(328,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(343,35): error CS0246: 未能找到类型或命名空间名“SteamTradeConfirmationModel”(是否缺少 using 指令或程序集引用?)
+(353,50): error CS0246: 未能找到类型或命名空间名“SteamTradeConfirmationModel”(是否缺少 using 指令或程序集引用?)
+(353,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(366,11): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(14,58): error CS0103: 当前上下文中不存在名称“Ioc”
+(14,66): error CS0246: 未能找到类型或命名空间名“ISteamAccountService”(是否缺少 using 指令或程序集引用?)
+(20,9): error CS0103: 当前上下文中不存在名称“ConfirmTradeCommand”
+(20,31): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(20,54): error CS0246: 未能找到类型或命名空间名“SteamTradeConfirmationModel”(是否缺少 using 指令或程序集引用?)
+(21,9): error CS0103: 当前上下文中不存在名称“CancelTradeCommand”
+(21,30): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(21,53): error CS0246: 未能找到类型或命名空间名“SteamTradeConfirmationModel”(是否缺少 using 指令或程序集引用?)
+(25,43): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(28,62): error CS0103: 当前上下文中不存在名称“ResourceService”
+(28,52): error CS1061: “SteamAuthenticator?”未包含“GetClient”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“GetClient”(是否缺少 using 指令或程序集引用?)
+(29,17): error CS0103: 当前上下文中不存在名称“UserNameText”
+(29,52): error CS1061: “SteamAuthenticator?”未包含“AccountName”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“AccountName”(是否缺少 using 指令或程序集引用?)
+(33,22): error CS1061: “SteamTradePageViewModel”未包含“WhenAnyValue”的定义，并且找不到可接受第一个“SteamTradePageViewModel”类型参数的可访问扩展方法“WhenAnyValue”(是否缺少 using 指令或程序集引用?)
+(55,17): error CS0103: 当前上下文中不存在名称“Close”
+(58,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(68,27): error CS1061: “WinAuth.SteamClient?”未包含“IsLoggedIn”的定义，并且找不到可接受第一个“WinAuth.SteamClient?”类型参数的可访问扩展方法“IsLoggedIn”(是否缺少 using 指令或程序集引用?)
+(70,13): error CS0103: 当前上下文中不存在名称“IsLoading”
+(71,13): error CS0103: 当前上下文中不存在名称“IsLogged”
+(75,13): error CS0103: 当前上下文中不存在名称“IsLogged”
+(77,36): error CS1503: 参数 1: 无法从“WinAuth.SteamClient?”转换为“WinAuth.SteamClient”
+(64,32): error CS0161: “SteamTradePageViewModel.Initialize()”: 并非所有的代码路径都返回值
+(83,9): error CS0103: 当前上下文中不存在名称“IsLoading”
+(86,13): error CS0019: 运算符“==”无法应用于“WinAuth.SteamClient?”和“<null>”类型的操作数
+(89,26): error CS1061: “WinAuth.SteamClient?”未包含“Session”的定义，并且找不到可接受第一个“WinAuth.SteamClient?”类型参数的可访问扩展方法“Session”(是否缺少 using 指令或程序集引用?)
+(89,45): error CS0019: 运算符“==”无法应用于“SteamAuthenticator?”和“<null>”类型的操作数
+(95,31): error CS1061: “WinAuth.SteamClient?”未包含“Session”的定义，并且找不到可接受第一个“WinAuth.SteamClient?”类型参数的可访问扩展方法“Session”(是否缺少 using 指令或程序集引用?)
+(99,19): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(99,49): error CS1061: “WinAuth.SteamClient?”未包含“Session”的定义，并且找不到可接受第一个“WinAuth.SteamClient?”类型参数的可访问扩展方法“Session”(是否缺少 using 指令或程序集引用?)
+(104,40): error CS1061: “WinAuth.SteamClient?”未包含“Session”的定义，并且找不到可接受第一个“WinAuth.SteamClient?”类型参数的可访问扩展方法“Session”(是否缺少 using 指令或程序集引用?)
+(110,33): error CS1061: “SteamAuthenticator?”未包含“SessionData”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“SessionData”(是否缺少 using 指令或程序集引用?)
+(119,19): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(126,13): error CS0103: 当前上下文中不存在名称“IsLoading”
+(133,40): error CS1503: 参数 1: 无法从“WinAuth.SteamClient?”转换为“WinAuth.SteamClient”
+(130,23): error CS0161: “SteamTradePageViewModel.Refresh()”: 并非所有的代码路径都返回值
+(138,19): error CS0103: 当前上下文中不存在名称“SelectedAll”
+(139,9): error CS0103: 当前上下文中不存在名称“SelectedAll”
+(141,30): error CS0103: 当前上下文中不存在名称“Confirmations”
+(149,34): error CS0103: 当前上下文中不存在名称“UserNameText”
+(149,72): error CS0103: 当前上下文中不存在名称“PasswordText”
+(151,13): error CS0103: 当前上下文中不存在名称“Toast”
+(151,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(151,43): error CS0103: 当前上下文中不存在名称“Strings”
+(152,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(154,13): error CS0103: 当前上下文中不存在名称“IsLoading”
+(154,26): error CS0103: 当前上下文中不存在名称“IsLogged”
+(154,38): error CS0019: 运算符“==”无法应用于“SteamAuthenticator?”和“<null>”类型的操作数
+(156,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(158,55): error CS1061: “SteamAuthenticator?”未包含“AccountName”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“AccountName”(是否缺少 using 指令或程序集引用?)
+(158,71): error CS0103: 当前上下文中不存在名称“UserNameText”
+(158,107): error CS1061: “SteamAuthenticator?”未包含“AccountName”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“AccountName”(是否缺少 using 指令或程序集引用?)
+(160,13): error CS0103: 当前上下文中不存在名称“Toast”
+(160,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(161,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(163,56): error CS0103: 当前上下文中不存在名称“ResourceService”
+(163,46): error CS1061: “SteamAuthenticator?”未包含“GetClient”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“GetClient”(是否缺少 using 指令或程序集引用?)
+(164,13): error CS0019: 运算符“==”无法应用于“WinAuth.SteamClient?”和“<null>”类型的操作数
+(166,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(169,9): error CS0103: 当前上下文中不存在名称“IsLoading”
+(171,30): error CS0246: 未能找到类型或命名空间名“SteamLoginState”(是否缺少 using 指令或程序集引用?)
+(173,24): error CS0103: 当前上下文中不存在名称“UserNameText”
+(174,24): error CS0103: 当前上下文中不存在名称“PasswordText”
+(175,24): error CS0103: 当前上下文中不存在名称“ResourceService”
+(182,60): error CS1061: “SteamAuthenticator?”未包含“CurrentCode”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“CurrentCode”(是否缺少 using 指令或程序集引用?)
+(186,9): error CS0103: 当前上下文中不存在名称“IsLogged”
+(188,13): error CS0103: 当前上下文中不存在名称“IsLogged”
+(190,26): error CS1061: “WinAuth.SteamClient?”未包含“Session”的定义，并且找不到可接受第一个“WinAuth.SteamClient?”类型参数的可访问扩展方法“Session”(是否缺少 using 指令或程序集引用?)
+(198,13): error CS0103: 当前上下文中不存在名称“Toast”
+(198,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(198,57): error CS0103: 当前上下文中不存在名称“Strings”
+(198,75): error CS0103: 当前上下文中不存在名称“Strings”
+(199,33): error CS1061: “SteamAuthenticator?”未包含“SessionData”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“SessionData”(是否缺少 using 指令或程序集引用?)
+(199,47): error CS0103: 当前上下文中不存在名称“RemenberLogin”
+(199,76): error CS1061: “WinAuth.SteamClient?”未包含“Session”的定义，并且找不到可接受第一个“WinAuth.SteamClient?”类型参数的可访问扩展方法“Session”(是否缺少 using 指令或程序集引用?)
+(200,19): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(201,58): error CS0103: 当前上下文中不存在名称“ResourceService”
+(201,48): error CS1061: “SteamAuthenticator?”未包含“GetClient”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“GetClient”(是否缺少 using 指令或程序集引用?)
+(202,36): error CS1503: 参数 1: 无法从“WinAuth.SteamClient?”转换为“WinAuth.SteamClient”
+(206,13): error CS0103: 当前上下文中不存在名称“Toast”
+(206,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(207,26): error CS1061: “WinAuth.SteamClient?”未包含“Logout”的定义，并且找不到可接受第一个“WinAuth.SteamClient?”类型参数的可访问扩展方法“Logout”(是否缺少 using 指令或程序集引用?)
+(210,9): error CS0103: 当前上下文中不存在名称“IsLoading”
+(147,23): error CS0161: “SteamTradePageViewModel.Login()”: 并非所有的代码路径都返回值
+(217,17): error CS0019: 运算符“==”无法应用于“SteamAuthenticator?”和“<null>”类型的操作数
+(224,28): error CS0103: 当前上下文中不存在名称“ResourceService”
+(224,18): error CS1061: “SteamAuthenticator?”未包含“GetClient”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“GetClient”(是否缺少 using 指令或程序集引用?)
+(226,17): error CS0019: 运算符“==”无法应用于“WinAuth.SteamClient?”和“<null>”类型的操作数
+(229,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(239,9): error CS0103: 当前上下文中不存在名称“IsLoading”
+(247,17): error CS0103: 当前上下文中不存在名称“Confirmations”
+(248,17): error CS0103: 当前上下文中不存在名称“Confirmations”
+(251,16): error CS0246: 未能找到类型或命名空间名“WinAuthUnauthorisedSteamRequestException”(是否缺少 using 指令或程序集引用?)
+(253,13): error CS0103: 当前上下文中不存在名称“Toast”
+(253,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(255,13): error CS0103: 当前上下文中不存在名称“IsLogged”
+(257,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(262,9): error CS0103: 当前上下文中不存在名称“IsLoading”
+(264,16): error CS0103: 当前上下文中不存在名称“Confirmations”
+(269,13): error CS0019: 运算符“==”无法应用于“WinAuth.SteamClient?”和“<null>”类型的操作数
+(269,37): error CS0019: 运算符“==”无法应用于“SteamAuthenticator?”和“<null>”类型的操作数
+(269,66): error CS0126: 需要一个类型可转换为“Task”的对象
+(270,19): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(271,21): error CS0246: 未能找到类型或命名空间名“MessageBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(271,61): error CS0103: 当前上下文中不存在名称“Strings”
+(274,26): error CS1061: “WinAuth.SteamClient?”未包含“Logout”的定义，并且找不到可接受第一个“WinAuth.SteamClient?”类型参数的可访问扩展方法“Logout”(是否缺少 using 指令或程序集引用?)
+(275,33): error CS1061: “SteamAuthenticator?”未包含“SessionData”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“SessionData”(是否缺少 using 指令或程序集引用?)
+(276,19): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(277,13): error CS0103: 当前上下文中不存在名称“IsLogged”
+(267,23): error CS0161: “SteamTradePageViewModel.Logout()”: 并非所有的代码路径都返回值
+(294,23): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(295,29): error CS0246: 未能找到类型或命名空间名“MessageBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(315,14): error CS0103: 当前上下文中不存在名称“Confirmations”
+(317,13): error CS0103: 当前上下文中不存在名称“Toast”
+(317,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(317,43): error CS0103: 当前上下文中不存在名称“Strings”
+(318,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(320,19): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(321,21): error CS0246: 未能找到类型或命名空间名“MessageBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(313,23): error CS0161: “SteamTradePageViewModel.ConfirmAllTrade()”: 并非所有的代码路径都返回值
+(330,14): error CS0103: 当前上下文中不存在名称“Confirmations”
+(332,13): error CS0103: 当前上下文中不存在名称“Toast”
+(332,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(332,43): error CS0103: 当前上下文中不存在名称“Strings”
+(333,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(335,19): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(336,21): error CS0246: 未能找到类型或命名空间名“MessageBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(328,23): error CS0161: “SteamTradePageViewModel.CancelAllTrade()”: 并非所有的代码路径都返回值
+(345,19): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(346,21): error CS0246: 未能找到类型或命名空间名“MessageBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(358,13): error CS0103: 当前上下文中不存在名称“Toast”
+(358,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(358,56): error CS0103: 当前上下文中不存在名称“Strings”
+(358,72): error CS0103: 当前上下文中不存在名称“Strings”
+(374,28): error CS0103: 当前上下文中不存在名称“Confirmations”
+(379,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(382,35): error CS0103: 当前上下文中不存在名称“Strings”
+(382,55): error CS0103: 当前上下文中不存在名称“Strings”
+(390,9): error CS0103: 当前上下文中不存在名称“Toast”
+(390,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(390,36): error CS0103: 当前上下文中不存在名称“Strings”
+(392,61): error CS0126: 需要一个类型可转换为“Task”的对象
+(393,9): error CS0103: 当前上下文中不存在名称“Toast”
+(393,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(366,16): error CS0161: “SteamTradePageViewModel.OperationAllTrade(bool)”: 并非所有的代码路径都返回值
+(400,46): error CS1503: 参数 2: 无法从“SteamTradeConfirmationModel[]”转换为“SteamTradeConfirmationModel”
+(401,9): error CS0103: 当前上下文中不存在名称“Confirmations”
+(413,46): error CS1061: “WinAuth.SteamClient?”未包含“ConfirmTrade”的定义，并且找不到可接受第一个“WinAuth.SteamClient?”类型参数的可访问扩展方法“ConfirmTrade”(是否缺少 using 指令或程序集引用?)
+(416,17): error CS0103: 当前上下文中不存在名称“Confirmations”
+(420,17): error CS0103: 当前上下文中不存在名称“Toast”
+(420,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(420,45): error CS0103: 当前上下文中不存在名称“Strings”
+(424,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

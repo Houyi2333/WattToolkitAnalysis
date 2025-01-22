@@ -1,0 +1,13 @@
+(9,39): error CS0246: 未能找到类型或命名空间名“HttpMessageInvoker”(是否缺少 using 指令或程序集引用?)
+(17,35): error CS0246: 未能找到类型或命名空间名“IDomainConfig”(是否缺少 using 指令或程序集引用?)
+(17,63): error CS0246: 未能找到类型或命名空间名“IDomainResolver”(是否缺少 using 指令或程序集引用?)
+(22,35): error CS0246: 未能找到类型或命名空间名“HttpMessageHandler”(是否缺少 using 指令或程序集引用?)
+(34,63): error CS0246: 未能找到类型或命名空间名“HttpRequestMessage”(是否缺少 using 指令或程序集引用?)
+(34,91): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(34,27): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(34,32): error CS0246: 未能找到类型或命名空间名“HttpResponseMessage”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(18,20): error CS0246: 未能找到类型或命名空间名“ReverseProxyHttpClientHandler”(是否缺少 using 指令或程序集引用?)
+(18,80): error CS0103: 当前上下文中不存在名称“HttpNoProxy”
+(23,11): error CS1729: “HttpMessageInvoker”不包含采用 2 个参数的构造函数
+(45,45): error CS0103: 当前上下文中不存在名称“Constants”

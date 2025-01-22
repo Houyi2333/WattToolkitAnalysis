@@ -1,0 +1,37 @@
+(4,29): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(3,30): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)
+(10,41): error CS0246: 未能找到类型或命名空间名“IToastService”(是否缺少 using 指令或程序集引用?)
+(8,2): error CS0246: 未能找到类型或命名空间名“TemplatePartAttribute”(是否缺少 using 指令或程序集引用?)
+(8,2): error CS0246: 未能找到类型或命名空间名“TemplatePart”(是否缺少 using 指令或程序集引用?)
+(9,2): error CS0246: 未能找到类型或命名空间名“PseudoClassesAttribute”(是否缺少 using 指令或程序集引用?)
+(9,2): error CS0246: 未能找到类型或命名空间名“PseudoClasses”(是否缺少 using 指令或程序集引用?)
+(8,36): error CS0246: 未能找到类型或命名空间名“Panel”(是否缺少 using 指令或程序集引用?)
+(42,22): error CS0246: 未能找到类型或命名空间名“ToastIcon”(是否缺少 using 指令或程序集引用?)
+(65,22): error CS0246: 未能找到类型或命名空间名“ToastIcon”(是否缺少 using 指令或程序集引用?)
+(65,51): error CS0246: 未能找到类型或命名空间名“ToastLength”(是否缺少 using 指令或程序集引用?)
+(14,12): error CS0246: 未能找到类型或命名空间名“SnackbarManager”(是否缺少 using 指令或程序集引用?)
+(17,52): error CS0246: 未能找到类型或命名空间名“ToastIcon”(是否缺少 using 指令或程序集引用?)
+(26,36): error CS0246: 未能找到类型或命名空间名“TopLevel”(是否缺少 using 指令或程序集引用?)
+(16,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(16,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(16,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,90): error CS0103: 当前上下文中不存在名称“Ioc”
+(12,98): error CS0246: 未能找到类型或命名空间名“IToastService”(是否缺少 using 指令或程序集引用?)
+(19,9): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(20,9): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(21,9): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(22,9): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(28,37): error CS0246: 未能找到类型或命名空间名“SnackbarManager”(是否缺少 using 指令或程序集引用?)
+(30,24): error CS0103: 当前上下文中不存在名称“NotificationPosition”
+(44,13): error CS0019: 运算符“==”无法应用于“SnackbarManager?”和“<null>”类型的操作数
+(46,24): error CS0103: 当前上下文中不存在名称“AvaloniaWindowManagerImpl”
+(49,43): error CS0246: 未能找到类型或命名空间名“SnackbarManager”(是否缺少 using 指令或程序集引用?)
+(51,32): error CS0103: 当前上下文中不存在名称“NotificationPosition”
+(57,13): error CS0019: 运算符“!=”无法应用于“SnackbarManager?”和“<null>”类型的操作数
+(60,33): error CS1061: “SnackbarManager?”未包含“Show”的定义，并且找不到可接受第一个“SnackbarManager?”类型参数的可访问扩展方法“Show”(是否缺少 using 指令或程序集引用?)
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。

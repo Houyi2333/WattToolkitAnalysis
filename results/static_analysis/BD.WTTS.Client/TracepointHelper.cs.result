@@ -1,0 +1,5 @@
+(4,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“AppCenter”(是否缺少程序集引用?)
+(26,48): error CS0246: 未能找到类型或命名空间名“IDictionary<,>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(28,9): error CS0103: 当前上下文中不存在名称“Analytics”
+(4,1): hidden CS8019: 不需要的 using 指令。

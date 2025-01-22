@@ -1,0 +1,14 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(8,45): error CS0246: 未能找到类型或命名空间名“ReactiveUserControl<>”(是否缺少 using 指令或程序集引用?)
+(8,65): error CS0246: 未能找到类型或命名空间名“SteamGuardImportPageViewModel”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,9): error CS0103: 当前上下文中不存在名称“InitializeComponent”
+(13,9): error CS0103: 当前上下文中不存在名称“DataContext”
+(13,29): error CS0246: 未能找到类型或命名空间名“SteamGuardImportPageViewModel”(是否缺少 using 指令或程序集引用?)
+(4,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

@@ -1,0 +1,25 @@
+(1,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(57,59): error CS0246: 未能找到类型或命名空间名“NotificationType”(是否缺少 using 指令或程序集引用?)
+(115,19): error CS0246: 未能找到类型或命名空间名“NotificationImportanceLevel”(是否缺少 using 指令或程序集引用?)
+(56,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(56,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(56,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(73,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(73,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(73,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(94,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(94,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(94,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(114,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(114,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(114,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(59,9): error CS0103: 当前上下文中不存在名称“NotificationType”
+(60,9): error CS0103: 当前上下文中不存在名称“NotificationType”
+(61,9): error CS0103: 当前上下文中不存在名称“NotificationType”
+(62,9): error CS0103: 当前上下文中不存在名称“NotificationType”
+(63,9): error CS0103: 当前上下文中不存在名称“NotificationType”
+(64,24): error CS0246: 未能找到类型或命名空间名“ArgumentOutOfRangeException”(是否缺少 using 指令或程序集引用?)
+(82,28): error CS0246: 未能找到类型或命名空间名“ArgumentOutOfRangeException”(是否缺少 using 指令或程序集引用?)
+(118,53): error CS0103: 当前上下文中不存在名称“NotificationImportanceLevel”
+(119,18): error CS0103: 当前上下文中不存在名称“NotificationImportanceLevel”

@@ -1,0 +1,30 @@
+(1,40): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“Net”(是否缺少程序集引用?)
+(18,42): error CS0246: 未能找到类型或命名空间名“HttpRequest”(是否缺少 using 指令或程序集引用?)
+(18,25): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(30,54): error CS0246: 未能找到类型或命名空间名“HttpResponse”(是否缺少 using 指令或程序集引用?)
+(30,19): error CS0246: 未能找到类型或命名空间名“Encoding”(是否缺少 using 指令或程序集引用?)
+(55,38): error CS0246: 未能找到类型或命名空间名“HttpRequest”(是否缺少 using 指令或程序集引用?)
+(70,39): error CS0246: 未能找到类型或命名空间名“IUrlHelper”(是否缺少 using 指令或程序集引用?)
+(70,73): error CS0246: 未能找到类型或命名空间名“QueryString”(是否缺少 using 指令或程序集引用?)
+(70,25): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(94,47): error CS0246: 未能找到类型或命名空间名“HttpRequest”(是否缺少 using 指令或程序集引用?)
+(17,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(17,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(17,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(29,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(29,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(29,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(54,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(54,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(54,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(69,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(69,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(69,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(93,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(93,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(93,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(62,20): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)
+(76,24): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)
+(101,53): error CS0103: 当前上下文中不存在名称“AddressFamily”
+(102,53): error CS0103: 当前上下文中不存在名称“AddressFamily”

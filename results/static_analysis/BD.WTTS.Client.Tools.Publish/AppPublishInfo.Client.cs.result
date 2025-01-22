@@ -1,0 +1,20 @@
+(1,36): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(29,48): error CS0246: 未能找到类型或命名空间名“JsonSerializerContext”(是否缺少 using 指令或程序集引用?)
+(15,21): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(26,2): error CS0246: 未能找到类型或命名空间名“JsonSourceGenerationOptionsAttribute”(是否缺少 using 指令或程序集引用?)
+(26,2): error CS0246: 未能找到类型或命名空间名“JsonSourceGenerationOptions”(是否缺少 using 指令或程序集引用?)
+(27,2): error CS0246: 未能找到类型或命名空间名“JsonSerializableAttribute”(是否缺少 using 指令或程序集引用?)
+(27,2): error CS0246: 未能找到类型或命名空间名“JsonSerializable”(是否缺少 using 指令或程序集引用?)
+(28,2): error CS0246: 未能找到类型或命名空间名“JsonSerializableAttribute”(是否缺少 using 指令或程序集引用?)
+(28,2): error CS0246: 未能找到类型或命名空间名“JsonSerializable”(是否缺少 using 指令或程序集引用?)
+(27,26): error CS0246: 未能找到类型或命名空间名“ConcurrentBag<>”(是否缺少 using 指令或程序集引用?)
+(28,26): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(17,31): error CS0246: 未能找到类型或命名空间名“ConcurrentBag<>”(是否缺少 using 指令或程序集引用?)
+(9,21): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(9,26): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(7,39): error CS0103: 当前上下文中不存在名称“Path”
+(7,52): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(19,32): error CS0103: 当前上下文中不存在名称“File”
+(19,52): error CS0103: 当前上下文中不存在名称“FileMode”
+(20,75): error CS0117: “AppPublishInfoContext”未包含“Default”的定义

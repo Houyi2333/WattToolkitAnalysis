@@ -1,0 +1,26 @@
+(3,58): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(9,20): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(9,12): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(9,20): error CS0538: '显式接口声明中的“ICommand”不是接口
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,25): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(14,23): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(15,27): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(25,29): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(27,28): error CS0103: 当前上下文中不存在名称“Architecture”
+(28,27): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(29,24): error CS0103: 当前上下文中不存在名称“Platform”
+(32,9): error CS0103: 当前上下文中不存在名称“IScanPublicDirectoryCommand”
+(35,36): error CS0103: 当前上下文中不存在名称“File”
+(36,27): error CS0103: 当前上下文中不存在名称“Hashs”
+(39,27): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(41,28): error CS0103: 当前上下文中不存在名称“Architecture”
+(42,27): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(43,24): error CS0103: 当前上下文中不存在名称“Platform”
+(46,9): error CS0103: 当前上下文中不存在名称“IScanPublicDirectoryCommand”
+(49,36): error CS0103: 当前上下文中不存在名称“File”
+(50,27): error CS0103: 当前上下文中不存在名称“Hashs”
+(53,9): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(63,9): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(73,9): error CS0246: 未能找到类型或命名空间名“MacOSBuildingUniversalBinaryInfo”(是否缺少 using 指令或程序集引用?)
+(74,9): error CS0103: 当前上下文中不存在名称“Console”

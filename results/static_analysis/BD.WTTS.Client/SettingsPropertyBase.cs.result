@@ -1,0 +1,49 @@
+(59,76): error CS0246: 未能找到类型或命名空间名“INotifyPropertyChanged”(是否缺少 using 指令或程序集引用?)
+(20,50): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(51,40): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(58,2): error CS0246: 未能找到类型或命名空间名“DebuggerDisplayAttribute”(是否缺少 using 指令或程序集引用?)
+(58,2): error CS0246: 未能找到类型或命名空间名“DebuggerDisplay”(是否缺少 using 指令或程序集引用?)
+(17,21): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(17,32): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(17,38): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(18,21): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(18,33): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(124,18): error CS0246: 未能找到类型或命名空间名“EventHandler<>”(是否缺少 using 指令或程序集引用?)
+(124,31): error CS0246: 未能找到类型或命名空间名“SettingsPropertyValueChangedEventArgs<>”(是否缺少 using 指令或程序集引用?)
+(137,40): error CS0246: 未能找到类型或命名空间名“INotifyPropertyChanged”(是否缺少 using 指令或程序集引用?)
+(137,11): error CS0246: 未能找到类型或命名空间名“PropertyChangedEventHandler”(是否缺少 using 指令或程序集引用?)
+(137,40): error CS0538: '显式接口声明中的“INotifyPropertyChanged”不是接口
+(69,30): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(79,30): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(81,27): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(83,41): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(83,55): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(88,34): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(88,47): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(88,12): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(119,43): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(126,47): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(126,65): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(64,21): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(134,14): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(134,25): error CS0246: 未能找到类型或命名空间名“PropertyChangedEventHandler”(是否缺少 using 指令或程序集引用?)
+(134,54): error CS0246: 未能找到类型或命名空间名“EventHandler<>”(是否缺少 using 指令或程序集引用?)
+(134,67): error CS0246: 未能找到类型或命名空间名“SettingsPropertyValueChangedEventArgs<>”(是否缺少 using 指令或程序集引用?)
+(95,56): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(97,26): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(97,39): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(100,81): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(100,94): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(107,47): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(107,57): error CS0246: 未能找到类型或命名空间名“SettingsPropertyValueChangedEventArgs<>”(是否缺少 using 指令或程序集引用?)
+(124,79): error CS0066: “SettingsPropertyBase<TValue>.ValueChanged”: 事件必须是委托类型的
+(137,63): error CS0066: “SettingsPropertyBase<TValue>.PropertyChanged”: 事件必须是委托类型的
+(118,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(118,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(118,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(85,16): error CS0103: 当前上下文中不存在名称“EqualityComparer”
+(109,13): error CS1955: 不可调用的成员“SettingsPropertyBase<TValue>.ValueChangedEventListener._listener”不能像方法一样使用。
+(128,15): error CS0103: 当前上下文中不存在名称“MainThread2”
+(141,17): error CS0019: 运算符“==”无法应用于“PropertyChangedEventHandler?”和“<null>”类型的操作数
+(147,17): error CS0019: 运算符“==”无法应用于“PropertyChangedEventHandler?”和“<null>”类型的操作数

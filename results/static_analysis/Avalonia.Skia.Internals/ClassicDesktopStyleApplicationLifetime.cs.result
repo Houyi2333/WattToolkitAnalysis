@@ -1,0 +1,72 @@
+(5,16): error CS0234: 命名空间“Avalonia”中不存在类型或命名空间名“Interactivity”(是否缺少程序集引用?)
+(6,16): error CS0234: 命名空间“Avalonia”中不存在类型或命名空间名“Platform”(是否缺少程序集引用?)
+(7,16): error CS0234: 命名空间“Avalonia”中不存在类型或命名空间名“Threading”(是否缺少程序集引用?)
+(11,60): error CS0246: 未能找到类型或命名空间名“IClassicDesktopStyleApplicationLifetime”(是否缺少 using 指令或程序集引用?)
+(11,101): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(212,18): error CS0246: 未能找到类型或命名空间名“AppBuilder”(是否缺少 using 指令或程序集引用?)
+(212,53): error CS0246: 未能找到类型或命名空间名“ShutdownMode”(是否缺少 using 指令或程序集引用?)
+(49,22): error CS0246: 未能找到类型或命名空间名“EventHandler<>”(是否缺少 using 指令或程序集引用?)
+(49,35): error CS0246: 未能找到类型或命名空间名“ControlledApplicationLifetimeStartupEventArgs”(是否缺少 using 指令或程序集引用?)
+(52,22): error CS0246: 未能找到类型或命名空间名“EventHandler<>”(是否缺少 using 指令或程序集引用?)
+(52,35): error CS0246: 未能找到类型或命名空间名“ShutdownRequestedEventArgs”(是否缺少 using 指令或程序集引用?)
+(55,22): error CS0246: 未能找到类型或命名空间名“EventHandler<>”(是否缺少 using 指令或程序集引用?)
+(55,35): error CS0246: 未能找到类型或命名空间名“ControlledApplicationLifetimeExitEventArgs”(是否缺少 using 指令或程序集引用?)
+(14,9): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(16,18): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(16,26): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(19,55): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(28,42): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(28,52): error CS0246: 未能找到类型或命名空间名“RoutedEventArgs”(是否缺少 using 指令或程序集引用?)
+(35,42): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(35,52): error CS0246: 未能找到类型或命名空间名“RoutedEventArgs”(是否缺少 using 指令或程序集引用?)
+(60,24): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(63,16): error CS0246: 未能找到类型或命名空间名“ShutdownMode”(是否缺少 using 指令或程序集引用?)
+(66,16): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(69,16): error CS0246: 未能找到类型或命名空间名“IReadOnlyList<>”(是否缺少 using 指令或程序集引用?)
+(69,30): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(71,33): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(139,14): error CS0246: 未能找到类型或命名空间名“ShutdownRequestedEventArgs”(是否缺少 using 指令或程序集引用?)
+(201,40): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(201,50): error CS0246: 未能找到类型或命名空间名“ShutdownRequestedEventArgs”(是否缺少 using 指令或程序集引用?)
+(49,83): error CS0066: “ClassicDesktopStyleApplicationLifetime2.Startup”: 事件必须是委托类型的
+(52,64): error CS0066: “ClassicDesktopStyleApplicationLifetime2.ShutdownRequested”: 事件必须是委托类型的
+(55,80): error CS0066: “ClassicDesktopStyleApplicationLifetime2.Exit”: 事件必须是委托类型的
+(210,10): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(210,10): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(210,21): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(126,10): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(126,10): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(126,21): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(212,81): error CS0103: 当前上下文中不存在名称“ShutdownMode”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(24,13): error CS0103: 当前上下文中不存在名称“Window”
+(24,61): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(25,13): error CS0103: 当前上下文中不存在名称“Window”
+(25,61): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(30,27): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(37,45): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(43,27): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(73,17): error CS0019: 运算符“==”无法应用于“Window?”和“<null>”类型的操作数
+(79,46): error CS1061: “ShutdownMode”未包含“OnLastWindowClose”的定义，并且找不到可接受第一个“ShutdownMode”类型参数的可访问扩展方法“OnLastWindowClose”(是否缺少 using 指令或程序集引用?)
+(81,51): error CS1061: “ShutdownMode”未包含“OnMainWindowClose”的定义，并且找不到可接受第一个“ShutdownMode”类型参数的可访问扩展方法“OnMainWindowClose”(是否缺少 using 指令或程序集引用?)
+(81,88): error CS1503: 参数 1: 无法从“Window?”转换为“object?”
+(81,96): error CS1503: 参数 2: 无法从“Window?”转换为“object?”
+(87,28): error CS0246: 未能找到类型或命名空间名“ShutdownRequestedEventArgs”(是否缺少 using 指令或程序集引用?)
+(92,35): error CS0246: 未能找到类型或命名空间名“ShutdownRequestedEventArgs”(是否缺少 using 指令或程序集引用?)
+(97,39): error CS0246: 未能找到类型或命名空间名“ControlledApplicationLifetimeStartupEventArgs”(是否缺少 using 指令或程序集引用?)
+(99,27): error CS0103: 当前上下文中不存在名称“AvaloniaLocator”
+(99,62): error CS0246: 未能找到类型或命名空间名“ClassicDesktopStyleApplicationLifetimeOptions”(是否缺少 using 指令或程序集引用?)
+(103,21): error CS0103: 当前上下文中不存在名称“Application”
+(103,44): error CS0246: 未能找到类型或命名空间名“IApplicationPlatformEvents”(是否缺少 using 指令或程序集引用?)
+(109,34): error CS0103: 当前上下文中不存在名称“AvaloniaLocator”
+(109,69): error CS0246: 未能找到类型或命名空间名“IPlatformLifetimeEventsImpl”(是否缺少 using 指令或程序集引用?)
+(114,24): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(121,13): error CS0103: 当前上下文中不存在名称“Dispatcher”
+(121,47): error CS1061: “CancellationTokenSource?”未包含“Token”的定义，并且找不到可接受第一个“CancellationTokenSource?”类型参数的可访问扩展方法“Token”(是否缺少 using 指令或程序集引用?)
+(122,13): error CS0103: 当前上下文中不存在名称“Environment”
+(177,38): error CS0103: 当前上下文中不存在名称“WindowCloseReason”
+(187,32): error CS0246: 未能找到类型或命名空间名“ControlledApplicationLifetimeExitEventArgs”(是否缺少 using 指令或程序集引用?)
+(6,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(7,1): hidden CS8019: 不需要的 using 指令。
+(5,1): hidden CS8019: 不需要的 using 指令。

@@ -1,0 +1,20 @@
+(1,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“DirectoryServices”(是否缺少程序集引用?)
+(7,6): error CS0246: 未能找到类型或命名空间名“SetUpAttribute”(是否缺少 using 指令或程序集引用?)
+(7,6): error CS0246: 未能找到类型或命名空间名“SetUp”(是否缺少 using 指令或程序集引用?)
+(14,6): error CS0246: 未能找到类型或命名空间名“TestAttribute”(是否缺少 using 指令或程序集引用?)
+(14,6): error CS0246: 未能找到类型或命名空间名“Test”(是否缺少 using 指令或程序集引用?)
+(15,6): error CS0246: 未能找到类型或命名空间名“IgnoreAttribute”(是否缺少 using 指令或程序集引用?)
+(15,6): error CS0246: 未能找到类型或命名空间名“Ignore”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(10,9): error CS0103: 当前上下文中不存在名称“TestContext”
+(10,31): error CS0103: 当前上下文中不存在名称“AppContext”
+(11,34): error CS0103: 当前上下文中不存在名称“CertGenerator”
+(11,81): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(19,31): error CS0246: 未能找到类型或命名空间名“X500DistinguishedName”(是否缺少 using 指令或程序集引用?)
+(19,67): error CS1061: “string[]”未包含“First”的定义，并且找不到可接受第一个“string[]”类型参数的可访问扩展方法“First”(是否缺少 using 指令或程序集引用?)
+(20,36): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(21,34): error CS0103: 当前上下文中不存在名称“CertGenerator”
+(21,118): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(22,47): error CS0103: 当前上下文中不存在名称“X509ContentType”
+(23,9): error CS0103: 当前上下文中不存在名称“File”
+(1,1): hidden CS8019: 不需要的 using 指令。

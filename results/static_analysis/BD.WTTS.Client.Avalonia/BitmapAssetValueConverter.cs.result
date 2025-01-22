@@ -1,0 +1,26 @@
+(3,49): error CS0246: 未能找到类型或命名空间名“ImageValueConverter”(是否缺少 using 指令或程序集引用?)
+(5,43): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(5,52): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(5,75): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(5,88): error CS0246: 未能找到类型或命名空间名“CultureInfo”(是否缺少 using 指令或程序集引用?)
+(5,27): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(16,13): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(18,17): error CS0103: 当前上下文中不存在名称“File”
+(20,24): error CS0103: 当前上下文中不存在名称“GetDecodeBitmap”
+(23,22): error CS0103: 当前上下文中不存在名称“String2”
+(25,24): error CS0103: 当前上下文中不存在名称“DownloadImage”
+(35,23): error CS0103: 当前上下文中不存在名称“GetResUri”
+(37,31): error CS0103: 当前上下文中不存在名称“OpenAssets”
+(38,20): error CS0103: 当前上下文中不存在名称“GetDecodeBitmap”
+(42,31): error CS0246: 未能找到类型或命名空间名“MemoryStream”(是否缺少 using 指令或程序集引用?)
+(43,20): error CS0103: 当前上下文中不存在名称“GetDecodeBitmap”
+(45,27): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(47,13): error CS0103: 当前上下文中不存在名称“TryReset”
+(48,20): error CS0103: 当前上下文中不存在名称“GetDecodeBitmap”
+(50,27): error CS0246: 未能找到类型或命名空间名“ImageSource”(是否缺少 using 指令或程序集引用?)
+(52,20): error CS0103: 当前上下文中不存在名称“GetDecodeBitmap”
+(54,27): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(60,20): error CS0103: 当前上下文中不存在名称“DownloadImage”
+(60,34): error CS0103: 当前上下文中不存在名称“ImageUrlHelper”
+(62,21): error CS1061: “BitmapAssetValueConverter”未包含“DoNothing”的定义，并且找不到可接受第一个“BitmapAssetValueConverter”类型参数的可访问扩展方法“DoNothing”(是否缺少 using 指令或程序集引用?)

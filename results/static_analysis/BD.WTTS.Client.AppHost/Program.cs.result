@@ -1,0 +1,105 @@
+(15,29): error CS0227: 不安全代码只会在使用 /unsafe 编译的情况下出现
+(9,22): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“AssemblyInfo”(是否缺少程序集引用?)
+(10,22): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(105,12): error CS0246: 未能找到类型或命名空间名“Architecture”(是否缺少 using 指令或程序集引用?)
+(140,28): error CS0246: 未能找到类型或命名空间名“Architecture”(是否缺少 using 指令或程序集引用?)
+(80,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(80,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(80,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(103,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(103,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(103,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(138,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(138,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(138,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(155,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(155,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(155,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(181,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(181,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(181,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(202,6): error CS0246: 未能找到类型或命名空间名“STAThreadAttribute”(是否缺少 using 指令或程序集引用?)
+(202,6): error CS0246: 未能找到类型或命名空间名“STAThread”(是否缺少 using 指令或程序集引用?)
+(87,21): error CS0103: 当前上下文中不存在名称“Directory”
+(89,16): error CS0246: 未能找到类型或命名空间名“DirectoryNotFoundException”(是否缺少 using 指令或程序集引用?)
+(107,9): error CS0246: 未能找到类型或命名空间名“Architecture”(是否缺少 using 指令或程序集引用?)
+(113,49): error CS0103: 当前上下文中不存在名称“Type”
+(113,150): error CS0103: 当前上下文中不存在名称“BindingFlags”
+(113,172): error CS0103: 当前上下文中不存在名称“BindingFlags”
+(113,36): error CS0246: 未能找到类型或命名空间名“Architecture”(是否缺少 using 指令或程序集引用?)
+(121,17): error CS0103: 当前上下文中不存在名称“Environment”
+(123,19): error CS0103: 当前上下文中不存在名称“Architecture”
+(123,38): error CS0103: 当前上下文中不存在名称“Architecture”
+(142,9): error CS0103: 当前上下文中不存在名称“Architecture”
+(143,9): error CS0103: 当前上下文中不存在名称“Architecture”
+(144,9): error CS0103: 当前上下文中不存在名称“Architecture”
+(145,9): error CS0103: 当前上下文中不存在名称“Architecture”
+(147,9): error CS0103: 当前上下文中不存在名称“Architecture”
+(149,24): error CS0246: 未能找到类型或命名空间名“ArgumentOutOfRangeException”(是否缺少 using 指令或程序集引用?)
+(161,27): error CS0246: 未能找到类型或命名空间名“ProcessStartInfo”(是否缺少 using 指令或程序集引用?)
+(165,13): error CS0103: 当前上下文中不存在名称“Process”
+(167,16): error CS0246: 未能找到类型或命名空间名“Win32Exception”(是否缺少 using 指令或程序集引用?)
+(169,38): error CS0103: 当前上下文中不存在名称“OpenCoreByProcess_Win32Exception_”
+(170,17): error CS0103: 当前上下文中不存在名称“Convert”
+(171,13): error CS0103: 当前上下文中不存在名称“ShowErrMessageBox”
+(186,45): error CS0103: 当前上下文中不存在名称“GetLang”
+(233,9): error CS0103: 当前上下文中不存在名称“Environment”
+(233,76): error CS0103: 当前上下文中不存在名称“EnvironmentVariableTarget”
+(287,17): error CS0103: 当前上下文中不存在名称“AppDomain”
+(290,34): error CS0103: 当前上下文中不存在名称“CompatibilityCheck”
+(302,49): error CS0103: 当前上下文中不存在名称“Path”
+(306,61): error CS0103: 当前上下文中不存在名称“Environment”
+(313,49): error CS0103: 当前上下文中不存在名称“NetRuntimeFormat1”
+(317,60): error CS0103: 当前上下文中不存在名称“AspNetCoreRuntimeFormat1”
+(318,56): error CS0103: 当前上下文中不存在名称“And”
+(324,42): error CS0103: 当前上下文中不存在名称“FrameworkMissingFailureFormat1”
+(325,30): error CS0103: 当前上下文中不存在名称“ShowErrMessageBox”
+(325,54): error CS0103: 当前上下文中不存在名称“WPFMessageBoxButton”
+(326,31): error CS0103: 当前上下文中不存在名称“WPFMessageBoxResult”
+(340,21): error CS0103: 当前上下文中不存在名称“Directory”
+(346,25): error CS0103: 当前上下文中不存在名称“Path”
+(350,46): error CS0103: 当前上下文中不存在名称“Directory”
+(370,25): error CS0103: 当前上下文中不存在名称“Path”
+(386,25): error CS0103: 当前上下文中不存在名称“Path”
+(394,25): error CS0103: 当前上下文中不存在名称“Path”
+(397,25): error CS0103: 当前上下文中不存在名称“File”
+(398,25): error CS0103: 当前上下文中不存在名称“Directory”
+(399,49): error CS0103: 当前上下文中不存在名称“Directory”
+(416,13): error CS0103: 当前上下文中不存在名称“Path”
+(423,13): error CS0103: 当前上下文中不存在名称“Path”
+(426,14): error CS0103: 当前上下文中不存在名称“File”
+(426,43): error CS0103: 当前上下文中不存在名称“File”
+(432,13): error CS0103: 当前上下文中不存在名称“ShowErrMessageBox”
+(437,19): error CS0103: 当前上下文中不存在名称“FileVersionInfo”
+(438,29): error CS0103: 当前上下文中不存在名称“Description”
+(440,32): error CS0103: 当前上下文中不存在名称“Company”
+(442,35): error CS0103: 当前上下文中不存在名称“Copyright”
+(444,36): error CS0103: 当前上下文中不存在名称“Trademark”
+(457,19): error CS0103: 当前上下文中不存在名称“NativeLibrary”
+(459,13): error CS0103: 当前上下文中不存在名称“NativeLibrary”
+(461,13): error CS0103: 当前上下文中不存在名称“NativeLibrary”
+(463,13): error CS0103: 当前上下文中不存在名称“NativeLibrary”
+(469,13): error CS0103: 当前上下文中不存在名称“Debug”
+(482,28): error CS0103: 当前上下文中不存在名称“Marshal”
+(491,13): error CS0103: 当前上下文中不存在名称“Marshal”
+(498,13): error CS0103: 当前上下文中不存在名称“Debug”
+(500,55): error CS0103: 当前上下文中不存在名称“Convert”
+(515,17): error CS0103: 当前上下文中不存在名称“Debug”
+(517,71): error CS0103: 当前上下文中不存在名称“Convert”
+(526,13): error CS0103: 当前上下文中不存在名称“Debug”
+(531,31): error CS0103: 当前上下文中不存在名称“Marshal”
+(532,28): error CS0103: 当前上下文中不存在名称“Marshal”
+(533,35): error CS0103: 当前上下文中不存在名称“Marshal”
+(547,13): error CS0103: 当前上下文中不存在名称“Marshal”
+(548,13): error CS0103: 当前上下文中不存在名称“Marshal”
+(549,13): error CS0103: 当前上下文中不存在名称“Marshal”
+(553,13): error CS0103: 当前上下文中不存在名称“Debug”
+(557,9): error CS0103: 当前上下文中不存在名称“GC”
+(557,20): error CS0103: 当前上下文中不存在名称“GC”
+(557,38): error CS0103: 当前上下文中不存在名称“GCCollectionMode”
+(322,21): warning CS0162: 检测到无法访问的代码
+(565,23): warning CS0649: 从未对字段“Program.hostfxr_initialize_parameters.host_path”赋值，字段将一直保持其默认值 null
+(564,20): warning CS0649: 从未对字段“Program.hostfxr_initialize_parameters.size”赋值，字段将一直保持其默认值 0
+(566,23): warning CS0649: 从未对字段“Program.hostfxr_initialize_parameters.dotnet_root”赋值，字段将一直保持其默认值 null
+(9,1): hidden CS8019: 不需要的 using 指令。
+(10,1): hidden CS8019: 不需要的 using 指令。

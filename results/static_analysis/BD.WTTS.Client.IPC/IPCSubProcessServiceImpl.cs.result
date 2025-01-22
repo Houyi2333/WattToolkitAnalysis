@@ -1,0 +1,43 @@
+(6,32): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“Extensions”(是否缺少程序集引用?)
+(5,21): error CS0246: 未能找到类型或命名空间名“dotnetCampus”(是否缺少 using 指令或程序集引用?)
+(1,7): error CS0246: 未能找到类型或命名空间名“dotnetCampus”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“dotnetCampus”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“dotnetCampus”(是否缺少 using 指令或程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“dotnetCampus”(是否缺少 using 指令或程序集引用?)
+(10,48): error CS0246: 未能找到类型或命名空间名“IPCSubProcessService”(是否缺少 using 指令或程序集引用?)
+(13,5): error CS0246: 未能找到类型或命名空间名“IpcProvider”(是否缺少 using 指令或程序集引用?)
+(14,5): error CS0246: 未能找到类型或命名空间名“PeerProxy”(是否缺少 using 指令或程序集引用?)
+(15,5): error CS0246: 未能找到类型或命名空间名“TaskCompletionSource”(是否缺少 using 指令或程序集引用?)
+(16,14): error CS0246: 未能找到类型或命名空间名“ILoggerFactory”(是否缺少 using 指令或程序集引用?)
+(18,37): error CS0246: 未能找到类型或命名空间名“ILoggerFactory”(是否缺少 using 指令或程序集引用?)
+(49,51): error CS0246: 未能找到类型或命名空间名“TaskCompletionSource”(是否缺少 using 指令或程序集引用?)
+(50,9): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(50,16): error CS0246: 未能找到类型或命名空间名“IpcProvider”(是否缺少 using 指令或程序集引用?)
+(49,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(78,13): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(23,31): error CS0246: 未能找到类型或命名空间名“IpcLogger”(是否缺少 using 指令或程序集引用?)
+(25,18): error CS0246: 未能找到类型或命名空间名“ILogger”(是否缺少 using 指令或程序集引用?)
+(27,27): error CS0246: 未能找到类型或命名空间名“ILoggerFactory”(是否缺少 using 指令或程序集引用?)
+(42,13): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(43,13): error CS0246: 未能找到类型或命名空间名“Func<,,>”(是否缺少 using 指令或程序集引用?)
+(43,26): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(66,51): error CS0246: 未能找到类型或命名空间名“IPCSubProcessModuleService”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(27,72): error CS1729: “IpcLogger”不包含采用 1 个参数的构造函数
+(53,27): error CS0246: 未能找到类型或命名空间名“IpcProvider”(是否缺少 using 指令或程序集引用?)
+(54,13): error CS0103: 当前上下文中不存在名称“IPCSubProcessModuleService”
+(55,17): error CS0246: 未能找到类型或命名空间名“IpcConfiguration”(是否缺少 using 指令或程序集引用?)
+(59,36): error CS0246: 未能找到类型或命名空间名“IPCSubProcessModuleService”(是否缺少 using 指令或程序集引用?)
+(59,21): error CS1061: “IpcProvider?”未包含“CreateIpcJoint”的定义，并且找不到可接受第一个“IpcProvider?”类型参数的可访问扩展方法“CreateIpcJoint”(是否缺少 using 指令或程序集引用?)
+(61,21): error CS1061: “IpcProvider?”未包含“StartServer”的定义，并且找不到可接受第一个“IpcProvider?”类型参数的可访问扩展方法“StartServer”(是否缺少 using 指令或程序集引用?)
+(63,34): error CS1061: “IpcProvider?”未包含“GetAndConnectToPeerAsync”的定义，并且找不到可接受第一个“IpcProvider?”类型参数的可访问扩展方法“GetAndConnectToPeerAsync”(是否缺少 using 指令或程序集引用?)
+(49,23): error CS0161: “IPCSubProcessServiceImpl.RunAsync(string, TaskCompletionSource, string, Action<IpcProvider>?)”: 并非所有的代码路径都返回值
+(80,13): error CS0019: 运算符“!=”无法应用于“IpcProvider?”和“<null>”类型的操作数
+(80,36): error CS0019: 运算符“!=”无法应用于“PeerProxy?”和“<null>”类型的操作数
+(82,32): error CS1061: “IpcProvider?”未包含“CreateIpcProxy”的定义，并且找不到可接受第一个“IpcProvider?”类型参数的可访问扩展方法“CreateIpcProxy”(是否缺少 using 指令或程序集引用?)
+(98,24): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(120,9): error CS0103: 当前上下文中不存在名称“GC”
+(2,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

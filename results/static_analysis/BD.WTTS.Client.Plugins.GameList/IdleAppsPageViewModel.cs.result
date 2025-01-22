@@ -1,0 +1,73 @@
+(3,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Linq”(是否缺少程序集引用?)
+(9,45): error CS0246: 未能找到类型或命名空间名“ViewModelBase”(是否缺少 using 指令或程序集引用?)
+(11,14): error CS0246: 未能找到类型或命名空间名“ISteamService”(是否缺少 using 指令或程序集引用?)
+(15,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(17,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(37,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(40,12): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(40,33): error CS0246: 未能找到类型或命名空间名“SteamApp”(是否缺少 using 指令或程序集引用?)
+(78,36): error CS0246: 未能找到类型或命名空间名“SteamApp”(是否缺少 using 指令或程序集引用?)
+(184,40): error CS0246: 未能找到类型或命名空间名“SteamApp”(是否缺少 using 指令或程序集引用?)
+(29,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(29,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(32,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(32,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(36,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(36,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(39,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(39,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(11,40): error CS0103: 当前上下文中不存在名称“ISteamService”
+(13,41): error CS0103: 当前上下文中不存在名称“Strings”
+(21,9): error CS0103: 当前上下文中不存在名称“CompositeDisposable”
+(21,33): error CS0103: 当前上下文中不存在名称“GameLibrarySettings”
+(23,29): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(23,52): error CS0246: 未能找到类型或命名空间名“SteamApp”(是否缺少 using 指令或程序集引用?)
+(24,31): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(24,54): error CS0246: 未能找到类型或命名空间名“SteamApp”(是否缺少 using 指令或程序集引用?)
+(44,22): error CS0103: 当前上下文中不存在名称“MessageBox”
+(44,43): error CS0103: 当前上下文中不存在名称“Strings”
+(44,79): error CS0103: 当前上下文中不存在名称“MessageBox”
+(80,22): error CS0103: 当前上下文中不存在名称“MessageBox”
+(80,43): error CS0103: 当前上下文中不存在名称“Strings”
+(80,80): error CS0103: 当前上下文中不存在名称“MessageBox”
+(112,26): error CS0103: 当前上下文中不存在名称“Strings”
+(116,28): error CS0103: 当前上下文中不存在名称“Strings”
+(116,63): error CS0103: 当前上下文中不存在名称“Strings”
+(116,117): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(132,25): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(136,29): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(156,25): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(160,29): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(166,29): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(171,17): error CS0103: 当前上下文中不存在名称“Toast”
+(171,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(171,47): error CS0103: 当前上下文中不存在名称“Strings”
+(175,17): error CS0103: 当前上下文中不存在名称“Toast”
+(175,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(175,47): error CS0103: 当前上下文中不存在名称“Strings”
+(180,19): error CS0103: 当前上下文中不存在名称“MessageBox”
+(180,40): error CS0103: 当前上下文中不存在名称“Strings”
+(180,72): error CS0103: 当前上下文中不存在名称“MessageBox”
+(188,13): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(192,17): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(201,13): error CS0103: 当前上下文中不存在名称“Toast”
+(201,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(201,43): error CS0103: 当前上下文中不存在名称“Strings”
+(205,19): error CS0103: 当前上下文中不存在名称“MessageBox”
+(205,40): error CS0103: 当前上下文中不存在名称“Strings”
+(205,72): error CS0103: 当前上下文中不存在名称“MessageBox”
+(211,24): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(211,45): error CS0246: 未能找到类型或命名空间名“SteamApp”(是否缺少 using 指令或程序集引用?)
+(212,13): error CS0103: 当前上下文中不存在名称“GameLibrarySettings”
+(216,20): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(221,34): error CS0103: 当前上下文中不存在名称“GameLibrarySettings”
+(223,31): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(226,21): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(251,21): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(253,34): error CS0246: 未能找到类型或命名空间名“SteamApp”(是否缺少 using 指令或程序集引用?)
+(263,17): error CS0103: 当前上下文中不存在名称“Toast”
+(263,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(263,47): error CS0103: 当前上下文中不存在名称“Strings”
+(4,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。

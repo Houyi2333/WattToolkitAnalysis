@@ -1,0 +1,20 @@
+(1,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Helpers”(是否缺少程序集引用?)
+(5,45): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(8,12): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(13,34): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(7,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(7,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(10,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(10,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(17,14): error CS1061: “GameInfoPageViewModel”未包含“WhenPropertyChanged”的定义，并且找不到可接受第一个“GameInfoPageViewModel”类型参数的可访问扩展方法“WhenPropertyChanged”(是否缺少 using 指令或程序集引用?)
+(33,13): error CS0103: 当前上下文中不存在名称“Toast”
+(33,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(33,43): error CS0103: 当前上下文中不存在名称“Strings”
+(39,13): error CS0103: 当前上下文中不存在名称“Toast”
+(39,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(39,43): error CS0103: 当前上下文中不存在名称“Strings”
+(43,9): error CS0103: 当前上下文中不存在名称“TracepointHelper”
+(43,72): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(50,9): error CS0103: 当前上下文中不存在名称“Close”
+(1,1): hidden CS8019: 不需要的 using 指令。

@@ -1,0 +1,72 @@
+(2,26): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(11,32): error CS0246: 未能找到类型或命名空间名“TemplatedControl”(是否缺少 using 指令或程序集引用?)
+(11,50): error CS0246: 未能找到类型或命名空间名“IManagedNotificationManager”(是否缺少 using 指令或程序集引用?)
+(9,2): error CS0246: 未能找到类型或命名空间名“TemplatePartAttribute”(是否缺少 using 指令或程序集引用?)
+(9,2): error CS0246: 未能找到类型或命名空间名“TemplatePart”(是否缺少 using 指令或程序集引用?)
+(10,2): error CS0246: 未能找到类型或命名空间名“PseudoClassesAttribute”(是否缺少 using 指令或程序集引用?)
+(10,2): error CS0246: 未能找到类型或命名空间名“PseudoClasses”(是否缺少 using 指令或程序集引用?)
+(9,36): error CS0246: 未能找到类型或命名空间名“Panel”(是否缺少 using 指令或程序集引用?)
+(90,22): error CS0246: 未能找到类型或命名空间名“INotification”(是否缺少 using 指令或程序集引用?)
+(202,23): error CS0246: 未能找到类型或命名空间名“INotification”(是否缺少 using 指令或程序集引用?)
+(13,13): error CS0246: 未能找到类型或命名空间名“IList”(是否缺少 using 指令或程序集引用?)
+(18,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(18,43): error CS0246: 未能找到类型或命名空间名“NotificationPosition”(是否缺少 using 指令或程序集引用?)
+(25,12): error CS0246: 未能找到类型或命名空间名“NotificationPosition”(是否缺少 using 指令或程序集引用?)
+(34,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(58,28): error CS0246: 未能找到类型或命名空间名“TopLevel”(是否缺少 using 指令或程序集引用?)
+(79,45): error CS0246: 未能找到类型或命名空间名“TemplateAppliedEventArgs”(是否缺少 using 指令或程序集引用?)
+(85,44): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(158,47): error CS0246: 未能找到类型或命名空间名“AvaloniaPropertyChangedEventArgs”(是否缺少 using 指令或程序集引用?)
+(173,25): error CS0246: 未能找到类型或命名空间名“TemplatedControl”(是否缺少 using 指令或程序集引用?)
+(193,37): error CS0246: 未能找到类型或命名空间名“NotificationPosition”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(19,7): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(19,50): error CS0246: 未能找到类型或命名空间名“NotificationPosition”(是否缺少 using 指令或程序集引用?)
+(19,90): error CS0103: 当前上下文中不存在名称“NotificationPosition”
+(35,7): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(27,22): error CS0103: 当前上下文中不存在名称“GetValue”
+(28,15): error CS0103: 当前上下文中不存在名称“SetValue”
+(42,22): error CS0103: 当前上下文中不存在名称“GetValue”
+(43,15): error CS0103: 当前上下文中不存在名称“SetValue”
+(60,13): error CS0019: 运算符“!=”无法应用于“TopLevel?”和“<null>”类型的操作数
+(62,21): error CS1503: 参数 1: 无法从“TopLevel?”转换为“TemplatedControl”
+(66,13): error CS0103: 当前上下文中不存在名称“Log”
+(74,9): error CS0103: 当前上下文中不存在名称“HorizontalAlignmentProperty”
+(74,75): error CS0103: 当前上下文中不存在名称“HorizontalAlignment”
+(75,9): error CS0103: 当前上下文中不存在名称“VerticalAlignmentProperty”
+(75,73): error CS0103: 当前上下文中不存在名称“VerticalAlignment”
+(81,45): error CS0246: 未能找到类型或命名空间名“Panel”(是否缺少 using 指令或程序集引用?)
+(87,18): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(98,39): error CS0246: 未能找到类型或命名空间名“INotification”(是否缺少 using 指令或程序集引用?)
+(100,34): error CS0246: 未能找到类型或命名空间名“Snackbar”(是否缺少 using 指令或程序集引用?)
+(105,24): error CS0103: 当前上下文中不存在名称“InfoBarSeverity”
+(114,45): error CS0103: 当前上下文中不存在名称“InfoBarSeverity”
+(115,45): error CS0103: 当前上下文中不存在名称“InfoBarSeverity”
+(116,43): error CS0103: 当前上下文中不存在名称“InfoBarSeverity”
+(117,22): error CS0103: 当前上下文中不存在名称“InfoBarSeverity”
+(122,51): error CS0246: 未能找到类型或命名空间名“Button”(是否缺少 using 指令或程序集引用?)
+(125,31): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(126,43): error CS0103: 当前上下文中不存在名称“HorizontalAlignment”
+(143,28): error CS0246: 未能找到类型或命名空间名“Snackbar”(是否缺少 using 指令或程序集引用?)
+(145,27): error CS0246: 未能找到类型或命名空间名“Snackbar”(是否缺少 using 指令或程序集引用?)
+(145,20): error CS1061: “IList?”未包含“OfType”的定义，并且找不到可接受第一个“IList?”类型参数的可访问扩展方法“OfType”(是否缺少 using 指令或程序集引用?)
+(148,64): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(153,15): error CS0103: 当前上下文中不存在名称“Task”
+(153,54): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(164,52): error CS0246: 未能找到类型或命名空间名“NotificationPosition”(是否缺少 using 指令或程序集引用?)
+(175,54): error CS0246: 未能找到类型或命名空间名“VisualLayerManager”(是否缺少 using 指令或程序集引用?)
+(181,13): error CS0103: 当前上下文中不存在名称“AdornerLayer”
+(183,32): error CS0103: 当前上下文中不存在名称“OverlayLayer”
+(195,9): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(195,51): error CS0103: 当前上下文中不存在名称“NotificationPosition”
+(196,9): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(196,52): error CS0103: 当前上下文中不存在名称“NotificationPosition”
+(197,9): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(197,54): error CS0103: 当前上下文中不存在名称“NotificationPosition”
+(198,9): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(198,55): error CS0103: 当前上下文中不存在名称“NotificationPosition”
+(204,9): error CS0103: 当前上下文中不存在名称“Dispatcher”
+(215,9): error CS0103: 当前上下文中不存在名称“Dispatcher”
+(226,9): error CS0103: 当前上下文中不存在名称“Dispatcher”
+(1,1): hidden CS8019: 不需要的 using 指令。
