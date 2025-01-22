@@ -9,6 +9,11 @@
 (37,34): error CS0246: 未能找到类型或命名空间名“ISettings”(是否缺少 using 指令或程序集引用?)
 (40,25): error CS0246: 未能找到类型或命名空间名“ISettings”(是否缺少 using 指令或程序集引用?)
 (43,45): error CS0246: 未能找到类型或命名空间名“ISettings<>”(是否缺少 using 指令或程序集引用?)
+(101,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
+(101,42): error CS0246: 未能找到类型或命名空间名“IdleRule”(是否缺少 using 指令或程序集引用?)
+(107,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
+(107,42): error CS0246: 未能找到类型或命名空间名“IdleSequentital”(是否缺少 using 指令或程序集引用?)
+(113,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
 (35,19): error CS0538: '显式接口声明中的“ISettings”不是接口
 (37,12): error CS0246: 未能找到类型或命名空间名“JsonSerializerContext”(是否缺少 using 指令或程序集引用?)
 (37,34): error CS0538: '显式接口声明中的“ISettings”不是接口
@@ -16,11 +21,6 @@
 (40,25): error CS0538: '显式接口声明中的“ISettings”不是接口
 (43,12): error CS0246: 未能找到类型或命名空间名“JsonTypeInfo<>”(是否缺少 using 指令或程序集引用?)
 (43,45): error CS0538: '显式接口声明中的“ISettings<SteamIdleSettings_>”不是接口
-(101,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
-(101,42): error CS0246: 未能找到类型或命名空间名“IdleRule”(是否缺少 using 指令或程序集引用?)
-(107,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
-(107,42): error CS0246: 未能找到类型或命名空间名“IdleSequentital”(是否缺少 using 指令或程序集引用?)
-(113,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
 (119,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
 (125,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
 (131,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)

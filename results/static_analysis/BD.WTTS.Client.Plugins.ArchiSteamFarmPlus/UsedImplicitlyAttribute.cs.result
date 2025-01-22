@@ -1,8 +1,8 @@
 (5,40): error CS0246: 未能找到类型或命名空间名“Attribute”(是否缺少 using 指令或程序集引用?)
-(62,2): error CS0246: 未能找到类型或命名空间名“FlagsAttribute”(是否缺少 using 指令或程序集引用?)
-(62,2): error CS0246: 未能找到类型或命名空间名“Flags”(是否缺少 using 指令或程序集引用?)
 (37,2): error CS0246: 未能找到类型或命名空间名“FlagsAttribute”(是否缺少 using 指令或程序集引用?)
+(62,2): error CS0246: 未能找到类型或命名空间名“FlagsAttribute”(是否缺少 using 指令或程序集引用?)
 (37,2): error CS0246: 未能找到类型或命名空间名“Flags”(是否缺少 using 指令或程序集引用?)
+(62,2): error CS0246: 未能找到类型或命名空间名“Flags”(是否缺少 using 指令或程序集引用?)
 (4,2): error CS0246: 未能找到类型或命名空间名“AttributeUsageAttribute”(是否缺少 using 指令或程序集引用?)
 (4,2): error CS0246: 未能找到类型或命名空间名“AttributeUsage”(是否缺少 using 指令或程序集引用?)
 (4,17): error CS0103: 当前上下文中不存在名称“AttributeTargets”

@@ -3,9 +3,9 @@
 (18,155): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
 (372,70): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
 (376,70): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
-(184,25): error CS0246: 未能找到类型或命名空间名“JsonTypeInfo<>”(是否缺少 using 指令或程序集引用?)
-(28,21): error CS0246: 未能找到类型或命名空间名“JsonTypeInfo”(是否缺少 using 指令或程序集引用?)
 (26,21): error CS0246: 未能找到类型或命名空间名“JsonSerializerContext”(是否缺少 using 指令或程序集引用?)
+(28,21): error CS0246: 未能找到类型或命名空间名“JsonTypeInfo”(是否缺少 using 指令或程序集引用?)
+(184,25): error CS0246: 未能找到类型或命名空间名“JsonTypeInfo<>”(是否缺少 using 指令或程序集引用?)
 (192,34): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
 (33,48): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
 (389,48): error CS0246: 未能找到类型或命名空间名“IOptionsMonitor<>”(是否缺少 using 指令或程序集引用?)
@@ -37,15 +37,15 @@
 (231,82): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
 (231,9): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
 (231,22): error CS0538: '显式接口声明中的“IOptionsMonitor<TSettings>”不是接口
-(191,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
-(191,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
-(191,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
-(83,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
-(83,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
-(83,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
 (361,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
 (361,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
 (361,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(83,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(83,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(83,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(191,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(191,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(191,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
 (250,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
 (250,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
 (250,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
@@ -124,11 +124,11 @@ error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
 (55,36): error CS0103: 当前上下文中不存在名称“Path”
 (56,37): error CS0103: 当前上下文中不存在名称“IOPath”
 (58,24): error CS0103: 当前上下文中不存在名称“FileEx”
-(232,16): error CS0103: 当前上下文中不存在名称“ChangeToken”
 (72,38): error CS0246: 未能找到类型或命名空间名“IOptionsMonitor<>”(是否缺少 using 指令或程序集引用?)
 (73,27): error CS0103: 当前上下文中不存在名称“Ioc”
 (77,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
 (79,13): error CS0103: 当前上下文中不存在名称“Startup”
+(232,16): error CS0103: 当前上下文中不存在名称“ChangeToken”
 (88,19): error CS0103: 当前上下文中不存在名称“Parallel”
 (93,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
 (95,13): error CS0103: 当前上下文中不存在名称“Startup”

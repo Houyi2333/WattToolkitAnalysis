@@ -1,0 +1,104 @@
+(32,42): error CS0234: 命名空间“System.IO”中不存在类型或命名空间名“Pipelines”(是否缺少程序集引用?)
+(29,38): error CS0234: 命名空间“System.IO”中不存在类型或命名空间名“Pipes”(是否缺少程序集引用?)
+(101,38): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“Http”(是否缺少程序集引用?)
+(105,47): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“Http”(是否缺少程序集引用?)
+(98,27): error CS0234: 命名空间“System”中不存在类型或命名空间名“Ioc”(是否缺少程序集引用?)
+(117,43): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“Http”(是否缺少程序集引用?)
+(106,46): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“Http”(是否缺少程序集引用?)
+(99,38): error CS0122: “DateTimeFormat”不可访问，因为它具有一定的保护级别
+(96,37): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“IPAddress”(是否缺少程序集引用?)
+(70,46): error CS0234: 命名空间“System.Runtime”中不存在类型或命名空间名“DeploymentMode”(是否缺少程序集引用?)
+(100,73): error CS0234: 命名空间“System.Runtime.Serialization”中不存在类型或命名空间名“DateTimeFormat”(是否缺少程序集引用?)
+(17,33): error CS0234: 命名空间“System.Collections”中不存在类型或命名空间名“Immutable”(是否缺少程序集引用?)
+(18,36): error CS0234: 命名空间“System.ComponentModel”中不存在类型或命名空间名“DataAnnotations”(是否缺少程序集引用?)
+(19,36): error CS0234: 命名空间“System.ComponentModel”中不存在类型或命名空间名“DataAnnotations”(是否缺少程序集引用?)
+(24,21): error CS0234: 命名空间“System”中不存在类型或命名空间名“Web”(是否缺少程序集引用?)
+(28,24): error CS0234: 命名空间“System.IO”中不存在类型或命名空间名“Pipes”(是否缺少程序集引用?)
+(31,24): error CS0234: 命名空间“System.IO”中不存在类型或命名空间名“Pipelines”(是否缺少程序集引用?)
+(35,24): error CS0234: 命名空间“System.IO”中不存在类型或命名空间名“Compression”(是否缺少程序集引用?)
+(37,24): error CS0234: 命名空间“System.IO”中不存在类型或命名空间名“FileFormats”(是否缺少程序集引用?)
+(39,21): error CS0234: 命名空间“System”中不存在类型或命名空间名“Linq”(是否缺少程序集引用?)
+(40,21): error CS0234: 命名空间“System”中不存在类型或命名空间名“Linq”(是否缺少程序集引用?)
+(42,25): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“Security”(是否缺少程序集引用?)
+(44,25): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“Http”(是否缺少程序集引用?)
+(45,25): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“Http”(是否缺少程序集引用?)
+(46,25): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“Http”(是否缺少程序集引用?)
+(48,25): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“Sockets”(是否缺少程序集引用?)
+(54,30): error CS0234: 命名空间“System.Security”中不存在类型或命名空间名“Claims”(是否缺少程序集引用?)
+(60,26): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Encodings”(是否缺少程序集引用?)
+(61,26): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(62,26): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(63,26): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(64,26): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(67,26): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“RegularExpressions”(是否缺少程序集引用?)
+(71,29): error CS0234: 命名空间“System.Runtime”中不存在类型或命名空间名“Devices”(是否缺少程序集引用?)
+(75,43): error CS0234: 命名空间“System.Runtime.Serialization”中不存在类型或命名空间名“Formatters”(是否缺少程序集引用?)
+(78,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“Extensions”(是否缺少程序集引用?)
+(79,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“Extensions”(是否缺少程序集引用?)
+(93,21): error CS0234: 命名空间“System”中不存在类型或命名空间名“Xml”(是否缺少程序集引用?)
+(94,21): error CS0234: 命名空间“System”中不存在类型或命名空间名“Xml”(是否缺少程序集引用?)
+(95,43): error CS0234: 命名空间“System.Security.Cryptography”中不存在类型或命名空间名“X509Certificates”(是否缺少程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(94,1): hidden CS8019: 不需要的 using 指令。
+(79,1): hidden CS8019: 不需要的 using 指令。
+(52,1): hidden CS8019: 不需要的 using 指令。
+(42,1): hidden CS8019: 不需要的 using 指令。
+(45,1): hidden CS8019: 不需要的 using 指令。
+(99,1): hidden CS8019: 不需要的 using 指令。
+(63,1): hidden CS8019: 不需要的 using 指令。
+(70,1): hidden CS8019: 不需要的 using 指令。
+(71,1): hidden CS8019: 不需要的 using 指令。
+(8,1): hidden CS8019: 不需要的 using 指令。
+(37,1): hidden CS8019: 不需要的 using 指令。
+(74,1): hidden CS8019: 不需要的 using 指令。
+(40,1): hidden CS8019: 不需要的 using 指令。
+(117,1): hidden CS8019: 不需要的 using 指令。
+(44,1): hidden CS8019: 不需要的 using 指令。
+(22,1): hidden CS8019: 不需要的 using 指令。
+(19,1): hidden CS8019: 不需要的 using 指令。
+(57,1): hidden CS8019: 不需要的 using 指令。
+(32,1): hidden CS8019: 不需要的 using 指令。
+(23,1): hidden CS8019: 不需要的 using 指令。
+(12,1): hidden CS8019: 不需要的 using 指令。
+(24,1): hidden CS8019: 不需要的 using 指令。
+(68,1): hidden CS8019: 不需要的 using 指令。
+(67,1): hidden CS8019: 不需要的 using 指令。
+(25,1): hidden CS8019: 不需要的 using 指令。
+(28,1): hidden CS8019: 不需要的 using 指令。
+(60,1): hidden CS8019: 不需要的 using 指令。
+(98,1): hidden CS8019: 不需要的 using 指令。
+(56,1): hidden CS8019: 不需要的 using 指令。
+(96,1): hidden CS8019: 不需要的 using 指令。
+(54,1): hidden CS8019: 不需要的 using 指令。
+(15,1): hidden CS8019: 不需要的 using 指令。
+(93,1): hidden CS8019: 不需要的 using 指令。
+(101,1): hidden CS8019: 不需要的 using 指令。
+(62,1): hidden CS8019: 不需要的 using 指令。
+(78,1): hidden CS8019: 不需要的 using 指令。
+(39,1): hidden CS8019: 不需要的 using 指令。
+(48,1): hidden CS8019: 不需要的 using 指令。
+(18,1): hidden CS8019: 不需要的 using 指令。
+(46,1): hidden CS8019: 不需要的 using 指令。
+(73,1): hidden CS8019: 不需要的 using 指令。
+(75,1): hidden CS8019: 不需要的 using 指令。
+(65,1): hidden CS8019: 不需要的 using 指令。
+(9,1): hidden CS8019: 不需要的 using 指令。
+(50,1): hidden CS8019: 不需要的 using 指令。
+(105,1): hidden CS8019: 不需要的 using 指令。
+(35,1): hidden CS8019: 不需要的 using 指令。
+(17,1): hidden CS8019: 不需要的 using 指令。
+(64,1): hidden CS8019: 不需要的 using 指令。
+(51,1): hidden CS8019: 不需要的 using 指令。
+(58,1): hidden CS8019: 不需要的 using 指令。
+(10,1): hidden CS8019: 不需要的 using 指令。
+(100,1): hidden CS8019: 不需要的 using 指令。
+(31,1): hidden CS8019: 不需要的 using 指令。
+(61,1): hidden CS8019: 不需要的 using 指令。
+(49,1): hidden CS8019: 不需要的 using 指令。
+(21,1): hidden CS8019: 不需要的 using 指令。
+(29,1): hidden CS8019: 不需要的 using 指令。
+(95,1): hidden CS8019: 不需要的 using 指令。
+(27,1): hidden CS8019: 不需要的 using 指令。
+(41,1): hidden CS8019: 不需要的 using 指令。
+(106,1): hidden CS8019: 不需要的 using 指令。
+(14,1): hidden CS8019: 不需要的 using 指令。

@@ -8,6 +8,10 @@
 error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
 (419,25): error CS0103: 当前上下文中不存在名称“SignatureHelper”
 (422,34): error CS0103: 当前上下文中不存在名称“SignatureStatus”
+(20,24): error CS0103: 当前上下文中不存在名称“Environment”
+(20,50): error CS0103: 当前上下文中不存在名称“Environment”
+(21,20): error CS0103: 当前上下文中不存在名称“Path”
+(21,97): error CS0103: 当前上下文中不存在名称“RuntimeInformation”
 (91,24): error CS0103: 当前上下文中不存在名称“Environment”
 (91,50): error CS0103: 当前上下文中不存在名称“Environment”
 (92,20): error CS0103: 当前上下文中不存在名称“Path”
@@ -16,16 +20,12 @@ error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
 (312,50): error CS0103: 当前上下文中不存在名称“Environment”
 (313,20): error CS0103: 当前上下文中不存在名称“Path”
 (313,97): error CS0103: 当前上下文中不存在名称“RuntimeInformation”
-(20,24): error CS0103: 当前上下文中不存在名称“Environment”
-(20,50): error CS0103: 当前上下文中不存在名称“Environment”
-(21,20): error CS0103: 当前上下文中不存在名称“Path”
-(21,97): error CS0103: 当前上下文中不存在名称“RuntimeInformation”
-(98,35): error CS0103: 当前上下文中不存在名称“Enum”
-(105,27): error CS0246: 未能找到类型或命名空间名“FileNotFoundException”(是否缺少 using 指令或程序集引用?)
-(27,35): error CS0103: 当前上下文中不存在名称“Enum”
-(34,27): error CS0246: 未能找到类型或命名空间名“FileNotFoundException”(是否缺少 using 指令或程序集引用?)
 (319,35): error CS0103: 当前上下文中不存在名称“Enum”
 (326,27): error CS0246: 未能找到类型或命名空间名“FileNotFoundException”(是否缺少 using 指令或程序集引用?)
+(27,35): error CS0103: 当前上下文中不存在名称“Enum”
+(34,27): error CS0246: 未能找到类型或命名空间名“FileNotFoundException”(是否缺少 using 指令或程序集引用?)
+(98,35): error CS0103: 当前上下文中不存在名称“Enum”
+(105,27): error CS0246: 未能找到类型或命名空间名“FileNotFoundException”(是否缺少 using 指令或程序集引用?)
 (118,13): error CS0103: 当前上下文中不存在名称“IOPath”
 (120,27): error CS0246: 未能找到类型或命名空间名“ProcessStartInfo”(是否缺少 using 指令或程序集引用?)
 (132,13): error CS0103: 当前上下文中不存在名称“ProcessHelper”

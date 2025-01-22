@@ -374,6 +374,7 @@ error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
 (1038,21): error CS0103: 当前上下文中不存在名称“File”
 (1025,29): warning CS0162: 检测到无法访问的代码
 (911,37): error CS0103: 当前上下文中不存在名称“Path”
+(924,37): error CS0103: 当前上下文中不存在名称“Path”
 (1070,68): error CS1061: “bool”未包含“ToLowerString”的定义，并且找不到可接受第一个“bool”类型参数的可访问扩展方法“ToLowerString”(是否缺少 using 指令或程序集引用?)
 (1085,75): error CS1061: “bool”未包含“ToLowerString”的定义，并且找不到可接受第一个“bool”类型参数的可访问扩展方法“ToLowerString”(是否缺少 using 指令或程序集引用?)
 (1089,75): error CS1061: “bool”未包含“ToLowerString”的定义，并且找不到可接受第一个“bool”类型参数的可访问扩展方法“ToLowerString”(是否缺少 using 指令或程序集引用?)
@@ -383,7 +384,6 @@ error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
 (1115,72): error CS1061: “bool”未包含“ToLowerString”的定义，并且找不到可接受第一个“bool”类型参数的可访问扩展方法“ToLowerString”(是否缺少 using 指令或程序集引用?)
 (1119,74): error CS1061: “bool”未包含“ToLowerString”的定义，并且找不到可接受第一个“bool”类型参数的可访问扩展方法“ToLowerString”(是否缺少 using 指令或程序集引用?)
 (1137,54): error CS1061: “bool”未包含“ToLowerString”的定义，并且找不到可接受第一个“bool”类型参数的可访问扩展方法“ToLowerString”(是否缺少 using 指令或程序集引用?)
-(924,37): error CS0103: 当前上下文中不存在名称“Path”
 (1150,22): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
 (1151,22): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
 (1152,22): error CS0103: 当前上下文中不存在名称“AssemblyInfo”

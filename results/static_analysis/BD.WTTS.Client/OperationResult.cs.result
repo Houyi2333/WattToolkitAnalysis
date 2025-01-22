@@ -24,16 +24,16 @@
 (45,6): error CS0246: 未能找到类型或命名空间名“S_JsonIgnoreAttribute”(是否缺少 using 指令或程序集引用?)
 (45,6): error CS0246: 未能找到类型或命名空间名“S_JsonIgnore”(是否缺少 using 指令或程序集引用?)
 error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
-(62,62): error CS1729: “OperationResultBase<T>”不包含采用 1 个参数的构造函数
 (12,62): error CS1729: “OperationResultBase<object>”不包含采用 1 个参数的构造函数
-(67,78): error CS1729: “OperationResultBase<T>”不包含采用 2 个参数的构造函数
+(62,62): error CS1729: “OperationResultBase<T>”不包含采用 1 个参数的构造函数
 (17,78): error CS1729: “OperationResultBase<object>”不包含采用 2 个参数的构造函数
+(67,78): error CS1729: “OperationResultBase<T>”不包含采用 2 个参数的构造函数
 (22,98): error CS1729: “OperationResultBase<object>”不包含采用 3 个参数的构造函数
 (72,92): error CS1729: “OperationResultBase<T>”不包含采用 3 个参数的构造函数
-(77,97): error CS1729: “OperationResultBase<T>”不包含采用 3 个参数的构造函数
 (27,97): error CS1729: “OperationResultBase<object>”不包含采用 3 个参数的构造函数
-(82,111): error CS1729: “OperationResultBase<T>”不包含采用 4 个参数的构造函数
+(77,97): error CS1729: “OperationResultBase<T>”不包含采用 3 个参数的构造函数
 (32,117): error CS1729: “OperationResultBase<object>”不包含采用 4 个参数的构造函数
+(82,111): error CS1729: “OperationResultBase<T>”不包含采用 4 个参数的构造函数
 (38,9): error CS0103: 当前上下文中不存在名称“ResultType”
 (39,9): error CS0103: 当前上下文中不存在名称“Message”
 (40,9): error CS0103: 当前上下文中不存在名称“LogMessage”
