@@ -19,10 +19,10 @@
 
 ## **技术栈与工具**  
 
-- **编程语言**：Python  
+- **编程语言**：Python, C#
 - **使用工具**：  
   - 数据分析：`pandas`, `matplotlib`  
-  - 静态分析：`libcst`, `ast`, `pylint`  
+  - 静态分析：`Roslyn`  
   - Git 仓库数据获取：`PyGitHub`, `GitPython`  
   - 模糊测试：`AFL`, `fuzzing`  
 
