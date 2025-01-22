@@ -21,9 +21,9 @@
 (380,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
 error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
 (1672,35): error CS1061: “BoundedStack<T>”未包含“Clear”的定义，并且找不到可接受第一个“BoundedStack<T>”类型参数的可访问扩展方法“Clear”(是否缺少 using 指令或程序集引用?)
-(47,67): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
 (1696,53): error CS0428: 无法将方法组“Count”转换为非委托类型“int”。是否希望调用此方法?
 (1698,53): error CS0428: 无法将方法组“Count”转换为非委托类型“int”。是否希望调用此方法?
+(47,67): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
 (1723,18): error CS1061: “BoundedStack<T>”未包含“AddFirst”的定义，并且找不到可接受第一个“BoundedStack<T>”类型参数的可访问扩展方法“AddFirst”(是否缺少 using 指令或程序集引用?)
 (1725,17): error CS0019: 运算符“>”无法应用于“方法组”和“int”类型的操作数
 (1727,22): error CS1061: “BoundedStack<T>”未包含“RemoveLast”的定义，并且找不到可接受第一个“BoundedStack<T>”类型参数的可访问扩展方法“RemoveLast”(是否缺少 using 指令或程序集引用?)
@@ -61,7 +61,6 @@ error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
 (1576,30): warning CS0649: 从未对字段“InternalTestHooks.BypassGroupPolicyCaching”赋值，字段将一直保持其默认值 false
 (1619,30): warning CS0649: 从未对字段“InternalTestHooks.OneDriveTestOn”赋值，字段将一直保持其默认值 false
 (1608,32): warning CS0649: 从未对字段“InternalTestHooks.TestWindowsPowerShellVersionString”赋值，字段将一直保持其默认值 null
-(499,33): warning CS0169: 从不使用字段“Utils.s_productFolderDirectories”
 (1582,30): warning CS0649: 从未对字段“InternalTestHooks.NoPromptForPassword”赋值，字段将一直保持其默认值 false
 (1577,30): warning CS0649: 从未对字段“InternalTestHooks.ForceScriptBlockLogging”赋值，字段将一直保持其默认值 false
 (1583,30): warning CS0649: 从未对字段“InternalTestHooks.ForceFormatListFixedLabelWidth”赋值，字段将一直保持其默认值 false
@@ -69,6 +68,7 @@ error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
 (1589,29): warning CS0649: 从未对字段“InternalTestHooks.TestStopComputerResults”赋值，字段将一直保持其默认值 0
 (1578,30): warning CS0649: 从未对字段“InternalTestHooks.UseDebugAmsiImplementation”赋值，字段将一直保持其默认值 false
 (1603,32): warning CS0649: 从未对字段“InternalTestHooks.TestWindowsPowerShellPSHomeLocation”赋值，字段将一直保持其默认值 null
+(499,33): warning CS0169: 从不使用字段“Utils.s_productFolderDirectories”
 (1586,30): warning CS0649: 从未对字段“InternalTestHooks.TestStopComputer”赋值，字段将一直保持其默认值 false
 (1595,30): warning CS0649: 从未对字段“InternalTestHooks.StopwatchIsNotHighResolution”赋值，字段将一直保持其默认值 false
 (1596,30): warning CS0649: 从未对字段“InternalTestHooks.DisableGACLoading”赋值，字段将一直保持其默认值 false

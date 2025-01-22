@@ -1,6 +1,6 @@
 (3,24): error CS0234: 命名空间“BD”中不存在类型或命名空间名“Common”(是否缺少程序集引用?)
-(4,36): error CS0234: 命名空间“BD.WTTS.Services”中不存在类型或命名空间名“IPCToastService”(是否缺少程序集引用?)
 (2,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(4,36): error CS0234: 命名空间“BD.WTTS.Services”中不存在类型或命名空间名“IPCToastService”(是否缺少程序集引用?)
 (1,31): error CS0234: 命名空间“BD.WTTS.Services”中不存在类型或命名空间名“IPCToastService”(是否缺少程序集引用?)
 (9,43): error CS0246: 未能找到类型或命名空间名“IPCToastService”(是否缺少 using 指令或程序集引用?)
 (19,38): error CS0246: 未能找到类型或命名空间名“ToastText”(是否缺少 using 指令或程序集引用?)

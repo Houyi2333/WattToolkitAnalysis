@@ -1,0 +1,61 @@
+(47,47): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(8,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“Net”(是否缺少程序集引用?)
+(9,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(10,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“Extensions”(是否缺少程序集引用?)
+(11,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(12,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(13,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(14,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(15,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(16,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(17,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(18,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(19,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(20,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(21,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(22,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(23,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(24,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(25,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(26,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(27,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(28,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“Extensions”(是否缺少程序集引用?)
+(29,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(30,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(31,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“Extensions”(是否缺少程序集引用?)
+(32,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“Extensions”(是否缺少程序集引用?)
+(33,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(34,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“Extensions”(是否缺少程序集引用?)
+(45,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(46,24): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(26,1): hidden CS8019: 不需要的 using 指令。
+(8,1): hidden CS8019: 不需要的 using 指令。
+(13,1): hidden CS8019: 不需要的 using 指令。
+(14,1): hidden CS8019: 不需要的 using 指令。
+(12,1): hidden CS8019: 不需要的 using 指令。
+(24,1): hidden CS8019: 不需要的 using 指令。
+(45,1): hidden CS8019: 不需要的 using 指令。
+(21,1): hidden CS8019: 不需要的 using 指令。
+(32,1): hidden CS8019: 不需要的 using 指令。
+(46,1): hidden CS8019: 不需要的 using 指令。
+(33,1): hidden CS8019: 不需要的 using 指令。
+(30,1): hidden CS8019: 不需要的 using 指令。
+(10,1): hidden CS8019: 不需要的 using 指令。
+(18,1): hidden CS8019: 不需要的 using 指令。
+(34,1): hidden CS8019: 不需要的 using 指令。
+(31,1): hidden CS8019: 不需要的 using 指令。
+(28,1): hidden CS8019: 不需要的 using 指令。
+(9,1): hidden CS8019: 不需要的 using 指令。
+(25,1): hidden CS8019: 不需要的 using 指令。
+(15,1): hidden CS8019: 不需要的 using 指令。
+(27,1): hidden CS8019: 不需要的 using 指令。
+(17,1): hidden CS8019: 不需要的 using 指令。
+(20,1): hidden CS8019: 不需要的 using 指令。
+(16,1): hidden CS8019: 不需要的 using 指令。
+(22,1): hidden CS8019: 不需要的 using 指令。
+(11,1): hidden CS8019: 不需要的 using 指令。
+(23,1): hidden CS8019: 不需要的 using 指令。
+(19,1): hidden CS8019: 不需要的 using 指令。
+(47,1): hidden CS8019: 不需要的 using 指令。
+(29,1): hidden CS8019: 不需要的 using 指令。

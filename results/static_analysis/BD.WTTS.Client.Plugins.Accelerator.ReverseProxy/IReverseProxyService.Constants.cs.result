@@ -3,8 +3,6 @@
 (88,5): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
 (88,25): error CS0246: 未能找到类型或命名空间名“AccelerateProjectDTO”(是否缺少 using 指令或程序集引用?)
 (351,75): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
-(93,5): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
-(93,25): error CS0246: 未能找到类型或命名空间名“ScriptIPCDTO”(是否缺少 using 指令或程序集引用?)
 (185,5): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
 (185,25): error CS0246: 未能找到类型或命名空间名“AccelerateProjectDTO”(是否缺少 using 指令或程序集引用?)
 (187,5): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
@@ -18,6 +16,8 @@
 (221,11): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
 (227,11): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
 (229,11): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(93,5): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(93,25): error CS0246: 未能找到类型或命名空间名“ScriptIPCDTO”(是否缺少 using 指令或程序集引用?)
 (113,5): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
 (118,5): error CS0246: 未能找到类型或命名空间名“ProxyMode”(是否缺少 using 指令或程序集引用?)
 (153,5): error CS0246: 未能找到类型或命名空间名“ExternalProxyType”(是否缺少 using 指令或程序集引用?)
@@ -27,12 +27,12 @@
 (165,5): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
 (174,11): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
 (179,11): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
-(182,2): error CS0246: 未能找到类型或命名空间名“MP2ObjAttribute”(是否缺少 using 指令或程序集引用?)
-(182,2): error CS0246: 未能找到类型或命名空间名“MP2Obj”(是否缺少 using 指令或程序集引用?)
-(182,9): error CS0103: 当前上下文中不存在名称“SerializeLayout”
 (17,2): error CS0246: 未能找到类型或命名空间名“IpcPublicAttribute”(是否缺少 using 指令或程序集引用?)
 (17,2): error CS0246: 未能找到类型或命名空间名“IpcPublic”(是否缺少 using 指令或程序集引用?)
 (17,22): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(182,2): error CS0246: 未能找到类型或命名空间名“MP2ObjAttribute”(是否缺少 using 指令或程序集引用?)
+(182,2): error CS0246: 未能找到类型或命名空间名“MP2Obj”(是否缺少 using 指令或程序集引用?)
+(182,9): error CS0103: 当前上下文中不存在名称“SerializeLayout”
 (46,5): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
 (46,25): error CS0246: 未能找到类型或命名空间名“ScriptIPCDTO”(是否缺少 using 指令或程序集引用?)
 (51,5): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)

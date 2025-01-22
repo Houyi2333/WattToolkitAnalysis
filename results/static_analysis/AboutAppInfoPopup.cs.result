@@ -1,0 +1,40 @@
+(12,17): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“Extensions”(是否缺少程序集引用?)
+(13,26): error CS0234: 命名空间“System.Application”中不存在类型或命名空间名“Services”(是否缺少程序集引用?)
+(14,26): error CS0234: 命名空间“System.Application”中不存在类型或命名空间名“Services”(是否缺少程序集引用?)
+(17,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Linq”(是否缺少程序集引用?)
+(18,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Properties”(是否缺少程序集引用?)
+(579,22): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(28,25): error CS0246: 未能找到类型或命名空间名“IPlatformService”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(28,60): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(48,17): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(72,22): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(90,62): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(95,22): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(110,22): error CS0103: 当前上下文中不存在名称“ThisAssembly”
+(123,17): error CS0103: 当前上下文中不存在名称“DesktopBridge”
+(131,22): error CS0103: 当前上下文中不存在名称“ApplicationUpdateServiceBaseImpl”
+(168,22): error CS0103: 当前上下文中不存在名称“IOPath”
+(173,22): error CS0103: 当前上下文中不存在名称“IApplication”
+(261,37): error CS0103: 当前上下文中不存在名称“ArchiSteamFarm”
+(266,71): error CS0122: “DateTimeFormat”不可访问，因为它具有一定的保护级别
+(401,22): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(408,17): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(413,22): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(416,22): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(419,22): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(434,17): error CS0103: 当前上下文中不存在名称“DeviceInfo2”
+(513,17): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(516,45): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(529,48): error CS0246: 未能找到类型或命名空间名“ServiceCollection”(是否缺少 using 指令或程序集引用?)
+(533,48): error CS0246: 未能找到类型或命名空间名“SkiaSharp”(是否缺少 using 指令或程序集引用?)
+(543,22): error CS0103: 当前上下文中不存在名称“Essentials”
+(575,17): error CS0103: 当前上下文中不存在名称“MessageBox”
+(583,14): error CS1061: “string[]”未包含“FirstOrDefault”的定义，并且找不到可接受第一个“string[]”类型参数的可访问扩展方法“FirstOrDefault”(是否缺少 using 指令或程序集引用?)
+(17,1): hidden CS8019: 不需要的 using 指令。
+(16,1): hidden CS8019: 不需要的 using 指令。
+(18,1): hidden CS8019: 不需要的 using 指令。
+(15,1): hidden CS8019: 不需要的 using 指令。
+(13,1): hidden CS8019: 不需要的 using 指令。
+(12,1): hidden CS8019: 不需要的 using 指令。
+(14,1): hidden CS8019: 不需要的 using 指令。

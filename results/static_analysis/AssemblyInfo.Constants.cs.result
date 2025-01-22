@@ -1,0 +1,3 @@
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(36,86): error CS0103: 当前上下文中不存在名称“StringComparison”
+(41,104): error CS0103: 当前上下文中不存在名称“StringComparison”

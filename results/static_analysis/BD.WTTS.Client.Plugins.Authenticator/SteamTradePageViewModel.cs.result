@@ -1,5 +1,5 @@
-(5,22): error CS0246: 未能找到类型或命名空间名“WinAuth”(是否缺少 using 指令或程序集引用?)
 (4,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(5,22): error CS0246: 未能找到类型或命名空间名“WinAuth”(是否缺少 using 指令或程序集引用?)
 (1,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
 (2,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
 (3,7): error CS0246: 未能找到类型或命名空间名“WinAuth”(是否缺少 using 指令或程序集引用?)

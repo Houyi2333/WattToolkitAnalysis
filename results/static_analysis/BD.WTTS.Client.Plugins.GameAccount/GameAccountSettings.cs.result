@@ -7,6 +7,8 @@
 (37,34): error CS0246: 未能找到类型或命名空间名“ISettings”(是否缺少 using 指令或程序集引用?)
 (40,25): error CS0246: 未能找到类型或命名空间名“ISettings”(是否缺少 using 指令或程序集引用?)
 (43,47): error CS0246: 未能找到类型或命名空间名“ISettings<>”(是否缺少 using 指令或程序集引用?)
+(83,19): error CS0246: 未能找到类型或命名空间名“SettingsProperty<,,,>”(是否缺少 using 指令或程序集引用?)
+(83,53): error CS0246: 未能找到类型或命名空间名“ConcurrentDictionary<,>”(是否缺少 using 指令或程序集引用?)
 (35,19): error CS0538: '显式接口声明中的“ISettings”不是接口
 (37,12): error CS0246: 未能找到类型或命名空间名“JsonSerializerContext”(是否缺少 using 指令或程序集引用?)
 (37,34): error CS0538: '显式接口声明中的“ISettings”不是接口
@@ -14,8 +16,6 @@
 (40,25): error CS0538: '显式接口声明中的“ISettings”不是接口
 (43,12): error CS0246: 未能找到类型或命名空间名“JsonTypeInfo<>”(是否缺少 using 指令或程序集引用?)
 (43,47): error CS0538: '显式接口声明中的“ISettings<GameAccountSettings_>”不是接口
-(83,19): error CS0246: 未能找到类型或命名空间名“SettingsProperty<,,,>”(是否缺少 using 指令或程序集引用?)
-(83,53): error CS0246: 未能找到类型或命名空间名“ConcurrentDictionary<,>”(是否缺少 using 指令或程序集引用?)
 (89,19): error CS0246: 未能找到类型或命名空间名“SettingsProperty<,>”(是否缺少 using 指令或程序集引用?)
 (89,36): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
 (89,56): error CS0246: 未能找到类型或命名空间名“DisableAuthorizedDevice”(是否缺少 using 指令或程序集引用?)

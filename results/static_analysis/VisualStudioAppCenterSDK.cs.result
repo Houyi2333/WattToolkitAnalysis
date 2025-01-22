@@ -1,0 +1,14 @@
+(1,17): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AppCenter”(是否缺少程序集引用?)
+(2,17): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AppCenter”(是否缺少程序集引用?)
+(3,17): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AppCenter”(是否缺少程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(21,13): error CS0103: 当前上下文中不存在名称“DateTime”
+(21,36): error CS0246: 未能找到类型或命名空间名“DateTime”(是否缺少 using 指令或程序集引用?)
+(21,85): error CS0103: 当前上下文中不存在名称“DateTimeKind”
+(28,25): error CS0103: 当前上下文中不存在名称“AppSecret”
+(39,9): error CS0103: 当前上下文中不存在名称“AppCenter”
+(39,43): error CS0246: 未能找到类型或命名空间名“Analytics”(是否缺少 using 指令或程序集引用?)
+(39,62): error CS0246: 未能找到类型或命名空间名“Crashes”(是否缺少 using 指令或程序集引用?)
+(1,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

@@ -197,6 +197,7 @@ error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
 (781,41): error CS0103: 当前上下文中不存在名称“JsonTokenType”
 (783,32): error CS0103: 当前上下文中不存在名称“JsonDocument”
 (809,23): error CS0246: 未能找到类型或命名空间名“NotImplementedException”(是否缺少 using 指令或程序集引用?)
+(444,27): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
 (884,17): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
 (887,41): error CS0103: 当前上下文中不存在名称“JsonTokenType”
 (889,27): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
@@ -208,7 +209,6 @@ error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
 (902,49): error CS0103: 当前上下文中不存在名称“JsonTokenType”
 (906,54): error CS0103: 当前上下文中不存在名称“JsonTokenType”
 (915,74): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
-(444,27): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
 (923,27): error CS0246: 未能找到类型或命名空间名“NotImplementedException”(是否缺少 using 指令或程序集引用?)
 (465,21): error CS0103: 当前上下文中不存在名称“Array”
 (472,41): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
@@ -216,11 +216,11 @@ error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
 (486,39): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
 (496,25): error CS0103: 当前上下文中不存在名称“Log”
 (511,21): error CS0103: 当前上下文中不存在名称“Log”
+(760,38): error CS0103: 当前上下文中不存在名称“Enumerable”
+(760,55): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
 (523,13): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)
 (523,45): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)
 (547,40): error CS0103: 当前上下文中不存在名称“Encoding”
-(760,38): error CS0103: 当前上下文中不存在名称“Enumerable”
-(760,55): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
 (639,35): error CS0103: 当前上下文中不存在名称“Random”
 (686,37): error CS0103: 当前上下文中不存在名称“Encoding”
 (1,1): hidden CS8019: 不需要的 using 指令。

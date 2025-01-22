@@ -1,0 +1,76 @@
+(48,49): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(31,56): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(30,57): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(43,37): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(26,60): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(51,44): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(10,31): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(29,49): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(52,44): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(49,42): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(13,41): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(45,41): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(23,49): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(46,41): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(32,55): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(34,52): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(28,54): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(24,51): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(35,56): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(33,60): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(9,29): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(14,43): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(44,39): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(47,38): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(25,53): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(42,40): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(27,58): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(50,37): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(16,26): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(17,26): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(18,26): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(19,26): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(20,26): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Encodings”(是否缺少程序集引用?)
+(38,14): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(39,14): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(40,14): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(41,14): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(44,1): hidden CS8019: 不需要的 using 指令。
+(16,1): hidden CS8019: 不需要的 using 指令。
+(28,1): hidden CS8019: 不需要的 using 指令。
+(51,1): hidden CS8019: 不需要的 using 指令。
+(48,1): hidden CS8019: 不需要的 using 指令。
+(24,1): hidden CS8019: 不需要的 using 指令。
+(14,1): hidden CS8019: 不需要的 using 指令。
+(17,1): hidden CS8019: 不需要的 using 指令。
+(34,1): hidden CS8019: 不需要的 using 指令。
+(33,1): hidden CS8019: 不需要的 using 指令。
+(52,1): hidden CS8019: 不需要的 using 指令。
+(31,1): hidden CS8019: 不需要的 using 指令。
+(20,1): hidden CS8019: 不需要的 using 指令。
+(30,1): hidden CS8019: 不需要的 using 指令。
+(21,1): hidden CS8019: 不需要的 using 指令。
+(39,1): hidden CS8019: 不需要的 using 指令。
+(41,1): hidden CS8019: 不需要的 using 指令。
+(26,1): hidden CS8019: 不需要的 using 指令。
+(42,1): hidden CS8019: 不需要的 using 指令。
+(32,1): hidden CS8019: 不需要的 using 指令。
+(49,1): hidden CS8019: 不需要的 using 指令。
+(18,1): hidden CS8019: 不需要的 using 指令。
+(9,1): hidden CS8019: 不需要的 using 指令。
+(27,1): hidden CS8019: 不需要的 using 指令。
+(35,1): hidden CS8019: 不需要的 using 指令。
+(50,1): hidden CS8019: 不需要的 using 指令。
+(47,1): hidden CS8019: 不需要的 using 指令。
+(25,1): hidden CS8019: 不需要的 using 指令。
+(45,1): hidden CS8019: 不需要的 using 指令。
+(13,1): hidden CS8019: 不需要的 using 指令。
+(29,1): hidden CS8019: 不需要的 using 指令。
+(38,1): hidden CS8019: 不需要的 using 指令。
+(43,1): hidden CS8019: 不需要的 using 指令。
+(46,1): hidden CS8019: 不需要的 using 指令。
+(10,1): hidden CS8019: 不需要的 using 指令。
+(23,1): hidden CS8019: 不需要的 using 指令。
+(19,1): hidden CS8019: 不需要的 using 指令。
+(40,1): hidden CS8019: 不需要的 using 指令。
