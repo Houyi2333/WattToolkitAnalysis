@@ -1,0 +1,35 @@
+(5,39): error CS0234: 命名空间“AvaloniaSkia”中不存在类型或命名空间名“Avalonia”(是否缺少程序集引用?)
+(2,14): error CS0430: 在 /reference 选项中未指定外部别名“AvaloniaSkia”
+(4,16): error CS0234: 命名空间“Avalonia”中不存在类型或命名空间名“Media”(是否缺少程序集引用?)
+(10,38): error CS0246: 未能找到类型或命名空间名“IFontManagerImpl”(是否缺少 using 指令或程序集引用?)
+(18,12): error CS0246: 未能找到类型或命名空间名“IFontManagerImpl”(是否缺少 using 指令或程序集引用?)
+(20,14): error CS0246: 未能找到类型或命名空间名“IFontManagerImpl”(是否缺少 using 指令或程序集引用?)
+(30,10): error CS0246: 未能找到类型或命名空间名“IFontManagerImpl”(是否缺少 using 指令或程序集引用?)
+(35,10): error CS0246: 未能找到类型或命名空间名“IFontManagerImpl”(是否缺少 using 指令或程序集引用?)
+(41,10): error CS0246: 未能找到类型或命名空间名“IFontManagerImpl”(是否缺少 using 指令或程序集引用?)
+(12,15): error CS0246: 未能找到类型或命名空间名“IFontManagerImpl”(是否缺少 using 指令或程序集引用?)
+(52,22): error CS0246: 未能找到类型或命名空间名“IFontManagerImpl”(是否缺少 using 指令或程序集引用?)
+(18,12): error CS0538: '显式接口声明中的“IFontManagerImpl”不是接口
+(20,14): error CS0538: '显式接口声明中的“IFontManagerImpl”不是接口
+(30,60): error CS0246: 未能找到类型或命名空间名“FontStyle”(是否缺少 using 指令或程序集引用?)
+(30,81): error CS0246: 未能找到类型或命名空间名“FontWeight”(是否缺少 using 指令或程序集引用?)
+(30,104): error CS0246: 未能找到类型或命名空间名“FontStretch”(是否缺少 using 指令或程序集引用?)
+(30,129): error CS0246: 未能找到类型或命名空间名“CultureInfo”(是否缺少 using 指令或程序集引用?)
+(30,155): error CS0246: 未能找到类型或命名空间名“Typeface”(是否缺少 using 指令或程序集引用?)
+(30,10): error CS0538: '显式接口声明中的“IFontManagerImpl”不是接口
+(35,69): error CS0246: 未能找到类型或命名空间名“FontStyle”(是否缺少 using 指令或程序集引用?)
+(35,86): error CS0246: 未能找到类型或命名空间名“FontWeight”(是否缺少 using 指令或程序集引用?)
+(35,105): error CS0246: 未能找到类型或命名空间名“FontStretch”(是否缺少 using 指令或程序集引用?)
+(35,163): error CS0246: 未能找到类型或命名空间名“IGlyphTypeface”(是否缺少 using 指令或程序集引用?)
+(35,10): error CS0538: '显式接口声明中的“IFontManagerImpl”不是接口
+(41,50): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(41,65): error CS0246: 未能找到类型或命名空间名“FontSimulations”(是否缺少 using 指令或程序集引用?)
+(41,135): error CS0246: 未能找到类型或命名空间名“IGlyphTypeface”(是否缺少 using 指令或程序集引用?)
+(41,10): error CS0538: '显式接口声明中的“IFontManagerImpl”不是接口
+(25,18): warning CS0109: 成员“IFontManagerImpl2.GetInstalledFontFamilyNames(bool)”不会隐藏可访问成员。不需要关键字 new。
+(35,127): error CS0246: 未能找到类型或命名空间名“NotNullWhenAttribute”(是否缺少 using 指令或程序集引用?)
+(35,127): error CS0246: 未能找到类型或命名空间名“NotNullWhen”(是否缺少 using 指令或程序集引用?)
+(41,99): error CS0246: 未能找到类型或命名空间名“NotNullWhenAttribute”(是否缺少 using 指令或程序集引用?)
+(41,99): error CS0246: 未能找到类型或命名空间名“NotNullWhen”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(4,1): hidden CS8019: 不需要的 using 指令。

@@ -1,0 +1,71 @@
+(3,2): error CS0246: 未能找到类型或命名空间名“DebuggerDisplayAttribute”(是否缺少 using 指令或程序集引用?)
+(3,2): error CS0246: 未能找到类型或命名空间名“DebuggerDisplay”(是否缺少 using 指令或程序集引用?)
+(12,35): error CS0513: “PluginBase.Name.get”是抽象的，但它包含在非抽象类型“PluginBase”中
+(14,48): error CS0513: “PluginBase.UniqueEnglishName.get”是抽象的，但它包含在非抽象类型“PluginBase”中
+(16,38): error CS0513: “PluginBase.Version.get”是抽象的，但它包含在非抽象类型“PluginBase”中
+(73,47): error CS0513: “PluginBase.AssemblyLocation.get”是抽象的，但它包含在非抽象类型“PluginBase”中
+(210,13): error CS0246: 未能找到类型或命名空间名“IPlugin”(是否缺少 using 指令或程序集引用?)
+(221,19): error CS0246: 未能找到类型或命名空间名“IPlugin”(是否缺少 using 指令或程序集引用?)
+(210,11): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(210,13): error CS0538: '显式接口声明中的“IPlugin”不是接口
+(250,35): error CS0115: “PluginBase<TPlugin>.Version”: 没有找到适合的方法来重写
+(258,35): error CS0115: “PluginBase<TPlugin>.AssemblyLocation”: 没有找到适合的方法来重写
+(223,21): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(232,14): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(252,14): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(10,20): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(24,20): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(48,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(66,29): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(71,26): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(188,26): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(190,5): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(204,12): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(206,12): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(208,11): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(31,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(31,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(31,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(219,60): error CS0403: 无法将 null 转换为类型参数“TPlugin”，因为它可能是不可为 null 的值类型。请考虑改用“default(TPlugin)”。
+(19,52): error CS0103: 当前上下文中不存在名称“WebUtility”
+(22,58): error CS0103: 当前上下文中不存在名称“WebUtility”
+(34,40): error CS0103: 当前上下文中不存在名称“StringComparison”
+(35,38): error CS0103: 当前上下文中不存在名称“StringComparison”
+(36,40): error CS0103: 当前上下文中不存在名称“StringComparison”
+(37,37): error CS0103: 当前上下文中不存在名称“StringComparison”
+(38,44): error CS0103: 当前上下文中不存在名称“StringComparison”
+(39,57): error CS0103: 当前上下文中不存在名称“StringComparison”
+(40,45): error CS0103: 当前上下文中不存在名称“StringComparison”
+(41,45): error CS0103: 当前上下文中不存在名称“StringComparison”
+(53,24): error CS0103: 当前上下文中不存在名称“Strings”
+(53,62): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(56,24): error CS0103: 当前上下文中不存在名称“Strings”
+(58,24): error CS0103: 当前上下文中不存在名称“Strings”
+(69,54): error CS0103: 当前上下文中不存在名称“WebUtility”
+(75,39): error CS0103: 当前上下文中不存在名称“mAppDataDirectory”
+(77,37): error CS0103: 当前上下文中不存在名称“mCacheDirectory”
+(156,61): error CS1503: 参数 1: 无法从“string”转换为“char”
+(158,21): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(159,46): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(160,42): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(161,21): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(162,46): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(163,42): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(164,21): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(165,46): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(166,42): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(167,21): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(168,46): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(169,42): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(170,21): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(171,46): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(172,42): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(173,21): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(174,46): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(175,42): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(176,21): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(177,46): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(178,42): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(195,28): error CS0246: 未能找到类型或命名空间名“FileInfo”(是否缺少 using 指令或程序集引用?)
+(204,42): error CS0103: 当前上下文中不存在名称“mInstallTime”

@@ -1,0 +1,57 @@
+(3,55): error CS0234: 命名空间“System.Security.Cryptography”中不存在类型或命名空间名“X509Certificates”(是否缺少程序集引用?)
+(30,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(31,9): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(32,9): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(33,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(34,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(55,9): error CS0246: 未能找到类型或命名空间名“X500DistinguishedName”(是否缺少 using 指令或程序集引用?)
+(56,9): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(57,9): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(96,9): error CS0246: 未能找到类型或命名空间名“X500DistinguishedName”(是否缺少 using 指令或程序集引用?)
+(97,9): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(98,9): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(99,9): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(150,34): error CS0246: 未能找到类型或命名空间名“SubjectAlternativeNameBuilder”(是否缺少 using 指令或程序集引用?)
+(176,20): error CS0246: 未能找到类型或命名空间名“X509Extension”(是否缺少 using 指令或程序集引用?)
+(15,29): error CS0246: 未能找到类型或命名空间名“Oid”(是否缺少 using 指令或程序集引用?)
+(16,29): error CS0246: 未能找到类型或命名空间名“Oid”(是否缺少 using 指令或程序集引用?)
+(13,103): error CS0103: 当前上下文中不存在名称“CertificateConstants”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(36,41): error CS0246: 未能找到类型或命名空间名“X500DistinguishedName”(是否缺少 using 指令或程序集引用?)
+(39,40): error CS0103: 当前上下文中不存在名称“X509ContentType”
+(40,13): error CS0103: 当前上下文中不存在名称“File”
+(61,25): error CS0103: 当前上下文中不存在名称“RSA”
+(62,27): error CS0246: 未能找到类型或命名空间名“CertificateRequest”(是否缺少 using 指令或程序集引用?)
+(62,64): error CS0103: 当前上下文中不存在名称“HashAlgorithmName”
+(62,90): error CS0103: 当前上下文中不存在名称“RSASignaturePadding”
+(64,36): error CS0246: 未能找到类型或命名空间名“X509BasicConstraintsExtension”(是否缺少 using 指令或程序集引用?)
+(67,28): error CS0246: 未能找到类型或命名空间名“X509KeyUsageExtension”(是否缺少 using 指令或程序集引用?)
+(67,50): error CS0103: 当前上下文中不存在名称“X509KeyUsageFlags”
+(67,87): error CS0103: 当前上下文中不存在名称“X509KeyUsageFlags”
+(67,115): error CS0103: 当前上下文中不存在名称“X509KeyUsageFlags”
+(70,24): error CS0246: 未能找到类型或命名空间名“OidCollection”(是否缺少 using 指令或程序集引用?)
+(71,36): error CS0246: 未能找到类型或命名空间名“X509EnhancedKeyUsageExtension”(是否缺少 using 指令或程序集引用?)
+(74,30): error CS0246: 未能找到类型或命名空间名“SubjectAlternativeNameBuilder”(是否缺少 using 指令或程序集引用?)
+(75,24): error CS0103: 当前上下文中不存在名称“CertificateConstants”
+(78,32): error CS0246: 未能找到类型或命名空间名“X509SubjectKeyIdentifierExtension”(是否缺少 using 指令或程序集引用?)
+(102,25): error CS0103: 当前上下文中不存在名称“RSA”
+(103,27): error CS0246: 未能找到类型或命名空间名“CertificateRequest”(是否缺少 using 指令或程序集引用?)
+(103,64): error CS0103: 当前上下文中不存在名称“HashAlgorithmName”
+(103,90): error CS0103: 当前上下文中不存在名称“RSASignaturePadding”
+(105,36): error CS0246: 未能找到类型或命名空间名“X509BasicConstraintsExtension”(是否缺少 using 指令或程序集引用?)
+(108,28): error CS0246: 未能找到类型或命名空间名“X509KeyUsageExtension”(是否缺少 using 指令或程序集引用?)
+(108,50): error CS0103: 当前上下文中不存在名称“X509KeyUsageFlags”
+(108,87): error CS0103: 当前上下文中不存在名称“X509KeyUsageFlags”
+(111,24): error CS0246: 未能找到类型或命名空间名“OidCollection”(是否缺少 using 指令或程序集引用?)
+(112,36): error CS0246: 未能找到类型或命名空间名“X509EnhancedKeyUsageExtension”(是否缺少 using 指令或程序集引用?)
+(118,32): error CS0246: 未能找到类型或命名空间名“X509SubjectKeyIdentifierExtension”(是否缺少 using 指令或程序集引用?)
+(121,30): error CS0246: 未能找到类型或命名空间名“SubjectAlternativeNameBuilder”(是否缺少 using 指令或程序集引用?)
+(124,13): error CS0019: 运算符“!=”无法应用于“IEnumerable<string>?”和“<null>”类型的操作数
+(126,37): error CS1579: “IEnumerable<string>?”不包含“GetEnumerator”的公共实例或扩展定义，因此 foreach 语句不能作用于“IEnumerable<string>?”类型的变量
+(135,13): error CS0019: 运算符“==”无法应用于“DateTimeOffset?”和“<null>”类型的操作数
+(140,13): error CS0019: 运算符“==”无法应用于“DateTimeOffset?”和“<null>”类型的操作数
+(145,28): error CS0103: 当前上下文中不存在名称“BitConverter”
+(145,50): error CS0103: 当前上下文中不存在名称“Random”
+(152,13): error CS0103: 当前上下文中不存在名称“IPAddress”
+(178,29): error CS0246: 未能找到类型或命名空间名“X509SubjectKeyIdentifierExtension”(是否缺少 using 指令或程序集引用?)
+(190,24): error CS0246: 未能找到类型或命名空间名“X509Extension”(是否缺少 using 指令或程序集引用?)

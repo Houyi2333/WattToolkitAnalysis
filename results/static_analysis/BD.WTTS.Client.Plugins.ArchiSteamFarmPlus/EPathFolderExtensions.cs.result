@@ -1,0 +1,22 @@
+(5,45): error CS0246: 未能找到类型或命名空间名“EPathFolder”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,13): error CS0103: 当前上下文中不存在名称“EPathFolder”
+(9,35): error CS0103: 当前上下文中不存在名称“SharedInfo”
+(9,67): error CS0103: 当前上下文中不存在名称“Path”
+(9,80): error CS0103: 当前上下文中不存在名称“SharedInfo”
+(9,106): error CS0103: 当前上下文中不存在名称“SharedInfo”
+(10,13): error CS0103: 当前上下文中不存在名称“EPathFolder”
+(10,35): error CS0103: 当前上下文中不存在名称“SharedInfo”
+(10,67): error CS0103: 当前上下文中不存在名称“Path”
+(10,80): error CS0103: 当前上下文中不存在名称“SharedInfo”
+(10,106): error CS0103: 当前上下文中不存在名称“SharedInfo”
+(11,13): error CS0103: 当前上下文中不存在名称“EPathFolder”
+(11,32): error CS0103: 当前上下文中不存在名称“Path”
+(11,45): error CS0103: 当前上下文中不存在名称“SharedInfo”
+(11,71): error CS0103: 当前上下文中不存在名称“SharedInfo”
+(12,13): error CS0103: 当前上下文中不存在名称“EPathFolder”
+(12,33): error CS0103: 当前上下文中不存在名称“Path”
+(12,46): error CS0103: 当前上下文中不存在名称“SharedInfo”
+(12,72): error CS0103: 当前上下文中不存在名称“SharedInfo”
+(13,13): error CS0103: 当前上下文中不存在名称“EPathFolder”
+(13,37): error CS0103: 当前上下文中不存在名称“SharedInfo”

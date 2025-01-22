@@ -1,0 +1,15 @@
+(10,7): error CS0246: 未能找到类型或命名空间名“ReactiveObject”(是否缺少 using 指令或程序集引用?)
+(10,23): error CS0246: 未能找到类型或命名空间名“IEquatable<>”(是否缺少 using 指令或程序集引用?)
+(11,5): error CS0246: 未能找到类型或命名空间名“IEquatable<>”(是否缺少 using 指令或程序集引用?)
+(11,24): error CS0246: 未能找到类型或命名空间名“IReactiveObject”(是否缺少 using 指令或程序集引用?)
+(28,43): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(31,29): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(34,39): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(14,6): error CS0246: 未能找到类型或命名空间名“SetsRequiredMembersAttribute”(是否缺少 using 指令或程序集引用?)
+(14,6): error CS0246: 未能找到类型或命名空间名“SetsRequiredMembers”(是否缺少 using 指令或程序集引用?)
+(21,16): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(21,16): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(29,34): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(29,12): error CS0103: 当前上下文中不存在名称“EqualityComparer”
+(32,12): error CS0103: 当前上下文中不存在名称“EqualityComparer”

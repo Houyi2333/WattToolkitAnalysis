@@ -1,0 +1,10 @@
+(1,17): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“CodeAnalysis”(是否缺少程序集引用?)
+(6,35): error CS0246: 未能找到类型或命名空间名“ISourceGenerator”(是否缺少 using 指令或程序集引用?)
+(5,2): error CS0246: 未能找到类型或命名空间名“GeneratorAttribute”(是否缺少 using 指令或程序集引用?)
+(5,2): error CS0246: 未能找到类型或命名空间名“Generator”(是否缺少 using 指令或程序集引用?)
+(8,25): error CS0246: 未能找到类型或命名空间名“GeneratorExecutionContext”(是否缺少 using 指令或程序集引用?)
+(22,28): error CS0246: 未能找到类型或命名空间名“GeneratorInitializationContext”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(15,15): error CS0103: 当前上下文中不存在名称“SettingsGenerationReceiver”
+(19,30): error CS0103: 当前上下文中不存在名称“SettingsGenerationReceiver”
+(1,1): hidden CS8019: 不需要的 using 指令。

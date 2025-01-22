@@ -1,0 +1,23 @@
+(6,12): error CS0246: 未能找到类型或命名空间名“IPCPlatformService”(是否缺少 using 指令或程序集引用?)
+(40,12): error CS0246: 未能找到类型或命名空间名“IPCPlatformService”(是否缺少 using 指令或程序集引用?)
+(6,12): error CS0538: '显式接口声明中的“IPCPlatformService”不是接口
+(40,12): error CS0538: '显式接口声明中的“IPCPlatformService”不是接口
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(11,26): error CS0103: 当前上下文中不存在名称“IOPath”
+(14,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(16,18): error CS0103: 当前上下文中不存在名称“IsAdministrator”
+(21,46): error CS0103: 当前上下文中不存在名称“IPCRoot”
+(25,24): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(27,21): error CS0103: 当前上下文中不存在名称“Log”
+(27,31): error CS0103: 当前上下文中不存在名称“TAG”
+(33,17): error CS0103: 当前上下文中不存在名称“Log”
+(33,27): error CS0103: 当前上下文中不存在名称“TAG”
+(45,26): error CS0103: 当前上下文中不存在名称“IOPath”
+(48,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(50,18): error CS0103: 当前上下文中不存在名称“IsAdministrator”
+(55,46): error CS0103: 当前上下文中不存在名称“IPCRoot”
+(59,24): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(61,21): error CS0103: 当前上下文中不存在名称“Log”
+(61,31): error CS0103: 当前上下文中不存在名称“TAG”
+(67,17): error CS0103: 当前上下文中不存在名称“Log”
+(67,27): error CS0103: 当前上下文中不存在名称“TAG”

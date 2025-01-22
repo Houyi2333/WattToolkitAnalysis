@@ -1,0 +1,15 @@
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(45,31): error CS0103: 当前上下文中不存在名称“Path”
+(45,44): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(53,9): error CS0103: 当前上下文中不存在名称“File”
+(53,28): error CS0103: 当前上下文中不存在名称“Path”
+(53,67): error CS0103: 当前上下文中不存在名称“Encoding”
+(60,19): error CS0103: 当前上下文中不存在名称“DotNetCLIHelper”
+(60,55): error CS0103: 当前上下文中不存在名称“AppContext”
+(62,9): error CS0103: 当前上下文中不存在名称“ProcessHelper”
+(64,19): error CS0246: 未能找到类型或命名空间名“ProcessStartInfo”(是否缺少 using 指令或程序集引用?)
+(71,9): error CS0103: 当前上下文中不存在名称“ProcessHelper”
+(73,27): error CS0103: 当前上下文中不存在名称“Path”
+(74,27): error CS0103: 当前上下文中不存在名称“Path”
+(75,9): error CS0103: 当前上下文中不存在名称“File”
+(76,9): error CS0103: 当前上下文中不存在名称“File”

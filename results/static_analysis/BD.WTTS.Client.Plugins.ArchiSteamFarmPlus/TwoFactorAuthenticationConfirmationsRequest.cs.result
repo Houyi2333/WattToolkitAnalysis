@@ -1,0 +1,37 @@
+(24,26): error CS0234: 命名空间“System.Collections”中不存在类型或命名空间名“Immutable”(是否缺少程序集引用?)
+(27,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Linq”(是否缺少程序集引用?)
+(28,22): error CS0234: 命名空间“ArchiSteamFarm”中不存在类型或命名空间名“Core”(是否缺少程序集引用?)
+(29,22): error CS0234: 命名空间“ArchiSteamFarm”中不存在类型或命名空间名“Localization”(是否缺少程序集引用?)
+(30,22): error CS0234: 命名空间“ArchiSteamFarm”中不存在类型或命名空间名“Steam”(是否缺少程序集引用?)
+(31,7): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(48,12): error CS0246: 未能找到类型或命名空间名“ImmutableHashSet<>”(是否缺少 using 指令或程序集引用?)
+(54,12): error CS0246: 未能找到类型或命名空间名“Confirmation”(是否缺少 using 指令或程序集引用?)
+(60,12): error CS0246: 未能找到类型或命名空间名“ImmutableHashSet<>”(是否缺少 using 指令或程序集引用?)
+(41,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(41,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(41,30): error CS0103: 当前上下文中不存在名称“Required”
+(47,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(47,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(47,30): error CS0103: 当前上下文中不存在名称“Required”
+(53,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(53,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(59,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(59,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(59,22): error CS0103: 当前上下文中不存在名称“SharedInfo”
+(59,106): error CS0103: 当前上下文中不存在名称“Required”
+(88,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(88,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(88,30): error CS0103: 当前上下文中不存在名称“Required”
+(91,6): error CS0246: 未能找到类型或命名空间名“JsonConstructorAttribute”(是否缺少 using 指令或程序集引用?)
+(91,6): error CS0246: 未能找到类型或命名空间名“JsonConstructor”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(48,79): error CS0103: 当前上下文中不存在名称“ImmutableHashSet”
+(73,21): error CS0103: 当前上下文中不存在名称“ASF”
+(73,95): error CS0103: 当前上下文中不存在名称“Strings”
+(81,53): error CS1061: “HashSet<ulong>”未包含“ToImmutableHashSet”的定义，并且找不到可接受第一个“HashSet<ulong>”类型参数的可访问扩展方法“ToImmutableHashSet”(是否缺少 using 指令或程序集引用?)
+(28,1): hidden CS8019: 不需要的 using 指令。
+(29,1): hidden CS8019: 不需要的 using 指令。
+(24,1): hidden CS8019: 不需要的 using 指令。
+(30,1): hidden CS8019: 不需要的 using 指令。
+(27,1): hidden CS8019: 不需要的 using 指令。
+(31,1): hidden CS8019: 不需要的 using 指令。

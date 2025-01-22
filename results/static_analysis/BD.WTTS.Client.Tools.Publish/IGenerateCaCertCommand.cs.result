@@ -1,0 +1,39 @@
+(3,36): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(12,20): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(42,43): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(12,12): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(12,20): error CS0538: '显式接口声明中的“ICommand”不是接口
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(14,24): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(16,24): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(18,22): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(19,28): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(20,27): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(44,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(46,23): error CS0246: 未能找到类型或命名空间名“ArgumentOutOfRangeException”(是否缺少 using 指令或程序集引用?)
+(50,25): error CS0103: 当前上下文中不存在名称“RSA”
+(51,9): error CS0246: 未能找到类型或命名空间名“X500DistinguishedName”(是否缺少 using 指令或程序集引用?)
+(52,9): error CS0246: 未能找到类型或命名空间名“CertificateRequest”(是否缺少 using 指令或程序集引用?)
+(53,13): error CS0103: 当前上下文中不存在名称“HashAlgorithmName”
+(53,39): error CS0103: 当前上下文中不存在名称“RSASignaturePadding”
+(57,9): error CS0246: 未能找到类型或命名空间名“X509BasicConstraintsExtension”(是否缺少 using 指令或程序集引用?)
+(60,9): error CS0246: 未能找到类型或命名空间名“X509KeyUsageExtension”(是否缺少 using 指令或程序集引用?)
+(60,46): error CS0103: 当前上下文中不存在名称“X509KeyUsageFlags”
+(60,83): error CS0103: 当前上下文中不存在名称“X509KeyUsageFlags”
+(60,111): error CS0103: 当前上下文中不存在名称“X509KeyUsageFlags”
+(63,24): error CS0246: 未能找到类型或命名空间名“OidCollection”(是否缺少 using 指令或程序集引用?)
+(64,36): error CS0246: 未能找到类型或命名空间名“X509EnhancedKeyUsageExtension”(是否缺少 using 指令或程序集引用?)
+(67,9): error CS0246: 未能找到类型或命名空间名“X509SubjectKeyIdentifierExtension”(是否缺少 using 指令或程序集引用?)
+(72,25): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(75,31): error CS0103: 当前上下文中不存在名称“X509ContentType”
+(76,31): error CS0103: 当前上下文中不存在名称“X509ContentType”
+(89,23): error CS0246: 未能找到类型或命名空间名“ArgumentOutOfRangeException”(是否缺少 using 指令或程序集引用?)
+(97,28): error CS0246: 未能找到类型或命名空间名“ArgumentOutOfRangeException”(是否缺少 using 指令或程序集引用?)
+(91,14): error CS8130: 无法推断隐式类型的析构变量“pfx”的类型。
+(91,23): error CS8130: 无法推断隐式类型的析构变量“cer”的类型。
+(91,32): error CS8130: 无法推断隐式类型的析构变量“csr”的类型。
+(99,9): error CS0103: 当前上下文中不存在名称“File”
+(100,9): error CS0103: 当前上下文中不存在名称“File”
+(100,49): error CS0103: 当前上下文中不存在名称“StringComparison”
+(103,13): error CS0103: 当前上下文中不存在名称“File”
+(103,52): error CS0103: 当前上下文中不存在名称“StringComparison”

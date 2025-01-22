@@ -1,0 +1,28 @@
+(25,7): error CS0246: 未能找到类型或命名空间名“JetBrains”(是否缺少 using 指令或程序集引用?)
+(26,7): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(30,2): error CS0246: 未能找到类型或命名空间名“PublicAPIAttribute”(是否缺少 using 指令或程序集引用?)
+(30,2): error CS0246: 未能找到类型或命名空间名“PublicAPI”(是否缺少 using 指令或程序集引用?)
+(31,2): error CS0246: 未能找到类型或命名空间名“SuppressMessageAttribute”(是否缺少 using 指令或程序集引用?)
+(31,2): error CS0246: 未能找到类型或命名空间名“SuppressMessage”(是否缺少 using 指令或程序集引用?)
+(34,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(34,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(34,54): error CS0103: 当前上下文中不存在名称“Required”
+(37,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(37,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(37,53): error CS0103: 当前上下文中不存在名称“Required”
+(40,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(40,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(40,59): error CS0103: 当前上下文中不存在名称“Required”
+(43,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(43,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(43,51): error CS0103: 当前上下文中不存在名称“Required”
+(46,6): error CS0246: 未能找到类型或命名空间名“JsonConstructorAttribute”(是否缺少 using 指令或程序集引用?)
+(46,6): error CS0246: 未能找到类型或命名空间名“JsonConstructor”(是否缺少 using 指令或程序集引用?)
+(49,6): error CS0246: 未能找到类型或命名空间名“UsedImplicitlyAttribute”(是否缺少 using 指令或程序集引用?)
+(49,6): error CS0246: 未能找到类型或命名空间名“UsedImplicitly”(是否缺少 using 指令或程序集引用?)
+(52,6): error CS0246: 未能找到类型或命名空间名“PublicAPIAttribute”(是否缺少 using 指令或程序集引用?)
+(52,6): error CS0246: 未能找到类型或命名空间名“PublicAPI”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(35,29): warning CS0649: 从未对字段“Confirmation.Nonce”赋值，字段将一直保持其默认值 0
+(26,1): hidden CS8019: 不需要的 using 指令。
+(25,1): hidden CS8019: 不需要的 using 指令。

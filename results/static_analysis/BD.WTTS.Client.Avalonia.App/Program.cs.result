@@ -1,0 +1,50 @@
+(8,2): error CS0246: 未能找到类型或命名空间名“DynamicallyAccessedMembersAttribute”(是否缺少 using 指令或程序集引用?)
+(8,2): error CS0246: 未能找到类型或命名空间名“DynamicallyAccessedMembers”(是否缺少 using 指令或程序集引用?)
+(8,29): error CS0103: 当前上下文中不存在名称“DynamicallyAccessedMemberTypes”
+(76,19): error CS0246: 未能找到类型或命名空间名“AppBuilder”(是否缺少 using 指令或程序集引用?)
+(255,29): error CS0115: “Program.StartUIApplication()”: 没有找到适合的方法来重写
+(11,6): error CS0246: 未能找到类型或命名空间名“STAThreadAttribute”(是否缺少 using 指令或程序集引用?)
+(11,6): error CS0246: 未能找到类型或命名空间名“STAThread”(是否缺少 using 指令或程序集引用?)
+(75,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(75,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(75,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(18,33): error CS0103: 当前上下文中不存在名称“AppContext”
+(19,33): error CS0103: 当前上下文中不存在名称“Directory”
+(22,69): error CS0103: 当前上下文中不存在名称“StringComparison”
+(25,25): error CS0103: 当前上下文中不存在名称“Directory”
+(30,29): error CS0103: 当前上下文中不存在名称“AppContext”
+(36,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(38,13): error CS0103: 当前上下文中不存在名称“Console”
+(43,9): error CS0103: 当前上下文中不存在名称“instance”
+(44,24): error CS0103: 当前上下文中不存在名称“instance”
+(61,29): error CS0103: 当前上下文中不存在名称“Path”
+(61,51): error CS0103: 当前上下文中不存在名称“Environment”
+(63,23): error CS0246: 未能找到类型或命名空间名“ArgumentOutOfRangeException”(是否缺少 using 指令或程序集引用?)
+(65,9): error CS0103: 当前上下文中不存在名称“AppContext”
+(66,9): error CS0103: 当前上下文中不存在名称“instance”
+(70,24): error CS0103: 当前上下文中不存在名称“instance”
+(88,13): error CS0103: 当前上下文中不存在名称“Common”
+(90,17): error CS0103: 当前上下文中不存在名称“instance”
+(92,17): error CS0103: 当前上下文中不存在名称“instance”
+(96,17): error CS0103: 当前上下文中不存在名称“instance”
+(97,17): error CS0103: 当前上下文中不存在名称“instance”
+(97,43): error CS0103: 当前上下文中不存在名称“AppServicesLevel”
+(113,31): error CS0103: 当前上下文中不存在名称“AppBuilder”
+(125,34): error CS0246: 未能找到类型或命名空间名“FontManagerOptions”(是否缺少 using 指令或程序集引用?)
+(127,41): error CS0103: 当前上下文中不存在名称“UI”
+(130,29): error CS0246: 未能找到类型或命名空间名“FontFallback”(是否缺少 using 指令或程序集引用?)
+(132,42): error CS0103: 当前上下文中不存在名称“UI”
+(134,29): error CS0246: 未能找到类型或命名空间名“FontFallback”(是否缺少 using 指令或程序集引用?)
+(136,42): error CS0103: 当前上下文中不存在名称“FontFamily”
+(141,31): error CS0103: 当前上下文中不存在名称“IApplication”
+(141,58): error CS0103: 当前上下文中不存在名称“GeneralSettings”
+(206,27): error CS0246: 未能找到类型或命名空间名“PlatformNotSupportedException”(是否缺少 using 指令或程序集引用?)
+(210,20): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(223,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(223,16): error CS0155: 捕获或抛出的值的类型必须从 System.Exception 派生
+(208,17): warning CS0162: 检测到无法访问的代码
+(210,30): warning CS0168: 声明了变量“ex”，但从未使用过
+(223,27): warning CS0168: 声明了变量“ex”，但从未使用过
+(257,14): error CS0103: 当前上下文中不存在名称“Environment”
+(262,13): error CS0103: 当前上下文中不存在名称“Array”
+(263,13): error CS0103: 当前上下文中不存在名称“ShutdownMode”

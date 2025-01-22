@@ -1,0 +1,14 @@
+(3,50): error CS0246: 未能找到类型或命名空间名“ViewModelBase”(是否缺少 using 指令或程序集引用?)
+(6,12): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(6,33): error CS0246: 未能找到类型或命名空间名“AuthenticatorRecoverModel”(是否缺少 using 指令或程序集引用?)
+(38,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(5,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(5,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(28,19): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(42,30): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(47,34): error CS0126: 需要一个类型可转换为“Task”的对象
+(49,9): error CS0103: 当前上下文中不存在名称“Toast”
+(49,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(49,39): error CS0103: 当前上下文中不存在名称“Strings”
+(38,23): error CS0161: “AuthenticatorRecoverPageViewModel.Recover()”: 并非所有的代码路径都返回值

@@ -1,0 +1,12 @@
+(17,12): error CS0246: 未能找到类型或命名空间名“XunYouGameOperatorId”(是否缺少 using 指令或程序集引用?)
+(29,12): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(29,17): error CS0246: 未能找到类型或命名空间名“XunYouGameArea”(是否缺少 using 指令或程序集引用?)
+(12,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyNameAttribute”(是否缺少 using 指令或程序集引用?)
+(12,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyName”(是否缺少 using 指令或程序集引用?)
+(16,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyNameAttribute”(是否缺少 using 指令或程序集引用?)
+(16,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyName”(是否缺少 using 指令或程序集引用?)
+(22,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyNameAttribute”(是否缺少 using 指令或程序集引用?)
+(22,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyName”(是否缺少 using 指令或程序集引用?)
+(28,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyNameAttribute”(是否缺少 using 指令或程序集引用?)
+(28,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyName”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

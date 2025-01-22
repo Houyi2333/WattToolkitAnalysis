@@ -1,0 +1,79 @@
+(5,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Properties”(是否缺少程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“FluentAvalonia”(是否缺少 using 指令或程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“SkiaSharp”(是否缺少 using 指令或程序集引用?)
+(119,55): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(119,18): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(129,38): error CS0246: 未能找到类型或命名空间名“IAccount”(是否缺少 using 指令或程序集引用?)
+(180,39): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(180,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(180,16): error CS0246: 未能找到类型或命名空间名“SKBitmap”(是否缺少 using 指令或程序集引用?)
+(193,23): error CS0246: 未能找到类型或命名空间名“SKBitmap”(是否缺少 using 指令或程序集引用?)
+(193,48): error CS0246: 未能找到类型或命名空间名“SKBitmap”(是否缺少 using 指令或程序集引用?)
+(193,5): error CS0246: 未能找到类型或命名空间名“SKBitmap”(是否缺少 using 指令或程序集引用?)
+(208,5): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(11,14): error CS0246: 未能找到类型或命名空间名“IPlatformSwitcher”(是否缺少 using 指令或程序集引用?)
+(13,28): error CS0246: 未能找到类型或命名空间名“ThirdpartyPlatform”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(15,9): error CS0103: 当前上下文中不存在名称“Accounts”
+(15,24): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(15,45): error CS0246: 未能找到类型或命名空间名“IAccount”(是否缺少 using 指令或程序集引用?)
+(16,33): error CS0103: 当前上下文中不存在名称“Ioc”
+(16,41): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(16,53): error CS0246: 未能找到类型或命名空间名“IPlatformSwitcher”(是否缺少 using 指令或程序集引用?)
+(18,9): error CS0103: 当前上下文中不存在名称“FullName”
+(19,9): error CS0103: 当前上下文中不存在名称“Platform”
+(20,28): error CS0103: 当前上下文中不存在名称“Platform”
+(22,13): error CS0103: 当前上下文中不存在名称“ThirdpartyPlatform”
+(22,66): error CS0246: 未能找到类型或命名空间名“SteamPlatformSwitcher”(是否缺少 using 指令或程序集引用?)
+(23,43): error CS0246: 未能找到类型或命名空间名“BasicPlatformSwitcher”(是否缺少 using 指令或程序集引用?)
+(26,9): error CS0103: 当前上下文中不存在名称“SwapToAccountCommand”
+(26,32): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(26,55): error CS0246: 未能找到类型或命名空间名“IAccount”(是否缺少 using 指令或程序集引用?)
+(32,9): error CS0103: 当前上下文中不存在名称“OpenUrlToBrowserCommand”
+(32,35): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(32,58): error CS0246: 未能找到类型或命名空间名“IAccount”(是否缺少 using 指令或程序集引用?)
+(37,9): error CS0103: 当前上下文中不存在名称“DeleteAccountCommand”
+(37,32): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(37,55): error CS0246: 未能找到类型或命名空间名“IAccount”(是否缺少 using 指令或程序集引用?)
+(43,9): error CS0103: 当前上下文中不存在名称“SetAccountAvatarCommand”
+(43,35): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(43,58): error CS0246: 未能找到类型或命名空间名“IAccount”(是否缺少 using 指令或程序集引用?)
+(57,9): error CS0103: 当前上下文中不存在名称“EditRemarkCommand”
+(57,29): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(57,52): error CS0246: 未能找到类型或命名空间名“IAccount”(是否缺少 using 指令或程序集引用?)
+(71,9): error CS0103: 当前上下文中不存在名称“CopyCommand”
+(71,23): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(73,9): error CS0103: 当前上下文中不存在名称“OpenLinkCommand”
+(73,27): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(75,14): error CS0103: 当前上下文中不存在名称“Directory”
+(75,31): error CS0103: 当前上下文中不存在名称“PlatformLoginCache”
+(76,13): error CS0103: 当前上下文中不存在名称“Directory”
+(76,39): error CS0103: 当前上下文中不存在名称“PlatformLoginCache”
+(78,9): error CS0103: 当前上下文中不存在名称“CreateShortcutCommand”
+(78,33): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(78,56): error CS0246: 未能找到类型或命名空间名“IAccount”(是否缺少 using 指令或程序集引用?)
+(85,9): error CS0103: 当前上下文中不存在名称“Task2”
+(129,23): warning CS1998: 此异步方法缺少 "await" 运算符，将以同步方式运行。请考虑使用 "await" 运算符等待非阻止的 API 调用，或者使用 "await Task.Run(...)" 在后台线程上执行占用大量 CPU 的工作。
+(183,20): error CS0103: 当前上下文中不存在名称“SKBitmap”
+(183,36): error CS0103: 当前上下文中不存在名称“AssetLoader”
+(183,57): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(186,36): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(188,20): error CS0103: 当前上下文中不存在名称“SKBitmap”
+(190,16): error CS0103: 当前上下文中不存在名称“SKBitmap”
+(195,42): error CS0246: 未能找到类型或命名空间名“SKSizeI”(是否缺少 using 指令或程序集引用?)
+(195,79): error CS0103: 当前上下文中不存在名称“SKFilterQuality”
+(196,9): error CS0246: 未能找到类型或命名空间名“SKBitmap”(是否缺少 using 指令或程序集引用?)
+(198,15): error CS0246: 未能找到类型或命名空间名“SKCanvas”(是否缺少 using 指令或程序集引用?)
+(199,9): error CS0246: 未能找到类型或命名空间名“SKPaint”(是否缺少 using 指令或程序集引用?)
+(199,29): error CS0246: 未能找到类型或命名空间名“SKPaint”(是否缺少 using 指令或程序集引用?)
+(200,31): error CS0103: 当前上下文中不存在名称“SKFilterQuality”
+(201,53): error CS0246: 未能找到类型或命名空间名“SKSizeI”(是否缺少 using 指令或程序集引用?)
+(201,82): error CS0103: 当前上下文中不存在名称“SKFilterQuality”
+(202,17): error CS0246: 未能找到类型或命名空间名“SKRect”(是否缺少 using 指令或程序集引用?)
+(204,42): error CS0246: 未能找到类型或命名空间名“SKRect”(是否缺少 using 指令或程序集引用?)
+(1,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。

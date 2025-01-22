@@ -1,0 +1,69 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“FluentAvalonia”(是否缺少 using 指令或程序集引用?)
+(6,43): error CS0246: 未能找到类型或命名空间名“UserControl”(是否缺少 using 指令或程序集引用?)
+(11,32): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(17,32): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(23,32): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(23,47): error CS0246: 未能找到类型或命名空间名“IEnumerable”(是否缺少 using 指令或程序集引用?)
+(29,32): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(29,47): error CS0246: 未能找到类型或命名空间名“IDataTemplate”(是否缺少 using 指令或程序集引用?)
+(41,16): error CS0246: 未能找到类型或命名空间名“IEnumerable”(是否缺少 using 指令或程序集引用?)
+(50,16): error CS0246: 未能找到类型或命名空间名“IDataTemplate”(是否缺少 using 指令或程序集引用?)
+(83,17): error CS0246: 未能找到类型或命名空间名“Timer”(是否缺少 using 指令或程序集引用?)
+(159,60): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(159,70): error CS0246: 未能找到类型或命名空间名“RoutedEventArgs”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,13): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(18,13): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(24,13): error CS0103: 当前上下文中不存在名称“Carousel”
+(30,13): error CS0103: 当前上下文中不存在名称“Carousel”
+(43,20): error CS0103: 当前上下文中不存在名称“GetValue”
+(44,20): error CS0103: 当前上下文中不存在名称“SetValue”
+(52,20): error CS0103: 当前上下文中不存在名称“GetValue”
+(53,20): error CS0103: 当前上下文中不存在名称“SetValue”
+(61,20): error CS0103: 当前上下文中不存在名称“GetValue”
+(62,20): error CS0103: 当前上下文中不存在名称“SetValue”
+(70,20): error CS0103: 当前上下文中不存在名称“GetValue”
+(71,20): error CS0103: 当前上下文中不存在名称“SetValue”
+(87,13): error CS0103: 当前上下文中不存在名称“InitializeComponent”
+(88,13): error CS0103: 当前上下文中不存在名称“Left”
+(88,28): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(89,13): error CS0103: 当前上下文中不存在名称“Right”
+(89,29): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(92,13): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(92,30): error CS0103: 当前上下文中不存在名称“Carousel”
+(93,13): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(93,30): error CS0103: 当前上下文中不存在名称“Carousel”
+(95,13): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(95,43): error CS0103: 当前上下文中不存在名称“Carousel”
+(98,13): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(98,43): error CS0103: 当前上下文中不存在名称“Carousel”
+(101,18): error CS1061: “CarouselBanner”未包含“GetObservable”的定义，并且找不到可接受第一个“CarouselBanner”类型参数的可访问扩展方法“GetObservable”(是否缺少 using 指令或程序集引用?)
+(161,27): error CS0246: 未能找到类型或命名空间名“Button”(是否缺少 using 指令或程序集引用?)
+(163,17): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(169,17): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(171,17): error CS0103: 当前上下文中不存在名称“Swiper”
+(174,17): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(176,17): error CS0103: 当前上下文中不存在名称“Left”
+(176,34): error CS0103: 当前上下文中不存在名称“Right”
+(176,52): error CS0103: 当前上下文中不存在名称“Swiper”
+(181,17): error CS0103: 当前上下文中不存在名称“Left”
+(181,34): error CS0103: 当前上下文中不存在名称“Right”
+(181,52): error CS0103: 当前上下文中不存在名称“Swiper”
+(182,31): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(183,37): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(187,29): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(187,69): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(190,17): error CS0103: 当前上下文中不存在名称“Swiper”
+(196,17): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(198,17): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(198,49): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(200,17): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(204,17): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(210,17): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(212,17): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(214,17): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(218,17): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(218,49): error CS0103: 当前上下文中不存在名称“CarouselControl”
+(1,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

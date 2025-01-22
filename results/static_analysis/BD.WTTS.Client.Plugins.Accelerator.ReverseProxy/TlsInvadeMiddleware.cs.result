@@ -1,0 +1,12 @@
+(17,42): error CS0246: 未能找到类型或命名空间名“ConnectionDelegate”(是否缺少 using 指令或程序集引用?)
+(17,67): error CS0246: 未能找到类型或命名空间名“ConnectionContext”(是否缺少 using 指令或程序集引用?)
+(17,25): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(37,50): error CS0246: 未能找到类型或命名空间名“ConnectionContext”(是否缺少 using 指令或程序集引用?)
+(37,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(23,38): error CS0246: 未能找到类型或命名空间名“ITlsConnectionFeature”(是否缺少 using 指令或程序集引用?)
+(26,38): error CS0246: 未能找到类型或命名空间名“ITlsConnectionFeature”(是否缺少 using 指令或程序集引用?)
+(26,61): error CS0103: 当前上下文中不存在名称“FakeTlsConnectionFeature”
+(17,30): error CS0161: “TlsInvadeMiddleware.InvokeAsync(ConnectionDelegate, ConnectionContext)”: 并非所有的代码路径都返回值
+(53,30): error CS0246: 未能找到类型或命名空间名“SequenceReader<>”(是否缺少 using 指令或程序集引用?)
+(51,35): error CS0246: 未能找到类型或命名空间名“ReadResult”(是否缺少 using 指令或程序集引用?)

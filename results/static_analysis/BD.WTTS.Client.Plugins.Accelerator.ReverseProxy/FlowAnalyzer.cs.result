@@ -1,0 +1,11 @@
+(6,29): error CS0246: 未能找到类型或命名空间名“IFlowAnalyzer”(是否缺少 using 指令或程序集引用?)
+(18,24): error CS0246: 未能找到类型或命名空间名“FlowType”(是否缺少 using 指令或程序集引用?)
+(30,12): error CS0246: 未能找到类型或命名空间名“FlowStatistics”(是否缺少 using 指令或程序集引用?)
+(45,18): error CS0246: 未能找到类型或命名空间名“ConcurrentQueue<>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(20,25): error CS0103: 当前上下文中不存在名称“FlowType”
+(58,13): error CS0103: 当前上下文中不存在名称“Interlocked”
+(60,42): error CS0103: 当前上下文中不存在名称“Environment”
+(76,17): error CS0103: 当前上下文中不存在名称“Interlocked”
+(79,25): error CS0103: 当前上下文中不存在名称“Environment”
+(86,13): error CS0103: 当前上下文中不存在名称“Interlocked”

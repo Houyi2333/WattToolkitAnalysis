@@ -1,0 +1,15 @@
+(9,36): error CS0246: 未能找到类型或命名空间名“DelegatingHandler”(是否缺少 using 指令或程序集引用?)
+(11,14): error CS0246: 未能找到类型或命名空间名“Timer”(是否缺少 using 指令或程序集引用?)
+(13,12): error CS0246: 未能找到类型或命名空间名“LifeTimeKey”(是否缺少 using 指令或程序集引用?)
+(15,32): error CS0246: 未能找到类型或命名空间名“IDomainResolver”(是否缺少 using 指令或程序集引用?)
+(15,64): error CS0246: 未能找到类型或命名空间名“IWebProxy”(是否缺少 using 指令或程序集引用?)
+(15,84): error CS0246: 未能找到类型或命名空间名“LifeTimeKey”(是否缺少 using 指令或程序集引用?)
+(15,109): error CS0246: 未能找到类型或命名空间名“TimeSpan”(是否缺少 using 指令或程序集引用?)
+(15,128): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(26,32): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(18,9): error CS0103: 当前上下文中不存在名称“InnerHandler”
+(18,28): error CS0246: 未能找到类型或命名空间名“ReverseProxyHttpClientHandler”(是否缺少 using 指令或程序集引用?)
+(19,21): error CS0246: 未能找到类型或命名空间名“Timer”(是否缺少 using 指令或程序集引用?)
+(19,72): error CS0103: 当前上下文中不存在名称“Timeout”
+(29,11): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)

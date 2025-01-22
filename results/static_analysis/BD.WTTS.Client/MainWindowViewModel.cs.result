@@ -1,0 +1,41 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“dotnetCampus”(是否缺少 using 指令或程序集引用?)
+(6,51): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(17,12): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(17,33): error CS0246: 未能找到类型或命名空间名“TabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(19,12): error CS0246: 未能找到类型或命名空间名“ImmutableArray<>”(是否缺少 using 指令或程序集引用?)
+(19,27): error CS0246: 未能找到类型或命名空间名“TabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(21,32): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(21,44): error CS0246: 未能找到类型或命名空间名“TabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(21,72): error CS0246: 未能找到类型或命名空间名“ImmutableArray<>”(是否缺少 using 指令或程序集引用?)
+(21,87): error CS0246: 未能找到类型或命名空间名“TabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(108,27): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(12,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(12,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(23,13): error CS0103: 当前上下文中不存在名称“IApplication”
+(28,25): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(32,13): error CS0103: 当前上下文中不存在名称“Title”
+(49,13): error CS0103: 当前上下文中不存在名称“Startup”
+(66,13): error CS0246: 未能找到类型或命名空间名“IReadOnlyList<>”(是否缺少 using 指令或程序集引用?)
+(66,27): error CS0246: 未能找到类型或命名空间名“MenuTabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(67,33): error CS0246: 未能找到类型或命名空间名“MenuTabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(68,35): error CS0103: 当前上下文中不存在名称“UISettings”
+(69,25): error CS0246: 未能找到类型或命名空间名“KeyValuePair<,>”(是否缺少 using 指令或程序集引用?)
+(69,43): error CS0246: 未能找到类型或命名空间名“MenuTabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(83,28): error CS0103: 当前上下文中不存在名称“ComparerBuilder”
+(83,48): error CS0246: 未能找到类型或命名空间名“KeyValuePair<,>”(是否缺少 using 指令或程序集引用?)
+(83,66): error CS0246: 未能找到类型或命名空间名“MenuTabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(86,32): error CS0246: 未能找到类型或命名空间名“SortedSet<>”(是否缺少 using 指令或程序集引用?)
+(86,42): error CS0246: 未能找到类型或命名空间名“KeyValuePair<,>”(是否缺少 using 指令或程序集引用?)
+(86,60): error CS0246: 未能找到类型或命名空间名“MenuTabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(102,24): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(102,45): error CS0246: 未能找到类型或命名空间名“TabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(110,14): error CS0103: 当前上下文中不存在名称“IsInitialized”
+(112,27): error CS0103: 当前上下文中不存在名称“Startup”
+(166,17): error CS0103: 当前上下文中不存在名称“MainThread2”
+(184,13): error CS0103: 当前上下文中不存在名称“IsInitialized”
+(187,15): error CS0103: 当前上下文中不存在名称“Task”
+(108,32): error CS0161: “MainWindowViewModel.Initialize()”: 并非所有的代码路径都返回值
+(213,9): error CS0103: 当前上下文中不存在名称“UISettings”
+(213,57): error CS0246: 未能找到类型或命名空间名“MenuTabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(1,1): hidden CS8019: 不需要的 using 指令。

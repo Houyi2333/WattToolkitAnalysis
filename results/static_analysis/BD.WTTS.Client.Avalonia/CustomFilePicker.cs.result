@@ -1,0 +1,47 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(5,40): error CS0246: 未能找到类型或命名空间名“ContentControl”(是否缺少 using 指令或程序集引用?)
+(7,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(7,49): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(9,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(9,43): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(11,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(11,49): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(13,12): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(19,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(29,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(77,54): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(77,64): error CS0246: 未能找到类型或命名空间名“RoutedEventArgs”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(7,71): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(7,121): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(9,73): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(9,117): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(11,77): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(11,127): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(15,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(16,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(21,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(24,26): error CS0103: 当前上下文中不存在名称“IOPath”
+(25,13): error CS0103: 当前上下文中不存在名称“SetValue”
+(31,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(32,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(45,46): error CS0103: 当前上下文中不存在名称“DragDropEffects”
+(45,69): error CS0103: 当前上下文中不存在名称“DragDropEffects”
+(48,34): error CS0103: 当前上下文中不存在名称“DataFormats”
+(48,72): error CS0103: 当前上下文中不存在名称“DataFormats”
+(49,33): error CS0103: 当前上下文中不存在名称“DragDropEffects”
+(42,29): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(42,39): error CS0246: 未能找到类型或命名空间名“DragEventArgs”(是否缺少 using 指令或程序集引用?)
+(54,33): error CS0103: 当前上下文中不存在名称“DataFormats”
+(58,38): error CS0103: 当前上下文中不存在名称“DataFormats”
+(66,44): error CS0103: 当前上下文中不存在名称“Environment”
+(52,25): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(52,35): error CS0246: 未能找到类型或命名空间名“DragEventArgs”(是否缺少 using 指令或程序集引用?)
+(70,9): error CS0103: 当前上下文中不存在名称“AddHandler”
+(70,20): error CS0103: 当前上下文中不存在名称“DragDrop”
+(71,9): error CS0103: 当前上下文中不存在名称“AddHandler”
+(71,20): error CS0103: 当前上下文中不存在名称“DragDrop”
+(74,14): error CS1061: “CustomFilePicker”未包含“Tapped”的定义，并且找不到可接受第一个“CustomFilePicker”类型参数的可访问扩展方法“Tapped”(是否缺少 using 指令或程序集引用?)
+(79,28): error CS0103: 当前上下文中不存在名称“FilePicker2”
+(79,50): error CS0103: 当前上下文中不存在名称“PickOptions”
+(1,1): hidden CS8019: 不需要的 using 指令。

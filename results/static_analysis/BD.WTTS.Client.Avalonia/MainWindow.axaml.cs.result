@@ -1,0 +1,54 @@
+(1,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Plugins”(是否缺少程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“LiveChartsCore”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“LiveChartsCore”(是否缺少 using 指令或程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“SkiaSharp”(是否缺少 using 指令或程序集引用?)
+(5,22): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Startup”(是否缺少程序集引用?)
+(99,39): error CS0246: 未能找到类型或命名空间名“IApplicationSplashScreen”(是否缺少 using 指令或程序集引用?)
+(9,42): error CS0246: 未能找到类型或命名空间名“ReactiveAppWindow<>”(是否缺少 using 指令或程序集引用?)
+(9,60): error CS0246: 未能找到类型或命名空间名“MainWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(111,9): error CS0246: 未能找到类型或命名空间名“IApplicationSplashScreen”(是否缺少 using 指令或程序集引用?)
+(118,10): error CS0246: 未能找到类型或命名空间名“IApplicationSplashScreen”(是否缺少 using 指令或程序集引用?)
+(111,9): error CS0538: '显式接口声明中的“IApplicationSplashScreen”不是接口
+(105,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(25,39): error CS0246: 未能找到类型或命名空间名“WindowClosingEventArgs”(是否缺少 using 指令或程序集引用?)
+(40,5): error CS0246: 未能找到类型或命名空间名“DateTime”(是否缺少 using 指令或程序集引用?)
+(69,44): error CS0246: 未能找到类型或命名空间名“EventArgs”(是否缺少 using 指令或程序集引用?)
+(107,12): error CS0246: 未能找到类型或命名空间名“IImage”(是否缺少 using 指令或程序集引用?)
+(109,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(118,44): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(118,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(118,10): error CS0538: '显式接口声明中的“IApplicationSplashScreen”不是接口
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(109,47): error CS0246: 未能找到类型或命名空间名“SplashScreen”(是否缺少 using 指令或程序集引用?)
+(13,9): error CS0103: 当前上下文中不存在名称“InitializeComponent”
+(15,13): error CS0103: 当前上下文中不存在名称“SplashScreen”
+(17,13): error CS0103: 当前上下文中不存在名称“DataContext”
+(17,29): error CS0103: 当前上下文中不存在名称“IViewModelManager”
+(27,13): error CS0103: 当前上下文中不存在名称“GeneralSettings”
+(30,13): error CS0103: 当前上下文中不存在名称“Hide”
+(34,13): error CS0103: 当前上下文中不存在名称“Steamworks”
+(36,13): error CS0103: 当前上下文中不存在名称“Steamworks”
+(44,13): error CS0103: 当前上下文中不存在名称“NavigationService”
+(47,19): error CS0103: 当前上下文中不存在名称“IViewModelManager”
+(51,9): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(52,35): error CS0103: 当前上下文中不存在名称“UISettings”
+(58,40): error CS0246: 未能找到类型或命名空间名“MenuTabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(65,9): error CS0103: 当前上下文中不存在名称“INavigationService”
+(65,65): error CS0246: 未能找到类型或命名空间名“HomePage”(是否缺少 using 指令或程序集引用?)
+(120,16): error CS0103: 当前上下文中不存在名称“Task”
+(72,13): error CS0103: 当前上下文中不存在名称“Steamworks”
+(74,13): error CS0103: 当前上下文中不存在名称“Steamworks”
+(81,14): error CS0103: 当前上下文中不存在名称“DateTime”
+(81,47): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(83,30): error CS0103: 当前上下文中不存在名称“DateTime”
+(84,19): error CS0103: 当前上下文中不存在名称“IViewModelManager”
+(84,50): error CS0246: 未能找到类型或命名空间名“HomePageViewModel”(是否缺少 using 指令或程序集引用?)
+(85,19): error CS0103: 当前上下文中不存在名称“AdvertiseService”
+(86,19): error CS0103: 当前上下文中不存在名称“NoticeService”
+(90,13): error CS0103: 当前上下文中不存在名称“Ioc”
+(90,30): error CS0246: 未能找到类型或命名空间名“IAppUpdateService”(是否缺少 using 指令或程序集引用?)
+(4,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(5,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

@@ -1,0 +1,35 @@
+(8,36): error CS0234: 命名空间“System.Management.Automation”中不存在类型或命名空间名“Internal”(是否缺少程序集引用?)
+(229,25): error CS0246: 未能找到类型或命名空间名“PSArgumentNullException”(是否缺少 using 指令或程序集引用?)
+(257,25): error CS0246: 未能找到类型或命名空间名“PSArgumentNullException”(是否缺少 using 指令或程序集引用?)
+(288,25): error CS0246: 未能找到类型或命名空间名“PSArgumentException”(是否缺少 using 指令或程序集引用?)
+(317,25): error CS0246: 未能找到类型或命名空间名“PSArgumentException”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(115,31): error CS0117: “PSTraceSource”未包含“TraceCatalog”的定义
+(123,40): error CS0117: “PSTraceSource”未包含“PreConfiguredTraceSource”的定义
+(128,48): error CS0117: “PSTraceSource”未包含“PreConfiguredTraceSource”的定义
+(142,75): error CS0117: “PSTraceSource”未包含“PreConfiguredTraceSource”的定义
+(145,32): error CS1061: “PSTraceSource”未包含“Options”的定义，并且找不到可接受第一个“PSTraceSource”类型参数的可访问扩展方法“Options”(是否缺少 using 指令或程序集引用?)
+(145,62): error CS1061: “PSTraceSource”未包含“Options”的定义，并且找不到可接受第一个“PSTraceSource”类型参数的可访问扩展方法“Options”(是否缺少 using 指令或程序集引用?)
+(146,32): error CS1061: “PSTraceSource”未包含“Listeners”的定义，并且找不到可接受第一个“PSTraceSource”类型参数的可访问扩展方法“Listeners”(是否缺少 using 指令或程序集引用?)
+(147,32): error CS1061: “PSTraceSource”未包含“Listeners”的定义，并且找不到可接受第一个“PSTraceSource”类型参数的可访问扩展方法“Listeners”(是否缺少 using 指令或程序集引用?)
+(147,71): error CS1061: “PSTraceSource”未包含“Listeners”的定义，并且找不到可接受第一个“PSTraceSource”类型参数的可访问扩展方法“Listeners”(是否缺少 using 指令或程序集引用?)
+(150,39): error CS0117: “PSTraceSource”未包含“TraceCatalog”的定义
+(153,39): error CS0117: “PSTraceSource”未包含“PreConfiguredTraceSource”的定义
+(165,35): error CS0117: “PSTraceSource”未包含“TraceCatalog”的定义
+(165,55): error CS1061: “PSTraceSource”未包含“FullName”的定义，并且找不到可接受第一个“PSTraceSource”类型参数的可访问扩展方法“FullName”(是否缺少 using 指令或程序集引用?)
+(168,28): error CS1061: “PSTraceSource”未包含“Options”的定义，并且找不到可接受第一个“PSTraceSource”类型参数的可访问扩展方法“Options”(是否缺少 using 指令或程序集引用?)
+(168,39): error CS0103: 当前上下文中不存在名称“PSTraceSourceOptions”
+(171,28): error CS1061: “PSTraceSource”未包含“TraceGlobalAppDomainHeader”的定义，并且找不到可接受第一个“PSTraceSource”类型参数的可访问扩展方法“TraceGlobalAppDomainHeader”(是否缺少 using 指令或程序集引用?)
+(174,28): error CS1061: “PSTraceSource”未包含“TracerObjectHeader”的定义，并且找不到可接受第一个“PSTraceSource”类型参数的可访问扩展方法“TracerObjectHeader”(是否缺少 using 指令或程序集引用?)
+(210,21): error CS1729: “PSTraceSource”不包含采用 4 个参数的构造函数
+(236,30): error CS0103: 当前上下文中不存在名称“StringUtil”
+(236,48): error CS0103: 当前上下文中不存在名称“AutomationExceptions”
+(237,25): error CS0246: 未能找到类型或命名空间名“PSArgumentNullException”(是否缺少 using 指令或程序集引用?)
+(270,30): error CS0103: 当前上下文中不存在名称“StringUtil”
+(273,25): error CS0246: 未能找到类型或命名空间名“PSArgumentNullException”(是否缺少 using 指令或程序集引用?)
+(295,30): error CS0103: 当前上下文中不存在名称“StringUtil”
+(295,48): error CS0103: 当前上下文中不存在名称“AutomationExceptions”
+(297,25): error CS0246: 未能找到类型或命名空间名“PSArgumentException”(是否缺少 using 指令或程序集引用?)
+(330,30): error CS0103: 当前上下文中不存在名称“StringUtil”
+(333,25): error CS0246: 未能找到类型或命名空间名“PSArgumentException”(是否缺少 using 指令或程序集引用?)
+(8,1): hidden CS8019: 不需要的 using 指令。

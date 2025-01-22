@@ -1,0 +1,136 @@
+(6,46): error CS0246: 未能找到类型或命名空间名“DelegatingHandler”(是否缺少 using 指令或程序集引用?)
+(8,14): error CS0246: 未能找到类型或命名空间名“IDomainConfig”(是否缺少 using 指令或程序集引用?)
+(9,14): error CS0246: 未能找到类型或命名空间名“IDomainResolver”(是否缺少 using 指令或程序集引用?)
+(10,14): error CS0246: 未能找到类型或命名空间名“IWebProxy”(是否缺少 using 指令或程序集引用?)
+(11,14): error CS0246: 未能找到类型或命名空间名“TimeSpan”(是否缺少 using 指令或程序集引用?)
+(13,42): error CS0246: 未能找到类型或命名空间名“IDomainConfig”(是否缺少 using 指令或程序集引用?)
+(13,70): error CS0246: 未能找到类型或命名空间名“IDomainResolver”(是否缺少 using 指令或程序集引用?)
+(13,102): error CS0246: 未能找到类型或命名空间名“IWebProxy”(是否缺少 using 指令或程序集引用?)
+(27,66): error CS0246: 未能找到类型或命名空间名“HttpRequestMessage”(是否缺少 using 指令或程序集引用?)
+(27,94): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(27,30): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(27,35): error CS0246: 未能找到类型或命名空间名“HttpResponseMessage”(是否缺少 using 指令或程序集引用?)
+(54,5): error CS0246: 未能找到类型或命名空间名“HttpHandlerType”(是否缺少 using 指令或程序集引用?)
+(68,62): error CS0246: 未能找到类型或命名空间名“SocketsHttpConnectionContext”(是否缺少 using 指令或程序集引用?)
+(68,100): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(68,19): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(68,29): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(119,50): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(119,13): error CS0246: 未能找到类型或命名空间名“ExternalProxyType”(是否缺少 using 指令或程序集引用?)
+(131,41): error CS0246: 未能找到类型或命名空间名“NetworkStream”(是否缺少 using 指令或程序集引用?)
+(131,63): error CS0246: 未能找到类型或命名空间名“SocketsHttpConnectionContext”(是否缺少 using 指令或程序集引用?)
+(131,101): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(131,19): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(155,43): error CS0246: 未能找到类型或命名空间名“NetworkStream”(是否缺少 using 指令或程序集引用?)
+(155,65): error CS0246: 未能找到类型或命名空间名“SocketsHttpConnectionContext”(是否缺少 using 指令或程序集引用?)
+(155,103): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(155,19): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(182,43): error CS0246: 未能找到类型或命名空间名“NetworkStream”(是否缺少 using 指令或程序集引用?)
+(182,65): error CS0246: 未能找到类型或命名空间名“SocketsHttpConnectionContext”(是否缺少 using 指令或程序集引用?)
+(182,103): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(182,19): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(257,45): error CS0246: 未能找到类型或命名空间名“SocketsHttpConnectionContext”(是否缺少 using 指令或程序集引用?)
+(257,83): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(257,11): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(257,21): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(297,42): error CS0246: 未能找到类型或命名空间名“SocketsHttpConnectionContext”(是否缺少 using 指令或程序集引用?)
+(297,80): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(297,103): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(297,11): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(297,21): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(343,60): error CS0246: 未能找到类型或命名空间名“DnsEndPoint”(是否缺少 using 指令或程序集引用?)
+(343,110): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(343,11): error CS0246: 未能找到类型或命名空间名“IAsyncEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(343,28): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(376,45): error CS0246: 未能找到类型或命名空间名“X509Certificate”(是否缺少 using 指令或程序集引用?)
+(376,12): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(424,47): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(343,86): error CS0246: 未能找到类型或命名空间名“EnumeratorCancellationAttribute”(是否缺少 using 指令或程序集引用?)
+(343,86): error CS0246: 未能找到类型或命名空间名“EnumeratorCancellation”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(11,40): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(18,9): error CS0103: 当前上下文中不存在名称“InnerHandler”
+(30,23): error CS0246: 未能找到类型或命名空间名“ApplicationException”(是否缺少 using 指令或程序集引用?)
+(33,37): error CS0103: 当前上下文中不存在名称“Uri”
+(35,39): error CS0246: 未能找到类型或命名空间名“RequestContext”(是否缺少 using 指令或程序集引用?)
+(39,34): error CS0246: 未能找到类型或命名空间名“UriBuilder”(是否缺少 using 指令或程序集引用?)
+(39,61): error CS0103: 当前上下文中不存在名称“Uri”
+(43,48): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(44,43): error CS0103: 当前上下文中不存在名称“CancellationTokenSource”
+(72,23): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(77,23): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(80,33): error CS0246: 未能找到类型或命名空间名“DnsEndPoint”(是否缺少 using 指令或程序集引用?)
+(81,26): error CS0246: 未能找到类型或命名空间名“Socket”(是否缺少 using 指令或程序集引用?)
+(81,33): error CS0103: 当前上下文中不存在名称“SocketType”
+(81,52): error CS0103: 当前上下文中不存在名称“ProtocolType”
+(84,26): error CS0246: 未能找到类型或命名空间名“NetworkStream”(是否缺少 using 指令或程序集引用?)
+(91,18): error CS0103: 当前上下文中不存在名称“ExternalProxyType”
+(94,18): error CS0103: 当前上下文中不存在名称“ExternalProxyType”
+(97,18): error CS0103: 当前上下文中不存在名称“ExternalProxyType”
+(106,33): error CS0246: 未能找到类型或命名空间名“SslStream”(是否缺少 using 指令或程序集引用?)
+(107,59): error CS0246: 未能找到类型或命名空间名“SslClientAuthenticationOptions”(是否缺少 using 指令或程序集引用?)
+(123,25): error CS0103: 当前上下文中不存在名称“ExternalProxyType”
+(124,25): error CS0103: 当前上下文中不存在名称“ExternalProxyType”
+(125,18): error CS0103: 当前上下文中不存在名称“ExternalProxyType”
+(128,19): error CS0246: 未能找到类型或命名空间名“NotImplementedException”(是否缺少 using 指令或程序集引用?)
+(133,51): error CS0246: 未能找到类型或命名空间名“NetworkCredential”(是否缺少 using 指令或程序集引用?)
+(135,45): error CS0103: 当前上下文中不存在名称“Convert”
+(135,68): error CS0103: 当前上下文中不存在名称“Encoding”
+(142,28): error CS0103: 当前上下文中不存在名称“Encoding”
+(147,24): error CS0103: 当前上下文中不存在名称“Encoding”
+(151,23): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(131,24): error CS0161: “ReverseProxyHttpClientHandler.ConnectHttpProxy(NetworkStream, SocketsHttpConnectionContext, CancellationToken)”: 并非所有的代码路径都返回值
+(157,51): error CS0246: 未能找到类型或命名空间名“NetworkCredential”(是否缺少 using 指令或程序集引用?)
+(161,25): error CS0103: 当前上下文中不存在名称“BitConverter”
+(162,13): error CS0103: 当前上下文中不存在名称“BitConverter”
+(162,42): error CS0103: 当前上下文中不存在名称“Array”
+(165,14): error CS1061: “byte[]”未包含“Concat”的定义，并且找不到可接受第一个“byte[]”类型参数的可访问扩展方法“Concat”(是否缺少 using 指令或程序集引用?)
+(167,21): error CS0103: 当前上下文中不存在名称“Encoding”
+(178,23): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(155,24): error CS0161: “ReverseProxyHttpClientHandler.ConnectSocks4Proxy(NetworkStream, SocketsHttpConnectionContext, CancellationToken)”: 并非所有的代码路径都返回值
+(184,51): error CS0246: 未能找到类型或命名空间名“NetworkCredential”(是否缺少 using 指令或程序集引用?)
+(188,59): error CS1061: “byte[]”未包含“Concat”的定义，并且找不到可接受第一个“byte[]”类型参数的可访问扩展方法“Concat”(是否缺少 using 指令或程序集引用?)
+(195,23): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(201,29): error CS0103: 当前上下文中不存在名称“Encoding”
+(202,29): error CS0103: 当前上下文中不存在名称“Encoding”
+(216,27): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(223,13): error CS0103: 当前上下文中不存在名称“IPAddress”
+(223,62): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(225,38): error CS1061: “IPAddress?”未包含“GetAddressBytes”的定义，并且找不到可接受第一个“IPAddress?”类型参数的可访问扩展方法“GetAddressBytes”(是否缺少 using 指令或程序集引用?)
+(226,44): error CS1061: “IPAddress?”未包含“AddressFamily”的定义，并且找不到可接受第一个“IPAddress?”类型参数的可访问扩展方法“AddressFamily”(是否缺少 using 指令或程序集引用?)
+(226,61): error CS0103: 当前上下文中不存在名称“AddressFamily”
+(230,28): error CS0103: 当前上下文中不存在名称“Encoding”
+(235,78): error CS0103: 当前上下文中不存在名称“Array”
+(235,14): error CS1061: “byte[]”未包含“Concat”的定义，并且找不到可接受第一个“byte[]”类型参数的可访问扩展方法“Concat”(是否缺少 using 指令或程序集引用?)
+(237,21): error CS0103: 当前上下文中不存在名称“BitConverter”
+(247,23): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(182,24): error CS0161: “ReverseProxyHttpClientHandler.ConnectSocks5Proxy(NetworkStream, SocketsHttpConnectionContext, CancellationToken)”: 并非所有的代码路径都返回值
+(259,34): error CS0103: 当前上下文中不存在名称“HttpNoProxy”
+(264,35): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(264,40): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(271,52): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(272,47): error CS0103: 当前上下文中不存在名称“CancellationTokenSource”
+(275,20): error CS0246: 未能找到类型或命名空间名“OperationCanceledException”(是否缺少 using 指令或程序集引用?)
+(278,41): error CS0246: 未能找到类型或命名空间名“TimeoutException”(是否缺少 using 指令或程序集引用?)
+(281,20): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(287,19): error CS0246: 未能找到类型或命名空间名“AggregateException”(是否缺少 using 指令或程序集引用?)
+(299,26): error CS0246: 未能找到类型或命名空间名“Socket”(是否缺少 using 指令或程序集引用?)
+(299,59): error CS0103: 当前上下文中不存在名称“SocketType”
+(299,78): error CS0103: 当前上下文中不存在名称“ProtocolType”
+(301,26): error CS0246: 未能找到类型或命名空间名“NetworkStream”(是否缺少 using 指令或程序集引用?)
+(309,29): error CS0246: 未能找到类型或命名空间名“SslStream”(是否缺少 using 指令或程序集引用?)
+(310,55): error CS0246: 未能找到类型或命名空间名“SslClientAuthenticationOptions”(是否缺少 using 指令或程序集引用?)
+(321,32): error CS0103: 当前上下文中不存在名称“SslPolicyErrors”
+(333,30): error CS0103: 当前上下文中不存在名称“SslPolicyErrors”
+(319,55): error CS0246: 未能找到类型或命名空间名“X509Certificate”(是否缺少 using 指令或程序集引用?)
+(319,78): error CS0246: 未能找到类型或命名空间名“X509Chain”(是否缺少 using 指令或程序集引用?)
+(319,96): error CS0246: 未能找到类型或命名空间名“SslPolicyErrors”(是否缺少 using 指令或程序集引用?)
+(345,13): error CS0103: 当前上下文中不存在名称“IPAddress”
+(347,30): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(353,34): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(358,76): error CS0246: 未能找到类型或命名空间名“DnsEndPoint”(是否缺少 using 指令或程序集引用?)
+(360,38): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(366,34): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(378,21): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(381,25): error CS0246: 未能找到类型或命名空间名“X509SubjectAlternativeNameExtension”(是否缺少 using 指令或程序集引用?)
+(387,16): error CS0103: 当前上下文中不存在名称“Array”

@@ -1,0 +1,20 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(5,37): error CS0246: 未能找到类型或命名空间名“ReactiveObject”(是否缺少 using 指令或程序集引用?)
+(7,22): error CS0246: 未能找到类型或命名空间名“INetworkTestService”(是否缺少 using 指令或程序集引用?)
+(11,12): error CS0246: 未能找到类型或命名空间名“ProxyType”(是否缺少 using 指令或程序集引用?)
+(22,12): error CS0246: 未能找到类型或命名空间名“IBrush”(是否缺少 using 指令或程序集引用?)
+(24,12): error CS0246: 未能找到类型或命名空间名“ReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(26,46): error CS0246: 未能找到类型或命名空间名“ProxyType”(是否缺少 using 指令或程序集引用?)
+(26,79): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(15,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(15,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(18,6): error CS0246: 未能找到类型或命名空间名“ObservableAsPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(18,6): error CS0246: 未能找到类型或命名空间名“ObservableAsProperty”(是否缺少 using 指令或程序集引用?)
+(21,6): error CS0246: 未能找到类型或命名空间名“ObservableAsPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(21,6): error CS0246: 未能找到类型或命名空间名“ObservableAsProperty”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(7,63): error CS0103: 当前上下文中不存在名称“INetworkTestService”
+(33,14): error CS1061: “ProxyDomainViewModel”未包含“WhenAnyValue”的定义，并且找不到可接受第一个“ProxyDomainViewModel”类型参数的可访问扩展方法“WhenAnyValue”(是否缺少 using 指令或程序集引用?)
+(36,14): error CS1061: “ProxyDomainViewModel”未包含“WhenAnyValue”的定义，并且找不到可接受第一个“ProxyDomainViewModel”类型参数的可访问扩展方法“WhenAnyValue”(是否缺少 using 指令或程序集引用?)
+(41,14): error CS1061: “ProxyDomainViewModel”未包含“WhenAnyValue”的定义，并且找不到可接受第一个“ProxyDomainViewModel”类型参数的可访问扩展方法“WhenAnyValue”(是否缺少 using 指令或程序集引用?)
+(1,1): hidden CS8019: 不需要的 using 指令。

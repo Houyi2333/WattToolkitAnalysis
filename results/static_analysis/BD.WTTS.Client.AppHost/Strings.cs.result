@@ -1,0 +1,21 @@
+(7,19): error CS0246: 未能找到类型或命名空间名“CultureInfo”(是否缺少 using 指令或程序集引用?)
+(43,37): error CS0246: 未能找到类型或命名空间名“CultureInfo”(是否缺少 using 指令或程序集引用?)
+(70,36): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(70,70): error CS0246: 未能找到类型或命名空间名“CultureInfo”(是否缺少 using 指令或程序集引用?)
+(5,12): error CS0246: 未能找到类型或命名空间名“CultureInfo”(是否缺少 using 指令或程序集引用?)
+(41,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(41,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(41,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(68,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(68,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(68,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(11,39): error CS0103: 当前上下文中不存在名称“CultureInfo”
+(55,58): error CS0103: 当前上下文中不存在名称“StringComparison”
+(73,37): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(75,42): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(77,42): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(79,42): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(81,42): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(83,42): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(85,42): error CS0103: 当前上下文中不存在名称“AssemblyInfo”

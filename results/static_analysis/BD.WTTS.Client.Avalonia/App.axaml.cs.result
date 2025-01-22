@@ -1,0 +1,85 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“AngleSharp”(是否缺少 using 指令或程序集引用?)
+(2,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“LiveChartsCore”(是否缺少 using 指令或程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“LiveChartsCore”(是否缺少 using 指令或程序集引用?)
+(5,7): error CS0246: 未能找到类型或命名空间名“SkiaSharp”(是否缺少 using 指令或程序集引用?)
+(6,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Drawing”(是否缺少程序集引用?)
+(10,35): error CS0246: 未能找到类型或命名空间名“Application”(是否缺少 using 指令或程序集引用?)
+(33,42): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(31,12): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(41,12): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(163,48): error CS0246: 未能找到类型或命名空间名“WindowBackgroundMaterial”(是否缺少 using 指令或程序集引用?)
+(229,12): error CS0246: 未能找到类型或命名空间名“FontFamily”(是否缺少 using 指令或程序集引用?)
+(244,21): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(244,26): error CS0246: 未能找到类型或命名空间名“FontFamily”(是否缺少 using 指令或程序集引用?)
+(246,19): error CS0246: 未能找到类型或命名空间名“FontFamily”(是否缺少 using 指令或程序集引用?)
+(248,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(250,52): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(281,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(283,56): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(35,21): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(16,9): error CS0103: 当前上下文中不存在名称“Name”
+(16,16): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(17,30): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(17,59): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(18,34): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(18,63): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(44,13): error CS0019: 运算符“==”无法应用于“Window?”和“<null>”类型的操作数
+(46,17): error CS0103: 当前上下文中不存在名称“ApplicationLifetime”
+(46,40): error CS0246: 未能找到类型或命名空间名“ClassicDesktopStyleApplicationLifetime”(是否缺少 using 指令或程序集引用?)
+(58,13): error CS0103: 当前上下文中不存在名称“AvaloniaXamlLoader”
+(89,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(91,13): error CS0103: 当前上下文中不存在名称“Startup”
+(108,13): error CS0103: 当前上下文中不存在名称“ApplicationLifetime”
+(108,36): error CS0246: 未能找到类型或命名空间名“IClassicDesktopStyleApplicationLifetime”(是否缺少 using 指令或程序集引用?)
+(110,68): error CS0246: 未能找到类型或命名空间名“MainWindow”(是否缺少 using 指令或程序集引用?)
+(114,17): error CS0103: 当前上下文中不存在名称“Startup”
+(114,62): error CS0150: 应输入常量值
+(118,17): error CS0103: 当前上下文中不存在名称“Startup”
+(118,62): error CS0246: 未能找到类型或命名空间名“AppWindow”(是否缺少 using 指令或程序集引用?)
+(120,17): error CS0103: 当前上下文中不存在名称“Task2”
+(123,13): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(129,18): error CS0103: 当前上下文中不存在名称“ApplicationLifetime”
+(129,41): error CS0246: 未能找到类型或命名空间名“ISingleViewApplicationLifetime”(是否缺少 using 指令或程序集引用?)
+(131,39): error CS0246: 未能找到类型或命名空间名“MainView”(是否缺少 using 指令或程序集引用?)
+(165,13): error CS0103: 当前上下文中不存在名称“ApplicationLifetime”
+(165,36): error CS0246: 未能找到类型或命名空间名“IClassicDesktopStyleApplicationLifetime”(是否缺少 using 指令或程序集引用?)
+(169,52): error CS0246: 未能找到类型或命名空间名“WindowTransparencyLevel”(是否缺少 using 指令或程序集引用?)
+(186,13): error CS0103: 当前上下文中不存在名称“ApplicationLifetime”
+(186,36): error CS0246: 未能找到类型或命名空间名“IClassicDesktopStyleApplicationLifetime”(是否缺少 using 指令或程序集引用?)
+(188,13): error CS0103: 当前上下文中不存在名称“MainThread2”
+(199,9): error CS0103: 当前上下文中不存在名称“GeneralSettings”
+(200,9): error CS0103: 当前上下文中不存在名称“UISettings”
+(202,9): error CS0103: 当前上下文中不存在名称“UISettings”
+(204,14): error CS0103: 当前上下文中不存在名称“UISettings”
+(206,9): error CS0103: 当前上下文中不存在名称“GeneralSettings”
+(206,52): error CS0103: 当前上下文中不存在名称“IApplication”
+(208,9): error CS0103: 当前上下文中不存在名称“UISettings”
+(234,20): error CS0103: 当前上下文中不存在名称“FontFamily”
+(239,16): error CS0103: 当前上下文中不存在名称“FontFamily”
+(257,17): error CS0103: 当前上下文中不存在名称“Toast”
+(257,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(262,17): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(263,39): error CS0103: 当前上下文中不存在名称“Constants”
+(263,75): error CS0103: 当前上下文中不存在名称“StringComparison”
+(264,40): error CS0103: 当前上下文中不存在名称“Constants”
+(264,79): error CS0103: 当前上下文中不存在名称“StringComparison”
+(266,27): error CS0103: 当前上下文中不存在名称“UserService”
+(273,13): error CS0103: 当前上下文中不存在名称“Browser2”
+(275,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(277,13): error CS0103: 当前上下文中不存在名称“Toast”
+(289,17): error CS0103: 当前上下文中不存在名称“Toast”
+(289,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(292,19): error CS0103: 当前上下文中不存在名称“Clipboard2”
+(293,13): error CS0103: 当前上下文中不存在名称“Toast”
+(293,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(293,43): error CS0103: 当前上下文中不存在名称“Strings”
+(295,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(297,13): error CS0103: 当前上下文中不存在名称“Toast”
+(6,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。
+(5,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。

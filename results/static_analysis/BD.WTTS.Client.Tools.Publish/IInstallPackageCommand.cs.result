@@ -1,0 +1,148 @@
+(1,17): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“Build”(是否缺少程序集引用?)
+(2,17): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“Build”(是否缺少程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“Org”(是否缺少 using 指令或程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“Packaging”(是否缺少 using 指令或程序集引用?)
+(5,7): error CS0246: 未能找到类型或命名空间名“Packaging”(是否缺少 using 指令或程序集引用?)
+(6,7): error CS0246: 未能找到类型或命名空间名“Packaging”(是否缺少 using 指令或程序集引用?)
+(7,7): error CS0246: 未能找到类型或命名空间名“Packaging”(是否缺少 using 指令或程序集引用?)
+(11,36): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(15,20): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(79,36): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(193,69): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(193,74): error CS0246: 未能找到类型或命名空间名“ArchiveEntry”(是否缺少 using 指令或程序集引用?)
+(231,36): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(15,12): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(15,20): error CS0538: '显式接口声明中的“ICommand”不是接口
+(212,12): error CS0246: 未能找到类型或命名空间名“PgpKeyRingGenerator”(是否缺少 using 指令或程序集引用?)
+(213,12): error CS0246: 未能找到类型或命名空间名“PgpSecretKeyRing”(是否缺少 using 指令或程序集引用?)
+(214,12): error CS0246: 未能找到类型或命名空间名“PgpPrivateKey”(是否缺少 using 指令或程序集引用?)
+(216,21): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(185,36): error CS0246: 未能找到类型或命名空间名“ArchiveBuilder”(是否缺少 using 指令或程序集引用?)
+(187,83): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(187,88): error CS0246: 未能找到类型或命名空间名“ArchiveEntry”(是否缺少 using 指令或程序集引用?)
+(187,109): error CS0246: 未能找到类型或命名空间名“ITaskItem”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(17,23): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(18,23): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(19,23): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(20,23): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(21,24): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(22,27): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(32,21): error CS0103: 当前上下文中不存在名称“AppPublishInfo”
+(75,9): error CS0103: 当前上下文中不存在名称“ThreadTask”
+(76,9): error CS0103: 当前上下文中不存在名称“Console”
+(81,23): error CS0103: 当前上下文中不存在名称“GetPackPath”
+(81,41): error CS0103: 当前上下文中不存在名称“FileEx”
+(82,28): error CS0103: 当前上下文中不存在名称“GetPackPath”
+(82,46): error CS0103: 当前上下文中不存在名称“FileEx”
+(83,34): error CS0103: 当前上下文中不存在名称“File”
+(83,53): error CS0103: 当前上下文中不存在名称“FileMode”
+(83,70): error CS0103: 当前上下文中不存在名称“FileAccess”
+(83,92): error CS0103: 当前上下文中不存在名称“FileShare”
+(84,35): error CS0246: 未能找到类型或命名空间名“MemoryStream”(是否缺少 using 指令或程序集引用?)
+(88,13): error CS0117: “IInstallPackageCommand.ArchiveBuilder2”未包含“Log”的定义
+(88,19): error CS0103: 当前上下文中不存在名称“TaskLoggingHelper”
+(90,9): error CS0246: 未能找到类型或命名空间名“ArchiveBuilder”(是否缺少 using 指令或程序集引用?)
+(94,13): error CS0103: 当前上下文中不存在名称“Constants”
+(95,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(96,13): error CS0103: 当前上下文中不存在名称“Array”
+(96,25): error CS0246: 未能找到类型或命名空间名“ITaskItem”(是否缺少 using 指令或程序集引用?)
+(101,9): error CS0103: 当前上下文中不存在名称“DebTask”
+(104,55): error CS0103: 当前上下文中不存在名称“StringComparer”
+(107,9): error CS0103: 当前上下文中不存在名称“TarFileCreator”
+(111,9): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(111,41): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(113,36): error CS0103: 当前上下文中不存在名称“DeploymentMode”
+(115,30): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(133,9): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(133,39): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(143,34): error CS0103: 当前上下文中不存在名称“File”
+(143,58): error CS0103: 当前上下文中不存在名称“FileMode”
+(143,75): error CS0103: 当前上下文中不存在名称“FileAccess”
+(143,97): error CS0103: 当前上下文中不存在名称“FileShare”
+(144,35): error CS0246: 未能找到类型或命名空间名“XZOutputStream”(是否缺少 using 指令或程序集引用?)
+(144,63): error CS0103: 当前上下文中不存在名称“XZOutputStream”
+(144,94): error CS0103: 当前上下文中不存在名称“XZOutputStream”
+(149,34): error CS0103: 当前上下文中不存在名称“File”
+(149,58): error CS0103: 当前上下文中不存在名称“FileMode”
+(149,73): error CS0103: 当前上下文中不存在名称“FileAccess”
+(149,90): error CS0103: 当前上下文中不存在名称“FileShare”
+(151,23): error CS0103: 当前上下文中不存在名称“DebPackageCreator”
+(153,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(154,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(155,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(156,13): error CS0103: 当前上下文中不存在名称“GetVersion”
+(157,13): error CS0103: 当前上下文中不存在名称“DebTask”
+(158,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(159,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(160,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(161,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(162,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(165,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(166,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(167,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(168,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(169,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(170,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(175,13): error CS0103: 当前上下文中不存在名称“DebPackageCreator”
+(182,9): error CS0103: 当前上下文中不存在名称“File”
+(195,28): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(198,57): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(199,23): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(202,28): error CS0246: 未能找到类型或命名空间名“TaskItem”(是否缺少 using 指令或程序集引用?)
+(202,37): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(203,29): error CS0246: 未能找到类型或命名空间名“ITaskItem”(是否缺少 using 指令或程序集引用?)
+(205,13): error CS0103: 当前上下文中不存在名称“Path”
+(205,26): error CS0103: 当前上下文中不存在名称“AppContext”
+(205,52): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(206,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(207,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(235,23): error CS0103: 当前上下文中不存在名称“GetPackPath”
+(235,41): error CS0103: 当前上下文中不存在名称“FileEx”
+(238,34): error CS0103: 当前上下文中不存在名称“File”
+(238,53): error CS0103: 当前上下文中不存在名称“FileMode”
+(238,70): error CS0103: 当前上下文中不存在名称“FileAccess”
+(238,92): error CS0103: 当前上下文中不存在名称“FileShare”
+(240,36): error CS0246: 未能找到类型或命名空间名“MemoryStream”(是否缺少 using 指令或程序集引用?)
+(244,13): error CS0117: “IInstallPackageCommand.ArchiveBuilder2”未包含“Log”的定义
+(244,19): error CS0103: 当前上下文中不存在名称“TaskLoggingHelper”
+(246,9): error CS0246: 未能找到类型或命名空间名“ArchiveBuilder”(是否缺少 using 指令或程序集引用?)
+(250,12): error CS0103: 当前上下文中不存在名称“Constants”
+(251,12): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(252,12): error CS0103: 当前上下文中不存在名称“Array”
+(252,24): error CS0246: 未能找到类型或命名空间名“ITaskItem”(是否缺少 using 指令或程序集引用?)
+(259,55): error CS0103: 当前上下文中不存在名称“StringComparer”
+(262,9): error CS0246: 未能找到类型或命名空间名“CpioFileCreator”(是否缺少 using 指令或程序集引用?)
+(262,43): error CS0246: 未能找到类型或命名空间名“CpioFileCreator”(是否缺少 using 指令或程序集引用?)
+(269,9): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(269,14): error CS0246: 未能找到类型或命名空间名“PackageDependency”(是否缺少 using 指令或程序集引用?)
+(269,52): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(269,57): error CS0246: 未能找到类型或命名空间名“PackageDependency”(是否缺少 using 指令或程序集引用?)
+(271,36): error CS0103: 当前上下文中不存在名称“DeploymentMode”
+(273,34): error CS0246: 未能找到类型或命名空间名“PackageDependency”(是否缺少 using 指令或程序集引用?)
+(273,61): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(290,9): error CS0246: 未能找到类型或命名空间名“RpmPackageCreator”(是否缺少 using 指令或程序集引用?)
+(290,44): error CS0246: 未能找到类型或命名空间名“RpmPackageCreator”(是否缺少 using 指令或程序集引用?)
+(294,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(295,13): error CS0103: 当前上下文中不存在名称“GetVersion”
+(296,13): error CS0103: 当前上下文中不存在名称“RpmTask”
+(297,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(298,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(299,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(300,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(301,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(302,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(303,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(304,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(305,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(306,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(307,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(308,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(309,13): error CS0103: 当前上下文中不存在名称“LinuxPackConstants”
+(6,1): hidden CS8019: 不需要的 using 指令。
+(5,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(7,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

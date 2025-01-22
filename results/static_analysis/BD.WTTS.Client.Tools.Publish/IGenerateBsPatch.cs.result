@@ -1,0 +1,185 @@
+(2,36): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(1,7): error CS0246: 未能找到类型或命名空间名“BsDiff”(是否缺少 using 指令或程序集引用?)
+(3,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Models”(是否缺少程序集引用?)
+(7,30): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(18,20): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(38,94): error CS0246: 未能找到类型或命名空间名“ClientPlatform”(是否缺少 using 指令或程序集引用?)
+(93,27): error CS0246: 未能找到类型或命名空间名“ThreadTask”(是否缺少 using 指令或程序集引用?)
+(193,74): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(205,83): error CS0246: 未能找到类型或命名空间名“ClientPlatform”(是否缺少 using 指令或程序集引用?)
+(205,27): error CS0246: 未能找到类型或命名空间名“ThreadTask”(是否缺少 using 指令或程序集引用?)
+(284,51): error CS0246: 未能找到类型或命名空间名“AppVer”(是否缺少 using 指令或程序集引用?)
+(284,27): error CS0246: 未能找到类型或命名空间名“ThreadTask”(是否缺少 using 指令或程序集引用?)
+(299,102): error CS0246: 未能找到类型或命名空间名“ClientPlatform”(是否缺少 using 指令或程序集引用?)
+(299,27): error CS0246: 未能找到类型或命名空间名“ThreadTask”(是否缺少 using 指令或程序集引用?)
+(338,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(338,30): error CS0246: 未能找到类型或命名空间名“AppVer”(是否缺少 using 指令或程序集引用?)
+(355,65): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(355,80): error CS0246: 未能找到类型或命名空间名“ClientPlatform”(是否缺少 using 指令或程序集引用?)
+(355,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(355,30): error CS0246: 未能找到类型或命名空间名“AppVerFileList”(是否缺少 using 指令或程序集引用?)
+(373,52): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(373,80): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(373,25): error CS0246: 未能找到类型或命名空间名“ThreadTask”(是否缺少 using 指令或程序集引用?)
+(455,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(455,30): error CS0246: 未能找到类型或命名空间名“AppVerFile”(是否缺少 using 指令或程序集引用?)
+(467,27): error CS0246: 未能找到类型或命名空间名“ThreadTask”(是否缺少 using 指令或程序集引用?)
+(18,12): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(18,20): error CS0538: '显式接口声明中的“ICommand”不是接口
+(38,120): error CS0103: 当前上下文中不存在名称“ClientPlatform”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(20,24): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(22,27): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(24,27): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(26,29): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(28,34): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(28,41): error CS0246: 未能找到类型或命名空间名“ClientPlatform”(是否缺少 using 指令或程序集引用?)
+(30,27): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(42,18): error CS0103: 当前上下文中不存在名称“File”
+(44,17): error CS0103: 当前上下文中不存在名称“Console”
+(47,18): error CS0103: 当前上下文中不存在名称“File”
+(49,17): error CS0103: 当前上下文中不存在名称“Console”
+(54,17): error CS0103: 当前上下文中不存在名称“Console”
+(61,41): error CS0246: 未能找到类型或命名空间名“FileStream”(是否缺少 using 指令或程序集引用?)
+(61,63): error CS0103: 当前上下文中不存在名称“FileMode”
+(62,37): error CS0103: 当前上下文中不存在名称“File”
+(62,65): error CS0103: 当前上下文中不存在名称“File”
+(65,40): error CS0246: 未能找到类型或命名空间名“FileStream”(是否缺少 using 指令或程序集引用?)
+(65,60): error CS0103: 当前上下文中不存在名称“FileMode”
+(65,75): error CS0103: 当前上下文中不存在名称“FileAccess”
+(65,92): error CS0103: 当前上下文中不存在名称“FileShare”
+(66,41): error CS0246: 未能找到类型或命名空间名“FileStream”(是否缺少 using 指令或程序集引用?)
+(66,61): error CS0103: 当前上下文中不存在名称“FileMode”
+(67,21): error CS0103: 当前上下文中不存在名称“BinaryPatch”
+(83,9): error CS0103: 当前上下文中不存在名称“Console”
+(95,14): error CS0103: 当前上下文中不存在名称“File”
+(97,13): error CS0103: 当前上下文中不存在名称“Console”
+(98,13): error CS0126: 需要一个类型可转换为“ThreadTask”的对象
+(101,14): error CS0103: 当前上下文中不存在名称“Directory”
+(103,13): error CS0103: 当前上下文中不存在名称“Console”
+(104,13): error CS0126: 需要一个类型可转换为“ThreadTask”的对象
+(106,26): error CS0103: 当前上下文中不存在名称“File”
+(107,28): error CS0246: 未能找到类型或命名空间名“BrotliStream”(是否缺少 using 指令或程序集引用?)
+(107,53): error CS0103: 当前上下文中不存在名称“CompressionMode”
+(108,25): error CS0103: 当前上下文中不存在名称“MemoryPackSerializer”
+(108,63): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(108,82): error CS0246: 未能找到类型或命名空间名“PatchBundleInfo”(是否缺少 using 指令或程序集引用?)
+(111,13): error CS0103: 当前上下文中不存在名称“Console”
+(112,13): error CS0126: 需要一个类型可转换为“ThreadTask”的对象
+(114,14): error CS0103: 当前上下文中不存在名称“Directory”
+(116,13): error CS0103: 当前上下文中不存在名称“Directory”
+(120,13): error CS0103: 当前上下文中不存在名称“Directory”
+(123,9): error CS0246: 未能找到类型或命名空间名“FileInfo”(是否缺少 using 指令或程序集引用?)
+(126,13): error CS0246: 未能找到类型或命名空间名“PatchBundleInfo”(是否缺少 using 指令或程序集引用?)
+(129,32): error CS0246: 未能找到类型或命名空间名“FileInfo”(是否缺少 using 指令或程序集引用?)
+(129,41): error CS0103: 当前上下文中不存在名称“Path”
+(130,32): error CS1061: “FileInfo?”未包含“Directory”的定义，并且找不到可接受第一个“FileInfo?”类型参数的可访问扩展方法“Directory”(是否缺少 using 指令或程序集引用?)
+(131,30): error CS1061: “FileInfo?”未包含“Directory”的定义，并且找不到可接受第一个“FileInfo?”类型参数的可访问扩展方法“Directory”(是否缺少 using 指令或程序集引用?)
+(134,21): error CS0103: 当前上下文中不存在名称“File”
+(134,40): error CS0103: 当前上下文中不存在名称“Path”
+(138,41): error CS0103: 当前上下文中不存在名称“File”
+(138,55): error CS0103: 当前上下文中不存在名称“Path”
+(139,35): error CS0103: 当前上下文中不存在名称“Path”
+(140,42): error CS0103: 当前上下文中不存在名称“File”
+(140,65): error CS0103: 当前上下文中不存在名称“File”
+(140,88): error CS0103: 当前上下文中不存在名称“File”
+(141,21): error CS0103: 当前上下文中不存在名称“BinaryPatch”
+(145,9): error CS0103: 当前上下文中不存在名称“Console”
+(93,38): error CS0161: “IGenerateBsPatch.ApplyPatch(string, string, string)”: 并非所有的代码路径都返回值
+(156,9): error CS0246: 未能找到类型或命名空间名“DirectoryInfo”(是否缺少 using 指令或程序集引用?)
+(156,33): error CS0246: 未能找到类型或命名空间名“DirectoryInfo”(是否缺少 using 指令或程序集引用?)
+(157,9): error CS0246: 未能找到类型或命名空间名“DirectoryInfo”(是否缺少 using 指令或程序集引用?)
+(162,23): error CS0246: 未能找到类型或命名空间名“DirectoryNotFoundException”(是否缺少 using 指令或程序集引用?)
+(166,14): error CS0103: 当前上下文中不存在名称“Directory”
+(168,13): error CS0103: 当前上下文中不存在名称“Directory”
+(172,9): error CS0246: 未能找到类型或命名空间名“FileInfo”(是否缺少 using 指令或程序集引用?)
+(173,18): error CS0246: 未能找到类型或命名空间名“FileInfo”(是否缺少 using 指令或程序集引用?)
+(175,31): error CS0103: 当前上下文中不存在名称“Path”
+(180,18): error CS0246: 未能找到类型或命名空间名“DirectoryInfo”(是否缺少 using 指令或程序集引用?)
+(182,31): error CS0103: 当前上下文中不存在名称“Path”
+(195,9): error CS0103: 当前上下文中不存在名称“BinaryPatch”
+(209,13): error CS0103: 当前上下文中不存在名称“Console”
+(210,13): error CS0126: 需要一个类型可转换为“ThreadTask”的对象
+(214,13): error CS0103: 当前上下文中不存在名称“Console”
+(215,13): error CS0126: 需要一个类型可转换为“ThreadTask”的对象
+(217,14): error CS0103: 当前上下文中不存在名称“File”
+(219,13): error CS0103: 当前上下文中不存在名称“Console”
+(220,13): error CS0126: 需要一个类型可转换为“ThreadTask”的对象
+(223,27): error CS0103: 当前上下文中不存在名称“File”
+(230,21): error CS0103: 当前上下文中不存在名称“Hashs”
+(230,70): error CS0103: 当前上下文中不存在名称“Hashs”
+(239,43): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(239,48): error CS0246: 未能找到类型或命名空间名“AppVerFileList”(是否缺少 using 指令或程序集引用?)
+(241,25): error CS0246: 未能找到类型或命名空间名“AppVerFileList”(是否缺少 using 指令或程序集引用?)
+(250,45): error CS0246: 未能找到类型或命名空间名“AppVerFileList”(是否缺少 using 指令或程序集引用?)
+(261,26): error CS0246: 未能找到类型或命名空间名“AppVer”(是否缺少 using 指令或程序集引用?)
+(265,29): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(266,32): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(266,37): error CS0246: 未能找到类型或命名空间名“AppVerFileList”(是否缺少 using 指令或程序集引用?)
+(268,25): error CS0246: 未能找到类型或命名空间名“AppVerFileList”(是否缺少 using 指令或程序集引用?)
+(205,38): error CS0161: “IGenerateBsPatch.UploadAppVer(string, string, ClientPlatform)”: 并非所有的代码路径都返回值
+(286,36): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(287,23): error CS0103: 当前上下文中不存在名称“JsonContent”
+(284,38): error CS0161: “IGenerateBsPatch.UploadAppVer(AppVer)”: 并非所有的代码路径都返回值
+(305,13): error CS0103: 当前上下文中不存在名称“Console”
+(306,13): error CS0126: 需要一个类型可转换为“ThreadTask”的对象
+(312,13): error CS0103: 当前上下文中不存在名称“Console”
+(313,13): error CS0126: 需要一个类型可转换为“ThreadTask”的对象
+(315,60): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(316,60): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(319,13): error CS0103: 当前上下文中不存在名称“Console”
+(320,13): error CS0126: 需要一个类型可转换为“ThreadTask”的对象
+(322,28): error CS0103: 当前上下文中不存在名称“Path”
+(323,32): error CS0246: 未能找到类型或命名空间名“FileInfo”(是否缺少 using 指令或程序集引用?)
+(328,9): error CS0103: 当前上下文中不存在名称“Console”
+(299,38): error CS0161: “IGenerateBsPatch.GenerateAppPublishPatchBundleInfo(string, string, ClientPlatform, string)”: 并非所有的代码路径都返回值
+(340,36): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(342,47): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(342,54): error CS0246: 未能找到类型或命名空间名“AppVer”(是否缺少 using 指令或程序集引用?)
+(342,112): error CS0246: 未能找到类型或命名空间名“JsonSerializerOptions”(是否缺少 using 指令或程序集引用?)
+(357,36): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(359,47): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(359,54): error CS0246: 未能找到类型或命名空间名“AppVerFileList”(是否缺少 using 指令或程序集引用?)
+(359,120): error CS0246: 未能找到类型或命名空间名“JsonSerializerOptions”(是否缺少 using 指令或程序集引用?)
+(377,9): error CS0103: 当前上下文中不存在名称“Console”
+(378,9): error CS0103: 当前上下文中不存在名称“Console”
+(379,30): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(379,49): error CS0246: 未能找到类型或命名空间名“PatchBundleInfo”(是否缺少 using 指令或程序集引用?)
+(387,9): error CS0103: 当前上下文中不存在名称“Console”
+(397,21): error CS0103: 当前上下文中不存在名称“Console”
+(398,21): error CS0126: 需要一个类型可转换为“ThreadTask”的对象
+(400,55): error CS0246: 未能找到类型或命名空间名“PatchBundleInfo”(是否缺少 using 指令或程序集引用?)
+(415,25): error CS0103: 当前上下文中不存在名称“Console”
+(416,25): error CS0126: 需要一个类型可转换为“ThreadTask”的对象
+(421,25): error CS0103: 当前上下文中不存在名称“Console”
+(422,25): error CS0126: 需要一个类型可转换为“ThreadTask”的对象
+(424,45): error CS0246: 未能找到类型或命名空间名“MemoryStream”(是否缺少 using 指令或程序集引用?)
+(427,25): error CS0103: 当前上下文中不存在名称“BinaryPatch”
+(428,63): error CS0246: 未能找到类型或命名空间名“PatchBundleInfo”(是否缺少 using 指令或程序集引用?)
+(438,13): error CS0103: 当前上下文中不存在名称“File”
+(439,13): error CS0103: 当前上下文中不存在名称“File”
+(441,9): error CS0103: 当前上下文中不存在名称“Console”
+(442,32): error CS0103: 当前上下文中不存在名称“File”
+(443,32): error CS0246: 未能找到类型或命名空间名“BrotliStream”(是否缺少 using 指令或程序集引用?)
+(443,57): error CS0103: 当前上下文中不存在名称“CompressionLevel”
+(444,9): error CS0103: 当前上下文中不存在名称“Console”
+(445,15): error CS0103: 当前上下文中不存在名称“MemoryPackSerializer”
+(445,58): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(445,77): error CS0246: 未能找到类型或命名空间名“PatchBundleInfo”(是否缺少 using 指令或程序集引用?)
+(447,9): error CS0103: 当前上下文中不存在名称“Console”
+(373,36): error CS0161: “IGenerateBsPatch.ContrastVersion(AppPublishInfo, AppPublishInfo, string)”: 并非所有的代码路径都返回值
+(457,36): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(459,47): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(459,54): error CS0246: 未能找到类型或命名空间名“AppVerFile”(是否缺少 using 指令或程序集引用?)
+(459,116): error CS0246: 未能找到类型或命名空间名“JsonSerializerOptions”(是否缺少 using 指令或程序集引用?)
+(469,9): error CS0246: 未能找到类型或命名空间名“DirectoryInfo”(是否缺少 using 指令或程序集引用?)
+(472,40): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(473,32): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(473,37): error CS0246: 未能找到类型或命名空间名“AppPublishFileInfo”(是否缺少 using 指令或程序集引用?)
+(474,13): error CS0103: 当前上下文中不存在名称“IScanPublicDirectoryCommand”
+(475,34): error CS0246: 未能找到类型或命名空间名“MultipartFormDataContent”(是否缺少 using 指令或程序集引用?)
+(484,17): error CS0103: 当前上下文中不存在名称“Console”
+(489,13): error CS0103: 当前上下文中不存在名称“Console”
+(467,38): error CS0161: “IGenerateBsPatch.UploadFiles(string)”: 并非所有的代码路径都返回值
+(1,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。

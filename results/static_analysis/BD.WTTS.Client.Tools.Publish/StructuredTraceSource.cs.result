@@ -1,0 +1,21 @@
+(8,26): error CS0234: 命名空间“System.Collections”中不存在类型或命名空间名“Specialized”(是否缺少程序集引用?)
+(1862,39): error CS0246: 未能找到类型或命名空间名“TraceSource”(是否缺少 using 指令或程序集引用?)
+(1447,18): error CS0246: 未能找到类型或命名空间名“TraceSource”(是否缺少 using 指令或程序集引用?)
+(1483,16): error CS0246: 未能找到类型或命名空间名“StringDictionary”(是否缺少 using 指令或程序集引用?)
+(1494,16): error CS0246: 未能找到类型或命名空间名“TraceListenerCollection”(是否缺少 using 指令或程序集引用?)
+(1520,16): error CS0246: 未能找到类型或命名空间名“SourceSwitch”(是否缺少 using 指令或程序集引用?)
+(1452,17): error CS0246: 未能找到类型或命名空间名“TraceSource”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(1865,15): error CS1729: “TraceSource”不包含采用 1 个参数的构造函数
+(307,27): error CS0234: 命名空间“System”中不存在类型或命名空间名“Xml”(是否缺少程序集引用?)
+(315,41): error CS0234: 命名空间“System.Configuration”中不存在类型或命名空间名“ConfigurationException”(是否缺少程序集引用?)
+(1309,30): error CS0103: 当前上下文中不存在名称“Trace”
+(1312,32): error CS0234: 命名空间“System.Management.Automation”中不存在类型或命名空间名“Internal”(是否缺少程序集引用?)
+(1352,17): error CS0234: 命名空间“System.Diagnostics”中不存在类型或命名空间名“Assert”(是否缺少程序集引用?)
+(1411,21): error CS0234: 命名空间“System.Diagnostics”中不存在类型或命名空间名“Assert”(是否缺少程序集引用?)
+(1471,50): error CS0246: 未能找到类型或命名空间名“SourceLevels”(是否缺少 using 指令或程序集引用?)
+(1487,36): error CS1061: “TraceSource”未包含“Attributes”的定义，并且找不到可接受第一个“TraceSource”类型参数的可访问扩展方法“Attributes”(是否缺少 using 指令或程序集引用?)
+(1498,36): error CS1061: “TraceSource”未包含“Listeners”的定义，并且找不到可接受第一个“TraceSource”类型参数的可访问扩展方法“Listeners”(是否缺少 using 指令或程序集引用?)
+(1524,36): error CS1061: “TraceSource”未包含“Switch”的定义，并且找不到可接受第一个“TraceSource”类型参数的可访问扩展方法“Switch”(是否缺少 using 指令或程序集引用?)
+(1529,29): error CS1061: “TraceSource”未包含“Switch”的定义，并且找不到可接受第一个“TraceSource”类型参数的可访问扩展方法“Switch”(是否缺少 using 指令或程序集引用?)
+(8,1): hidden CS8019: 不需要的 using 指令。

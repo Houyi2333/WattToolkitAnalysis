@@ -1,0 +1,5 @@
+(94,30): warning CS0672: 成员“PSArgumentException.GetObjectData(SerializationInfo, StreamingContext)”将重写过时的成员“Exception.GetObjectData(SerializationInfo, StreamingContext)”。请向“PSArgumentException.GetObjectData(SerializationInfo, StreamingContext)”中添加 Obsolete 特性。
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(83,17): warning SYSLIB0051: “ArgumentException.ArgumentException(SerializationInfo, StreamingContext)”已过时:“This API supports obsolete formatter-based serialization. It should not be called or extended by application code.”
+(98,27): error CS0246: 未能找到类型或命名空间名“PSArgumentNullException”(是否缺少 using 指令或程序集引用?)
+(101,13): warning SYSLIB0051: “Exception.GetObjectData(SerializationInfo, StreamingContext)”已过时:“This API supports obsolete formatter-based serialization. It should not be called or extended by application code.”

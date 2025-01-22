@@ -1,0 +1,54 @@
+(2,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(1,7): error CS0246: 未能找到类型或命名空间名“DynamicData”(是否缺少 using 指令或程序集引用?)
+(8,53): error CS0246: 未能找到类型或命名空间名“TabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(7,2): error CS0246: 未能找到类型或命名空间名“MP2ObjAttribute”(是否缺少 using 指令或程序集引用?)
+(7,2): error CS0246: 未能找到类型或命名空间名“MP2Obj”(是否缺少 using 指令或程序集引用?)
+(144,53): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(144,76): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(167,53): error CS0246: 未能找到类型或命名空间名“Func<>”(是否缺少 using 指令或程序集引用?)
+(167,80): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(165,21): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(181,49): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(187,47): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,9): error CS0103: 当前上下文中不存在名称“SelectLanguage”
+(12,26): error CS0103: 当前上下文中不存在名称“ResourceService”
+(13,14): error CS1061: “SettingsPageViewModel”未包含“WhenValueChanged”的定义，并且找不到可接受第一个“SettingsPageViewModel”类型参数的可访问扩展方法“WhenValueChanged”(是否缺少 using 指令或程序集引用?)
+(16,9): error CS0103: 当前上下文中不存在名称“OpenFolder_Click”
+(16,28): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(18,9): error CS0103: 当前上下文中不存在名称“CheckUpdate_Click”
+(18,29): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(18,52): error CS0103: 当前上下文中不存在名称“CheckUpdate”
+(20,9): error CS0103: 当前上下文中不存在名称“OpenPluginDirectory_Click”
+(20,37): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(20,68): error CS0103: 当前上下文中不存在名称“OpenPluginDirectory”
+(22,9): error CS0103: 当前上下文中不存在名称“OpenPluginCacheDirectory_Click”
+(22,42): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(22,73): error CS0103: 当前上下文中不存在名称“OpenPluginCacheDirectory”
+(24,9): error CS0103: 当前上下文中不存在名称“DeletePlugin_Click”
+(24,30): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(24,53): error CS0246: 未能找到类型或命名空间名“IPlugin”(是否缺少 using 指令或程序集引用?)
+(24,62): error CS0103: 当前上下文中不存在名称“DeletePlugin”
+(26,9): error CS0103: 当前上下文中不存在名称“SwitchEnablePlugin_Click”
+(26,36): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(26,59): error CS0246: 未能找到类型或命名空间名“PluginResult<>”(是否缺少 using 指令或程序集引用?)
+(26,72): error CS0246: 未能找到类型或命名空间名“IPlugin”(是否缺少 using 指令或程序集引用?)
+(26,82): error CS0103: 当前上下文中不存在名称“SwitchEnablePlugin”
+(49,13): error CS0103: 当前上下文中不存在名称“IOPath”
+(49,39): error CS0103: 当前上下文中不存在名称“IOPath”
+(50,13): error CS0103: 当前上下文中不存在名称“IOPath”
+(50,37): error CS0103: 当前上下文中不存在名称“IOPath”
+(51,13): error CS0103: 当前上下文中不存在名称“IPCSubProcessFileSystem”
+(51,51): error CS0103: 当前上下文中不存在名称“IApplication”
+(52,18): error CS0103: 当前上下文中不存在名称“IOPath”
+(54,22): error CS0103: 当前上下文中不存在名称“clickOpenFolderTimeRecord”
+(55,19): error CS0103: 当前上下文中不存在名称“DateTime”
+(56,50): error CS0103: 当前上下文中不存在名称“clickOpenFolderIntervalSeconds”
+(57,9): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(58,14): error CS0103: 当前上下文中不存在名称“clickOpenFolderTimeRecord”
+(58,59): error CS0103: 当前上下文中不存在名称“clickOpenFolderTimeRecord”
+(149,13): error CS0103: 当前上下文中不存在名称“Task”
+(159,16): error CS0246: 未能找到类型或命名空间名“OperationCanceledException”(是否缺少 using 指令或程序集引用?)
+(183,13): error CS0103: 当前上下文中不存在名称“IOPath”
+(189,13): error CS0103: 当前上下文中不存在名称“IApplication”
+(1,1): hidden CS8019: 不需要的 using 指令。

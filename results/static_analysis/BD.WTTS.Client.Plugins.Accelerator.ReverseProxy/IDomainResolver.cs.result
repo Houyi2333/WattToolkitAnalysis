@@ -1,0 +1,8 @@
+(17,46): error CS0246: 未能找到类型或命名空间名“DnsEndPoint”(是否缺少 using 指令或程序集引用?)
+(17,68): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(17,5): error CS0246: 未能找到类型或命名空间名“IAsyncEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(17,22): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(23,32): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(30,25): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(30,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

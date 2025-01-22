@@ -1,0 +1,18 @@
+(3,18): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“NetworkInformation”(是否缺少程序集引用?)
+(47,48): error CS0246: 未能找到类型或命名空间名“Func<>”(是否缺少 using 指令或程序集引用?)
+(47,53): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(47,20): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(105,33): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(10,29): error CS0246: 未能找到类型或命名空间名“IPGlobalProperties”(是否缺少 using 指令或程序集引用?)
+(11,29): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(12,29): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(10,57): error CS0103: 当前上下文中不存在名称“IPGlobalProperties”
+(49,27): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(57,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(89,76): error CS1503: 参数 1: 无法从“方法组”转换为“Func<int, bool>”
+(96,76): error CS1503: 参数 1: 无法从“方法组”转换为“Func<int, bool>”
+(103,82): error CS1503: 参数 1: 无法从“方法组”转换为“Func<int, bool>”
+(107,41): error CS0103: 当前上下文中不存在名称“IPEndPoint”
+(114,19): error CS0246: 未能找到类型或命名空间名“ApplicationException”(是否缺少 using 指令或程序集引用?)
+(3,1): hidden CS8019: 不需要的 using 指令。

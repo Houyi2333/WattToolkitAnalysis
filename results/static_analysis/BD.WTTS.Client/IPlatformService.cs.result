@@ -1,0 +1,12 @@
+(7,45): error CS0246: 未能找到类型或命名空间名“IPCPlatformService”(是否缺少 using 指令或程序集引用?)
+(23,25): error CS0246: 未能找到类型或命名空间名“TaskCompletionSource<>”(是否缺少 using 指令或程序集引用?)
+(23,46): error CS0246: 未能找到类型或命名空间名“IPCPlatformService”(是否缺少 using 指令或程序集引用?)
+(28,23): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(28,28): error CS0246: 未能找到类型或命名空间名“IPCPlatformService”(是否缺少 using 指令或程序集引用?)
+(30,43): error CS0246: 未能找到类型或命名空间名“IPCMainProcessService”(是否缺少 using 指令或程序集引用?)
+(30,31): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,41): error CS0103: 当前上下文中不存在名称“Ioc”
+(34,68): error CS0246: 未能找到类型或命名空间名“IPCPlatformService”(是否缺少 using 指令或程序集引用?)
+(74,20): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(30,36): error CS0161: “IPlatformService.IPCRoot.SetIPC(IPCMainProcessService)”: 并非所有的代码路径都返回值

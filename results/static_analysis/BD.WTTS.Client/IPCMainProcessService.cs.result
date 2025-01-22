@@ -1,0 +1,22 @@
+(7,42): error CS0246: 未能找到类型或命名空间名“IAsyncDisposable”(是否缺少 using 指令或程序集引用?)
+(18,62): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(18,90): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(18,5): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(27,78): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(27,106): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(27,116): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(27,5): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(27,15): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(35,9): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(35,16): error CS0246: 未能找到类型或命名空间名“ProcessStartInfo”(是否缺少 using 指令或程序集引用?)
+(32,5): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(32,15): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(47,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(54,5): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(61,28): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(61,5): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(69,5): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(69,16): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(71,29): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,46): error CS0103: 当前上下文中不存在名称“Ioc”

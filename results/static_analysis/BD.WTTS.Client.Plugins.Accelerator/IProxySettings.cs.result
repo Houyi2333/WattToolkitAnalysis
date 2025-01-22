@@ -1,0 +1,17 @@
+(36,5): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(41,5): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(101,5): error CS0246: 未能找到类型或命名空间名“ExternalProxyType”(是否缺少 using 指令或程序集引用?)
+(130,5): error CS0246: 未能找到类型或命名空间名“ProxyMode”(是否缺少 using 指令或程序集引用?)
+(186,21): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(191,21): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(241,11): error CS0246: 未能找到类型或命名空间名“ExternalProxyType”(是否缺少 using 指令或程序集引用?)
+(266,21): error CS0246: 未能找到类型或命名空间名“ProxyMode”(是否缺少 using 指令或程序集引用?)
+(241,61): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(186,85): error CS0103: 当前上下文中不存在名称“Array”
+(191,69): error CS0103: 当前上下文中不存在名称“Array”
+(206,51): error CS0103: 当前上下文中不存在名称“IPAddress”
+(246,53): error CS0103: 当前上下文中不存在名称“IPAddress”
+(266,50): error CS0103: 当前上下文中不存在名称“Enums”
+(21,12): error CS0103: 当前上下文中不存在名称“Ioc”
+(21,29): error CS0246: 未能找到类型或命名空间名“IOptionsMonitor<>”(是否缺少 using 指令或程序集引用?)

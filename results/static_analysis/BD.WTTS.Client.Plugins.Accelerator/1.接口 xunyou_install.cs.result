@@ -1,0 +1,30 @@
+(44,39): error CS0227: 不安全代码只会在使用 /unsafe 编译的情况下出现
+(44,39): error CS8795: 分部方法“XunYouSDK.xunyou_install_ex(int, delegate* unmanaged[Stdcall]<int, nint, int>, nint, string?, int, string?, int)”必须具有实现部分，因为它具有可访问性修饰符。
+(25,53): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(27,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(28,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(47,48): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(49,48): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(14,34): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(24,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(24,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(24,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(42,6): error CS0246: 未能找到类型或命名空间名“LibraryImportAttribute”(是否缺少 using 指令或程序集引用?)
+(42,6): error CS0246: 未能找到类型或命名空间名“LibraryImport”(是否缺少 using 指令或程序集引用?)
+(43,6): error CS0246: 未能找到类型或命名空间名“UnmanagedCallConvAttribute”(是否缺少 using 指令或程序集引用?)
+(43,6): error CS0246: 未能找到类型或命名空间名“UnmanagedCallConv”(是否缺少 using 指令或程序集引用?)
+(42,20): error CS0103: 当前上下文中不存在名称“libraryName”
+(43,44): error CS0246: 未能找到类型或命名空间名“CallConvStdcall”(是否缺少 using 指令或程序集引用?)
+(47,10): error CS0246: 未能找到类型或命名空间名“MarshalAsAttribute”(是否缺少 using 指令或程序集引用?)
+(47,10): error CS0246: 未能找到类型或命名空间名“MarshalAs”(是否缺少 using 指令或程序集引用?)
+(47,20): error CS0103: 当前上下文中不存在名称“UnmanagedType”
+(49,10): error CS0246: 未能找到类型或命名空间名“MarshalAsAttribute”(是否缺少 using 指令或程序集引用?)
+(49,10): error CS0246: 未能找到类型或命名空间名“MarshalAs”(是否缺少 using 指令或程序集引用?)
+(49,20): error CS0103: 当前上下文中不存在名称“UnmanagedType”
+(11,6): error CS0246: 未能找到类型或命名空间名“UnmanagedFunctionPointerAttribute”(是否缺少 using 指令或程序集引用?)
+(11,6): error CS0246: 未能找到类型或命名空间名“UnmanagedFunctionPointer”(是否缺少 using 指令或程序集引用?)
+(11,31): error CS0103: 当前上下文中不存在名称“CallingConvention”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(31,9): error CS0227: 不安全代码只会在使用 /unsafe 编译的情况下出现
+(34,17): error CS0103: 当前上下文中不存在名称“Marshal”
+(35,40): error CS0103: 当前上下文中不存在名称“appId”

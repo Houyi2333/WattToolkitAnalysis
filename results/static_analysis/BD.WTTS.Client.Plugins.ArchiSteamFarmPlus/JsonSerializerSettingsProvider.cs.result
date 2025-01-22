@@ -1,0 +1,9 @@
+(5,7): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(27,19): error CS0246: 未能找到类型或命名空间名“JsonSerializerSettings”(是否缺少 using 指令或程序集引用?)
+(16,29): error CS0246: 未能找到类型或命名空间名“ProblemDetailsConverter”(是否缺少 using 指令或程序集引用?)
+(17,29): error CS0246: 未能找到类型或命名空间名“ValidationProblemDetailsConverter”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(29,20): error CS0246: 未能找到类型或命名空间名“JsonSerializerSettings”(是否缺少 using 指令或程序集引用?)
+(33,37): error CS0103: 当前上下文中不存在名称“MissingMemberHandling”
+(41,32): error CS0103: 当前上下文中不存在名称“TypeNameHandling”
+(5,1): hidden CS8019: 不需要的 using 指令。

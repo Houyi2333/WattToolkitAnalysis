@@ -1,0 +1,16 @@
+(51,39): error CS0227: 不安全代码只会在使用 /unsafe 编译的情况下出现
+(51,39): error CS8795: 分部方法“XunYouSDK.xunyou_get_picinfo(int, byte*, ref int)”必须具有实现部分，因为它具有可访问性修饰符。
+(10,19): error CS0246: 未能找到类型或命名空间名“XunYouPicInfo”(是否缺少 using 指令或程序集引用?)
+(49,6): error CS0246: 未能找到类型或命名空间名“LibraryImportAttribute”(是否缺少 using 指令或程序集引用?)
+(49,6): error CS0246: 未能找到类型或命名空间名“LibraryImport”(是否缺少 using 指令或程序集引用?)
+(50,6): error CS0246: 未能找到类型或命名空间名“UnmanagedCallConvAttribute”(是否缺少 using 指令或程序集引用?)
+(50,6): error CS0246: 未能找到类型或命名空间名“UnmanagedCallConv”(是否缺少 using 指令或程序集引用?)
+(49,20): error CS0103: 当前上下文中不存在名称“libraryName”
+(50,44): error CS0246: 未能找到类型或命名空间名“CallConvStdcall”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(14,13): error CS0227: 不安全代码只会在使用 /unsafe 编译的情况下出现
+(20,21): error CS0246: 未能找到类型或命名空间名“Span<>”(是否缺少 using 指令或程序集引用?)
+(26,40): error CS0103: 当前上下文中不存在名称“SystemTextJsonSerializer”
+(27,33): error CS0103: 当前上下文中不存在名称“SystemTextJsonSerializerContext_XunYouSDK”
+(34,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(36,13): error CS0103: 当前上下文中不存在名称“Log”

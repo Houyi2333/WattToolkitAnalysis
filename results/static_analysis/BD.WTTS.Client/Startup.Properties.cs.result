@@ -1,0 +1,46 @@
+(4,2): error CS0246: 未能找到类型或命名空间名“DebuggerDisplayAttribute”(是否缺少 using 指令或程序集引用?)
+(4,2): error CS0246: 未能找到类型或命名空间名“DebuggerDisplay”(是否缺少 using 指令或程序集引用?)
+(17,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(63,12): error CS0246: 未能找到类型或命名空间名“OnOffToggle”(是否缺少 using 指令或程序集引用?)
+(65,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(70,12): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(70,19): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(80,12): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(86,12): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(86,23): error CS0246: 未能找到类型或命名空间名“PluginRepetitionType”(是否缺少 using 指令或程序集引用?)
+(86,45): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(86,64): error CS0246: 未能找到类型或命名空间名“IPlugin”(是否缺少 using 指令或程序集引用?)
+(88,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(88,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(88,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(89,11): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+(158,55): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(158,75): error CS0246: 未能找到类型或命名空间名“IPlugin”(是否缺少 using 指令或程序集引用?)
+(175,61): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(175,81): error CS0246: 未能找到类型或命名空间名“PluginResult<>”(是否缺少 using 指令或程序集引用?)
+(175,94): error CS0246: 未能找到类型或命名空间名“IPlugin”(是否缺少 using 指令或程序集引用?)
+(188,12): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(204,25): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(10,19): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(186,14): error CS0246: 未能找到类型或命名空间名“TaskCompletionSource”(是否缺少 using 指令或程序集引用?)
+(190,21): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(190,32): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(158,32): error CS0246: 未能找到类型或命名空间名“NotNullWhenAttribute”(是否缺少 using 指令或程序集引用?)
+(158,32): error CS0246: 未能找到类型或命名空间名“NotNullWhen”(是否缺少 using 指令或程序集引用?)
+(175,38): error CS0246: 未能找到类型或命名空间名“NotNullWhenAttribute”(是否缺少 using 指令或程序集引用?)
+(175,38): error CS0246: 未能找到类型或命名空间名“NotNullWhen”(是否缺少 using 指令或程序集引用?)
+(157,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(157,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(157,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(174,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(174,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(174,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,61): error CS0246: 未能找到类型或命名空间名“NullReferenceException”(是否缺少 using 指令或程序集引用?)
+(94,13): error CS0126: 需要一个类型可转换为“ValueTask”的对象
+(96,25): error CS0246: 未能找到类型或命名空间名“IAsyncDisposable”(是否缺少 using 指令或程序集引用?)
+(99,13): error CS0126: 需要一个类型可转换为“ValueTask”的对象
+(101,25): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(104,13): error CS0126: 需要一个类型可转换为“ValueTask”的对象
+(89,21): error CS0161: “Startup.DisposeAppAsync()”: 并非所有的代码路径都返回值
+(10,21): warning CS0649: 从未对字段“Startup.instance”赋值，字段将一直保持其默认值 null

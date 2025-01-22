@@ -1,0 +1,6 @@
+(4,32): error CS0246: 未能找到类型或命名空间名“IFontManager”(是否缺少 using 指令或程序集引用?)
+(6,24): error CS0246: 未能找到类型或命名空间名“IPlatformService”(是否缺少 using 指令或程序集引用?)
+(8,28): error CS0246: 未能找到类型或命名空间名“IPlatformService”(是否缺少 using 指令或程序集引用?)
+(13,20): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(13,40): error CS0246: 未能找到类型或命名空间名“KeyValuePair<,>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

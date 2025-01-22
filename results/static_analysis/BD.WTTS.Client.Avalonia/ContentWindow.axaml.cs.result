@@ -1,0 +1,6 @@
+(3,38): error CS0246: 未能找到类型或命名空间名“ReactiveAppWindow<>”(是否缺少 using 指令或程序集引用?)
+(3,56): error CS0246: 未能找到类型或命名空间名“ContentWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(10,26): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(7,9): error CS0103: 当前上下文中不存在名称“InitializeComponent”
+(12,9): error CS0103: 当前上下文中不存在名称“ViewContent”

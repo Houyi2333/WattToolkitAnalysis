@@ -1,0 +1,17 @@
+(9,5): error CS0246: 未能找到类型或命名空间名“AppTheme”(是否缺少 using 指令或程序集引用?)
+(14,5): error CS0246: 未能找到类型或命名空间名“AppTheme”(是否缺少 using 指令或程序集引用?)
+(25,15): error CS0246: 未能找到类型或命名空间名“AppTheme”(是否缺少 using 指令或程序集引用?)
+(28,12): error CS0246: 未能找到类型或命名空间名“AppTheme”(是否缺少 using 指令或程序集引用?)
+(34,15): error CS0246: 未能找到类型或命名空间名“AppTheme”(是否缺少 using 指令或程序集引用?)
+(27,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(27,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(27,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(16,9): error CS0103: 当前上下文中不存在名称“AppTheme”
+(17,9): error CS0103: 当前上下文中不存在名称“AppTheme”
+(17,27): error CS0103: 当前上下文中不存在名称“AppTheme”
+(18,9): error CS0103: 当前上下文中不存在名称“AppTheme”
+(18,26): error CS0103: 当前上下文中不存在名称“AppTheme”
+(28,102): error CS0103: 当前上下文中不存在名称“AppTheme”
+(28,119): error CS0103: 当前上下文中不存在名称“AppTheme”
+(36,19): error CS0103: 当前上下文中不存在名称“IPlatformService”

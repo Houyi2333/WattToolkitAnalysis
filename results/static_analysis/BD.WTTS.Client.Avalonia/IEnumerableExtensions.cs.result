@@ -1,0 +1,6 @@
+(8,55): error CS0246: 未能找到类型或命名空间名“IEnumerable”(是否缺少 using 指令或程序集引用?)
+(8,19): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(8,31): error CS0246: 未能找到类型或命名空间名“IEnumerable”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(10,17): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(28,33): error CS1061: “object[]”未包含“Take”的定义，并且找不到可接受第一个“object[]”类型参数的可访问扩展方法“Take”(是否缺少 using 指令或程序集引用?)

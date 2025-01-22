@@ -1,0 +1,10 @@
+(13,39): error CS0246: 未能找到类型或命名空间名“Assembly”(是否缺少 using 指令或程序集引用?)
+(13,62): error CS0246: 未能找到类型或命名空间名“StackTrace”(是否缺少 using 指令或程序集引用?)
+(41,42): error CS0246: 未能找到类型或命名空间名“StackTrace”(是否缺少 using 指令或程序集引用?)
+(12,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(12,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(12,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(40,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(40,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(40,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

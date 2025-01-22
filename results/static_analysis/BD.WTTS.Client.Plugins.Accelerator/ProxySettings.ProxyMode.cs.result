@@ -1,0 +1,10 @@
+(2,28): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Enums”(是否缺少程序集引用?)
+(1,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(10,12): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(35,19): error CS0246: 未能找到类型或命名空间名“IReadOnlyList<>”(是否缺少 using 指令或程序集引用?)
+(37,21): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(37,26): error CS0246: 未能找到类型或命名空间名“IReadOnlyList<>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(31,16): error CS0103: 当前上下文中不存在名称“Array”
+(44,25): error CS0103: 当前上下文中不存在名称“ProxyMode”
+(48,16): error CS0103: 当前上下文中不存在名称“ProxyMode”

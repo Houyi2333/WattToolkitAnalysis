@@ -1,0 +1,95 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“FluentAvalonia”(是否缺少 using 指令或程序集引用?)
+(4,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Reactive”(是否缺少程序集引用?)
+(8,30): error CS0246: 未能找到类型或命名空间名“ItemsControl”(是否缺少 using 指令或程序集引用?)
+(13,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(19,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(25,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(55,5): error CS0246: 未能找到类型或命名空间名“Carousel”(是否缺少 using 指令或程序集引用?)
+(56,5): error CS0246: 未能找到类型或命名空间名“Button”(是否缺少 using 指令或程序集引用?)
+(57,5): error CS0246: 未能找到类型或命名空间名“Button”(是否缺少 using 指令或程序集引用?)
+(58,5): error CS0246: 未能找到类型或命名空间名“ItemsControl”(是否缺少 using 指令或程序集引用?)
+(59,5): error CS0246: 未能找到类型或命名空间名“Timer”(是否缺少 using 指令或程序集引用?)
+(61,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(68,45): error CS0246: 未能找到类型或命名空间名“TemplateAppliedEventArgs”(是否缺少 using 指令或程序集引用?)
+(98,47): error CS0246: 未能找到类型或命名空间名“AvaloniaPropertyChangedEventArgs”(是否缺少 using 指令或程序集引用?)
+(134,46): error CS0246: 未能找到类型或命名空间名“PointerEventArgs”(是否缺少 using 指令或程序集引用?)
+(144,45): error CS0246: 未能找到类型或命名空间名“PointerEventArgs”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(14,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(20,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(26,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(33,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(34,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(42,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(43,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(51,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(52,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(65,38): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(72,45): error CS0246: 未能找到类型或命名空间名“Carousel”(是否缺少 using 指令或程序集引用?)
+(73,40): error CS0246: 未能找到类型或命名空间名“Button”(是否缺少 using 指令或程序集引用?)
+(74,41): error CS0246: 未能找到类型或命名空间名“Button”(是否缺少 using 指令或程序集引用?)
+(75,36): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(77,13): error CS0019: 运算符“!=”无法应用于“Button?”和“<null>”类型的操作数
+(79,25): error CS1061: “Button?”未包含“Command”的定义，并且找不到可接受第一个“Button?”类型参数的可访问扩展方法“Command”(是否缺少 using 指令或程序集引用?)
+(79,35): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(81,13): error CS0019: 运算符“!=”无法应用于“Button?”和“<null>”类型的操作数
+(83,26): error CS1061: “Button?”未包含“Command”的定义，并且找不到可接受第一个“Button?”类型参数的可访问扩展方法“Command”(是否缺少 using 指令或程序集引用?)
+(83,36): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(86,13): error CS0019: 运算符“!=”无法应用于“Carousel?”和“<null>”类型的操作数
+(88,44): error CS0103: 当前上下文中不存在名称“Carousel”
+(88,30): error CS1061: “Carousel?”未包含“GetObservable”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“GetObservable”(是否缺少 using 指令或程序集引用?)
+(91,44): error CS0103: 当前上下文中不存在名称“Carousel”
+(91,30): error CS1061: “Carousel?”未包含“GetObservable”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“GetObservable”(是否缺少 using 指令或程序集引用?)
+(102,32): error CS0103: 当前上下文中不存在名称“ItemCountProperty”
+(113,22): error CS0019: 运算符“==”无法应用于“Timer?”和“<null>”类型的操作数
+(115,30): error CS0246: 未能找到类型或命名空间名“Timer”(是否缺少 using 指令或程序集引用?)
+(125,21): error CS0019: 运算符“!=”无法应用于“Timer?”和“<null>”类型的操作数
+(127,28): error CS1061: “Timer?”未包含“Dispose”的定义，并且找不到可接受第一个“Timer?”类型参数的可访问扩展方法“Dispose”(是否缺少 using 指令或程序集引用?)
+(138,13): error CS0019: 运算符“==”无法应用于“ItemsControl?”和“<null>”类型的操作数
+(138,32): error CS0019: 运算符“==”无法应用于“Button?”和“<null>”类型的操作数
+(138,55): error CS0019: 运算符“==”无法应用于“Button?”和“<null>”类型的操作数
+(141,21): error CS1061: “Button?”未包含“IsVisible”的定义，并且找不到可接受第一个“Button?”类型参数的可访问扩展方法“IsVisible”(是否缺少 using 指令或程序集引用?)
+(141,46): error CS1061: “Button?”未包含“IsVisible”的定义，并且找不到可接受第一个“Button?”类型参数的可访问扩展方法“IsVisible”(是否缺少 using 指令或程序集引用?)
+(141,66): error CS1061: “ItemsControl?”未包含“IsVisible”的定义，并且找不到可接受第一个“ItemsControl?”类型参数的可访问扩展方法“IsVisible”(是否缺少 using 指令或程序集引用?)
+(148,13): error CS0019: 运算符“==”无法应用于“ItemsControl?”和“<null>”类型的操作数
+(148,32): error CS0019: 运算符“==”无法应用于“Button?”和“<null>”类型的操作数
+(148,55): error CS0019: 运算符“==”无法应用于“Button?”和“<null>”类型的操作数
+(151,21): error CS1061: “Button?”未包含“IsVisible”的定义，并且找不到可接受第一个“Button?”类型参数的可访问扩展方法“IsVisible”(是否缺少 using 指令或程序集引用?)
+(151,46): error CS1061: “Button?”未包含“IsVisible”的定义，并且找不到可接受第一个“Button?”类型参数的可访问扩展方法“IsVisible”(是否缺少 using 指令或程序集引用?)
+(156,13): error CS0019: 运算符“!=”无法应用于“Carousel?”和“<null>”类型的操作数
+(158,25): error CS0103: 当前上下文中不存在名称“ItemsSource”
+(159,30): error CS1061: “Carousel?”未包含“ItemsSource”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“ItemsSource”(是否缺少 using 指令或程序集引用?)
+(165,13): error CS0019: 运算符“!=”无法应用于“Carousel?”和“<null>”类型的操作数
+(166,30): error CS1061: “Carousel?”未包含“SelectedIndex”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“SelectedIndex”(是否缺少 using 指令或程序集引用?)
+(171,13): error CS0019: 运算符“==”无法应用于“Carousel?”和“<null>”类型的操作数
+(171,41): error CS0019: 运算符“==”无法应用于“ItemsControl?”和“<null>”类型的操作数
+(171,60): error CS0019: 运算符“==”无法应用于“Button?”和“<null>”类型的操作数
+(171,83): error CS0019: 运算符“==”无法应用于“Button?”和“<null>”类型的操作数
+(174,30): error CS1061: “Carousel?”未包含“ItemCount”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“ItemCount”(是否缺少 using 指令或程序集引用?)
+(176,21): error CS1061: “ItemsControl?”未包含“ItemsSource”的定义，并且找不到可接受第一个“ItemsControl?”类型参数的可访问扩展方法“ItemsSource”(是否缺少 using 指令或程序集引用?)
+(179,30): error CS1061: “Carousel?”未包含“ItemCount”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“ItemCount”(是否缺少 using 指令或程序集引用?)
+(181,21): error CS1061: “ItemsControl?”未包含“IsVisible”的定义，并且找不到可接受第一个“ItemsControl?”类型参数的可访问扩展方法“IsVisible”(是否缺少 using 指令或程序集引用?)
+(186,21): error CS1061: “ItemsControl?”未包含“IsVisible”的定义，并且找不到可接受第一个“ItemsControl?”类型参数的可访问扩展方法“IsVisible”(是否缺少 using 指令或程序集引用?)
+(187,27): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(188,50): error CS1061: “Carousel?”未包含“ItemCount”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“ItemCount”(是否缺少 using 指令或程序集引用?)
+(192,42): error CS1061: “Carousel?”未包含“SelectedIndex”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“SelectedIndex”(是否缺少 using 指令或程序集引用?)
+(192,83): error CS1061: “Carousel?”未包含“SelectedIndex”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“SelectedIndex”(是否缺少 using 指令或程序集引用?)
+(195,21): error CS1061: “ItemsControl?”未包含“ItemsSource”的定义，并且找不到可接受第一个“ItemsControl?”类型参数的可访问扩展方法“ItemsSource”(是否缺少 using 指令或程序集引用?)
+(204,13): error CS0019: 运算符“==”无法应用于“Carousel?”和“<null>”类型的操作数
+(204,58): error CS1061: “Carousel?”未包含“ItemCount”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“ItemCount”(是否缺少 using 指令或程序集引用?)
+(207,30): error CS1061: “Carousel?”未包含“SelectedIndex”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“SelectedIndex”(是否缺少 using 指令或程序集引用?)
+(207,63): error CS1061: “Carousel?”未包含“ItemCount”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“ItemCount”(是否缺少 using 指令或程序集引用?)
+(209,30): error CS1061: “Carousel?”未包含“Next”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“Next”(是否缺少 using 指令或程序集引用?)
+(213,30): error CS1061: “Carousel?”未包含“SelectedIndex”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“SelectedIndex”(是否缺少 using 指令或程序集引用?)
+(222,13): error CS0019: 运算符“==”无法应用于“Carousel?”和“<null>”类型的操作数
+(222,58): error CS1061: “Carousel?”未包含“ItemCount”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“ItemCount”(是否缺少 using 指令或程序集引用?)
+(225,30): error CS1061: “Carousel?”未包含“SelectedIndex”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“SelectedIndex”(是否缺少 using 指令或程序集引用?)
+(227,30): error CS1061: “Carousel?”未包含“Previous”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“Previous”(是否缺少 using 指令或程序集引用?)
+(231,30): error CS1061: “Carousel?”未包含“SelectedIndex”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“SelectedIndex”(是否缺少 using 指令或程序集引用?)
+(231,63): error CS1061: “Carousel?”未包含“ItemCount”的定义，并且找不到可接受第一个“Carousel?”类型参数的可访问扩展方法“ItemCount”(是否缺少 using 指令或程序集引用?)
+(1,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

@@ -1,0 +1,87 @@
+(2,37): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(1,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(4,18): error CS0234: 命名空间“BD.WTTS.UI”中不存在类型或命名空间名“Views”(是否缺少程序集引用?)
+(5,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Helpers”(是否缺少程序集引用?)
+(48,29): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(55,32): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(67,5): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(67,17): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(166,37): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(13,9): error CS0103: 当前上下文中不存在名称“GamePlatforms”
+(13,29): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(13,50): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(15,17): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(15,33): error CS0103: 当前上下文中不存在名称“ThirdpartyPlatform”
+(19,34): error CS0103: 当前上下文中不存在名称“SteamSettings”
+(23,9): error CS0103: 当前上下文中不存在名称“AddPlatformCommand”
+(23,30): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(23,53): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(24,9): error CS0103: 当前上下文中不存在名称“LoginNewCommand”
+(24,27): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(25,9): error CS0103: 当前上下文中不存在名称“SaveCurrentUserCommand”
+(25,34): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(26,9): error CS0103: 当前上下文中不存在名称“RefreshCommand”
+(26,26): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(27,9): error CS0103: 当前上下文中不存在名称“ShareManageCommand”
+(27,30): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(41,14): error CS1061: “GameAccountPageViewModel”未包含“WhenAnyValue”的定义，并且找不到可接受第一个“GameAccountPageViewModel”类型参数的可访问扩展方法“WhenAnyValue”(是否缺少 using 指令或程序集引用?)
+(50,9): error CS0103: 当前上下文中不存在名称“GamePlatforms”
+(51,9): error CS0103: 当前上下文中不存在名称“AddGamePlatforms”
+(52,9): error CS0103: 当前上下文中不存在名称“GameAccountSettings”
+(59,13): error CS0103: 当前上下文中不存在名称“Toast”
+(59,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(62,9): error CS0103: 当前上下文中不存在名称“AddGamePlatforms”
+(63,9): error CS0103: 当前上下文中不存在名称“GamePlatforms”
+(64,9): error CS0103: 当前上下文中不存在名称“GameAccountSettings”
+(69,13): error CS0103: 当前上下文中不存在名称“AssetLoader”
+(69,32): error CS0103: 当前上下文中不存在名称“PlatformsPath”
+(71,26): error CS0103: 当前上下文中不存在名称“AssetLoader”
+(71,43): error CS0103: 当前上下文中不存在名称“PlatformsPath”
+(74,57): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(83,21): error CS0103: 当前上下文中不存在名称“GameAccountSettings”
+(85,48): error CS0103: 当前上下文中不存在名称“GameAccountSettings”
+(95,9): error CS0103: 当前上下文中不存在名称“GamePlatforms”
+(97,14): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(99,13): error CS0103: 当前上下文中不存在名称“AddGamePlatforms”
+(104,13): error CS0019: 运算符“!=”无法应用于“IEnumerable<PlatformAccount>?”和“<null>”类型的操作数
+(106,17): error CS0103: 当前上下文中不存在名称“GameAccountSettings”
+(108,17): error CS0103: 当前上下文中不存在名称“AddGamePlatforms”
+(110,35): error CS1579: “IEnumerable<PlatformAccount>?”不包含“GetEnumerator”的公共实例或扩展定义，因此 foreach 语句不能作用于“IEnumerable<PlatformAccount>?”类型的变量
+(112,25): error CS0103: 当前上下文中不存在名称“GameAccountSettings”
+(114,29): error CS0103: 当前上下文中不存在名称“GamePlatforms”
+(116,29): error CS0103: 当前上下文中不存在名称“GamePlatforms”
+(122,25): error CS0103: 当前上下文中不存在名称“AddGamePlatforms”
+(128,17): error CS0103: 当前上下文中不存在名称“AddGamePlatforms”
+(128,40): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(128,61): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(135,34): error CS0103: 当前上下文中不存在名称“SelectedPlatform”
+(136,29): error CS0246: 未能找到类型或命名空间名“TextBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(137,28): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(137,121): error CS0103: 当前上下文中不存在名称“SelectedPlatform”
+(137,218): error CS0103: 当前上下文中不存在名称“SelectedPlatform”
+(142,17): error CS0103: 当前上下文中不存在名称“Toast”
+(142,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(145,39): error CS0103: 当前上下文中不存在名称“SelectedPlatform”
+(148,17): error CS0103: 当前上下文中不存在名称“Toast”
+(148,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(149,17): error CS0103: 当前上下文中不存在名称“SelectedPlatform”
+(156,34): error CS0103: 当前上下文中不存在名称“SelectedPlatform”
+(157,29): error CS0246: 未能找到类型或命名空间名“MessageBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(161,28): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(161,123): error CS0103: 当前上下文中不存在名称“SelectedPlatform”
+(162,23): error CS0103: 当前上下文中不存在名称“SelectedPlatform”
+(163,19): error CS0103: 当前上下文中不存在名称“SelectedPlatform”
+(168,13): error CS0019: 运算符“==”无法应用于“PlatformAccount?”和“<null>”类型的操作数
+(169,22): error CS1061: “PlatformAccount?”未包含“Platform”的定义，并且找不到可接受第一个“PlatformAccount?”类型参数的可访问扩展方法“Platform”(是否缺少 using 指令或程序集引用?)
+(169,34): error CS0103: 当前上下文中不存在名称“ThirdpartyPlatform”
+(170,14): error CS0103: 当前上下文中不存在名称“File”
+(170,35): error CS1061: “PlatformAccount?”未包含“ExePath”的定义，并且找不到可接受第一个“PlatformAccount?”类型参数的可访问扩展方法“ExePath”(是否缺少 using 指令或程序集引用?)
+(172,13): error CS0103: 当前上下文中不存在名称“Toast”
+(172,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(172,41): error CS0103: 当前上下文中不存在名称“Strings”
+(172,100): error CS1061: “PlatformAccount?”未包含“FullName”的定义，并且找不到可接受第一个“PlatformAccount?”类型参数的可访问扩展方法“FullName”(是否缺少 using 指令或程序集引用?)
+(3,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。
+(5,1): hidden CS8019: 不需要的 using 指令。

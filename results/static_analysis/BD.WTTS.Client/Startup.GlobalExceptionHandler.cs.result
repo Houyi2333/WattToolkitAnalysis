@@ -1,0 +1,17 @@
+(2,16): error CS0246: 未能找到类型或命名空间名“NLog”(是否缺少 using 指令或程序集引用?)
+(1,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Reactive”(是否缺少程序集引用?)
+(24,25): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(71,36): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(48,10): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(48,10): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(48,21): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(24,52): error CS0103: 当前上下文中不存在名称“LogManager”
+(57,13): error CS0103: 当前上下文中不存在名称“AppDomain”
+(64,13): error CS0103: 当前上下文中不存在名称“RxApp”
+(64,45): error CS0103: 当前上下文中不存在名称“Observer”
+(64,61): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(74,28): error CS1061: “int[]”未包含“Contains”的定义，并且找不到可接受第一个“int[]”类型参数的可访问扩展方法“Contains”(是否缺少 using 指令或程序集引用?)
+(86,34): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(90,20): error CS1061: “NLog.Logger”未包含“Error”的定义，并且找不到可接受第一个“NLog.Logger”类型参数的可访问扩展方法“Error”(是否缺少 using 指令或程序集引用?)
+(1,1): hidden CS8019: 不需要的 using 指令。

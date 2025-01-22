@@ -1,0 +1,22 @@
+(42,39): error CS0227: 不安全代码只会在使用 /unsafe 编译的情况下出现
+(42,39): error CS8795: 分部方法“XunYouSDK.xunyou_status(int, nint, delegate* unmanaged[Stdcall]<int, nint, int>)”必须具有实现部分，因为它具有可访问性修饰符。
+(22,19): error CS0246: 未能找到类型或命名空间名“XunYouAccelStateEx”(是否缺少 using 指令或程序集引用?)
+(14,31): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(12,45): error CS0246: 未能找到类型或命名空间名“XunYouState”(是否缺少 using 指令或程序集引用?)
+(21,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(21,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(21,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(40,6): error CS0246: 未能找到类型或命名空间名“LibraryImportAttribute”(是否缺少 using 指令或程序集引用?)
+(40,6): error CS0246: 未能找到类型或命名空间名“LibraryImport”(是否缺少 using 指令或程序集引用?)
+(41,6): error CS0246: 未能找到类型或命名空间名“UnmanagedCallConvAttribute”(是否缺少 using 指令或程序集引用?)
+(41,6): error CS0246: 未能找到类型或命名空间名“UnmanagedCallConv”(是否缺少 using 指令或程序集引用?)
+(40,20): error CS0103: 当前上下文中不存在名称“libraryName”
+(41,44): error CS0246: 未能找到类型或命名空间名“CallConvStdcall”(是否缺少 using 指令或程序集引用?)
+(11,6): error CS0246: 未能找到类型或命名空间名“UnmanagedFunctionPointerAttribute”(是否缺少 using 指令或程序集引用?)
+(11,6): error CS0246: 未能找到类型或命名空间名“UnmanagedFunctionPointer”(是否缺少 using 指令或程序集引用?)
+(11,31): error CS0103: 当前上下文中不存在名称“CallingConvention”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(25,9): error CS0227: 不安全代码只会在使用 /unsafe 编译的情况下出现
+(27,81): error CS0103: 当前上下文中不存在名称“Marshal”
+(28,36): error CS0103: 当前上下文中不存在名称“appId”
+(30,17): error CS0246: 未能找到类型或命名空间名“XunYouAccelStateEx”(是否缺少 using 指令或程序集引用?)

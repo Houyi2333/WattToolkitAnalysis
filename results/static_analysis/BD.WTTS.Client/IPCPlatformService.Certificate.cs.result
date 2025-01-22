@@ -1,0 +1,10 @@
+(34,9): error CS0246: 未能找到类型或命名空间名“X509CertificatePackable”(是否缺少 using 指令或程序集引用?)
+(32,24): error CS0051: 可访问性不一致: 参数类型“IPCPlatformService”的可访问性低于方法“IPCPlatformServiceExtensions.IsCertificateInstalled(IPCPlatformService, X509CertificatePackable)”
+(43,9): error CS0246: 未能找到类型或命名空间名“X509CertificatePackable”(是否缺少 using 指令或程序集引用?)
+(41,24): error CS0051: 可访问性不一致: 参数类型“IPCPlatformService”的可访问性低于方法“IPCPlatformServiceExtensions.RemoveCertificate(IPCPlatformService, X509CertificatePackable)”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,22): error CS0246: 未能找到类型或命名空间名“PlatformNotSupportedException”(是否缺少 using 指令或程序集引用?)
+(20,22): error CS0246: 未能找到类型或命名空间名“PlatformNotSupportedException”(是否缺少 using 指令或程序集引用?)
+(36,29): error CS0103: 当前上下文中不存在名称“Serializable”
+(26,22): error CS0246: 未能找到类型或命名空间名“PlatformNotSupportedException”(是否缺少 using 指令或程序集引用?)
+(45,29): error CS0103: 当前上下文中不存在名称“Serializable”

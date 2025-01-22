@@ -1,0 +1,16 @@
+(21,61): error CS1002: 应输入 ;
+(28,62): error CS1002: 应输入 ;
+(4,21): error CS0234: 命名空间“BD”中不存在类型或命名空间名“Common”(是否缺少程序集引用?)
+(12,12): error CS0538: '显式接口声明中的“Common.Converters.Abstractions.IBinding”不是接口
+(14,12): error CS0538: '显式接口声明中的“Common.Converters.Abstractions.IBinding”不是接口
+(21,26): error CS0501: “BindingExtensions.DoNothing(Common.Converters.Abstractions.IBinding)”必须声明主体，因为它未标记为 abstract、extern 或 partial
+(28,26): error CS0501: “BindingExtensions.UnsetValue(Common.Converters.Abstractions.IBinding)”必须声明主体，因为它未标记为 abstract、extern 或 partial
+(20,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(20,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(20,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(27,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(27,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(27,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,43): error CS1929: “IBinding”不包含“DoNothing”的定义，并且最佳扩展方法重载“BindingExtensions.DoNothing(Common.Converters.Abstractions.IBinding)”需要类型为“BD.Common.Converters.Abstractions.IBinding”的接收器
+(14,44): error CS1929: “IBinding”不包含“UnsetValue”的定义，并且最佳扩展方法重载“BindingExtensions.UnsetValue(Common.Converters.Abstractions.IBinding)”需要类型为“BD.Common.Converters.Abstractions.IBinding”的接收器

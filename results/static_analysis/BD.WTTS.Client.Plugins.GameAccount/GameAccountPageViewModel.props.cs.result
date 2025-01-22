@@ -1,0 +1,25 @@
+(1,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(2,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Reactive”(是否缺少程序集引用?)
+(6,56): error CS0246: 未能找到类型或命名空间名“TabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(8,21): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(13,12): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(13,33): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(16,12): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(16,33): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(19,12): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(23,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(25,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(27,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(29,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(31,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(12,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(12,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(15,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(15,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(18,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(18,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(10,36): error CS0103: 当前上下文中不存在名称“Strings”
+(21,73): error CS0103: 当前上下文中不存在名称“ThirdpartyPlatform”
+(1,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

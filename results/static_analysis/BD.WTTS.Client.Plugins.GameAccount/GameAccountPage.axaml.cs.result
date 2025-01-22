@@ -1,0 +1,38 @@
+(1,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“FluentAvalonia”(是否缺少 using 指令或程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(5,24): error CS0234: 命名空间“BD.WTTS.UI.Views”中不存在类型或命名空间名“Controls”(是否缺少程序集引用?)
+(6,22): error CS0234: 命名空间“System.Runtime”中不存在类型或命名空间名“Devices”(是否缺少程序集引用?)
+(7,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Helpers”(是否缺少程序集引用?)
+(11,40): error CS0246: 未能找到类型或命名空间名“PageBase<>”(是否缺少 using 指令或程序集引用?)
+(11,49): error CS0246: 未能找到类型或命名空间名“GameAccountPageViewModel”(是否缺少 using 指令或程序集引用?)
+(45,67): error CS0246: 未能找到类型或命名空间名“SelectionChangedEventArgs”(是否缺少 using 指令或程序集引用?)
+(80,50): error CS0246: 未能找到类型或命名空间名“TabView”(是否缺少 using 指令或程序集引用?)
+(80,66): error CS0246: 未能找到类型或命名空间名“TabViewTabCloseRequestedEventArgs”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(15,9): error CS0103: 当前上下文中不存在名称“InitializeComponent”
+(16,27): error CS0246: 未能找到类型或命名空间名“GameAccountPageViewModel”(是否缺少 using 指令或程序集引用?)
+(16,14): error CS1061: “GameAccountPage”未包含“SetViewModel”的定义，并且找不到可接受第一个“GameAccountPage”类型参数的可访问扩展方法“SetViewModel”(是否缺少 using 指令或程序集引用?)
+(24,9): error CS0103: 当前上下文中不存在名称“PlatformSettingButton”
+(49,25): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(49,54): error CS0103: 当前上下文中不存在名称“File”
+(51,33): error CS0246: 未能找到类型或命名空间名“PlatformSettingsPageViewModel”(是否缺少 using 指令或程序集引用?)
+(53,17): error CS0103: 当前上下文中不存在名称“TracepointHelper”
+(53,76): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(57,28): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(59,38): error CS0246: 未能找到类型或命名空间名“PlatformSettingsPage”(是否缺少 using 指令或程序集引用?)
+(71,26): error CS0103: 当前上下文中不存在名称“File”
+(73,25): error CS0103: 当前上下文中不存在名称“Toast”
+(73,36): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(82,26): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(86,17): error CS0103: 当前上下文中不存在名称“Toast”
+(86,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(89,30): error CS0103: 当前上下文中不存在名称“MessageBox”
+(89,143): error CS0103: 当前上下文中不存在名称“MessageBox”
+(91,25): error CS0103: 当前上下文中不存在名称“MessageBox”
+(92,17): error CS0103: 当前上下文中不存在名称“ViewModel”
+(6,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。
+(7,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(5,1): hidden CS8019: 不需要的 using 指令。

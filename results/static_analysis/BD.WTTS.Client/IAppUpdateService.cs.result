@@ -1,0 +1,17 @@
+(47,5): error CS0246: 未能找到类型或命名空间名“AppVersionDTO”(是否缺少 using 指令或程序集引用?)
+(64,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(66,5): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(74,41): error CS0246: 未能找到类型或命名空间名“AppVersionDTO”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,42): error CS0103: 当前上下文中不存在名称“Ioc”
+(74,94): error CS0103: 当前上下文中不存在名称“Hashs”
+(74,157): error CS0103: 当前上下文中不存在名称“FileEx”
+(84,23): error CS0103: 当前上下文中不存在名称“Path”
+(84,36): error CS0103: 当前上下文中不存在名称“IOPath”
+(85,18): error CS0103: 当前上下文中不存在名称“Directory”
+(88,13): error CS0103: 当前上下文中不存在名称“Directory”
+(104,25): error CS0103: 当前上下文中不存在名称“Directory”
+(104,59): error CS0103: 当前上下文中不存在名称“FileEx”
+(107,17): error CS0103: 当前上下文中不存在名称“IOPath”
+(121,25): error CS0103: 当前上下文中不存在名称“Directory”
+(124,17): error CS0103: 当前上下文中不存在名称“IOPath”

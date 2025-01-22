@@ -1,0 +1,48 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“ICSharpCode”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“ICSharpCode”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“ICSharpCode”(是否缺少 using 指令或程序集引用?)
+(20,103): error CS0246: 未能找到类型或命名空间名“ProgressMessageHandler”(是否缺少 using 指令或程序集引用?)
+(68,9): error CS0246: 未能找到类型或命名空间名“ProgressMessageHandler”(是否缺少 using 指令或程序集引用?)
+(69,9): error CS0246: 未能找到类型或命名空间名“IProgress<>”(是否缺少 using 指令或程序集引用?)
+(20,76): error CS0103: 当前上下文中不存在名称“Deflater”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(22,32): error CS0103: 当前上下文中不存在名称“FileEx”
+(22,60): error CS0103: 当前上下文中不存在名称“FileEx”
+(23,13): error CS0103: 当前上下文中不存在名称“File”
+(24,14): error CS0103: 当前上下文中不存在名称“Directory”
+(26,24): error CS0103: 当前上下文中不存在名称“File”
+(27,27): error CS0246: 未能找到类型或命名空间名“GZipOutputStream”(是否缺少 using 指令或程序集引用?)
+(29,29): error CS0103: 当前上下文中不存在名称“TarArchive”
+(29,66): error CS0103: 当前上下文中不存在名称“TarBuffer”
+(29,96): error CS0103: 当前上下文中不存在名称“EncodingCache”
+(30,13): error CS0019: 运算符“!=”无法应用于“ProgressMessageHandler?”和“<null>”类型的操作数
+(37,34): error CS0103: 当前上下文中不存在名称“Directory”
+(39,29): error CS0103: 当前上下文中不存在名称“TarEntry”
+(40,59): error CS0103: 当前上下文中不存在名称“Path”
+(41,21): error CS0103: 当前上下文中不存在名称“Path”
+(41,52): error CS0103: 当前上下文中不存在名称“IOPath”
+(42,53): error CS0103: 当前上下文中不存在名称“Path”
+(42,82): error CS0103: 当前上下文中不存在名称“IOPath”
+(49,33): error CS0103: 当前上下文中不存在名称“Directory”
+(72,14): error CS0103: 当前上下文中不存在名称“File”
+(73,13): error CS0103: 当前上下文中不存在名称“Directory”
+(75,24): error CS0103: 当前上下文中不存在名称“File”
+(80,9): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(88,31): error CS1061: “IProgress<float>?”未包含“Report”的定义，并且找不到可接受第一个“IProgress<float>?”类型参数的可访问扩展方法“Report”(是否缺少 using 指令或程序集引用?)
+(89,27): error CS0103: 当前上下文中不存在名称“Task”
+(89,47): error CS1061: “CancellationTokenSource?”未包含“Token”的定义，并且找不到可接受第一个“CancellationTokenSource?”类型参数的可访问扩展方法“Token”(是否缺少 using 指令或程序集引用?)
+(92,20): error CS0246: 未能找到类型或命名空间名“OperationCanceledException”(是否缺少 using 指令或程序集引用?)
+(96,9): error CS0103: 当前上下文中不存在名称“Directory”
+(97,27): error CS0246: 未能找到类型或命名空间名“GZipInputStream”(是否缺少 using 指令或程序集引用?)
+(98,29): error CS0103: 当前上下文中不存在名称“TarArchive”
+(98,65): error CS0103: 当前上下文中不存在名称“EncodingCache”
+(99,13): error CS0019: 运算符“!=”无法应用于“ProgressMessageHandler?”和“<null>”类型的操作数
+(100,27): error CS0019: 运算符“!=”无法应用于“IProgress<float>?”和“<null>”类型的操作数
+(106,17): error CS0103: 当前上下文中不存在名称“Task”
+(106,60): error CS1061: “CancellationTokenSource?”未包含“Token”的定义，并且找不到可接受第一个“CancellationTokenSource?”类型参数的可访问扩展方法“Token”(是否缺少 using 指令或程序集引用?)
+(108,20): error CS0246: 未能找到类型或命名空间名“OperationCanceledException”(是否缺少 using 指令或程序集引用?)
+(116,18): error CS1061: “CancellationTokenSource?”未包含“Cancel”的定义，并且找不到可接受第一个“CancellationTokenSource?”类型参数的可访问扩展方法“Cancel”(是否缺少 using 指令或程序集引用?)
+(117,23): error CS1061: “IProgress<float>?”未包含“Report”的定义，并且找不到可接受第一个“IProgress<float>?”类型参数的可访问扩展方法“Report”(是否缺少 using 指令或程序集引用?)
+(1,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

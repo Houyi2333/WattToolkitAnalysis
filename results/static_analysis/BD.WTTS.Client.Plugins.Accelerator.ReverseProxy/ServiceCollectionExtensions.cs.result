@@ -1,0 +1,71 @@
+(2,55): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“Http”(是否缺少程序集引用?)
+(1,46): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“Http”(是否缺少程序集引用?)
+(15,66): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(15,19): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(24,62): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(24,91): error CS0246: 未能找到类型或命名空间名“YarpReverseProxyServiceImpl”(是否缺少 using 指令或程序集引用?)
+(24,21): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(41,62): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(41,21): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(59,71): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(59,21): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(67,56): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(87,49): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(107,67): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(107,21): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(143,60): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(143,21): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(75,18): error CS0246: 未能找到类型或命名空间名“IServiceProvider”(是否缺少 using 指令或程序集引用?)
+(77,41): error CS0246: 未能找到类型或命名空间名“IServiceProvider”(是否缺少 using 指令或程序集引用?)
+(82,72): error CS0246: 未能找到类型或命名空间名“HttpHandlerCategory”(是否缺少 using 指令或程序集引用?)
+(82,9): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(82,20): error CS0538: '显式接口声明中的“Http.Client.IHttpClientFactory”不是接口
+(14,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(14,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(14,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(23,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(23,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(23,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(40,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(40,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(40,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(58,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(58,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(58,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(66,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(66,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(66,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(86,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(86,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(86,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(106,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(106,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(106,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(142,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(142,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(142,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(17,31): error CS0246: 未能找到类型或命名空间名“YarpReverseProxyServiceImpl”(是否缺少 using 指令或程序集引用?)
+(18,31): error CS0246: 未能找到类型或命名空间名“IReverseProxySettings”(是否缺少 using 指令或程序集引用?)
+(19,31): error CS0246: 未能找到类型或命名空间名“IReverseProxyService”(是否缺少 using 指令或程序集引用?)
+(27,9): error CS0103: 当前上下文中不存在名称“TypeConverterBinder”
+(27,34): error CS0103: 当前上下文中不存在名称“IPAddress2”
+(28,9): error CS0103: 当前上下文中不存在名称“TypeConverterBinder”
+(28,34): error CS0103: 当前上下文中不存在名称“IPEndPoint”
+(31,31): error CS0246: 未能找到类型或命名空间名“IReverseProxyConfig”(是否缺少 using 指令或程序集引用?)
+(31,56): error CS0246: 未能找到类型或命名空间名“ReverseProxyConfig”(是否缺少 using 指令或程序集引用?)
+(48,34): error CS0246: 未能找到类型或命名空间名“IDomainResolver”(是否缺少 using 指令或程序集引用?)
+(48,51): error CS0246: 未能找到类型或命名空间名“DomainResolver”(是否缺少 using 指令或程序集引用?)
+(62,34): error CS0246: 未能找到类型或命名空间名“IReverseProxyHttpClientFactory”(是否缺少 using 指令或程序集引用?)
+(62,66): error CS0246: 未能找到类型或命名空间名“ReverseProxyHttpClientFactory”(是否缺少 using 指令或程序集引用?)
+(90,31): error CS0246: 未能找到类型或命名空间名“CookieHttpClient”(是否缺少 using 指令或程序集引用?)
+(91,32): error CS0103: 当前上下文中不存在名称“CookieHttpClient”
+(116,27): error CS0246: 未能找到类型或命名空间名“CertService”(是否缺少 using 指令或程序集引用?)
+(123,27): error CS0246: 未能找到类型或命名空间名“HttpProxyMiddleware”(是否缺少 using 指令或程序集引用?)
+(124,27): error CS0246: 未能找到类型或命名空间名“TunnelMiddleware”(是否缺少 using 指令或程序集引用?)
+(131,27): error CS0246: 未能找到类型或命名空间名“HttpLocalRequestMiddleware”(是否缺少 using 指令或程序集引用?)
+(132,27): error CS0246: 未能找到类型或命名空间名“HttpProxyPacMiddleware”(是否缺少 using 指令或程序集引用?)
+(133,27): error CS0246: 未能找到类型或命名空间名“RequestLoggingMiddleware”(是否缺少 using 指令或程序集引用?)
+(134,27): error CS0246: 未能找到类型或命名空间名“HttpReverseProxyMiddleware”(是否缺少 using 指令或程序集引用?)
+(146,38): error CS0246: 未能找到类型或命名空间名“IFlowAnalyzer”(是否缺少 using 指令或程序集引用?)
+(146,53): error CS0246: 未能找到类型或命名空间名“FlowAnalyzer”(是否缺少 using 指令或程序集引用?)

@@ -1,0 +1,36 @@
+(4,36): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(1,52): error CS0234: 命名空间“BD.WTTS.Client.Tools.Publish.Commands”中不存在类型或命名空间名“IDotNetPublishCommand”(是否缺少程序集引用?)
+(2,43): error CS0234: 命名空间“BD.WTTS.Client.Tools.Publish”中不存在类型或命名空间名“Helpers”(是否缺少程序集引用?)
+(3,22): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“GlobalDllImportResolver”(是否缺少程序集引用?)
+(8,39): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(12,20): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(12,12): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(12,20): error CS0538: '显式接口声明中的“ICommand”不是接口
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(14,25): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(15,24): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(16,27): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(28,24): error CS0103: 当前上下文中不存在名称“DeconstructRuntimeIdentifier”
+(31,32): error CS0103: 当前上下文中不存在名称“ProjectPath_AvaloniaApp”
+(32,23): error CS0103: 当前上下文中不存在名称“GetProcessStartInfo”
+(33,23): error CS0103: 当前上下文中不存在名称“SetPublishCommandArgumentList”
+(35,30): error CS0103: 当前上下文中不存在名称“Path”
+(36,13): error CS0103: 当前上下文中不存在名称“Console”
+(37,34): error CS0103: 当前上下文中不存在名称“Path”
+(37,51): error CS0103: 当前上下文中不存在名称“Path”
+(40,40): error CS0103: 当前上下文中不存在名称“File”
+(40,64): error CS0103: 当前上下文中不存在名称“FileMode”
+(40,79): error CS0103: 当前上下文中不存在名称“FileAccess”
+(41,77): error CS0246: 未能找到类型或命名空间名“AppPublishInfoContext”(是否缺少 using 指令或程序集引用?)
+(41,103): error CS0246: 未能找到类型或命名空间名“JsonSerializerOptions”(是否缺少 using 指令或程序集引用?)
+(44,27): error CS0103: 当前上下文中不存在名称“JavaScriptEncoder”
+(50,36): error CS0246: 未能找到类型或命名空间名“MemoryStream”(是否缺少 using 指令或程序集引用?)
+(55,40): error CS0103: 当前上下文中不存在名称“Path”
+(55,53): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(58,32): error CS0103: 当前上下文中不存在名称“Path”
+(62,31): error CS0103: 当前上下文中不存在名称“Path”
+(90,23): error CS0103: 当前上下文中不存在名称“Encoding”
+(91,13): error CS0103: 当前上下文中不存在名称“Console”
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

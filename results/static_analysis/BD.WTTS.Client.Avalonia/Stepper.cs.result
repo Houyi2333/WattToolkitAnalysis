@@ -1,0 +1,99 @@
+(5,24): error CS0246: 未能找到类型或命名空间名“SelectingItemsControl”(是否缺少 using 指令或程序集引用?)
+(3,2): error CS0246: 未能找到类型或命名空间名“TemplatePartAttribute”(是否缺少 using 指令或程序集引用?)
+(3,2): error CS0246: 未能找到类型或命名空间名“TemplatePart”(是否缺少 using 指令或程序集引用?)
+(4,2): error CS0246: 未能找到类型或命名空间名“TemplatePartAttribute”(是否缺少 using 指令或程序集引用?)
+(4,2): error CS0246: 未能找到类型或命名空间名“TemplatePart”(是否缺少 using 指令或程序集引用?)
+(3,45): error CS0246: 未能找到类型或命名空间名“ItemsPresenter”(是否缺少 using 指令或程序集引用?)
+(4,42): error CS0246: 未能找到类型或命名空间名“ProgressBar”(是否缺少 using 指令或程序集引用?)
+(7,13): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(8,13): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(9,13): error CS0246: 未能找到类型或命名空间名“ProgressBar”(是否缺少 using 指令或程序集引用?)
+(16,48): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(16,77): error CS0234: 命名空间“System.Collections”中不存在类型或命名空间名“Specialized”(是否缺少程序集引用?)
+(39,28): error CS0246: 未能找到类型或命名空间名“AvaloniaProperty<>”(是否缺少 using 指令或程序集引用?)
+(39,45): error CS0246: 未能找到类型或命名空间名“Dock”(是否缺少 using 指令或程序集引用?)
+(43,12): error CS0246: 未能找到类型或命名空间名“Dock”(是否缺少 using 指令或程序集引用?)
+(49,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(58,28): error CS0246: 未能找到类型或命名空间名“DirectProperty<,>”(是否缺少 using 指令或程序集引用?)
+(58,52): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(62,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(68,28): error CS0246: 未能找到类型或命名空间名“DirectProperty<,>”(是否缺少 using 指令或程序集引用?)
+(68,52): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(72,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(78,26): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(85,23): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(90,26): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(92,23): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(97,38): error CS0246: 未能找到类型或命名空间名“RoutedEventArgs”(是否缺少 using 指令或程序集引用?)
+(107,58): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(107,87): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(112,69): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(112,94): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(112,24): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(117,61): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(117,86): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(122,62): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(122,87): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(131,59): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(140,45): error CS0246: 未能找到类型或命名空间名“TemplateAppliedEventArgs”(是否缺少 using 指令或程序集引用?)
+(146,47): error CS0246: 未能找到类型或命名空间名“AvaloniaPropertyChangedEventArgs”(是否缺少 using 指令或程序集引用?)
+(186,51): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(186,67): error CS0246: 未能找到类型或命名空间名“PointerEventArgs”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(40,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(40,44): error CS0246: 未能找到类型或命名空间名“Dock”(是否缺少 using 指令或程序集引用?)
+(41,20): error CS1061: “Dock”未包含“Top”的定义，并且找不到可接受第一个“Dock”类型参数的可访问扩展方法“Top”(是否缺少 using 指令或程序集引用?)
+(50,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(59,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(59,50): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(69,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(69,50): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(13,14): error CS1061: “Stepper”未包含“Items”的定义，并且找不到可接受第一个“Stepper”类型参数的可访问扩展方法“Items”(是否缺少 using 指令或程序集引用?)
+(23,24): error CS0103: 当前上下文中不存在名称“Items”
+(24,13): error CS0019: 运算符“==”无法应用于“ProgressBar?”和“<null>”类型的操作数
+(26,14): error CS1061: “ProgressBar?”未包含“Maximum”的定义，并且找不到可接受第一个“ProgressBar?”类型参数的可访问扩展方法“Maximum”(是否缺少 using 指令或程序集引用?)
+(27,22): error CS0103: 当前上下文中不存在名称“SelectedIndex”
+(29,26): error CS1061: “Dock”未包含“Top”的定义，并且找不到可接受第一个“Dock”类型参数的可访问扩展方法“Top”(是否缺少 using 指令或程序集引用?)
+(29,46): error CS1061: “Dock”未包含“Bottom”的定义，并且找不到可接受第一个“Dock”类型参数的可访问扩展方法“Bottom”(是否缺少 using 指令或程序集引用?)
+(31,18): error CS1061: “ProgressBar?”未包含“Width”的定义，并且找不到可接受第一个“ProgressBar?”类型参数的可访问扩展方法“Width”(是否缺少 using 指令或程序集引用?)
+(31,44): error CS0103: 当前上下文中不存在名称“Bounds”
+(35,18): error CS1061: “ProgressBar?”未包含“Height”的定义，并且找不到可接受第一个“ProgressBar?”类型参数的可访问扩展方法“Height”(是否缺少 using 指令或程序集引用?)
+(35,45): error CS0103: 当前上下文中不存在名称“Bounds”
+(45,30): error CS0246: 未能找到类型或命名空间名“Dock”(是否缺少 using 指令或程序集引用?)
+(45,21): error CS1061: “Stepper”未包含“GetValue”的定义，并且找不到可接受第一个“Stepper”类型参数的可访问扩展方法“GetValue”(是否缺少 using 指令或程序集引用?)
+(46,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(54,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(55,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(65,17): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(75,17): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(80,13): error CS0103: 当前上下文中不存在名称“Items”
+(81,34): error CS0103: 当前上下文中不存在名称“SelectedIndex”
+(87,9): error CS0103: 当前上下文中不存在名称“SelectedIndex”
+(90,34): error CS0103: 当前上下文中不存在名称“Items”
+(90,76): error CS0103: 当前上下文中不存在名称“SelectedIndex”
+(94,9): error CS0103: 当前上下文中不存在名称“SelectedIndex”
+(101,13): error CS0103: 当前上下文中不存在名称“Items”
+(101,32): error CS0103: 当前上下文中不存在名称“SelectedIndex”
+(103,13): error CS0103: 当前上下文中不存在名称“SetCurrentValue”
+(103,29): error CS0103: 当前上下文中不存在名称“SelectedIndexProperty”
+(109,31): error CS0246: 未能找到类型或命名空间名“StepperItem”(是否缺少 using 指令或程序集引用?)
+(109,16): error CS0103: 当前上下文中不存在名称“NeedsContainer”
+(114,20): error CS0246: 未能找到类型或命名空间名“StepperItem”(是否缺少 using 指令或程序集引用?)
+(125,26): error CS0246: 未能找到类型或命名空间名“StepperItem”(是否缺少 using 指令或程序集引用?)
+(134,26): error CS0246: 未能找到类型或命名空间名“StepperItem”(是否缺少 using 指令或程序集引用?)
+(143,33): error CS0246: 未能找到类型或命名空间名“ProgressBar”(是否缺少 using 指令或程序集引用?)
+(149,32): error CS0103: 当前上下文中不存在名称“SelectedIndexProperty”
+(153,30): error CS0103: 当前上下文中不存在名称“Items”
+(157,25): error CS0103: 当前上下文中不存在名称“ContainerFromIndex”
+(157,58): error CS0246: 未能找到类型或命名空间名“StepperItem”(是否缺少 using 指令或程序集引用?)
+(162,21): error CS0103: 当前上下文中不存在名称“ContainerFromIndex”
+(162,56): error CS0246: 未能找到类型或命名空间名“StepperItem”(是否缺少 using 指令或程序集引用?)
+(166,25): error CS0103: 当前上下文中不存在名称“ContainerFromIndex”
+(166,58): error CS0246: 未能找到类型或命名空间名“StepperItem”(是否缺少 using 指令或程序集引用?)
+(171,29): error CS0246: 未能找到类型或命名空间名“ProgressBar”(是否缺少 using 指令或程序集引用?)
+(174,48): error CS0103: 当前上下文中不存在名称“ProgressBar”
+(174,75): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(180,37): error CS0103: 当前上下文中不存在名称“BoundsProperty”
+(188,23): error CS0103: 当前上下文中不存在名称“Application”
+(191,16): error CS0103: 当前上下文中不存在名称“UpdateSelectionFromEventSource”
+(194,36): error CS0103: 当前上下文中不存在名称“KeyModifiers”

@@ -1,0 +1,15 @@
+(16,63): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(16,19): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(28,67): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(28,19): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(15,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(15,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(15,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(27,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(27,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(27,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(18,34): error CS0246: 未能找到类型或命名空间名“IWindowManager”(是否缺少 using 指令或程序集引用?)
+(18,50): error CS0246: 未能找到类型或命名空间名“WindowManagerImpl_”(是否缺少 using 指令或程序集引用?)
+(30,34): error CS0246: 未能找到类型或命名空间名“INavigationService”(是否缺少 using 指令或程序集引用?)
+(30,54): error CS0246: 未能找到类型或命名空间名“NavigationService”(是否缺少 using 指令或程序集引用?)

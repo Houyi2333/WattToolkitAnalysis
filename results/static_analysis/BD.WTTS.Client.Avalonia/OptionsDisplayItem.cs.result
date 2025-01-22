@@ -1,0 +1,96 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(5,35): error CS0246: 未能找到类型或命名空间名“TemplatedControl”(是否缺少 using 指令或程序集引用?)
+(91,18): error CS0246: 未能找到类型或命名空间名“EventHandler<>”(是否缺少 using 指令或程序集引用?)
+(91,31): error CS0246: 未能找到类型或命名空间名“RoutedEventArgs”(是否缺少 using 指令或程序集引用?)
+(7,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(7,49): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(10,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(10,49): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(13,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(13,49): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(16,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(19,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(19,43): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(22,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(25,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(25,49): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(28,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(31,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(31,43): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(34,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(40,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(46,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(58,12): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(70,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(82,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(88,28): error CS0246: 未能找到类型或命名空间名“RoutedEvent<>”(是否缺少 using 指令或程序集引用?)
+(88,40): error CS0246: 未能找到类型或命名空间名“RoutedEventArgs”(是否缺少 using 指令或程序集引用?)
+(97,47): error CS0246: 未能找到类型或命名空间名“AvaloniaPropertyChangedEventArgs”(是否缺少 using 指令或程序集引用?)
+(125,45): error CS0246: 未能找到类型或命名空间名“TemplateAppliedEventArgs”(是否缺少 using 指令或程序集引用?)
+(138,51): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(138,61): error CS0246: 未能找到类型或命名空间名“PointerPressedEventArgs”(是否缺少 using 指令或程序集引用?)
+(147,52): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(147,62): error CS0246: 未能找到类型或命名空间名“PointerReleasedEventArgs”(是否缺少 using 指令或程序集引用?)
+(167,55): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(167,65): error CS0246: 未能找到类型或命名空间名“PointerCaptureLostEventArgs”(是否缺少 using 指令或程序集引用?)
+(175,13): error CS0246: 未能找到类型或命名空间名“Border”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(8,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(8,61): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(11,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(11,61): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(14,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(14,61): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(17,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(20,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(20,55): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(23,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(26,9): error CS0103: 当前上下文中不存在名称“ContentControl”
+(29,9): error CS0103: 当前上下文中不存在名称“Expander”
+(32,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(32,55): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(89,9): error CS0103: 当前上下文中不存在名称“RoutedEvent”
+(89,50): error CS0246: 未能找到类型或命名空间名“RoutedEventArgs”(是否缺少 using 指令或程序集引用?)
+(89,96): error CS0103: 当前上下文中不存在名称“RoutingStrategies”
+(36,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(37,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(42,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(43,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(48,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(49,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(54,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(55,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(60,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(61,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(66,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(67,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(72,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(73,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(78,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(79,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(84,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(85,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(93,16): error CS0103: 当前上下文中不存在名称“AddHandler”
+(94,19): error CS0103: 当前上下文中不存在名称“RemoveHandler”
+(104,27): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(106,13): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(111,27): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(113,13): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(117,13): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(117,65): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(120,13): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(122,13): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(129,40): error CS0246: 未能找到类型或命名空间名“Border”(是否缺少 using 指令或程序集引用?)
+(130,13): error CS0019: 运算符“!=”无法应用于“Border?”和“<null>”类型的操作数
+(132,25): error CS1061: “Border?”未包含“PointerPressed”的定义，并且找不到可接受第一个“Border?”类型参数的可访问扩展方法“PointerPressed”(是否缺少 using 指令或程序集引用?)
+(133,25): error CS1061: “Border?”未包含“PointerReleased”的定义，并且找不到可接受第一个“Border?”类型参数的可访问扩展方法“PointerReleased”(是否缺少 using 指令或程序集引用?)
+(134,25): error CS1061: “Border?”未包含“PointerCaptureLost”的定义，并且找不到可接受第一个“Border?”类型参数的可访问扩展方法“PointerCaptureLost”(是否缺少 using 指令或程序集引用?)
+(140,69): error CS0103: 当前上下文中不存在名称“PointerUpdateKind”
+(143,13): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(150,62): error CS0103: 当前上下文中不存在名称“PointerUpdateKind”
+(154,13): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(161,17): error CS0103: 当前上下文中不存在名称“RaiseEvent”
+(161,32): error CS0246: 未能找到类型或命名空间名“RoutedEventArgs”(是否缺少 using 指令或程序集引用?)
+(170,9): error CS0103: 当前上下文中不存在名称“PseudoClasses”
+(174,18): warning CS0169: 从不使用字段“OptionsDisplayItem._isExpanded”
+(1,1): hidden CS8019: 不需要的 using 指令。

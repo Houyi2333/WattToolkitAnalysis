@@ -1,0 +1,65 @@
+(2,7): error CS0246: 未能找到类型或命名空间名“Utf8StringInterpolation”(是否缺少 using 指令或程序集引用?)
+(130,78): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(130,89): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(172,41): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)
+(172,102): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(172,113): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(202,61): error CS0246: 未能找到类型或命名空间名“LogLevel”(是否缺少 using 指令或程序集引用?)
+(202,115): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(202,126): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(22,9): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(23,16): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(69,34): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(83,31): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(268,59): error CS0246: 未能找到类型或命名空间名“ILogger”(是否缺少 using 指令或程序集引用?)
+(287,33): error CS0246: 未能找到类型或命名空间名“LogLevel”(是否缺少 using 指令或程序集引用?)
+(287,52): error CS0246: 未能找到类型或命名空间名“EventId”(是否缺少 using 指令或程序集引用?)
+(287,83): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(287,105): error CS0246: 未能找到类型或命名空间名“Func<,,>”(是否缺少 using 指令或程序集引用?)
+(287,118): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(272,16): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(277,31): error CS0246: 未能找到类型或命名空间名“LogLevel”(是否缺少 using 指令或程序集引用?)
+(328,30): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(341,54): error CS0246: 未能找到类型或命名空间名“ILoggerProvider”(是否缺少 using 指令或程序集引用?)
+(355,14): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(343,31): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(350,16): error CS0246: 未能找到类型或命名空间名“ILogger”(是否缺少 using 指令或程序集引用?)
+(355,14): error CS0538: '显式接口声明中的“IDisposable”不是接口
+(19,6): error CS0246: 未能找到类型或命名空间名“DebuggerDisplayAttribute”(是否缺少 using 指令或程序集引用?)
+(19,6): error CS0246: 未能找到类型或命名空间名“DebuggerDisplay”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(14,47): error CS0103: 当前上下文中不存在名称“Encoding”
+(128,57): error CS0103: 当前上下文中不存在名称“Environment”
+(51,17): error CS0019: 运算符“!=”无法应用于“List<byte[]>?”和“<null>”类型的操作数
+(51,40): error CS1061: “List<byte[]>?”未包含“Count”的定义，并且找不到可接受第一个“List<byte[]>?”类型参数的可访问扩展方法“Count”(是否缺少 using 指令或程序集引用?)
+(54,39): error CS0103: 当前上下文中不存在名称“MathF”
+(54,57): error CS1061: “List<byte[]>?”未包含“Count”的定义，并且找不到可接受第一个“List<byte[]>?”类型参数的可访问扩展方法“Count”(是否缺少 using 指令或程序集引用?)
+(55,60): error CS1061: “List<byte[]>?”未包含“Count”的定义，并且找不到可接受第一个“List<byte[]>?”类型参数的可访问扩展方法“Count”(是否缺少 using 指令或程序集引用?)
+(59,31): error CS1061: “List<byte[]>?”未包含“TakeLast”的定义，并且找不到可接受第一个“List<byte[]>?”类型参数的可访问扩展方法“TakeLast”(是否缺少 using 指令或程序集引用?)
+(138,13): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)
+(142,20): error CS0103: 当前上下文中不存在名称“Encoding”
+(146,32): error CS0103: 当前上下文中不存在名称“Utf8String”
+(161,17): error CS0019: 运算符“!=”无法应用于“Exception?”和“<null>”类型的操作数
+(191,32): error CS0103: 当前上下文中不存在名称“Environment”
+(197,13): error CS0019: 运算符“!=”无法应用于“Exception?”和“<null>”类型的操作数
+(94,17): error CS0019: 运算符“==”无法应用于“List<byte[]>?”和“<null>”类型的操作数
+(98,28): error CS1061: “List<byte[]>?”未包含“Count”的定义，并且找不到可接受第一个“List<byte[]>?”类型参数的可访问扩展方法“Count”(是否缺少 using 指令或程序集引用?)
+(103,32): error CS0103: 当前上下文中不存在名称“Utf8String”
+(105,32): error CS1579: “List<byte[]>?”不包含“GetEnumerator”的公共实例或扩展定义，因此 foreach 语句不能作用于“List<byte[]>?”类型的变量
+(115,21): error CS9174: Cannot initialize type 'List<byte[]>?' with a collection expression because the type is not constructible.
+(117,26): error CS0103: 当前上下文中不存在名称“Encoding”
+(209,28): error CS0103: 当前上下文中不存在名称“Utf8String”
+(211,27): error CS0103: 当前上下文中不存在名称“DateTime”
+(213,13): error CS0103: 当前上下文中不存在名称“CultureInfo”
+(218,18): error CS0103: 当前上下文中不存在名称“LogLevel”
+(221,18): error CS0103: 当前上下文中不存在名称“LogLevel”
+(224,18): error CS0103: 当前上下文中不存在名称“LogLevel”
+(227,18): error CS0103: 当前上下文中不存在名称“LogLevel”
+(230,18): error CS0103: 当前上下文中不存在名称“LogLevel”
+(233,18): error CS0103: 当前上下文中不存在名称“LogLevel”
+(236,18): error CS0103: 当前上下文中不存在名称“LogLevel”
+(283,32): error CS0103: 当前上下文中不存在名称“LogLevel”
+(293,27): error CS0246: 未能找到类型或命名空间名“ArgumentNullException”(是否缺少 using 指令或程序集引用?)
+(297,51): error CS0019: 运算符“!=”无法应用于“Exception?”和“<null>”类型的操作数
+(310,29): error CS0103: 当前上下文中不存在名称“IPCMainProcessService”
+(2,1): hidden CS8019: 不需要的 using 指令。

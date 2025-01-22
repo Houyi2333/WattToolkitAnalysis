@@ -1,0 +1,47 @@
+(2,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(1,7): error CS0246: 未能找到类型或命名空间名“WinAuth”(是否缺少 using 指令或程序集引用?)
+(9,56): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(25,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(31,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(45,22): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(46,22): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(49,9): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(50,9): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(63,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(105,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(140,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(24,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(24,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(30,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(30,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(36,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(36,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(42,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(42,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(67,13): error CS0103: 当前上下文中不存在名称“Toast”
+(67,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(68,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(73,13): error CS0103: 当前上下文中不存在名称“Toast”
+(73,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(74,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(81,19): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(83,13): error CS0103: 当前上下文中不存在名称“Toast”
+(83,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(63,23): error CS0161: “AddSteamAccountPhoneNumberPageViewModel.StartBindingAsync()”: 并非所有的代码路径都返回值
+(109,13): error CS0103: 当前上下文中不存在名称“Toast”
+(109,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(110,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(115,13): error CS0103: 当前上下文中不存在名称“Toast”
+(115,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(116,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(105,23): error CS0161: “AddSteamAccountPhoneNumberPageViewModel.ConfirmBindingEmailAsync()”: 并非所有的代码路径都返回值
+(144,13): error CS0103: 当前上下文中不存在名称“Toast”
+(144,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(145,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(150,13): error CS0103: 当前上下文中不存在名称“Toast”
+(150,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(151,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(159,13): error CS0103: 当前上下文中不存在名称“Close”
+(140,23): error CS0161: “AddSteamAccountPhoneNumberPageViewModel.VerifyAccountPhoneWithCodeAsync()”: 并非所有的代码路径都返回值
+(1,1): hidden CS8019: 不需要的 using 指令。

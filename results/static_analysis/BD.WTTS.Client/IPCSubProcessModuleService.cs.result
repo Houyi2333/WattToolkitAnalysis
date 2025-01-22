@@ -1,0 +1,25 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“dotnetCampus”(是否缺少 using 指令或程序集引用?)
+(10,47): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(9,2): error CS0246: 未能找到类型或命名空间名“IpcPublicAttribute”(是否缺少 using 指令或程序集引用?)
+(9,2): error CS0246: 未能找到类型或命名空间名“IpcPublic”(是否缺少 using 指令或程序集引用?)
+(9,22): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(14,10): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(14,10): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(14,21): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(18,10): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(18,10): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(18,21): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(39,10): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(39,10): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(39,21): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(23,37): error CS0103: 当前上下文中不存在名称“Hashs”
+(28,29): error CS0103: 当前上下文中不存在名称“Path”
+(26,20): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(25,14): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(25,14): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(25,25): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(43,25): error CS0103: 当前上下文中不存在名称“Path”
+(43,49): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(44,13): error CS0103: 当前上下文中不存在名称“IOPath”
+(1,1): hidden CS8019: 不需要的 using 指令。

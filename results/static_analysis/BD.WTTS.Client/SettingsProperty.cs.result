@@ -1,0 +1,237 @@
+(185,265): error CS0246: 未能找到类型或命名空间名“ICollection<>”(是否缺少 using 指令或程序集引用?)
+(9,130): error CS0246: 未能找到类型或命名空间名“SettingsPropertyBase<>”(是否缺少 using 指令或程序集引用?)
+(9,160): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(9,173): error CS0246: 未能找到类型或命名空间名“INotifyPropertyChanged”(是否缺少 using 指令或程序集引用?)
+(351,113): error CS0246: 未能找到类型或命名空间名“KeyValuePair<,>”(是否缺少 using 指令或程序集引用?)
+(351,166): error CS0246: 未能找到类型或命名空间名“IDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(186,32): error CS0246: 未能找到类型或命名空间名“ICollection<>”(是否缺少 using 指令或程序集引用?)
+(349,14): error CS0311: 类型“TDictionary”不能用作泛型类型或方法“SettingsProperty<TValue, TEnumerable, TSettings>”中的类型参数“TEnumerable”。没有从“TDictionary”到“ICollection<KeyValuePair<TKey, TValue>>”的隐式引用转换。
+(352,32): error CS0246: 未能找到类型或命名空间名“IDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(360,12): error CS0246: 未能找到类型或命名空间名“IDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(402,23): error CS0246: 未能找到类型或命名空间名“IDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(421,25): error CS0246: 未能找到类型或命名空间名“IDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(566,10): error CS0246: 未能找到类型或命名空间名“IDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(568,10): error CS0246: 未能找到类型或命名空间名“IDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(189,9): error CS0246: 未能找到类型或命名空间名“ICollection<>”(是否缺少 using 指令或程序集引用?)
+(191,10): error CS0246: 未能找到类型或命名空间名“ICollection<>”(是否缺少 using 指令或程序集引用?)
+(314,10): error CS0246: 未能找到类型或命名空间名“ICollection<>”(是否缺少 using 指令或程序集引用?)
+(316,10): error CS0246: 未能找到类型或命名空间名“ICollection<>”(是否缺少 using 指令或程序集引用?)
+(318,10): error CS0246: 未能找到类型或命名空间名“ICollection<>”(是否缺少 using 指令或程序集引用?)
+(325,10): error CS0246: 未能找到类型或命名空间名“ICollection<>”(是否缺少 using 指令或程序集引用?)
+(327,25): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(334,17): error CS0246: 未能找到类型或命名空间名“IEnumerable”(是否缺少 using 指令或程序集引用?)
+(189,9): error CS0538: '显式接口声明中的“ICollection<TValue>”不是接口
+(191,10): error CS0538: '显式接口声明中的“ICollection<TValue>”不是接口
+(360,12): error CS0538: '显式接口声明中的“IDictionary<TKey, TValue>”不是接口
+(402,5): error CS0246: 未能找到类型或命名空间名“ICollection<>”(是否缺少 using 指令或程序集引用?)
+(402,23): error CS0538: '显式接口声明中的“IDictionary<TKey, TValue>”不是接口
+(421,5): error CS0246: 未能找到类型或命名空间名“ICollection<>”(是否缺少 using 指令或程序集引用?)
+(421,25): error CS0538: '显式接口声明中的“IDictionary<TKey, TValue>”不是接口
+(19,37): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(80,30): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(95,27): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(185,40): error CS0246: 未能找到类型或命名空间名“DynamicallyAccessedMembersAttribute”(是否缺少 using 指令或程序集引用?)
+(185,40): error CS0246: 未能找到类型或命名空间名“DynamicallyAccessedMembers”(是否缺少 using 指令或程序集引用?)
+(185,67): error CS0103: 当前上下文中不存在名称“DynamicallyAccessedMemberTypes”
+(350,6): error CS0246: 未能找到类型或命名空间名“DynamicallyAccessedMembersAttribute”(是否缺少 using 指令或程序集引用?)
+(350,6): error CS0246: 未能找到类型或命名空间名“DynamicallyAccessedMembers”(是否缺少 using 指令或程序集引用?)
+(350,33): error CS0103: 当前上下文中不存在名称“DynamicallyAccessedMemberTypes”
+(9,40): error CS0246: 未能找到类型或命名空间名“DynamicallyAccessedMembersAttribute”(是否缺少 using 指令或程序集引用?)
+(9,40): error CS0246: 未能找到类型或命名空间名“DynamicallyAccessedMembers”(是否缺少 using 指令或程序集引用?)
+(9,67): error CS0103: 当前上下文中不存在名称“DynamicallyAccessedMemberTypes”
+(351,6): error CS0246: 未能找到类型或命名空间名“DynamicallyAccessedMembersAttribute”(是否缺少 using 指令或程序集引用?)
+(351,6): error CS0246: 未能找到类型或命名空间名“DynamicallyAccessedMembers”(是否缺少 using 指令或程序集引用?)
+(351,33): error CS0103: 当前上下文中不存在名称“DynamicallyAccessedMemberTypes”
+(185,133): error CS0246: 未能找到类型或命名空间名“DynamicallyAccessedMembersAttribute”(是否缺少 using 指令或程序集引用?)
+(185,133): error CS0246: 未能找到类型或命名空间名“DynamicallyAccessedMembers”(是否缺少 using 指令或程序集引用?)
+(185,160): error CS0103: 当前上下文中不存在名称“DynamicallyAccessedMemberTypes”
+(198,47): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(198,66): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(13,14): error CS0246: 未能找到类型或命名空间名“Action<,>”(是否缺少 using 指令或程序集引用?)
+(13,38): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(217,46): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(247,34): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(198,29): error CS0115: “SettingsProperty<TValue, TEnumerable, TSettings>.Equals(TEnumerable?, TEnumerable?)”: 没有找到适合的方法来重写
+(14,14): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(14,36): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(15,5): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(16,14): error CS0246: 未能找到类型或命名空间名“IOptionsMonitor<>”(是否缺少 using 指令或程序集引用?)
+(462,30): error CS0246: 未能找到类型或命名空间名“KeyValuePair<,>”(是否缺少 using 指令或程序集引用?)
+(193,40): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(193,109): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(21,35): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(21,104): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(314,10): error CS0538: '显式接口声明中的“ICollection<TValue>”不是接口
+(316,10): error CS0538: '显式接口声明中的“ICollection<TValue>”不是接口
+(56,29): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(70,48): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(89,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(98,25): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(318,10): error CS0538: '显式接口声明中的“ICollection<TValue>”不是接口
+(325,10): error CS0538: '显式接口声明中的“ICollection<TValue>”不是接口
+(327,5): error CS0246: 未能找到类型或命名空间名“IEnumerator<>”(是否缺少 using 指令或程序集引用?)
+(327,25): error CS0538: '显式接口声明中的“IEnumerable<TValue>”不是接口
+(334,5): error CS0246: 未能找到类型或命名空间名“IEnumerator”(是否缺少 using 指令或程序集引用?)
+(334,17): error CS0538: '显式接口声明中的“IEnumerable”不是接口
+(467,24): error CS0246: 未能找到类型或命名空间名“IDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(477,35): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(477,47): error CS0246: 未能找到类型或命名空间名“KeyValuePair<,>”(是否缺少 using 指令或程序集引用?)
+(355,40): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(355,109): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(566,10): error CS0538: '显式接口声明中的“IDictionary<TKey, TValue>”不是接口
+(568,10): error CS0538: '显式接口声明中的“IDictionary<TKey, TValue>”不是接口
+(21,80): error CS0246: 未能找到类型或命名空间名“CallerMemberNameAttribute”(是否缺少 using 指令或程序集引用?)
+(21,80): error CS0246: 未能找到类型或命名空间名“CallerMemberName”(是否缺少 using 指令或程序集引用?)
+(355,85): error CS0246: 未能找到类型或命名空间名“CallerMemberNameAttribute”(是否缺少 using 指令或程序集引用?)
+(355,85): error CS0246: 未能找到类型或命名空间名“CallerMemberName”(是否缺少 using 指令或程序集引用?)
+(193,85): error CS0246: 未能找到类型或命名空间名“CallerMemberNameAttribute”(是否缺少 using 指令或程序集引用?)
+(193,85): error CS0246: 未能找到类型或命名空间名“CallerMemberName”(是否缺少 using 指令或程序集引用?)
+(97,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(97,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(97,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(121,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(121,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(121,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(19,53): error CS1955: 不可调用的成员“SettingsProperty<TValue, TSettings>.getter”不能像方法一样使用。
+(189,38): error CS0103: 当前上下文中不存在名称“value”
+(191,44): error CS0103: 当前上下文中不存在名称“value”
+(209,13): error CS0103: 当前上下文中不存在名称“EqualityComparer”
+(214,21): error CS1061: “TEnumerable”未包含“SequenceEqual”的定义，并且找不到可接受第一个“TEnumerable”类型参数的可访问扩展方法“SequenceEqual”(是否缺少 using 指令或程序集引用?)
+(24,37): error CS1061: “string”未包含“ThrowIsNull”的定义，并且找不到可接受第一个“string”类型参数的可访问扩展方法“ThrowIsNull”(是否缺少 using 指令或程序集引用?)
+(25,9): error CS0103: 当前上下文中不存在名称“AutoSave”
+(27,9): error CS0246: 未能找到类型或命名空间名“ParameterExpression”(是否缺少 using 指令或程序集引用?)
+(27,41): error CS0103: 当前上下文中不存在名称“Expression”
+(28,9): error CS0246: 未能找到类型或命名空间名“MemberExpression”(是否缺少 using 指令或程序集引用?)
+(28,37): error CS0103: 当前上下文中不存在名称“Expression”
+(29,9): error CS0246: 未能找到类型或命名空间名“ParameterExpression”(是否缺少 using 指令或程序集引用?)
+(29,37): error CS0103: 当前上下文中不存在名称“Expression”
+(30,9): error CS0246: 未能找到类型或命名空间名“BinaryExpression”(是否缺少 using 指令或程序集引用?)
+(30,35): error CS0103: 当前上下文中不存在名称“Expression”
+(31,18): error CS0103: 当前上下文中不存在名称“Expression”
+(31,36): error CS0246: 未能找到类型或命名空间名“Action<,>”(是否缺少 using 指令或程序集引用?)
+(31,60): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(32,18): error CS0103: 当前上下文中不存在名称“Expression”
+(32,36): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(32,58): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(33,19): error CS0103: 当前上下文中不存在名称“Ioc”
+(33,27): error CS0246: 未能找到类型或命名空间名“IOptionsMonitor<>”(是否缺少 using 指令或程序集引用?)
+(41,14): error CS1061: “SettingsProperty<TValue, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsProperty<TValue, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(41,22): error CS1955: 不可调用的成员“SettingsProperty<TValue, TSettings>.getter”不能像方法一样使用。
+(42,9): error CS0103: 当前上下文中不存在名称“SetProperties”
+(364,17): error CS0103: 当前上下文中不存在名称“value”
+(368,33): error CS1061: “TDictionary”未包含“TryGetValue”的定义，并且找不到可接受第一个“TDictionary”类型参数的可访问扩展方法“TryGetValue”(是否缺少 using 指令或程序集引用?)
+(377,24): error CS0103: 当前上下文中不存在名称“value”
+(48,14): error CS0103: 当前上下文中不存在名称“CanOnChange”
+(51,18): error CS1955: 不可调用的成员“SettingsProperty<TValue, TSettings>.getter”不能像方法一样使用。
+(387,22): error CS1061: “SettingsProperty<TKey, TValue, TDictionary, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsProperty<TKey, TValue, TDictionary, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(389,22): error CS1061: “SettingsProperty<TKey, TValue, TDictionary, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsProperty<TKey, TValue, TDictionary, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(389,30): error CS0103: 当前上下文中不存在名称“Activator”
+(392,42): error CS1579: “TDictionary”不包含“GetEnumerator”的公共实例或扩展定义，因此 foreach 语句不能作用于“TDictionary”类型的变量
+(394,30): error CS1061: “SettingsProperty<TKey, TValue, TDictionary, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsProperty<TKey, TValue, TDictionary, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(398,18): error CS1061: “SettingsProperty<TKey, TValue, TDictionary, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsProperty<TKey, TValue, TDictionary, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(406,17): error CS0103: 当前上下文中不存在名称“value”
+(410,36): error CS1061: “TDictionary”未包含“Keys”的定义，并且找不到可接受第一个“TDictionary”类型参数的可访问扩展方法“Keys”(是否缺少 using 指令或程序集引用?)
+(414,28): error CS0103: 当前上下文中不存在名称“Array”
+(417,20): error CS0103: 当前上下文中不存在名称“value”
+(425,17): error CS0103: 当前上下文中不存在名称“value”
+(429,36): error CS1061: “TDictionary”未包含“Values”的定义，并且找不到可接受第一个“TDictionary”类型参数的可访问扩展方法“Values”(是否缺少 using 指令或程序集引用?)
+(433,28): error CS0103: 当前上下文中不存在名称“Array”
+(436,20): error CS0103: 当前上下文中不存在名称“value”
+(442,18): error CS1061: “SettingsProperty<TKey, TValue, TDictionary, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsProperty<TKey, TValue, TDictionary, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(444,18): error CS1061: “SettingsProperty<TKey, TValue, TDictionary, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsProperty<TKey, TValue, TDictionary, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(444,26): error CS0103: 当前上下文中不存在名称“Activator”
+(447,38): error CS1579: “TDictionary”不包含“GetEnumerator”的公共实例或扩展定义，因此 foreach 语句不能作用于“TDictionary”类型的变量
+(449,26): error CS1061: “SettingsProperty<TKey, TValue, TDictionary, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsProperty<TKey, TValue, TDictionary, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(453,19): error CS1061: “SettingsProperty<TKey, TValue, TDictionary, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsProperty<TKey, TValue, TDictionary, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(455,18): error CS1061: “SettingsProperty<TKey, TValue, TDictionary, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsProperty<TKey, TValue, TDictionary, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(60,17): error CS0103: 当前上下文中不存在名称“value”
+(60,63): error CS0103: 当前上下文中不存在名称“value”
+(62,20): error CS0103: 当前上下文中不存在名称“value”
+(66,20): error CS0103: 当前上下文中不存在名称“value”
+(77,9): error CS1955: 不可调用的成员“SettingsProperty<TValue, TSettings>.setter”不能像方法一样使用。
+(100,32): error CS1061: “SettingsProperty<TValue, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsProperty<TValue, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(103,29): error CS1061: “SettingsProperty<TValue, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsProperty<TValue, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(104,14): error CS1061: “SettingsProperty<TValue, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsProperty<TValue, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(107,36): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(107,13): error CS0103: 当前上下文中不存在名称“EqualityComparer”
+(113,9): error CS0103: 当前上下文中不存在名称“OnValueChanged”
+(115,21): error CS0103: 当前上下文中不存在名称“AutoSave”
+(122,27): error CS0103: 当前上下文中不存在名称“ISettings”
+(126,28): error CS0103: 当前上下文中不存在名称“value”
+(127,36): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(127,13): error CS0103: 当前上下文中不存在名称“EqualityComparer”
+(127,54): error CS0103: 当前上下文中不存在名称“value”
+(132,9): error CS0103: 当前上下文中不存在名称“OnValueChanged”
+(132,24): error CS0103: 当前上下文中不存在名称“value”
+(132,31): error CS0103: 当前上下文中不存在名称“value”
+(133,25): error CS0103: 当前上下文中不存在名称“AutoSave”
+(141,24): error CS0103: 当前上下文中不存在名称“value”
+(142,23): error CS0103: 当前上下文中不存在名称“value”
+(144,9): error CS0103: 当前上下文中不存在名称“OnValueChanged”
+(144,34): error CS0103: 当前上下文中不存在名称“value”
+(146,21): error CS0103: 当前上下文中不存在名称“AutoSave”
+(152,42): error CS0103: 当前上下文中不存在名称“value”
+(175,9): error CS0103: 当前上下文中不存在名称“GC”
+(469,27): error CS0246: 未能找到类型或命名空间名“ConcurrentDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(479,13): error CS0103: 当前上下文中不存在名称“value”
+(481,13): error CS0103: 当前上下文中不存在名称“value”
+(481,21): error CS0103: 当前上下文中不存在名称“Activator”
+(484,38): error CS1579: “TDictionary”不包含“GetEnumerator”的公共实例或扩展定义，因此 foreach 语句不能作用于“TDictionary”类型的变量
+(486,21): error CS0103: 当前上下文中不存在名称“value”
+(495,29): error CS0103: 当前上下文中不存在名称“value”
+(497,21): error CS0103: 当前上下文中不存在名称“value”
+(502,17): error CS0103: 当前上下文中不存在名称“value”
+(512,13): error CS0103: 当前上下文中不存在名称“value”
+(516,32): error CS1061: “TDictionary”未包含“ContainsKey”的定义，并且找不到可接受第一个“TDictionary”类型参数的可访问扩展方法“ContainsKey”(是否缺少 using 指令或程序集引用?)
+(520,16): error CS0103: 当前上下文中不存在名称“value”
+(526,13): error CS0103: 当前上下文中不存在名称“value”
+(528,25): error CS1061: “TDictionary”未包含“Any_Nullable”的定义，并且找不到可接受第一个“TDictionary”类型参数的可访问扩展方法“Any_Nullable”(是否缺少 using 指令或程序集引用?)
+(530,17): error CS0103: 当前上下文中不存在名称“value”
+(530,25): error CS0103: 当前上下文中不存在名称“Activator”
+(531,38): error CS1579: “TDictionary”不包含“GetEnumerator”的公共实例或扩展定义，因此 foreach 语句不能作用于“TDictionary”类型的变量
+(533,21): error CS0103: 当前上下文中不存在名称“value”
+(536,26): error CS0103: 当前上下文中不存在名称“value”
+(545,18): error CS0103: 当前上下文中不存在名称“value”
+(554,18): error CS1061: “SettingsProperty<TKey, TValue, TDictionary, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsProperty<TKey, TValue, TDictionary, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(558,32): error CS1061: “TDictionary”未包含“TryGetValue”的定义，并且找不到可接受第一个“TDictionary”类型参数的可访问扩展方法“TryGetValue”(是否缺少 using 指令或程序集引用?)
+(563,21): error CS1061: “SettingsProperty<TKey, TValue, TDictionary, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsProperty<TKey, TValue, TDictionary, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(219,13): error CS0019: 运算符“==”无法应用于“IEnumerable<TValue>?”和“<null>”类型的操作数
+(223,18): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(226,18): error CS0246: 未能找到类型或命名空间名“IExtendedList<>”(是否缺少 using 指令或程序集引用?)
+(230,38): error CS1061: “TEnumerable”未包含“Add”的定义，并且找不到可接受第一个“TEnumerable”类型参数的可访问扩展方法“Add”(是否缺少 using 指令或程序集引用?)
+(230,23): error CS1061: “IEnumerable<TValue>?”未包含“ForEach”的定义，并且找不到可接受第一个“IEnumerable<TValue>?”类型参数的可访问扩展方法“ForEach”(是否缺少 using 指令或程序集引用?)
+(237,13): error CS0103: 当前上下文中不存在名称“value”
+(239,13): error CS0103: 当前上下文中不存在名称“value”
+(239,21): error CS0103: 当前上下文中不存在名称“Activator”
+(240,22): error CS0103: 当前上下文中不存在名称“value”
+(242,9): error CS0103: 当前上下文中不存在名称“value”
+(249,13): error CS0103: 当前上下文中不存在名称“value”
+(251,13): error CS0103: 当前上下文中不存在名称“value”
+(251,21): error CS0103: 当前上下文中不存在名称“Activator”
+(252,22): error CS0103: 当前上下文中不存在名称“value”
+(254,18): error CS0103: 当前上下文中不存在名称“value”
+(262,13): error CS0103: 当前上下文中不存在名称“value”
+(264,25): error CS1061: “TEnumerable”未包含“Any_Nullable”的定义，并且找不到可接受第一个“TEnumerable”类型参数的可访问扩展方法“Any_Nullable”(是否缺少 using 指令或程序集引用?)
+(266,17): error CS0103: 当前上下文中不存在名称“value”
+(266,25): error CS0103: 当前上下文中不存在名称“Activator”
+(267,26): error CS0103: 当前上下文中不存在名称“value”
+(269,26): error CS0103: 当前上下文中不存在名称“value”
+(278,18): error CS0103: 当前上下文中不存在名称“value”
+(287,13): error CS0103: 当前上下文中不存在名称“value”
+(289,25): error CS1061: “TEnumerable”未包含“Any_Nullable”的定义，并且找不到可接受第一个“TEnumerable”类型参数的可访问扩展方法“Any_Nullable”(是否缺少 using 指令或程序集引用?)
+(291,32): error CS1061: “TEnumerable”未包含“Contains”的定义，并且找不到可接受第一个“TEnumerable”类型参数的可访问扩展方法“Contains”(是否缺少 using 指令或程序集引用?)
+(296,16): error CS0103: 当前上下文中不存在名称“value”
+(301,13): error CS0103: 当前上下文中不存在名称“value”
+(303,13): error CS0103: 当前上下文中不存在名称“value”
+(303,21): error CS0103: 当前上下文中不存在名称“Activator”
+(309,9): error CS0103: 当前上下文中不存在名称“value”
+(320,13): error CS0103: 当前上下文中不存在名称“value”
+(322,9): error CS0103: 当前上下文中不存在名称“value”
+(329,13): error CS0103: 当前上下文中不存在名称“value”
+(330,41): error CS0103: 当前上下文中不存在名称“Array”
+(330,21): error CS0246: 未能找到类型或命名空间名“IEnumerator<>”(是否缺少 using 指令或程序集引用?)
+(331,16): error CS0103: 当前上下文中不存在名称“value”
+(336,13): error CS0103: 当前上下文中不存在名称“value”
+(337,20): error CS0103: 当前上下文中不存在名称“Array”
+(338,16): error CS0103: 当前上下文中不存在名称“value”

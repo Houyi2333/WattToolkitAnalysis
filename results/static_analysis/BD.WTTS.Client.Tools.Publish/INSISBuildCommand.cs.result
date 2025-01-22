@@ -1,0 +1,53 @@
+(1,36): error CS0234: 命名空间“BD.WTTS.Client.Tools.Publish”中不存在类型或命名空间名“Helpers”(是否缺少程序集引用?)
+(2,52): error CS0234: 命名空间“BD.WTTS.Client.Tools.Publish.Commands”中不存在类型或命名空间名“IDotNetPublishCommand”(是否缺少程序集引用?)
+(6,31): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(10,20): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(10,12): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(10,20): error CS0538: '显式接口声明中的“ICommand”不是接口
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,25): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(13,24): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(14,29): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(15,30): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(15,59): error CS0103: 当前上下文中不存在名称“GetDefForceSign”
+(16,28): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(17,27): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(27,13): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(32,9): error CS0103: 当前上下文中不存在名称“releaseTimestamp”
+(34,27): error CS0103: 当前上下文中不存在名称“Path”
+(34,40): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(35,27): error CS0103: 当前上下文中不存在名称“Path”
+(37,14): error CS0103: 当前上下文中不存在名称“File”
+(39,13): error CS0103: 当前上下文中不存在名称“Console”
+(43,30): error CS0103: 当前上下文中不存在名称“File”
+(46,30): error CS0103: 当前上下文中不存在名称“Path”
+(47,31): error CS0103: 当前上下文中不存在名称“Path”
+(51,24): error CS0103: 当前上下文中不存在名称“DeconstructRuntimeIdentifier”
+(54,32): error CS0103: 当前上下文中不存在名称“ProjectPath_AvaloniaApp”
+(55,23): error CS0103: 当前上下文中不存在名称“SetPublishCommandArgumentList”
+(56,30): error CS0103: 当前上下文中不存在名称“Path”
+(57,13): error CS0103: 当前上下文中不存在名称“Console”
+(58,34): error CS0103: 当前上下文中不存在名称“Path”
+(58,51): error CS0103: 当前上下文中不存在名称“Path”
+(59,47): error CS0103: 当前上下文中不存在名称“FileEx”
+(62,37): error CS0103: 当前上下文中不存在名称“Path”
+(63,34): error CS0103: 当前上下文中不存在名称“Path”
+(63,88): error CS0103: 当前上下文中不存在名称“FileEx”
+(64,34): error CS0103: 当前上下文中不存在名称“Path”
+(64,51): error CS0246: 未能找到类型或命名空间名“FileInfo”(是否缺少 using 指令或程序集引用?)
+(65,13): error CS0103: 当前上下文中不存在名称“IOPath”
+(69,57): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(70,59): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(71,61): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(73,57): error CS0103: 当前上下文中不存在名称“AppVersion4”
+(79,64): error CS0103: 当前上下文中不存在名称“Path”
+(81,13): error CS0103: 当前上下文中不存在名称“File”
+(83,27): error CS0103: 当前上下文中不存在名称“Process”
+(83,45): error CS0246: 未能找到类型或命名空间名“ProcessStartInfo”(是否缺少 using 指令或程序集引用?)
+(97,46): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(100,21): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(106,35): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(107,21): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(112,9): error CS0103: 当前上下文中不存在名称“File”
+(1,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

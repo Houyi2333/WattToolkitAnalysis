@@ -1,0 +1,5 @@
+(4,40): error CS0246: 未能找到类型或命名空间名“Repository<,>”(是否缺少 using 指令或程序集引用?)
+(4,51): error CS0246: 未能找到类型或命名空间名“User”(是否缺少 using 指令或程序集引用?)
+(4,57): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(4,64): error CS0246: 未能找到类型或命名空间名“IUserRepository”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

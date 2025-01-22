@@ -1,0 +1,27 @@
+(1,18): error CS0234: 命名空间“BD.WTTS.UI”中不存在类型或命名空间名“Views”(是否缺少程序集引用?)
+(73,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(21,32): error CS0115: “ArchiSteamFarmPlusPageViewModel.Activation()”: 没有找到适合的方法来重写
+(47,29): error CS0115: “ArchiSteamFarmPlusPageViewModel.Dispose(bool)”: 没有找到适合的方法来重写
+(8,22): error CS0246: 未能找到类型或命名空间名“IArchiSteamFarmService”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(8,58): error CS0103: 当前上下文中不存在名称“IArchiSteamFarmService”
+(12,9): error CS0103: 当前上下文中不存在名称“SelectASFExePath”
+(12,28): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(12,59): error CS0103: 当前上下文中不存在名称“ASFService”
+(14,9): error CS0103: 当前上下文中不存在名称“OpenWebUIConsole”
+(14,28): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(16,9): error CS0103: 当前上下文中不存在名称“OpenASFBrowser”
+(16,26): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(16,57): error CS0103: 当前上下文中不存在名称“ASFService”
+(18,9): error CS0103: 当前上下文中不存在名称“RunOrStop”
+(18,21): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(23,14): error CS0117: “object”未包含“Activation”的定义
+(24,34): error CS0103: 当前上下文中不存在名称“ASFSettings”
+(26,19): error CS0103: 当前上下文中不存在名称“MainThread2”
+(43,13): error CS0103: 当前上下文中不存在名称“ASFSettings”
+(43,78): error CS0103: 当前上下文中不存在名称“ASFSettings”
+(51,13): error CS0103: 当前上下文中不存在名称“ASFService”
+(53,14): error CS0117: “object”未包含“Dispose”的定义
+(56,71): error CS0103: 当前上下文中不存在名称“Task”
+(73,30): error CS0103: 当前上下文中不存在名称“ASFService”
+(1,1): hidden CS8019: 不需要的 using 指令。

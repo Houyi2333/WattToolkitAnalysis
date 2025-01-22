@@ -1,0 +1,160 @@
+(10,36): error CS0234: 命名空间“System.Management.Automation”中不存在类型或命名空间名“Internal”(是否缺少程序集引用?)
+(11,36): error CS0234: 命名空间“System.Management.Automation”中不存在类型或命名空间名“Security”(是否缺少程序集引用?)
+(13,36): error CS0234: 命名空间“System.Security.Cryptography”中不存在类型或命名空间名“X509Certificates”(是否缺少程序集引用?)
+(98,44): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(96,25): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(277,71): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(277,25): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(297,24): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(418,57): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(438,88): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(438,24): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(479,69): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(480,49): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(536,24): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(561,13): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(558,24): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(604,99): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(59,37): error CS0234: 命名空间“System.Management.Automation”中不存在类型或命名空间名“PSTraceSource”(是否缺少程序集引用?)
+(57,14): error CS0234: 命名空间“System.Management.Automation”中不存在类型或命名空间名“TraceSourceAttribute”(是否缺少程序集引用?)
+(57,14): error CS0234: 命名空间“System.Management.Automation”中不存在类型或命名空间名“TraceSource”(是否缺少程序集引用?)
+(95,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(95,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+(276,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(276,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+(478,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(478,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+(535,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(535,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+(557,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(557,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+(603,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(603,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+(640,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(640,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(60,13): error CS0234: 命名空间“System.Management.Automation”中不存在类型或命名空间名“PSTraceSource”(是否缺少程序集引用?)
+(103,13): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(108,13): error CS0103: 当前上下文中不存在名称“Utils”
+(109,13): error CS0103: 当前上下文中不存在名称“Utils”
+(117,27): error CS0103: 当前上下文中不存在名称“PSTraceSource”
+(119,25): error CS0103: 当前上下文中不存在名称“Authenticode”
+(128,33): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(128,64): error CS0103: 当前上下文中不存在名称“NativeConstants”
+(136,27): error CS0103: 当前上下文中不存在名称“PSTraceSource”
+(138,25): error CS0103: 当前上下文中不存在名称“Authenticode”
+(142,21): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(143,48): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(149,18): error CS0103: 当前上下文中不存在名称“SecuritySupport”
+(151,23): error CS0103: 当前上下文中不存在名称“PSTraceSource”
+(153,25): error CS0103: 当前上下文中不存在名称“Authenticode”
+(156,13): error CS0103: 当前上下文中不存在名称“SecuritySupport”
+(176,17): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(176,66): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(192,26): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(193,28): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(202,46): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(231,38): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(233,35): error CS0103: 当前上下文中不存在名称“PSTraceSource”
+(235,33): error CS0103: 当前上下文中不存在名称“Authenticode”
+(249,37): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(254,42): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(279,13): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(289,18): error CS0019: 运算符“==”无法应用于“Signature?”和“<null>”类型的操作数
+(289,51): error CS1061: “Signature?”未包含“Status”的定义，并且找不到可接受第一个“Signature?”类型参数的可访问扩展方法“Status”(是否缺少 using 指令或程序集引用?)
+(289,61): error CS0103: 当前上下文中不存在名称“SignatureStatus”
+(299,17): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(299,60): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(307,13): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(309,13): error CS0103: 当前上下文中不存在名称“Utils”
+(310,13): error CS0103: 当前上下文中不存在名称“SecuritySupport”
+(316,21): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(316,64): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(324,39): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(325,29): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(326,29): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(327,29): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(328,29): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(329,29): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(332,29): error CS0103: 当前上下文中不存在名称“Utils”
+(336,29): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(340,44): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(343,95): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(346,53): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(350,53): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(355,42): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(355,120): error CS0103: 当前上下文中不存在名称“SignatureType”
+(356,42): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(356,115): error CS0103: 当前上下文中不存在名称“SignatureType”
+(366,49): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(369,34): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(371,67): error CS0103: 当前上下文中不存在名称“Utils”
+(372,57): error CS0103: 当前上下文中不存在名称“SignatureStatus”
+(376,41): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(382,41): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(383,41): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(383,137): error CS0103: 当前上下文中不存在名称“SignatureStatus”
+(391,29): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(398,29): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(403,29): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(411,17): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(422,22): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(422,93): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(423,22): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(423,97): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(424,22): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(424,92): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(425,22): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(425,92): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(426,22): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(426,91): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(427,22): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(427,82): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(428,22): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(428,84): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(429,22): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(429,86): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(434,28): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(440,13): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(442,13): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(443,27): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(447,17): error CS0103: 当前上下文中不存在名称“Utils”
+(448,17): error CS0103: 当前上下文中不存在名称“SecuritySupport”
+(456,30): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(463,25): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(465,30): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(472,33): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(472,53): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(482,30): error CS0103: 当前上下文中不存在名称“Win32Errors”
+(497,17): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(501,21): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(501,60): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(502,27): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(506,21): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(506,60): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(507,27): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(516,28): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(522,49): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(528,42): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(538,13): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(544,17): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(549,17): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(550,44): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(551,34): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(565,13): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(566,85): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(571,17): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(577,41): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(584,41): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(589,47): error CS0103: 当前上下文中不存在名称“SignatureType”
+(593,13): error CS0234: 命名空间“System.Diagnostics”中不存在类型或命名空间名“Assert”(是否缺少程序集引用?)
+(597,33): error CS0122: “Signature”不可访问，因为它具有一定的保护级别
+(613,17): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(619,21): error CS0103: 当前上下文中不存在名称“NativeMethods”
+(623,21): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(624,48): error CS0246: 未能找到类型或命名空间名“NativeMethods”(是否缺少 using 指令或程序集引用?)
+(645,20): error CS0103: 当前上下文中不存在名称“SecuritySupport”
+(11,1): hidden CS8019: 不需要的 using 指令。
+(10,1): hidden CS8019: 不需要的 using 指令。
+(16,1): hidden CS8019: 不需要的 using 指令。
+(13,1): hidden CS8019: 不需要的 using 指令。

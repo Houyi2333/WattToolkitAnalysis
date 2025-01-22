@@ -1,0 +1,92 @@
+(1,26): error CS0234: 命名空间“System.Collections”中不存在类型或命名空间名“Specialized”(是否缺少程序集引用?)
+(5,41): error CS0246: 未能找到类型或命名空间名“ViewModelBase”(是否缺少 using 指令或程序集引用?)
+(7,22): error CS0246: 未能找到类型或命名空间名“IArchiSteamFarmService”(是否缺少 using 指令或程序集引用?)
+(35,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(57,53): error CS0246: 未能找到类型或命名空间名“Bot”(是否缺少 using 指令或程序集引用?)
+(78,48): error CS0246: 未能找到类型或命名空间名“Bot”(是否缺少 using 指令或程序集引用?)
+(90,148): error CS0246: 未能找到类型或命名空间名“Bot”(是否缺少 using 指令或程序集引用?)
+(90,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(90,24): error CS0246: 未能找到类型或命名空间名“IReadOnlyDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(90,73): error CS0246: 未能找到类型或命名空间名“IReadOnlyDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(98,42): error CS0246: 未能找到类型或命名空间名“Bot”(是否缺少 using 指令或程序集引用?)
+(98,51): error CS0246: 未能找到类型或命名空间名“IOrderedDictionary”(是否缺少 using 指令或程序集引用?)
+(104,62): error CS0246: 未能找到类型或命名空间名“Bot”(是否缺少 using 指令或程序集引用?)
+(104,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(110,45): error CS0246: 未能找到类型或命名空间名“Bot”(是否缺少 using 指令或程序集引用?)
+(115,35): error CS0246: 未能找到类型或命名空间名“Bot”(是否缺少 using 指令或程序集引用?)
+(121,39): error CS0246: 未能找到类型或命名空间名“Bot”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(7,58): error CS0103: 当前上下文中不存在名称“IArchiSteamFarmService”
+(11,9): error CS0103: 当前上下文中不存在名称“AddBot”
+(11,18): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(13,9): error CS0103: 当前上下文中不存在名称“RefreshBots”
+(13,23): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(13,46): error CS0103: 当前上下文中不存在名称“ASFService”
+(15,9): error CS0103: 当前上下文中不存在名称“SelectBotFiles”
+(15,26): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(17,9): error CS0103: 当前上下文中不存在名称“PauseOrResumeBotFarming”
+(17,35): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(17,58): error CS0246: 未能找到类型或命名空间名“Bot”(是否缺少 using 指令或程序集引用?)
+(19,9): error CS0103: 当前上下文中不存在名称“EnableOrDisableBot”
+(19,30): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(19,53): error CS0246: 未能找到类型或命名空间名“Bot”(是否缺少 using 指令或程序集引用?)
+(21,9): error CS0103: 当前上下文中不存在名称“GoToBotSettings”
+(21,27): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(21,50): error CS0246: 未能找到类型或命名空间名“Bot”(是否缺少 using 指令或程序集引用?)
+(23,9): error CS0103: 当前上下文中不存在名称“DeleteBot”
+(23,21): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(23,44): error CS0246: 未能找到类型或命名空间名“Bot”(是否缺少 using 指令或程序集引用?)
+(25,9): error CS0103: 当前上下文中不存在名称“EditBotFile”
+(25,23): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(25,46): error CS0246: 未能找到类型或命名空间名“Bot”(是否缺少 using 指令或程序集引用?)
+(27,9): error CS0103: 当前上下文中不存在名称“ASFService”
+(29,22): error CS0103: 当前上下文中不存在名称“RxApp”
+(30,40): error CS0246: 未能找到类型或命名空间名“BotViewModel”(是否缺少 using 指令或程序集引用?)
+(30,17): error CS0103: 当前上下文中不存在名称“SortExpressionComparer”
+(31,21): error CS0103: 当前上下文中不存在名称“_SteamBots”
+(37,9): error CS0246: 未能找到类型或命名空间名“FilePickerFileType”(是否缺少 using 指令或程序集引用?)
+(38,13): error CS0103: 当前上下文中不存在名称“IApplication”
+(40,29): error CS0246: 未能找到类型或命名空间名“ValueTuple<,>”(是否缺少 using 指令或程序集引用?)
+(42,40): error CS0103: 当前上下文中不存在名称“FileEx”
+(46,18): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(48,33): error CS0103: 当前上下文中不存在名称“MediaTypeNames”
+(54,15): error CS0103: 当前上下文中不存在名称“FilePicker2”
+(54,45): error CS0103: 当前上下文中不存在名称“ASFService”
+(35,23): error CS0161: “BotPageViewModel.SelectBotFiles_Click()”: 并非所有的代码路径都返回值
+(59,9): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(66,31): error CS0246: 未能找到类型或命名空间名“BotPauseRequest”(是否缺少 using 指令或程序集引用?)
+(71,13): error CS0103: 当前上下文中不存在名称“Toast”
+(71,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(73,13): error CS0103: 当前上下文中不存在名称“Toast”
+(73,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(73,55): error CS0103: 当前上下文中不存在名称“CultureInfo”
+(73,83): error CS0103: 当前上下文中不存在名称“Strings”
+(75,9): error CS0103: 当前上下文中不存在名称“ASFService”
+(80,9): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(87,13): error CS0103: 当前上下文中不存在名称“Toast”
+(87,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(87,55): error CS0103: 当前上下文中不存在名称“CultureInfo”
+(87,83): error CS0103: 当前上下文中不存在名称“Strings”
+(95,16): error CS8716: default 字面量缺少目标类型。
+(100,27): error CS0246: 未能找到类型或命名空间名“BotGamesToRedeemInBackgroundRequest”(是否缺少 using 指令或程序集引用?)
+(100,96): error CS0246: 未能找到类型或命名空间名“OrderedDictionary”(是否缺少 using 指令或程序集引用?)
+(112,15): error CS0103: 当前上下文中不存在名称“Browser2”
+(112,34): error CS0103: 当前上下文中不存在名称“ASFService”
+(112,97): error CS0103: 当前上下文中不存在名称“BrowserLaunchMode”
+(117,24): error CS0103: 当前上下文中不存在名称“Path”
+(117,37): error CS0103: 当前上下文中不存在名称“SharedInfo”
+(117,63): error CS0103: 当前上下文中不存在名称“SharedInfo”
+(117,107): error CS0103: 当前上下文中不存在名称“SharedInfo”
+(118,9): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(123,23): error CS0103: 当前上下文中不存在名称“MessageBox”
+(123,44): error CS0103: 当前上下文中不存在名称“BDStrings”
+(123,80): error CS0103: 当前上下文中不存在名称“MessageBox”
+(124,18): error CS0103: 当前上下文中不存在名称“MessageBox”
+(129,17): error CS0103: 当前上下文中不存在名称“ASFService”
+(130,17): error CS0103: 当前上下文中不存在名称“Toast”
+(130,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(130,47): error CS0103: 当前上下文中不存在名称“BDStrings”
+(137,15): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(137,49): error CS0103: 当前上下文中不存在名称“AppEndPoint”
+(137,85): error CS0103: 当前上下文中不存在名称“ResizeMode”
+(1,1): hidden CS8019: 不需要的 using 指令。

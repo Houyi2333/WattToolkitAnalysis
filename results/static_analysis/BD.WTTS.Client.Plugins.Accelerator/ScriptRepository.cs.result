@@ -1,0 +1,31 @@
+(4,42): error CS0246: 未能找到类型或命名空间名“Repository<,>”(是否缺少 using 指令或程序集引用?)
+(4,53): error CS0246: 未能找到类型或命名空间名“Script”(是否缺少 using 指令或程序集引用?)
+(4,67): error CS0246: 未能找到类型或命名空间名“IScriptRepository”(是否缺少 using 指令或程序集引用?)
+(6,74): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(6,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(16,45): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+(16,61): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(16,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(41,48): error CS0246: 未能找到类型或命名空间名“ScriptDTO”(是否缺少 using 指令或程序集引用?)
+(41,64): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(41,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(57,50): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(57,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(57,23): error CS0246: 未能找到类型或命名空间名“IList<>”(是否缺少 using 指令或程序集引用?)
+(57,29): error CS0246: 未能找到类型或命名空间名“Script”(是否缺少 using 指令或程序集引用?)
+(71,66): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(71,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(71,23): error CS0246: 未能找到类型或命名空间名“Script”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(8,34): error CS0103: 当前上下文中不存在名称“GetDbConnection”
+(9,22): error CS0103: 当前上下文中不存在名称“AttemptAndRetry”
+(18,34): error CS0103: 当前上下文中不存在名称“GetDbConnection”
+(19,15): error CS0103: 当前上下文中不存在名称“AttemptAndRetry”
+(16,23): error CS0161: “ScriptRepository.SaveScriptEnableAsync(ScriptDTO, CancellationToken)”: 并非所有的代码路径都返回值
+(43,34): error CS0103: 当前上下文中不存在名称“GetDbConnection”
+(44,15): error CS0103: 当前上下文中不存在名称“AttemptAndRetry”
+(41,23): error CS0161: “ScriptRepository.SaveScriptCachePathAsync(ScriptDTO, CancellationToken)”: 并非所有的代码路径都返回值
+(59,34): error CS0103: 当前上下文中不存在名称“GetDbConnection”
+(60,22): error CS0103: 当前上下文中不存在名称“AttemptAndRetry”
+(73,34): error CS0103: 当前上下文中不存在名称“GetDbConnection”
+(74,22): error CS0103: 当前上下文中不存在名称“AttemptAndRetry”

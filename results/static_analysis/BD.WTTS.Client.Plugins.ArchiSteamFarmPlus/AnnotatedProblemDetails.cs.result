@@ -1,0 +1,31 @@
+(5,7): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(32,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(35,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(41,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(44,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(47,12): error CS0246: 未能找到类型或命名空间名“IDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(47,38): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(49,24): error CS0246: 未能找到类型或命名空间名“ProblemDetails”(是否缺少 using 指令或程序集引用?)
+(17,36): error CS0246: 未能找到类型或命名空间名“ProblemDetails”(是否缺少 using 指令或程序集引用?)
+(31,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(31,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(31,62): error CS0103: 当前上下文中不存在名称“NullValueHandling”
+(34,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(34,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(34,63): error CS0103: 当前上下文中不存在名称“NullValueHandling”
+(37,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(37,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(37,64): error CS0103: 当前上下文中不存在名称“NullValueHandling”
+(40,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(40,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(40,64): error CS0103: 当前上下文中不存在名称“NullValueHandling”
+(43,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(43,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(43,66): error CS0103: 当前上下文中不存在名称“NullValueHandling”
+(46,6): error CS0246: 未能找到类型或命名空间名“JsonExtensionDataAttribute”(是否缺少 using 指令或程序集引用?)
+(46,6): error CS0246: 未能找到类型或命名空间名“JsonExtensionData”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(47,67): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(47,92): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(47,95): error CS0103: 当前上下文中不存在名称“StringComparer”
+(5,1): hidden CS8019: 不需要的 using 指令。

@@ -1,0 +1,64 @@
+(1,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Management”(是否缺少程序集引用?)
+(113,13): error CS0246: 未能找到类型或命名空间名“Architecture”(是否缺少 using 指令或程序集引用?)
+(171,13): error CS0246: 未能找到类型或命名空间名“Architecture”(是否缺少 using 指令或程序集引用?)
+(339,19): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(340,19): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(249,10): error CS0246: 未能找到类型或命名空间名“ObsoleteAttribute”(是否缺少 using 指令或程序集引用?)
+(249,10): error CS0246: 未能找到类型或命名空间名“Obsolete”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(419,25): error CS0103: 当前上下文中不存在名称“SignatureHelper”
+(422,34): error CS0103: 当前上下文中不存在名称“SignatureStatus”
+(91,24): error CS0103: 当前上下文中不存在名称“Environment”
+(91,50): error CS0103: 当前上下文中不存在名称“Environment”
+(92,20): error CS0103: 当前上下文中不存在名称“Path”
+(92,97): error CS0103: 当前上下文中不存在名称“RuntimeInformation”
+(312,24): error CS0103: 当前上下文中不存在名称“Environment”
+(312,50): error CS0103: 当前上下文中不存在名称“Environment”
+(313,20): error CS0103: 当前上下文中不存在名称“Path”
+(313,97): error CS0103: 当前上下文中不存在名称“RuntimeInformation”
+(20,24): error CS0103: 当前上下文中不存在名称“Environment”
+(20,50): error CS0103: 当前上下文中不存在名称“Environment”
+(21,20): error CS0103: 当前上下文中不存在名称“Path”
+(21,97): error CS0103: 当前上下文中不存在名称“RuntimeInformation”
+(98,35): error CS0103: 当前上下文中不存在名称“Enum”
+(105,27): error CS0246: 未能找到类型或命名空间名“FileNotFoundException”(是否缺少 using 指令或程序集引用?)
+(27,35): error CS0103: 当前上下文中不存在名称“Enum”
+(34,27): error CS0246: 未能找到类型或命名空间名“FileNotFoundException”(是否缺少 using 指令或程序集引用?)
+(319,35): error CS0103: 当前上下文中不存在名称“Enum”
+(326,27): error CS0246: 未能找到类型或命名空间名“FileNotFoundException”(是否缺少 using 指令或程序集引用?)
+(118,13): error CS0103: 当前上下文中不存在名称“IOPath”
+(120,27): error CS0246: 未能找到类型或命名空间名“ProcessStartInfo”(是否缺少 using 指令或程序集引用?)
+(132,13): error CS0103: 当前上下文中不存在名称“ProcessHelper”
+(45,13): error CS0103: 当前上下文中不存在名称“IOPath”
+(48,27): error CS0246: 未能找到类型或命名空间名“ProcessStartInfo”(是否缺少 using 指令或程序集引用?)
+(58,13): error CS0103: 当前上下文中不存在名称“ProcessHelper”
+(60,26): error CS0103: 当前上下文中不存在名称“File”
+(62,13): error CS0103: 当前上下文中不存在名称“File”
+(64,30): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(65,13): error CS0103: 当前上下文中不存在名称“CopyDirectory”
+(66,23): error CS0246: 未能找到类型或命名空间名“ProcessStartInfo”(是否缺少 using 指令或程序集引用?)
+(76,13): error CS0103: 当前上下文中不存在名称“ProcessHelper”
+(78,13): error CS0103: 当前上下文中不存在名称“IOPath”
+(142,13): error CS0103: 当前上下文中不存在名称“IOPath”
+(144,27): error CS0246: 未能找到类型或命名空间名“ProcessStartInfo”(是否缺少 using 指令或程序集引用?)
+(153,13): error CS0103: 当前上下文中不存在名称“ProcessHelper”
+(242,30): error CS0246: 未能找到类型或命名空间名“XmlDocument”(是否缺少 using 指令或程序集引用?)
+(245,31): error CS0103: 当前上下文中不存在名称“Path”
+(246,13): error CS0103: 当前上下文中不存在名称“File”
+(265,30): error CS0246: 未能找到类型或命名空间名“XmlDocument”(是否缺少 using 指令或程序集引用?)
+(268,31): error CS0103: 当前上下文中不存在名称“Path”
+(269,13): error CS0103: 当前上下文中不存在名称“File”
+(345,13): error CS0246: 未能找到类型或命名空间名“ProcessStartInfo”(是否缺少 using 指令或程序集引用?)
+(350,35): error CS0246: 未能找到类型或命名空间名“ProcessStartInfo”(是否缺少 using 指令或程序集引用?)
+(366,30): error CS0103: 当前上下文中不存在名称“File”
+(368,55): error CS0246: 未能找到类型或命名空间名“FileNotFoundException”(是否缺少 using 指令或程序集引用?)
+(372,45): error CS0103: 当前上下文中不存在名称“Path”
+(375,47): error CS0103: 当前上下文中不存在名称“File”
+(375,65): error CS0103: 当前上下文中不存在名称“Path”
+(378,35): error CS0103: 当前上下文中不存在名称“File”
+(380,31): error CS0103: 当前上下文中不存在名称“ProtectedData”
+(382,29): error CS0103: 当前上下文中不存在名称“DataProtectionScope”
+(384,36): error CS0103: 当前上下文中不存在名称“Encoding”
+(385,35): error CS0246: 未能找到类型或命名空间名“ProcessStartInfo”(是否缺少 using 指令或程序集引用?)
+(399,13): error CS0103: 当前上下文中不存在名称“ProcessHelper”
+(1,1): hidden CS8019: 不需要的 using 指令。

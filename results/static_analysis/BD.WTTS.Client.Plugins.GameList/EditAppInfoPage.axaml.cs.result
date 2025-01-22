@@ -1,0 +1,48 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(5,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(6,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(7,24): error CS0234: 命名空间“BD.WTTS.UI.Views”中不存在类型或命名空间名“Controls”(是否缺少程序集引用?)
+(11,40): error CS0246: 未能找到类型或命名空间名“ReactiveUserControl<>”(是否缺少 using 指令或程序集引用?)
+(11,60): error CS0246: 未能找到类型或命名空间名“EditAppInfoPageViewModel”(是否缺少 using 指令或程序集引用?)
+(13,5): error CS0246: 未能找到类型或命名空间名“SteamGridItemType”(是否缺少 using 指令或程序集引用?)
+(20,44): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(20,54): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(30,44): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(30,54): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(36,44): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(36,54): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(60,47): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(60,57): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(17,9): error CS0103: 当前上下文中不存在名称“InitializeComponent”
+(22,13): error CS0103: 当前上下文中不存在名称“ViewModel”
+(24,59): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(24,29): error CS0246: 未能找到类型或命名空间名“SteamGridItemType”(是否缺少 using 指令或程序集引用?)
+(24,76): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(25,13): error CS0103: 当前上下文中不存在名称“ViewModel”
+(26,13): error CS0103: 当前上下文中不存在名称“ViewModel”
+(32,9): error CS0103: 当前上下文中不存在名称“SteamGridDBContent”
+(33,9): error CS0103: 当前上下文中不存在名称“MediaContent”
+(38,13): error CS0103: 当前上下文中不存在名称“ViewModel”
+(40,59): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(40,29): error CS0246: 未能找到类型或命名空间名“SteamGridItemType”(是否缺少 using 指令或程序集引用?)
+(40,76): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(41,13): error CS0103: 当前上下文中不存在名称“ViewModel”
+(42,13): error CS0103: 当前上下文中不存在名称“SteamGridDBContent”
+(43,13): error CS0103: 当前上下文中不存在名称“MediaContent”
+(62,23): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(62,53): error CS0246: 未能找到类型或命名空间名“SteamGridItem”(是否缺少 using 指令或程序集引用?)
+(64,13): error CS0103: 当前上下文中不存在名称“ViewModel”
+(65,13): error CS0103: 当前上下文中不存在名称“ViewModel”
+(66,13): error CS0103: 当前上下文中不存在名称“SteamGridDBContent”
+(67,13): error CS0103: 当前上下文中不存在名称“MediaContent”
+(3,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。
+(6,1): hidden CS8019: 不需要的 using 指令。
+(5,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(7,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

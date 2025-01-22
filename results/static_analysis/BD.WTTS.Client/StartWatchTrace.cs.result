@@ -1,0 +1,21 @@
+(6,2): error CS0246: 未能找到类型或命名空间名“ObsoleteAttribute”(是否缺少 using 指令或程序集引用?)
+(6,2): error CS0246: 未能找到类型或命名空间名“Obsolete”(是否缺少 using 指令或程序集引用?)
+(12,37): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(9,12): error CS0246: 未能找到类型或命名空间名“Stopwatch”(是否缺少 using 指令或程序集引用?)
+(10,12): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(14,13): error CS0019: 运算符“!=”无法应用于“Stopwatch?”和“<null>”类型的操作数
+(18,33): error CS1061: “Stopwatch?”未包含“Stop”的定义，并且找不到可接受第一个“Stopwatch?”类型参数的可访问扩展方法“Stop”(是否缺少 using 指令或程序集引用?)
+(19,25): error CS1061: “Stopwatch?”未包含“Restart”的定义，并且找不到可接受第一个“Stopwatch?”类型参数的可访问扩展方法“Restart”(是否缺少 using 指令或程序集引用?)
+(22,16): error CS1061: “Stopwatch?”未包含“Stop”的定义，并且找不到可接受第一个“Stopwatch?”类型参数的可访问扩展方法“Stop”(是否缺少 using 指令或程序集引用?)
+(23,29): error CS0103: 当前上下文中不存在名称“IApplication”
+(27,58): error CS1061: “Stopwatch?”未包含“ElapsedMilliseconds”的定义，并且找不到可接受第一个“Stopwatch?”类型参数的可访问扩展方法“ElapsedMilliseconds”(是否缺少 using 指令或程序集引用?)
+(27,20): error CS1061: “StringBuilder?”未包含“AppendFormatLine”的定义，并且找不到可接受第一个“StringBuilder?”类型参数的可访问扩展方法“AppendFormatLine”(是否缺少 using 指令或程序集引用?)
+(31,45): error CS0103: 当前上下文中不存在名称“Environment”
+(32,107): error CS1061: “Stopwatch?”未包含“ElapsedMilliseconds”的定义，并且找不到可接受第一个“Stopwatch?”类型参数的可访问扩展方法“ElapsedMilliseconds”(是否缺少 using 指令或程序集引用?)
+(33,17): error CS0103: 当前上下文中不存在名称“Debug”
+(34,17): error CS0103: 当前上下文中不存在名称“Console”
+(36,30): error CS1061: “Stopwatch?”未包含“Restart”的定义，并且找不到可接受第一个“Stopwatch?”类型参数的可访问扩展方法“Restart”(是否缺少 using 指令或程序集引用?)
+(40,18): error CS0103: 当前上下文中不存在名称“Stopwatch”
+(46,47): error CS0019: 运算符“==”无法应用于“Stopwatch?”和“<null>”类型的操作数
+(46,68): error CS1061: “Stopwatch?”未包含“ElapsedMilliseconds”的定义，并且找不到可接受第一个“Stopwatch?”类型参数的可访问扩展方法“ElapsedMilliseconds”(是否缺少 using 指令或程序集引用?)

@@ -1,0 +1,242 @@
+(2,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(4,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“Common”(是否缺少程序集引用?)
+(5,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Helpers”(是否缺少程序集引用?)
+(6,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)
+(7,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)
+(8,7): error CS0246: 未能找到类型或命名空间名“FluentAvalonia”(是否缺少 using 指令或程序集引用?)
+(21,12): error CS0246: 未能找到类型或命名空间名“SourceCache<,>”(是否缺少 using 指令或程序集引用?)
+(21,24): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(24,12): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(24,32): error CS0246: 未能找到类型或命名空间名“XunYouGame”(是否缺少 using 指令或程序集引用?)
+(30,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(33,12): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(36,12): error CS0246: 未能找到类型或命名空间名“XunYouAccelStateModel”(是否缺少 using 指令或程序集引用?)
+(38,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(40,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(42,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(44,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(46,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(48,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(54,12): error CS0246: 未能找到类型或命名空间名“DateTime”(是否缺少 using 指令或程序集引用?)
+(59,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(246,43): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(258,30): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(340,39): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(340,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(496,37): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(507,34): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(606,25): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(679,53): error CS0246: 未能找到类型或命名空间名“TaskDialog”(是否缺少 using 指令或程序集引用?)
+(679,68): error CS0246: 未能找到类型或命名空间名“IAsyncEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(679,85): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(679,26): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(745,45): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(802,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(811,34): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(811,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(823,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(17,21): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(23,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(23,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(26,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(26,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(29,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(29,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(32,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(32,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(35,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(35,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(53,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(53,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(58,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(58,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(17,78): error CS0103: 当前上下文中不存在名称“LazyThreadSafetyMode”
+(63,9): error CS0103: 当前上下文中不存在名称“Ioc”
+(63,17): error CS0246: 未能找到类型或命名空间名“IAcceleratorService”(是否缺少 using 指令或程序集引用?)
+(67,31): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(67,54): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(68,34): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(68,65): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(69,29): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(69,60): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(70,37): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(78,39): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(79,40): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(79,63): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(81,13): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(83,18): error CS1061: “GameAcceleratorService”未包含“WhenValueChanged”的定义，并且找不到可接受第一个“GameAcceleratorService”类型参数的可访问扩展方法“WhenValueChanged”(是否缺少 using 指令或程序集引用?)
+(84,28): error CS0103: 当前上下文中不存在名称“RxApp”
+(186,13): error CS0103: 当前上下文中不存在名称“UserService”
+(187,28): error CS0103: 当前上下文中不存在名称“RxApp”
+(260,14): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(265,13): error CS0019: 运算符“!=”无法应用于“XunYouGameViewModel?”和“<null>”类型的操作数
+(265,70): error CS1061: “XunYouGameViewModel?”未包含“Id”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“Id”(是否缺少 using 指令或程序集引用?)
+(267,36): error CS1061: “XunYouGameViewModel?”未包含“IsAccelerating”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“IsAccelerating”(是否缺少 using 指令或程序集引用?)
+(268,36): error CS1061: “XunYouGameViewModel?”未包含“IsAccelerated”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“IsAccelerated”(是否缺少 using 指令或程序集引用?)
+(269,36): error CS1061: “XunYouGameViewModel?”未包含“LastAccelerateTime”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“LastAccelerateTime”(是否缺少 using 指令或程序集引用?)
+(269,57): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(271,40): error CS1061: “XunYouGameViewModel?”未包含“PicInfo”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“PicInfo”(是否缺少 using 指令或程序集引用?)
+(273,40): error CS1061: “XunYouGameViewModel?”未包含“PicInfo”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“PicInfo”(是否缺少 using 指令或程序集引用?)
+(273,50): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(273,94): error CS1061: “XunYouGameViewModel?”未包含“Id”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“Id”(是否缺少 using 指令或程序集引用?)
+(275,40): error CS1061: “XunYouGameViewModel?”未包含“SelectedArea”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“SelectedArea”(是否缺少 using 指令或程序集引用?)
+(277,32): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(278,40): error CS1061: “XunYouGameViewModel?”未包含“SelectedArea”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“SelectedArea”(是否缺少 using 指令或程序集引用?)
+(280,40): error CS1061: “XunYouGameViewModel?”未包含“SelectedServer”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“SelectedServer”(是否缺少 using 指令或程序集引用?)
+(282,40): error CS1061: “XunYouGameViewModel?”未包含“SelectedServer”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“SelectedServer”(是否缺少 using 指令或程序集引用?)
+(282,80): error CS1061: “XunYouGameViewModel?”未包含“SelectedArea”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“SelectedArea”(是否缺少 using 指令或程序集引用?)
+(287,28): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(290,38): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(294,28): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(297,28): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(302,13): error CS0103: 当前上下文中不存在名称“GameAcceleratorSettings”
+(302,80): error CS1061: “XunYouGameViewModel?”未包含“Id”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“Id”(是否缺少 using 指令或程序集引用?)
+(304,13): error CS0103: 当前上下文中不存在名称“GameAcceleratorSettings”
+(304,75): error CS1061: “XunYouGameViewModel?”未包含“Id”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“Id”(是否缺少 using 指令或程序集引用?)
+(306,9): error CS0103: 当前上下文中不存在名称“GameAcceleratorSettings”
+(306,71): error CS1061: “XunYouGameViewModel?”未包含“Id”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“Id”(是否缺少 using 指令或程序集引用?)
+(310,9): error CS0103: 当前上下文中不存在名称“TracepointHelper”
+(311,9): error CS0103: 当前上下文中不存在名称“Toast”
+(311,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(312,13): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(318,17): error CS0019: 运算符“!=”无法应用于“XunYouGameViewModel?”和“<null>”类型的操作数
+(320,40): error CS1061: “XunYouGameViewModel?”未包含“SetPingValue”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“SetPingValue”(是否缺少 using 指令或程序集引用?)
+(321,40): error CS1061: “XunYouGameViewModel?”未包含“PingSpeedLoss”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“PingSpeedLoss”(是否缺少 using 指令或程序集引用?)
+(316,31): error CS0246: 未能找到类型或命名空间名“SpeedCallbackWrapper”(是否缺少 using 指令或程序集引用?)
+(328,25): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(328,68): error CS1061: “XunYouGameViewModel?”未包含“Id”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“Id”(是否缺少 using 指令或程序集引用?)
+(329,36): error CS1061: “XunYouGameViewModel?”未包含“SelectedArea”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“SelectedArea”(是否缺少 using 指令或程序集引用?)
+(330,36): error CS1061: “XunYouGameViewModel?”未包含“SelectedServer”的定义，并且找不到可接受第一个“XunYouGameViewModel?”类型参数的可访问扩展方法“SelectedServer”(是否缺少 using 指令或程序集引用?)
+(258,16): warning CS1998: 此异步方法缺少 "await" 运算符，将以同步方式运行。请考虑使用 "await" 运算符等待非阻止的 API 调用，或者使用 "await Task.Run(...)" 在后台线程上执行占用大量 CPU 的工作。
+(342,14): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(344,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(348,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(353,38): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(355,17): error CS0103: 当前上下文中不存在名称“UserService”
+(357,17): error CS0103: 当前上下文中不存在名称“Toast”
+(357,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(358,17): error CS0103: 当前上下文中不存在名称“UserService”
+(360,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(363,13): error CS0103: 当前上下文中不存在名称“TracepointHelper”
+(363,70): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(368,41): error CS0103: 当前上下文中不存在名称“Ioc”
+(368,49): error CS0246: 未能找到类型或命名空间名“IAcceleratorService”(是否缺少 using 指令或程序集引用?)
+(380,32): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(380,80): error CS0246: 未能找到类型或命名空间名“MessageBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(381,42): error CS0246: 未能找到类型或命名空间名“AcceleratorPathAskBox”(是否缺少 using 指令或程序集引用?)
+(384,25): error CS0126: 需要一个类型可转换为“Task”的对象
+(408,45): error CS0103: 当前上下文中不存在名称“Ioc”
+(408,53): error CS0246: 未能找到类型或命名空间名“IAcceleratorService”(是否缺少 using 指令或程序集引用?)
+(413,21): error CS0126: 需要一个类型可转换为“Task”的对象
+(416,51): error CS0103: 当前上下文中不存在名称“XunYouIsRunningCode”
+(422,32): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(425,21): error CS0103: 当前上下文中不存在名称“Toast”
+(425,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(427,21): error CS0126: 需要一个类型可转换为“Task”的对象
+(430,30): error CS0246: 未能找到类型或命名空间名“GameInfoPageViewModel”(是否缺少 using 指令或程序集引用?)
+(431,36): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(431,123): error CS0246: 未能找到类型或命名空间名“GameInfoPage”(是否缺少 using 指令或程序集引用?)
+(435,21): error CS0126: 需要一个类型可转换为“Task”的对象
+(438,21): error CS0103: 当前上下文中不存在名称“GameAcceleratorSettings”
+(440,21): error CS0103: 当前上下文中不存在名称“GameAcceleratorSettings”
+(442,17): error CS0103: 当前上下文中不存在名称“GameAcceleratorSettings”
+(445,47): error CS0103: 当前上下文中不存在名称“Ioc”
+(445,55): error CS0246: 未能找到类型或命名空间名“IAcceleratorService”(是否缺少 using 指令或程序集引用?)
+(450,29): error CS0103: 当前上下文中不存在名称“Ioc”
+(450,37): error CS0246: 未能找到类型或命名空间名“IAcceleratorService”(是否缺少 using 指令或程序集引用?)
+(451,25): error CS0103: 当前上下文中不存在名称“UserService”
+(452,25): error CS0103: 当前上下文中不存在名称“UserService”
+(463,25): error CS0103: 当前上下文中不存在名称“Toast”
+(463,36): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(467,25): error CS0103: 当前上下文中不存在名称“Toast”
+(467,36): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(479,37): error CS0103: 当前上下文中不存在名称“Ioc”
+(479,45): error CS0246: 未能找到类型或命名空间名“IAcceleratorService”(是否缺少 using 指令或程序集引用?)
+(483,29): error CS0103: 当前上下文中不存在名称“XunYouSendResultCode”
+(485,21): error CS0103: 当前上下文中不存在名称“Toast”
+(485,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(490,21): error CS0103: 当前上下文中不存在名称“Toast”
+(490,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(340,23): error CS0161: “GameAcceleratorService.GameAccelerator(XunYouGameViewModel)”: 并非所有的代码路径都返回值
+(503,9): error CS0103: 当前上下文中不存在名称“GameAcceleratorSettings”
+(504,9): error CS0103: 当前上下文中不存在名称“Toast”
+(504,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(509,34): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(510,9): error CS0103: 当前上下文中不存在名称“GameAcceleratorSettings”
+(511,13): error CS0103: 当前上下文中不存在名称“GameAcceleratorSettings”
+(514,31): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(516,13): error CS0103: 当前上下文中不存在名称“Toast”
+(516,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(525,14): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(528,9): error CS0103: 当前上下文中不存在名称“Task2”
+(568,9): error CS0103: 当前上下文中不存在名称“Task2”
+(608,37): error CS0103: 当前上下文中不存在名称“Ioc”
+(608,45): error CS0246: 未能找到类型或命名空间名“IAcceleratorService”(是否缺少 using 指令或程序集引用?)
+(613,17): error CS0103: 当前上下文中不存在名称“Toast”
+(613,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(614,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(616,13): error CS0103: 当前上下文中不存在名称“TracepointHelper”
+(617,26): error CS0246: 未能找到类型或命名空间名“TaskDialog”(是否缺少 using 指令或程序集引用?)
+(621,34): error CS0246: 未能找到类型或命名空间名“SymbolIconSource”(是否缺少 using 指令或程序集引用?)
+(621,62): error CS0103: 当前上下文中不存在名称“FluentAvalonia”
+(624,28): error CS0103: 当前上下文中不存在名称“AvaloniaWindowManagerImpl”
+(630,27): error CS0103: 当前上下文中不存在名称“Ioc”
+(630,35): error CS0246: 未能找到类型或命名空间名“IAcceleratorService”(是否缺少 using 指令或程序集引用?)
+(630,69): error CS0103: 当前上下文中不存在名称“GameAcceleratorSettings”
+(606,30): error CS0161: “GameAcceleratorService.InstallAccelerator()”: 并非所有的代码路径都返回值
+(688,25): error CS0103: 当前上下文中不存在名称“Dispatcher”
+(689,62): error CS0103: 当前上下文中不存在名称“TaskDialogProgressState”
+(692,62): error CS0103: 当前上下文中不存在名称“TaskDialogProgressState”
+(693,25): error CS0103: 当前上下文中不存在名称“Dispatcher”
+(695,31): error CS0103: 当前上下文中不存在名称“XunYouDownLoadCode”
+(698,25): error CS0103: 当前上下文中不存在名称“TracepointHelper”
+(699,25): error CS0103: 当前上下文中不存在名称“Dispatcher”
+(702,57): error CS0103: 当前上下文中不存在名称“XunYouDownLoadCode”
+(707,25): error CS0103: 当前上下文中不存在名称“Dispatcher”
+(711,25): error CS0103: 当前上下文中不存在名称“Dispatcher”
+(713,25): error CS0103: 当前上下文中不存在名称“Dispatcher”
+(679,31): error CS0161: “GameAcceleratorService.DownloadCallbackAsync(TaskDialog, IAsyncEnumerable<ApiRsp<int>>)”: 并非所有的代码路径都返回值
+(722,37): error CS0103: 当前上下文中不存在名称“Ioc”
+(722,45): error CS0246: 未能找到类型或命名空间名“IAcceleratorService”(是否缺少 using 指令或程序集引用?)
+(727,17): error CS0103: 当前上下文中不存在名称“Toast”
+(727,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(730,35): error CS0103: 当前上下文中不存在名称“Ioc”
+(730,43): error CS0246: 未能找到类型或命名空间名“IAcceleratorService”(是否缺少 using 指令或程序集引用?)
+(735,21): error CS0103: 当前上下文中不存在名称“Toast”
+(735,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(739,21): error CS0103: 当前上下文中不存在名称“Toast”
+(739,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(747,24): error CS0103: 当前上下文中不存在名称“XunYouSDK”
+(750,13): error CS0103: 当前上下文中不存在名称“Toast”
+(750,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(754,22): error CS0246: 未能找到类型或命名空间名“GameInfoPageViewModel”(是否缺少 using 指令或程序集引用?)
+(754,48): error CS0246: 未能找到类型或命名空间名“XunYouGameViewModel”(是否缺少 using 指令或程序集引用?)
+(755,28): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(755,115): error CS0246: 未能找到类型或命名空间名“GameInfoPage”(是否缺少 using 指令或程序集引用?)
+(774,31): error CS0103: 当前上下文中不存在名称“Ioc”
+(774,39): error CS0246: 未能找到类型或命名空间名“IAcceleratorService”(是否缺少 using 指令或程序集引用?)
+(783,21): error CS0103: 当前上下文中不存在名称“Toast”
+(783,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(787,21): error CS0103: 当前上下文中不存在名称“Toast”
+(787,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(804,28): error CS0103: 当前上下文中不存在名称“Ioc”
+(804,36): error CS0246: 未能找到类型或命名空间名“IAcceleratorService”(是否缺少 using 指令或程序集引用?)
+(802,23): error CS0161: “GameAcceleratorService.RefreshXYAccelState()”: 并非所有的代码路径都返回值
+(813,28): error CS0103: 当前上下文中不存在名称“Ioc”
+(813,36): error CS0246: 未能找到类型或命名空间名“IAcceleratorService”(是否缺少 using 指令或程序集引用?)
+(816,22): error CS0103: 当前上下文中不存在名称“XunYouStartGameCode”
+(818,17): error CS0103: 当前上下文中不存在名称“Toast”
+(818,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(811,23): error CS0161: “GameAcceleratorService.GameLaunch(XunYouGameViewModel)”: 并非所有的代码路径都返回值
+(830,28): error CS0103: 当前上下文中不存在名称“Ioc”
+(830,36): error CS0246: 未能找到类型或命名空间名“IAcceleratorService”(是否缺少 using 指令或程序集引用?)
+(823,23): error CS0161: “GameAcceleratorService.ShowXunYouWindow(bool)”: 并非所有的代码路径都返回值
+(2,1): hidden CS8019: 不需要的 using 指令。
+(6,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(5,1): hidden CS8019: 不需要的 using 指令。
+(7,1): hidden CS8019: 不需要的 using 指令。
+(8,1): hidden CS8019: 不需要的 using 指令。

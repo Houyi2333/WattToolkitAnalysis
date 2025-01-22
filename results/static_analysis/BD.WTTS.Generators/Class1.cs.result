@@ -1,0 +1,4 @@
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(1,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

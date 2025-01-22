@@ -1,0 +1,16 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“FluentAvalonia”(是否缺少 using 指令或程序集引用?)
+(5,67): error CS0246: 未能找到类型或命名空间名“ViewModelBase”(是否缺少 using 指令或程序集引用?)
+(7,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(9,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(31,21): error CS0246: 未能找到类型或命名空间名“TaskDialog”(是否缺少 using 指令或程序集引用?)
+(31,48): error CS0246: 未能找到类型或命名空间名“IProgress<>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(13,29): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(13,52): error CS0103: 当前上下文中不存在名称“ASFService”
+(14,23): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(33,34): error CS0246: 未能找到类型或命名空间名“TaskDialog”(是否缺少 using 指令或程序集引用?)
+(37,30): error CS0246: 未能找到类型或命名空间名“SymbolIconSource”(是否缺少 using 指令或程序集引用?)
+(37,58): error CS0103: 当前上下文中不存在名称“Symbol”
+(40,24): error CS0103: 当前上下文中不存在名称“AvaloniaWindowManagerImpl”
+(46,28): error CS0246: 未能找到类型或命名空间名“Progress<>”(是否缺少 using 指令或程序集引用?)
+(1,1): hidden CS8019: 不需要的 using 指令。

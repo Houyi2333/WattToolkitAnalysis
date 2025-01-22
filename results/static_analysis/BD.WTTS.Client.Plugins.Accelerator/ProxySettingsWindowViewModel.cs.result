@@ -1,0 +1,36 @@
+(1,22): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Services”(是否缺少程序集引用?)
+(5,52): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(17,19): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(28,12): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(34,19): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(20,9): error CS0103: 当前上下文中不存在名称“PrimaryDNS_114”
+(21,9): error CS0103: 当前上下文中不存在名称“PrimaryDNS_Ali”
+(22,9): error CS0103: 当前上下文中不存在名称“PrimaryDNS_Dnspod”
+(23,9): error CS0103: 当前上下文中不存在名称“PrimaryDNS_Baidu”
+(24,9): error CS0103: 当前上下文中不存在名称“PrimaryDNS_Google”
+(25,9): error CS0103: 当前上下文中不存在名称“PrimaryDNS_Cloudflare”
+(36,13): error CS0103: 当前上下文中不存在名称“Dnspod_DohAddres”
+(37,13): error CS0103: 当前上下文中不存在名称“Dnspod_DohAddres2”
+(38,13): error CS0103: 当前上下文中不存在名称“Dnspod_DohAddres3”
+(39,13): error CS0103: 当前上下文中不存在名称“DNS_Ali_DohAddres”
+(40,13): error CS0103: 当前上下文中不存在名称“DNS_Ali_DohAddres2”
+(41,13): error CS0103: 当前上下文中不存在名称“DNS_Ali_DohAddres3”
+(42,13): error CS0103: 当前上下文中不存在名称“Google_DohAddres”
+(43,13): error CS0103: 当前上下文中不存在名称“Cloudflare_DohAddres”
+(44,13): error CS0103: 当前上下文中不存在名称“DohAddres_360”
+(45,13): error CS0103: 当前上下文中不存在名称“TUNA_DohAddres”
+(7,41): error CS0103: 当前上下文中不存在名称“Strings”
+(11,9): error CS0103: 当前上下文中不存在名称“Title”
+(51,9): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(52,9): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(53,9): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(54,9): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(55,9): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(56,9): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(57,9): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(58,9): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(61,9): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(63,9): error CS0103: 当前上下文中不存在名称“Toast”
+(63,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(1,1): hidden CS8019: 不需要的 using 指令。

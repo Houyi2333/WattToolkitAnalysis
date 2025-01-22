@@ -1,0 +1,46 @@
+(3,14): error CS0103: 当前上下文中不存在名称“Console”
+(4,14): error CS0103: 当前上下文中不存在名称“Console”
+(7,47): error CS0103: 当前上下文中不存在名称“Process”
+(8,5): error CS0103: 当前上下文中不存在名称“Console”
+(10,25): error CS0103: 当前上下文中不存在名称“Path”
+(10,38): error CS0103: 当前上下文中不存在名称“Environment”
+(11,5): error CS0103: 当前上下文中不存在名称“Console”
+(15,20): error CS0103: 当前上下文中不存在名称“File”
+(16,9): error CS0103: 当前上下文中不存在名称“Console”
+(17,9): error CS0103: 当前上下文中不存在名称“Console”
+(18,9): error CS0103: 当前上下文中不存在名称“Console”
+(19,9): error CS0103: 当前上下文中不存在名称“Console”
+(21,9): error CS0103: 当前上下文中不存在名称“File”
+(22,9): error CS0103: 当前上下文中不存在名称“Console”
+(22,35): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(23,9): error CS0103: 当前上下文中不存在名称“Console”
+(23,35): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(24,9): error CS0103: 当前上下文中不存在名称“Console”
+(26,12): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(28,9): error CS0103: 当前上下文中不存在名称“Console”
+(28,35): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(29,9): error CS0103: 当前上下文中不存在名称“Console”
+(29,35): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(30,9): error CS0103: 当前上下文中不存在名称“Console”
+(31,9): error CS0103: 当前上下文中不存在名称“Console”
+(34,9): error CS0103: 当前上下文中不存在名称“Console”
+(35,9): error CS0103: 当前上下文中不存在名称“Console”
+(36,9): error CS0103: 当前上下文中不存在名称“Console”
+(37,9): error CS0103: 当前上下文中不存在名称“Console”
+(45,5): error CS0103: 当前上下文中不存在名称“Console”
+(46,5): error CS0103: 当前上下文中不存在名称“Console”
+(47,5): error CS0103: 当前上下文中不存在名称“Console”
+(48,5): error CS0103: 当前上下文中不存在名称“Console”
+(65,9): error CS0246: 未能找到类型或命名空间名“PInvoke”(是否缺少 using 指令或程序集引用?)
+(68,17): error CS0103: 当前上下文中不存在名称“PInvoke”
+(69,17): error CS0103: 当前上下文中不存在名称“PInvoke”
+(73,21): error CS0103: 当前上下文中不存在名称“PInvoke”
+(75,21): error CS0103: 当前上下文中不存在名称“PInvoke”
+(89,21): error CS0103: 当前上下文中不存在名称“Marshal”
+(90,19): error CS0246: 未能找到类型或命名空间名“Win32Exception”(是否缺少 using 指令或程序集引用?)
+(96,12): error CS0246: 未能找到类型或命名空间名“Win32Exception”(是否缺少 using 指令或程序集引用?)
+(57,20): error CS0227: 不安全代码只会在使用 /unsafe 编译的情况下出现
+(57,38): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(56,2): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(56,2): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(56,13): error CS0103: 当前上下文中不存在名称“MethodImplOptions”

@@ -1,0 +1,61 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“STUN”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“STUN”(是否缺少 using 指令或程序集引用?)
+(3,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Reactive”(是否缺少程序集引用?)
+(7,53): error CS0246: 未能找到类型或命名空间名“ViewModelBase”(是否缺少 using 指令或程序集引用?)
+(10,34): error CS8795: 分部方法“NetworkCheckControlViewModel.DomainRegExp()”必须具有实现部分，因为它具有可访问性修饰符。
+(10,28): error CS0246: 未能找到类型或命名空间名“Regex”(是否缺少 using 指令或程序集引用?)
+(23,22): error CS0246: 未能找到类型或命名空间名“INetworkTestService”(是否缺少 using 指令或程序集引用?)
+(83,12): error CS0246: 未能找到类型或命名空间名“ReactiveCommand<,>”(是否缺少 using 指令或程序集引用?)
+(83,28): error CS0246: 未能找到类型或命名空间名“Unit”(是否缺少 using 指令或程序集引用?)
+(85,12): error CS0246: 未能找到类型或命名空间名“ReactiveCommand<,>”(是否缺少 using 指令或程序集引用?)
+(85,28): error CS0246: 未能找到类型或命名空间名“Unit”(是否缺少 using 指令或程序集引用?)
+(85,34): error CS0246: 未能找到类型或命名空间名“Unit”(是否缺少 using 指令或程序集引用?)
+(87,12): error CS0246: 未能找到类型或命名空间名“ReactiveCommand<,>”(是否缺少 using 指令或程序集引用?)
+(87,28): error CS0246: 未能找到类型或命名空间名“Unit”(是否缺少 using 指令或程序集引用?)
+(87,34): error CS0246: 未能找到类型或命名空间名“Unit”(是否缺少 using 指令或程序集引用?)
+(12,46): error CS0246: 未能找到类型或命名空间名“RegularExpressionAttribute”(是否缺少 using 指令或程序集引用?)
+(9,6): error CS0246: 未能找到类型或命名空间名“GeneratedRegexAttribute”(是否缺少 using 指令或程序集引用?)
+(9,6): error CS0246: 未能找到类型或命名空间名“GeneratedRegex”(是否缺少 using 指令或程序集引用?)
+(29,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(29,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(40,6): error CS0246: 未能找到类型或命名空间名“ObservableAsPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(40,6): error CS0246: 未能找到类型或命名空间名“ObservableAsProperty”(是否缺少 using 指令或程序集引用?)
+(43,6): error CS0246: 未能找到类型或命名空间名“ObservableAsPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(43,6): error CS0246: 未能找到类型或命名空间名“ObservableAsProperty”(是否缺少 using 指令或程序集引用?)
+(46,6): error CS0246: 未能找到类型或命名空间名“ObservableAsPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(46,6): error CS0246: 未能找到类型或命名空间名“ObservableAsProperty”(是否缺少 using 指令或程序集引用?)
+(49,6): error CS0246: 未能找到类型或命名空间名“ObservableAsPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(49,6): error CS0246: 未能找到类型或命名空间名“ObservableAsProperty”(是否缺少 using 指令或程序集引用?)
+(52,6): error CS0246: 未能找到类型或命名空间名“ObservableAsPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(52,6): error CS0246: 未能找到类型或命名空间名“ObservableAsProperty”(是否缺少 using 指令或程序集引用?)
+(55,6): error CS0246: 未能找到类型或命名空间名“ObservableAsPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(55,6): error CS0246: 未能找到类型或命名空间名“ObservableAsProperty”(是否缺少 using 指令或程序集引用?)
+(58,6): error CS0246: 未能找到类型或命名空间名“ObservableAsPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(58,6): error CS0246: 未能找到类型或命名空间名“ObservableAsProperty”(是否缺少 using 指令或程序集引用?)
+(61,6): error CS0246: 未能找到类型或命名空间名“ObservableAsPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(61,6): error CS0246: 未能找到类型或命名空间名“ObservableAsProperty”(是否缺少 using 指令或程序集引用?)
+(64,6): error CS0246: 未能找到类型或命名空间名“ObservableAsPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(64,6): error CS0246: 未能找到类型或命名空间名“ObservableAsProperty”(是否缺少 using 指令或程序集引用?)
+(67,6): error CS0616: “NetworkCheckControlViewModel.DomainValidationAttribute”不是特性类
+(68,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(68,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(71,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(71,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(74,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(74,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(77,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(77,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(80,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(80,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(23,64): error CS0103: 当前上下文中不存在名称“INetworkTestService”
+(18,46): error CS1729: “RegularExpressionAttribute”不包含采用 1 个参数的构造函数
+(93,27): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(126,20): error CS0103: 当前上下文中不存在名称“Observable”
+(130,20): error CS0103: 当前上下文中不存在名称“Observable”
+(146,32): error CS1061: “NetworkCheckControlViewModel”未包含“WhenAnyValue”的定义，并且找不到可接受第一个“NetworkCheckControlViewModel”类型参数的可访问扩展方法“WhenAnyValue”(是否缺少 using 指令或程序集引用?)
+(148,27): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(182,28): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

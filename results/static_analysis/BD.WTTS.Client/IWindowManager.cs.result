@@ -1,0 +1,90 @@
+(185,5): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(187,24): error CS0246: 未能找到类型或命名空间名“AppEndPoint”(是否缺少 using 指令或程序集引用?)
+(25,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(187,56): error CS0246: 未能找到类型或命名空间名“Assembly”(是否缺少 using 指令或程序集引用?)
+(187,66): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(26,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(187,5): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(33,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(34,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(35,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(36,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(37,9): error CS0246: 未能找到类型或命名空间名“Func<>”(是否缺少 using 指令或程序集引用?)
+(22,5): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(193,24): error CS0246: 未能找到类型或命名空间名“AppEndPoint”(是否缺少 using 指令或程序集引用?)
+(193,49): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(193,61): error CS0246: 未能找到类型或命名空间名“Assembly”(是否缺少 using 指令或程序集引用?)
+(193,5): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(200,33): error CS0246: 未能找到类型或命名空间名“AppEndPoint”(是否缺少 using 指令或程序集引用?)
+(200,65): error CS0246: 未能找到类型或命名空间名“Assembly”(是否缺少 using 指令或程序集引用?)
+(200,75): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(200,5): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(206,33): error CS0246: 未能找到类型或命名空间名“AppEndPoint”(是否缺少 using 指令或程序集引用?)
+(206,58): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(206,70): error CS0246: 未能找到类型或命名空间名“Assembly”(是否缺少 using 指令或程序集引用?)
+(206,5): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(213,50): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(214,9): error CS0246: 未能找到类型或命名空间名“AppEndPoint”(是否缺少 using 指令或程序集引用?)
+(214,34): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(214,46): error CS0246: 未能找到类型或命名空间名“Assembly”(是否缺少 using 指令或程序集引用?)
+(213,20): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(53,9): error CS0246: 未能找到类型或命名空间名“AppEndPoint”(是否缺少 using 指令或程序集引用?)
+(54,25): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(56,9): error CS0246: 未能找到类型或命名空间名“ResizeMode”(是否缺少 using 指令或程序集引用?)
+(52,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(72,20): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(73,9): error CS0246: 未能找到类型或命名空间名“AppEndPoint”(是否缺少 using 指令或程序集引用?)
+(74,9): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(76,9): error CS0246: 未能找到类型或命名空间名“ResizeMode”(是否缺少 using 指令或程序集引用?)
+(72,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(90,20): error CS0246: 未能找到类型或命名空间名“AppEndPoint”(是否缺少 using 指令或程序集引用?)
+(91,9): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(93,9): error CS0246: 未能找到类型或命名空间名“ResizeMode”(是否缺少 using 指令或程序集引用?)
+(90,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(109,9): error CS0246: 未能找到类型或命名空间名“AppEndPoint”(是否缺少 using 指令或程序集引用?)
+(110,25): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(112,9): error CS0246: 未能找到类型或命名空间名“ResizeMode”(是否缺少 using 指令或程序集引用?)
+(108,5): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(127,26): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(128,9): error CS0246: 未能找到类型或命名空间名“AppEndPoint”(是否缺少 using 指令或程序集引用?)
+(129,9): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(131,9): error CS0246: 未能找到类型或命名空间名“ResizeMode”(是否缺少 using 指令或程序集引用?)
+(127,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(143,26): error CS0246: 未能找到类型或命名空间名“AppEndPoint”(是否缺少 using 指令或程序集引用?)
+(144,9): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(146,9): error CS0246: 未能找到类型或命名空间名“ResizeMode”(是否缺少 using 指令或程序集引用?)
+(143,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(153,22): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(160,26): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(166,21): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(172,27): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(39,32): error CS0246: 未能找到类型或命名空间名“ViewModelBase”(是否缺少 using 指令或程序集引用?)
+(59,34): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(115,34): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(54,27): error CS1750: 不能将“<null>”类型的值用作默认参数，因为没有到类型“TWindowViewModel”的标准转换
+(56,33): error CS0103: 当前上下文中不存在名称“ResizeMode”
+(76,33): error CS0103: 当前上下文中不存在名称“ResizeMode”
+(93,33): error CS0103: 当前上下文中不存在名称“ResizeMode”
+(110,27): error CS1750: 不能将“<null>”类型的值用作默认参数，因为没有到类型“TWindowViewModel”的标准转换
+(112,33): error CS0103: 当前上下文中不存在名称“ResizeMode”
+(131,33): error CS0103: 当前上下文中不存在名称“ResizeMode”
+(146,33): error CS0103: 当前上下文中不存在名称“ResizeMode”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(10,39): error CS0103: 当前上下文中不存在名称“Ioc”
+(189,9): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(189,21): error CS0246: 未能找到类型或命名空间名“Assembly”(是否缺少 using 指令或程序集引用?)
+(174,59): error CS0103: 当前上下文中不存在名称“WindowViewModel”
+(175,13): error CS0103: 当前上下文中不存在名称“Enum”
+(175,27): error CS0246: 未能找到类型或命名空间名“AppEndPoint”(是否缺少 using 指令或程序集引用?)
+(202,9): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(202,21): error CS0246: 未能找到类型或命名空间名“Assembly”(是否缺少 using 指令或程序集引用?)
+(210,41): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(216,9): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(217,24): error CS1061: “IEnumerable<Assembly>?”未包含“Any_Nullable”的定义，并且找不到可接受第一个“IEnumerable<Assembly>?”类型参数的可访问扩展方法“Any_Nullable”(是否缺少 using 指令或程序集引用?)
+(219,34): error CS1579: “IEnumerable<Assembly>?”不包含“GetEnumerator”的公共实例或扩展定义，因此 foreach 语句不能作用于“IEnumerable<Assembly>?”类型的变量
+(222,21): error CS0019: 运算符“!=”无法应用于“Type?”和“<null>”类型的操作数
+(227,20): error CS0103: 当前上下文中不存在名称“Type”
+(229,13): error CS0019: 运算符“!=”无法应用于“Type?”和“<null>”类型的操作数
+(229,30): error CS0019: 运算符“==”无法应用于“Type?”和“<null>”类型的操作数
+(229,59): error CS1061: “Type?”未包含“IsAssignableFrom”的定义，并且找不到可接受第一个“Type?”类型参数的可访问扩展方法“IsAssignableFrom”(是否缺少 using 指令或程序集引用?)
+(230,19): error CS0246: 未能找到类型或命名空间名“ArgumentOutOfRangeException”(是否缺少 using 指令或程序集引用?)

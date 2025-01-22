@@ -1,0 +1,96 @@
+(1,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Enums”(是否缺少程序集引用?)
+(2,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Helpers”(是否缺少程序集引用?)
+(3,26): error CS0234: 命名空间“System.Diagnostics”中不存在类型或命名空间名“Metrics”(是否缺少程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“WinAuth”(是否缺少 using 指令或程序集引用?)
+(14,12): error CS0246: 未能找到类型或命名空间名“AuthenticatorPlatform”(是否缺少 using 指令或程序集引用?)
+(27,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(27,29): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(139,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(231,36): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(231,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(12,5): error CS0246: 未能找到类型或命名空间名“IAuthenticatorValueDTO”(是否缺少 using 指令或程序集引用?)
+(21,52): error CS0246: 未能找到类型或命名空间名“AuthenticatorPlatform”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(10,27): error CS0103: 当前上下文中不存在名称“Strings”
+(10,59): error CS0103: 当前上下文中不存在名称“Strings”
+(18,20): error CS0103: 当前上下文中不存在名称“AuthenticatorPlatform”
+(79,13): error CS0103: 当前上下文中不存在名称“AuthenticatorRegexHelper”
+(87,21): error CS0103: 当前上下文中不存在名称“AuthType”
+(87,32): error CS0103: 当前上下文中不存在名称“AuthType”
+(90,21): error CS0103: 当前上下文中不存在名称“AuthType”
+(90,32): error CS0103: 当前上下文中不存在名称“AuthType”
+(96,22): error CS0103: 当前上下文中不存在名称“HttpUtility”
+(102,21): error CS0103: 当前上下文中不存在名称“CurrentCode”
+(110,17): error CS0103: 当前上下文中不存在名称“AuthenticatorName”
+(114,21): error CS0103: 当前上下文中不存在名称“Period”
+(119,21): error CS0103: 当前上下文中不存在名称“CodeDigits”
+(122,21): error CS0103: 当前上下文中不存在名称“Enum”
+(122,35): error CS0246: 未能找到类型或命名空间名“HMACTypes”(是否缺少 using 指令或程序集引用?)
+(124,21): error CS0103: 当前上下文中不存在名称“HMACType”
+(132,30): error CS0103: 当前上下文中不存在名称“AuthenticatorRegexHelper”
+(27,32): warning CS1998: 此异步方法缺少 "await" 运算符，将以同步方式运行。请考虑使用 "await" 运算符等待非阻止的 API 调用，或者使用 "await Task.Run(...)" 在后台线程上执行占用大量 CPU 的工作。
+(141,34): error CS0103: 当前上下文中不存在名称“SecretCode”
+(143,13): error CS0103: 当前上下文中不存在名称“Toast”
+(143,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(143,40): error CS0103: 当前上下文中不存在名称“Strings”
+(144,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(149,53): error CS0103: 当前上下文中不存在名称“SecretCode”
+(153,17): error CS0103: 当前上下文中不存在名称“Toast”
+(153,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(153,45): error CS0103: 当前上下文中不存在名称“Strings”
+(154,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(159,22): error CS0103: 当前上下文中不存在名称“AuthenticatorPlatform”
+(161,40): error CS0246: 未能找到类型或命名空间名“GoogleAuthenticator”(是否缺少 using 指令或程序集引用?)
+(167,29): error CS0103: 当前上下文中不存在名称“Toast”
+(167,40): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(167,57): error CS0103: 当前上下文中不存在名称“Strings”
+(168,29): error CS0126: 需要一个类型可转换为“Task”的对象
+(173,22): error CS0103: 当前上下文中不存在名称“AuthenticatorPlatform”
+(175,40): error CS0246: 未能找到类型或命名空间名“MicrosoftAuthenticator”(是否缺少 using 指令或程序集引用?)
+(181,29): error CS0103: 当前上下文中不存在名称“Toast”
+(181,40): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(181,57): error CS0103: 当前上下文中不存在名称“Strings”
+(182,29): error CS0126: 需要一个类型可转换为“Task”的对象
+(187,22): error CS0103: 当前上下文中不存在名称“AuthenticatorPlatform”
+(190,29): error CS0103: 当前上下文中不存在名称“AuthType”
+(190,41): error CS0103: 当前上下文中不存在名称“AuthType”
+(192,44): error CS0246: 未能找到类型或命名空间名“TOTPAuthenticator”(是否缺少 using 指令或程序集引用?)
+(195,45): error CS0103: 当前上下文中不存在名称“HMACType”
+(196,47): error CS0103: 当前上下文中不存在名称“CodeDigits”
+(197,43): error CS0103: 当前上下文中不存在名称“Period”
+(202,44): error CS0246: 未能找到类型或命名空间名“HOTPAuthenticator”(是否缺少 using 指令或程序集引用?)
+(204,33): error CS0103: 当前上下文中不存在名称“CurrentCode”
+(206,47): error CS0103: 当前上下文中不存在名称“CurrentCode”
+(210,45): error CS0103: 当前上下文中不存在名称“HMACType”
+(211,47): error CS0103: 当前上下文中不存在名称“CodeDigits”
+(212,43): error CS0103: 当前上下文中不存在名称“Period”
+(218,17): error CS0019: 运算符“==”无法应用于“IAuthenticatorValueDTO?”和“<null>”类型的操作数
+(220,17): error CS0103: 当前上下文中不存在名称“Toast”
+(220,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(223,17): error CS0103: 当前上下文中不存在名称“CurrentCode”
+(223,59): error CS1061: “IAuthenticatorValueDTO?”未包含“CurrentCode”的定义，并且找不到可接受第一个“IAuthenticatorValueDTO?”类型参数的可访问扩展方法“CurrentCode”(是否缺少 using 指令或程序集引用?)
+(225,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(139,23): error CS0161: “AuthenticatorGeneralImportPageViewModel.GenerateCode()”: 并非所有的代码路径都返回值
+(233,13): error CS0019: 运算符“==”无法应用于“IAuthenticatorValueDTO?”和“<null>”类型的操作数
+(235,13): error CS0103: 当前上下文中不存在名称“Toast”
+(235,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(235,40): error CS0103: 当前上下文中不存在名称“Strings”
+(236,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(239,34): error CS0103: 当前上下文中不存在名称“AuthenticatorName”
+(241,13): error CS0103: 当前上下文中不存在名称“Toast”
+(241,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(241,43): error CS0103: 当前上下文中不存在名称“Strings”
+(242,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(245,40): error CS0246: 未能找到类型或命名空间名“AuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(247,51): error CS1061: “IAuthenticatorValueDTO?”未包含“Platform”的定义，并且找不到可接受第一个“IAuthenticatorValueDTO?”类型参数的可访问扩展方法“Platform”(是否缺少 using 指令或程序集引用?)
+(247,62): error CS0103: 当前上下文中不存在名称“AuthenticatorName”
+(249,23): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(252,19): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(253,13): error CS0103: 当前上下文中不存在名称“Toast”
+(253,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(253,43): error CS0103: 当前上下文中不存在名称“Strings”
+(231,23): error CS0161: “AuthenticatorGeneralImportPageViewModel.Import(string?)”: 并非所有的代码路径都返回值
+(4,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

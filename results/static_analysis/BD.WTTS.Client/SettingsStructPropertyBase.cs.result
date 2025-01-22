@@ -1,0 +1,64 @@
+(4,140): error CS0246: 未能找到类型或命名空间名“SettingsPropertyBase<>”(是否缺少 using 指令或程序集引用?)
+(4,170): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(4,183): error CS0246: 未能找到类型或命名空间名“INotifyPropertyChanged”(是否缺少 using 指令或程序集引用?)
+(4,50): error CS0246: 未能找到类型或命名空间名“DynamicallyAccessedMembersAttribute”(是否缺少 using 指令或程序集引用?)
+(4,50): error CS0246: 未能找到类型或命名空间名“DynamicallyAccessedMembers”(是否缺少 using 指令或程序集引用?)
+(4,77): error CS0103: 当前上下文中不存在名称“DynamicallyAccessedMemberTypes”
+(8,14): error CS0246: 未能找到类型或命名空间名“Action<,>”(是否缺少 using 指令或程序集引用?)
+(9,14): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(10,5): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(11,14): error CS0246: 未能找到类型或命名空间名“IOptionsMonitor<>”(是否缺少 using 指令或程序集引用?)
+(16,113): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(16,89): error CS0246: 未能找到类型或命名空间名“CallerMemberNameAttribute”(是否缺少 using 指令或程序集引用?)
+(16,89): error CS0246: 未能找到类型或命名空间名“CallerMemberName”(是否缺少 using 指令或程序集引用?)
+(59,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(59,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(59,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(79,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(79,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(79,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(14,52): error CS1955: 不可调用的成员“SettingsStructPropertyBase<TValue, TSettings>.getter”不能像方法一样使用。
+(19,37): error CS1061: “string”未包含“ThrowIsNull”的定义，并且找不到可接受第一个“string”类型参数的可访问扩展方法“ThrowIsNull”(是否缺少 using 指令或程序集引用?)
+(21,9): error CS0103: 当前上下文中不存在名称“AutoSave”
+(23,9): error CS0246: 未能找到类型或命名空间名“ParameterExpression”(是否缺少 using 指令或程序集引用?)
+(23,41): error CS0103: 当前上下文中不存在名称“Expression”
+(24,9): error CS0246: 未能找到类型或命名空间名“MemberExpression”(是否缺少 using 指令或程序集引用?)
+(24,37): error CS0103: 当前上下文中不存在名称“Expression”
+(25,9): error CS0246: 未能找到类型或命名空间名“ParameterExpression”(是否缺少 using 指令或程序集引用?)
+(25,37): error CS0103: 当前上下文中不存在名称“Expression”
+(26,9): error CS0246: 未能找到类型或命名空间名“BinaryExpression”(是否缺少 using 指令或程序集引用?)
+(26,35): error CS0103: 当前上下文中不存在名称“Expression”
+(27,18): error CS0103: 当前上下文中不存在名称“Expression”
+(27,36): error CS0246: 未能找到类型或命名空间名“Action<,>”(是否缺少 using 指令或程序集引用?)
+(28,18): error CS0103: 当前上下文中不存在名称“Expression”
+(28,36): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(29,19): error CS0103: 当前上下文中不存在名称“Ioc”
+(29,27): error CS0246: 未能找到类型或命名空间名“IOptionsMonitor<>”(是否缺少 using 指令或程序集引用?)
+(30,14): error CS1061: “SettingsStructPropertyBase<TValue, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsStructPropertyBase<TValue, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(30,22): error CS1955: 不可调用的成员“SettingsStructPropertyBase<TValue, TSettings>.getter”不能像方法一样使用。
+(31,9): error CS0103: 当前上下文中不存在名称“SetProperties”
+(37,14): error CS0103: 当前上下文中不存在名称“CanOnChange”
+(40,18): error CS1955: 不可调用的成员“SettingsStructPropertyBase<TValue, TSettings>.getter”不能像方法一样使用。
+(50,16): error CS0103: 当前上下文中不存在名称“value”
+(62,32): error CS1061: “SettingsStructPropertyBase<TValue, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsStructPropertyBase<TValue, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(65,29): error CS1061: “SettingsStructPropertyBase<TValue, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsStructPropertyBase<TValue, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(66,14): error CS1061: “SettingsStructPropertyBase<TValue, TSettings>”未包含“value”的定义，并且找不到可接受第一个“SettingsStructPropertyBase<TValue, TSettings>”类型参数的可访问扩展方法“value”(是否缺少 using 指令或程序集引用?)
+(69,9): error CS1955: 不可调用的成员“SettingsStructPropertyBase<TValue, TSettings>.setter”不能像方法一样使用。
+(71,9): error CS0103: 当前上下文中不存在名称“OnValueChanged”
+(73,21): error CS0103: 当前上下文中不存在名称“AutoSave”
+(80,27): error CS0103: 当前上下文中不存在名称“ISettings”
+(84,9): error CS1955: 不可调用的成员“SettingsStructPropertyBase<TValue, TSettings>.setter”不能像方法一样使用。
+(84,38): error CS0103: 当前上下文中不存在名称“value”
+(85,9): error CS0103: 当前上下文中不存在名称“OnValueChanged”
+(85,24): error CS0103: 当前上下文中不存在名称“value”
+(85,31): error CS0103: 当前上下文中不存在名称“value”
+(86,25): error CS0103: 当前上下文中不存在名称“AutoSave”
+(94,24): error CS0103: 当前上下文中不存在名称“value”
+(95,9): error CS1955: 不可调用的成员“SettingsStructPropertyBase<TValue, TSettings>.setter”不能像方法一样使用。
+(95,38): error CS0103: 当前上下文中不存在名称“value”
+(97,9): error CS0103: 当前上下文中不存在名称“OnValueChanged”
+(97,34): error CS0103: 当前上下文中不存在名称“value”
+(99,21): error CS0103: 当前上下文中不存在名称“AutoSave”
+(105,42): error CS0103: 当前上下文中不存在名称“value”
+(128,9): error CS0103: 当前上下文中不存在名称“GC”

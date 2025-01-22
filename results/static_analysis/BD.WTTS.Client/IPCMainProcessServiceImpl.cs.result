@@ -1,0 +1,138 @@
+(5,21): error CS0246: 未能找到类型或命名空间名“dotnetCampus”(是否缺少 using 指令或程序集引用?)
+(6,32): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“Extensions”(是否缺少程序集引用?)
+(1,7): error CS0246: 未能找到类型或命名空间名“dotnetCampus”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“dotnetCampus”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“dotnetCampus”(是否缺少 using 指令或程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“dotnetCampus”(是否缺少 using 指令或程序集引用?)
+(14,57): error CS0246: 未能找到类型或命名空间名“IPCMainProcessService”(是否缺少 using 指令或程序集引用?)
+(17,5): error CS0246: 未能找到类型或命名空间名“IpcProvider”(是否缺少 using 指令或程序集引用?)
+(18,14): error CS0246: 未能找到类型或命名空间名“ILogger”(是否缺少 using 指令或程序集引用?)
+(19,14): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(20,14): error CS0246: 未能找到类型或命名空间名“ILoggerFactory”(是否缺少 using 指令或程序集引用?)
+(22,38): error CS0246: 未能找到类型或命名空间名“ILoggerFactory”(是否缺少 using 指令或程序集引用?)
+(54,14): error CS0246: 未能找到类型或命名空间名“ConcurrentDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(54,43): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(55,14): error CS0246: 未能找到类型或命名空间名“ConcurrentDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(55,43): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(55,48): error CS0246: 未能找到类型或命名空间名“IPCMainProcessService”(是否缺少 using 指令或程序集引用?)
+(55,71): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(55,81): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(56,14): error CS0246: 未能找到类型或命名空间名“ConcurrentBag<>”(是否缺少 using 指令或程序集引用?)
+(58,43): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(94,69): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(94,74): error CS0246: 未能找到类型或命名空间名“IPCMainProcessService”(是否缺少 using 指令或程序集引用?)
+(94,97): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(94,12): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(115,91): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(115,96): error CS0246: 未能找到类型或命名空间名“IPCMainProcessService”(是否缺少 using 指令或程序集引用?)
+(115,119): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(115,129): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(115,18): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(115,28): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(133,9): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(133,16): error CS0246: 未能找到类型或命名空间名“ProcessStartInfo”(是否缺少 using 指令或程序集引用?)
+(130,18): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(130,28): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(212,14): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(273,48): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(273,58): error CS0246: 未能找到类型或命名空间名“PeerConnectedArgs”(是否缺少 using 指令或程序集引用?)
+(312,14): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(315,18): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(315,29): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(413,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(429,12): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(435,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(442,41): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(442,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(453,36): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(521,18): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+(527,11): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+(28,31): error CS0246: 未能找到类型或命名空间名“IpcLogger”(是否缺少 using 指令或程序集引用?)
+(30,18): error CS0246: 未能找到类型或命名空间名“ILogger”(是否缺少 using 指令或程序集引用?)
+(32,27): error CS0246: 未能找到类型或命名空间名“ILoggerFactory”(是否缺少 using 指令或程序集引用?)
+(47,13): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(48,13): error CS0246: 未能找到类型或命名空间名“Func<,,>”(是否缺少 using 指令或程序集引用?)
+(48,26): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(224,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(224,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(224,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(463,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(463,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(463,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(496,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(496,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(496,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(506,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(506,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(506,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(516,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(516,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(516,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(32,72): error CS1729: “IpcLogger”不包含采用 1 个参数的构造函数
+(60,13): error CS0019: 运算符“==”无法应用于“Process?”和“<null>”类型的操作数
+(99,20): error CS0103: 当前上下文中不存在名称“ValueTask”
+(96,53): error CS0246: 未能找到类型或命名空间名“IPCMainProcessService”(是否缺少 using 指令或程序集引用?)
+(96,9): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(96,19): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(135,36): error CS1061: “IpcProvider?”未包含“ThrowIsNull”的定义，并且找不到可接受第一个“IpcProvider?”类型参数的可访问扩展方法“ThrowIsNull”(是否缺少 using 指令或程序集引用?)
+(136,19): error CS0103: 当前上下文中不存在名称“Environment”
+(165,23): error CS0246: 未能找到类型或命名空间名“ProcessStartInfo”(是否缺少 using 指令或程序集引用?)
+(176,9): error CS0103: 当前上下文中不存在名称“DotNetRuntimeHelper”
+(178,33): error CS0103: 当前上下文中不存在名称“Startup”
+(182,17): error CS0103: 当前上下文中不存在名称“IPCSubProcessService”
+(191,24): error CS0103: 当前上下文中不存在名称“Serializable”
+(192,34): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(194,24): error CS8716: default 字面量缺少目标类型。
+(197,31): error CS0103: 当前上下文中不存在名称“Process”
+(202,24): error CS8716: default 字面量缺少目标类型。
+(207,27): error CS0103: 当前上下文中不存在名称“Process”
+(230,16): error CS0103: 当前上下文中不存在名称“Random2”
+(230,58): error CS0103: 当前上下文中不存在名称“String2”
+(236,27): error CS0103: 当前上下文中不存在名称“Environment”
+(237,19): error CS0103: 当前上下文中不存在名称“Environment”
+(238,27): error CS0246: 未能找到类型或命名空间名“IpcProvider”(是否缺少 using 指令或程序集引用?)
+(240,17): error CS0246: 未能找到类型或命名空间名“IpcConfiguration”(是否缺少 using 指令或程序集引用?)
+(246,21): error CS1061: “IpcProvider?”未包含“StartServer”的定义，并且找不到可接受第一个“IpcProvider?”类型参数的可访问扩展方法“StartServer”(是否缺少 using 指令或程序集引用?)
+(247,21): error CS1061: “IpcProvider?”未包含“PeerConnected”的定义，并且找不到可接受第一个“IpcProvider?”类型参数的可访问扩展方法“PeerConnected”(是否缺少 using 指令或程序集引用?)
+(278,36): error CS1061: “IpcProvider?”未包含“ThrowIsNull”的定义，并且找不到可接受第一个“IpcProvider?”类型参数的可访问扩展方法“ThrowIsNull”(是否缺少 using 指令或程序集引用?)
+(286,18): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(289,27): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(294,13): error CS0103: 当前上下文中不存在名称“Startup”
+(304,24): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(317,13): error CS0019: 运算符“==”无法应用于“IpcProvider?”和“<null>”类型的操作数
+(318,20): error CS8716: default 字面量缺少目标类型。
+(322,28): error CS0103: 当前上下文中不存在名称“IPCSubProcessModuleService”
+(323,41): error CS1061: “IpcProvider?”未包含“IpcContext”的定义，并且找不到可接受第一个“IpcProvider?”类型参数的可访问扩展方法“IpcContext”(是否缺少 using 指令或程序集引用?)
+(324,42): error CS1061: “IpcProvider?”未包含“GetAndConnectToPeerAsync”的定义，并且找不到可接受第一个“IpcProvider?”类型参数的可访问扩展方法“GetAndConnectToPeerAsync”(是否缺少 using 指令或程序集引用?)
+(398,37): error CS1061: “IpcProvider?”未包含“CreateIpcProxy”的定义，并且找不到可接受第一个“IpcProvider?”类型参数的可访问扩展方法“CreateIpcProxy”(是否缺少 using 指令或程序集引用?)
+(402,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(410,16): error CS8716: default 字面量缺少目标类型。
+(417,48): error CS0246: 未能找到类型或命名空间名“IPCSubProcessModuleService”(是否缺少 using 指令或程序集引用?)
+(422,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(432,16): error CS0103: 当前上下文中不存在名称“Task”
+(437,14): error CS8130: 无法推断隐式类型的析构变量“r”的类型。
+(437,17): error CS8130: 无法推断隐式类型的析构变量“_”的类型。
+(437,17): error CS8183: 无法推断隐式类型放弃的类型。
+(445,28): error CS0103: 当前上下文中不存在名称“Task”
+(456,9): error CS0103: 当前上下文中不存在名称“LogConsoleService”
+(466,25): error CS0246: 未能找到类型或命名空间名“IPCPlatformService”(是否缺少 using 指令或程序集引用?)
+(466,45): error CS0246: 未能找到类型或命名空间名“IPlatformService”(是否缺少 using 指令或程序集引用?)
+(472,25): error CS0246: 未能找到类型或命名空间名“IPCToastService”(是否缺少 using 指令或程序集引用?)
+(472,42): error CS1503: 参数 1: 无法从“BD.WTTS.Services.Implementation.IPCMainProcessServiceImpl”转换为“IPCToastService”
+(474,17): error CS0103: 当前上下文中不存在名称“Startup”
+(484,24): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(484,34): warning CS0168: 声明了变量“ex”，但从未使用过
+(499,40): error CS0103: 当前上下文中不存在名称“Ioc”
+(499,25): error CS1061: “IpcProvider?”未包含“CreateIpcJoint”的定义，并且找不到可接受第一个“IpcProvider?”类型参数的可访问扩展方法“CreateIpcJoint”(是否缺少 using 指令或程序集引用?)
+(510,43): error CS0103: 当前上下文中不存在名称“Ioc”
+(510,25): error CS1061: “IpcProvider?”未包含“CreateIpcJoint”的定义，并且找不到可接受第一个“IpcProvider?”类型参数的可访问扩展方法“CreateIpcJoint”(是否缺少 using 指令或程序集引用?)
+(519,25): error CS1061: “IpcProvider?”未包含“CreateIpcJoint”的定义，并且找不到可接受第一个“IpcProvider?”类型参数的可访问扩展方法“CreateIpcJoint”(是否缺少 using 指令或程序集引用?)
+(524,9): error CS0103: 当前上下文中不存在名称“GC”
+(521,28): error CS0161: “IPCMainProcessServiceImpl.DisposeAsync()”: 并非所有的代码路径都返回值
+(541,20): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(527,21): error CS0161: “IPCMainProcessServiceImpl.DisposeAsyncCore()”: 并非所有的代码路径都返回值
+(2,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

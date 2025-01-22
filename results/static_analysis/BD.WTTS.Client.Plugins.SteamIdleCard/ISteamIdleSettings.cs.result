@@ -1,0 +1,12 @@
+(26,5): error CS0246: 未能找到类型或命名空间名“TimeSpan”(是否缺少 using 指令或程序集引用?)
+(31,5): error CS0246: 未能找到类型或命名空间名“IdleRule”(是否缺少 using 指令或程序集引用?)
+(36,5): error CS0246: 未能找到类型或命名空间名“IdleSequentital”(是否缺少 using 指令或程序集引用?)
+(61,21): error CS0246: 未能找到类型或命名空间名“TimeSpan”(是否缺少 using 指令或程序集引用?)
+(66,21): error CS0246: 未能找到类型或命名空间名“IdleRule”(是否缺少 using 指令或程序集引用?)
+(71,21): error CS0246: 未能找到类型或命名空间名“IdleSequentital”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(61,48): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(66,57): error CS1061: “IdleRule”未包含“FastMode”的定义，并且找不到可接受第一个“IdleRule”类型参数的可访问扩展方法“FastMode”(是否缺少 using 指令或程序集引用?)
+(71,78): error CS1061: “IdleSequentital”未包含“Default”的定义，并且找不到可接受第一个“IdleSequentital”类型参数的可访问扩展方法“Default”(是否缺少 using 指令或程序集引用?)
+(21,12): error CS0103: 当前上下文中不存在名称“Ioc”
+(21,29): error CS0246: 未能找到类型或命名空间名“IOptionsMonitor<>”(是否缺少 using 指令或程序集引用?)

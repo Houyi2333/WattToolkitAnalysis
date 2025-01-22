@@ -1,0 +1,43 @@
+(4,20): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(3,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(1,7): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(33,57): error CS0246: 未能找到类型或命名空间名“JToken”(是否缺少 using 指令或程序集引用?)
+(54,50): error CS0246: 未能找到类型或命名空间名“JToken”(是否缺少 using 指令或程序集引用?)
+(64,19): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(86,33): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(96,19): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(98,36): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(14,13): error CS0246: 未能找到类型或命名空间名“JToken”(是否缺少 using 指令或程序集引用?)
+(24,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(26,13): error CS0103: 当前上下文中不存在名称“Log”
+(35,14): error CS0103: 当前上下文中不存在名称“File”
+(38,30): error CS0103: 当前上下文中不存在名称“File”
+(39,36): error CS0246: 未能找到类型或命名空间名“JsonTextReader”(是否缺少 using 指令或程序集引用?)
+(40,22): error CS0103: 当前上下文中不存在名称“JToken”
+(42,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(44,13): error CS0103: 当前上下文中不存在名称“Log”
+(56,9): error CS0103: 当前上下文中不存在名称“File”
+(56,33): error CS0103: 当前上下文中不存在名称“JsonConvert”
+(66,17): error CS0103: 当前上下文中不存在名称“JsonConvert”
+(66,49): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(67,14): error CS0103: 当前上下文中不存在名称“File”
+(69,29): error CS0103: 当前上下文中不存在名称“IOPath”
+(69,57): error CS0103: 当前上下文中不存在名称“Path”
+(71,17): error CS0103: 当前上下文中不存在名称“Toast”
+(71,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(73,20): error CS0103: 当前上下文中不存在名称“JsonConvert”
+(73,50): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(73,88): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(77,17): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(79,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(83,16): error CS0103: 当前上下文中不存在名称“JsonConvert”
+(83,46): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(83,84): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(89,23): error CS0103: 当前上下文中不存在名称“JsonConvert”
+(90,35): error CS0103: 当前上下文中不存在名称“File”
+(91,13): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(93,13): error CS0103: 当前上下文中不存在名称“File”
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

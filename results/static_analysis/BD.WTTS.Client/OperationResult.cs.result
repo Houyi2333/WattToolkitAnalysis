@@ -1,0 +1,48 @@
+(4,39): error CS0246: 未能找到类型或命名空间名“OperationResultBase<>”(是否缺少 using 指令或程序集引用?)
+(54,42): error CS0246: 未能找到类型或命名空间名“OperationResultBase<>”(是否缺少 using 指令或程序集引用?)
+(72,28): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(77,28): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(62,28): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(86,28): error CS0246: 未能找到类型或命名空间名“IOperationResult”(是否缺少 using 指令或程序集引用?)
+(97,28): error CS0246: 未能找到类型或命名空间名“IOperationResult<>”(是否缺少 using 指令或程序集引用?)
+(22,28): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(22,82): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(27,28): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(12,28): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(36,28): error CS0246: 未能找到类型或命名空间名“IOperationResult”(是否缺少 using 指令或程序集引用?)
+(17,28): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(32,28): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(32,101): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(67,28): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(82,28): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(43,6): error CS0246: 未能找到类型或命名空间名“MPIgnoreAttribute”(是否缺少 using 指令或程序集引用?)
+(43,6): error CS0246: 未能找到类型或命名空间名“MPIgnore”(是否缺少 using 指令或程序集引用?)
+(43,16): error CS0246: 未能找到类型或命名空间名“MP2IgnoreAttribute”(是否缺少 using 指令或程序集引用?)
+(43,16): error CS0246: 未能找到类型或命名空间名“MP2Ignore”(是否缺少 using 指令或程序集引用?)
+(44,6): error CS0246: 未能找到类型或命名空间名“N_JsonIgnoreAttribute”(是否缺少 using 指令或程序集引用?)
+(44,6): error CS0246: 未能找到类型或命名空间名“N_JsonIgnore”(是否缺少 using 指令或程序集引用?)
+(45,6): error CS0246: 未能找到类型或命名空间名“S_JsonIgnoreAttribute”(是否缺少 using 指令或程序集引用?)
+(45,6): error CS0246: 未能找到类型或命名空间名“S_JsonIgnore”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(62,62): error CS1729: “OperationResultBase<T>”不包含采用 1 个参数的构造函数
+(12,62): error CS1729: “OperationResultBase<object>”不包含采用 1 个参数的构造函数
+(67,78): error CS1729: “OperationResultBase<T>”不包含采用 2 个参数的构造函数
+(17,78): error CS1729: “OperationResultBase<object>”不包含采用 2 个参数的构造函数
+(22,98): error CS1729: “OperationResultBase<object>”不包含采用 3 个参数的构造函数
+(72,92): error CS1729: “OperationResultBase<T>”不包含采用 3 个参数的构造函数
+(77,97): error CS1729: “OperationResultBase<T>”不包含采用 3 个参数的构造函数
+(27,97): error CS1729: “OperationResultBase<object>”不包含采用 3 个参数的构造函数
+(82,111): error CS1729: “OperationResultBase<T>”不包含采用 4 个参数的构造函数
+(32,117): error CS1729: “OperationResultBase<object>”不包含采用 4 个参数的构造函数
+(38,9): error CS0103: 当前上下文中不存在名称“ResultType”
+(39,9): error CS0103: 当前上下文中不存在名称“Message”
+(40,9): error CS0103: 当前上下文中不存在名称“LogMessage”
+(88,9): error CS0103: 当前上下文中不存在名称“ResultType”
+(89,9): error CS0103: 当前上下文中不存在名称“Message”
+(90,9): error CS0103: 当前上下文中不存在名称“LogMessage”
+(91,23): error CS0246: 未能找到类型或命名空间名“IOperationResult<>”(是否缺少 using 指令或程序集引用?)
+(93,13): error CS0103: 当前上下文中不存在名称“AppendData”
+(99,9): error CS0103: 当前上下文中不存在名称“ResultType”
+(100,9): error CS0103: 当前上下文中不存在名称“Message”
+(101,9): error CS0103: 当前上下文中不存在名称“LogMessage”
+(102,9): error CS0103: 当前上下文中不存在名称“AppendData”

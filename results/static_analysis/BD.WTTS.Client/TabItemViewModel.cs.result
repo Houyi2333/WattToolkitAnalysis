@@ -1,0 +1,31 @@
+(2,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(7,50): error CS0246: 未能找到类型或命名空间名“ItemViewModel”(是否缺少 using 指令或程序集引用?)
+(7,65): error CS0246: 未能找到类型或命名空间名“IReadOnlyName”(是否缺少 using 指令或程序集引用?)
+(19,5): error CS0246: 未能找到类型或命名空间名“IList<>”(是否缺少 using 指令或程序集引用?)
+(19,11): error CS0246: 未能找到类型或命名空间名“MenuItemViewModel”(是否缺少 using 指令或程序集引用?)
+(22,20): error CS0246: 未能找到类型或命名空间名“IList<>”(是否缺少 using 指令或程序集引用?)
+(22,26): error CS0246: 未能找到类型或命名空间名“MenuItemViewModel”(是否缺少 using 指令或程序集引用?)
+(30,20): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(45,5): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(45,17): error CS0246: 未能找到类型或命名空间名“ItemViewModel”(是否缺少 using 指令或程序集引用?)
+(47,12): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(47,24): error CS0246: 未能找到类型或命名空间名“ItemViewModel”(是否缺少 using 指令或程序集引用?)
+(21,6): error CS0246: 未能找到类型或命名空间名“IgnoreDataMemberAttribute”(是否缺少 using 指令或程序集引用?)
+(21,6): error CS0246: 未能找到类型或命名空间名“IgnoreDataMember”(是否缺少 using 指令或程序集引用?)
+(21,24): error CS0246: 未能找到类型或命名空间名“MPIgnoreAttribute”(是否缺少 using 指令或程序集引用?)
+(21,24): error CS0246: 未能找到类型或命名空间名“MPIgnore”(是否缺少 using 指令或程序集引用?)
+(21,34): error CS0246: 未能找到类型或命名空间名“MP2IgnoreAttribute”(是否缺少 using 指令或程序集引用?)
+(21,34): error CS0246: 未能找到类型或命名空间名“MP2Ignore”(是否缺少 using 指令或程序集引用?)
+(21,45): error CS0246: 未能找到类型或命名空间名“N_JsonIgnoreAttribute”(是否缺少 using 指令或程序集引用?)
+(21,45): error CS0246: 未能找到类型或命名空间名“N_JsonIgnore”(是否缺少 using 指令或程序集引用?)
+(21,59): error CS0246: 未能找到类型或命名空间名“S_JsonIgnoreAttribute”(是否缺少 using 指令或程序集引用?)
+(21,59): error CS0246: 未能找到类型或命名空间名“S_JsonIgnore”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(15,47): error CS1061: “IList<MenuItemViewModel>?”未包含“Any_Nullable”的定义，并且找不到可接受第一个“IList<MenuItemViewModel>?”类型参数的可访问扩展方法“Any_Nullable”(是否缺少 using 指令或程序集引用?)
+(16,31): error CS1061: “TabItemViewModel”未包含“RaiseAndSetIfChanged”的定义，并且找不到可接受第一个“TabItemViewModel”类型参数的可访问扩展方法“RaiseAndSetIfChanged”(是否缺少 using 指令或程序集引用?)
+(25,31): error CS1061: “TabItemViewModel”未包含“RaiseAndSetIfChanged”的定义，并且找不到可接受第一个“TabItemViewModel”类型参数的可访问扩展方法“RaiseAndSetIfChanged”(是否缺少 using 指令或程序集引用?)
+(32,36): error CS1729: “ItemViewModel”不包含采用 0 个参数的构造函数
+(34,9): error CS0103: 当前上下文中不存在名称“ResourceService”
+(50,31): error CS1061: “TabItemViewModel”未包含“RaiseAndSetIfChanged”的定义，并且找不到可接受第一个“TabItemViewModel”类型参数的可访问扩展方法“RaiseAndSetIfChanged”(是否缺少 using 指令或程序集引用?)
+(2,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
