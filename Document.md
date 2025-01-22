@@ -104,13 +104,14 @@
    - **请求失败**：打印无法获取 Issue 信息及对应的错误状态码。
 4. **保存数据**：将 issues_data 列表以 JSON 格式写入 `./data/issue_info.json` 文件
 
-通过 `issue_pr_analysis.py` 可读取 `./data/issue_info.json` 文件计算问题解决率和平均解决时间
+通过 `issue_pr_analysis.py` 可读取 `./data/issue_info.json` 文件计算问题解决率，平均解决时间，作者问题解决率和高质量作者率
 
 结果如下：
 
 ```shell
 问题解决率: 53.84%
 平均解决时间: 1157.87 小时
+高质量作者比例: 66.45%
 ```
 
 ## 代码静态分析
