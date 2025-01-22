@@ -1,0 +1,179 @@
+(2,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(1,7): error CS0246: 未能找到类型或命名空间名“WinAuth”(是否缺少 using 指令或程序集引用?)
+(10,98): error CS0246: 未能找到类型或命名空间名“IAuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(10,140): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(10,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(52,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(52,30): error CS0246: 未能找到类型或命名空间名“AccountPlatformAuthenticator”(是否缺少 using 指令或程序集引用?)
+(57,81): error CS0246: 未能找到类型或命名空间名“AccountPlatformAuthenticator”(是否缺少 using 指令或程序集引用?)
+(58,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(57,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(57,30): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(57,35): error CS0246: 未能找到类型或命名空间名“IAuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(63,25): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(70,41): error CS0246: 未能找到类型或命名空间名“IAuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(77,52): error CS0246: 未能找到类型或命名空间名“IAuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(77,25): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(84,27): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(83,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(83,31): error CS0246: 未能找到类型或命名空间名“IAccountPlatformAuthenticatorRepository”(是否缺少 using 指令或程序集引用?)
+(83,100): error CS0246: 未能找到类型或命名空间名“IReadOnlyList<>”(是否缺少 using 指令或程序集引用?)
+(83,114): error CS0246: 未能找到类型或命名空间名“IAuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(89,64): error CS0246: 未能找到类型或命名空间名“AccountPlatformAuthenticator”(是否缺少 using 指令或程序集引用?)
+(108,53): error CS0246: 未能找到类型或命名空间名“AccountPlatformAuthenticator”(是否缺少 using 指令或程序集引用?)
+(108,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(113,82): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(113,94): error CS0246: 未能找到类型或命名空间名“IAuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(113,127): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(113,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(136,9): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(136,21): error CS0246: 未能找到类型或命名空间名“IAuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(136,53): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(135,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(135,30): error CS0246: 未能找到类型或命名空间名“SaveFileResult”(是否缺少 using 指令或程序集引用?)
+(183,61): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(183,69): error CS0246: 未能找到类型或命名空间名“IAuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(183,97): error CS0246: 未能找到类型或命名空间名“IReadOnlyList<>”(是否缺少 using 指令或程序集引用?)
+(184,41): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(183,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(200,63): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(200,71): error CS0246: 未能找到类型或命名空间名“IAuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(200,99): error CS0246: 未能找到类型或命名空间名“IReadOnlyList<>”(是否缺少 using 指令或程序集引用?)
+(201,43): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(200,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(226,53): error CS0246: 未能找到类型或命名空间名“IAuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(227,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(226,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(255,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(255,36): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(312,9): error CS0246: 未能找到类型或命名空间名“UserAuthenticatorResponse”(是否缺少 using 指令或程序集引用?)
+(311,19): error CS0246: 未能找到类型或命名空间名“IAuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(328,67): error CS0246: 未能找到类型或命名空间名“AuthenticatorExportDTO”(是否缺少 using 指令或程序集引用?)
+(328,12): error CS0246: 未能找到类型或命名空间名“IAuthenticatorValueDTO”(是否缺少 using 指令或程序集引用?)
+(366,32): error CS0246: 未能找到类型或命名空间名“AuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(366,67): error CS0246: 未能找到类型或命名空间名“XmlReader”(是否缺少 using 指令或程序集引用?)
+(366,91): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(457,62): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(457,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(457,36): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(478,88): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(478,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(478,30): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(478,42): error CS0246: 未能找到类型或命名空间名“IFileResult”(是否缺少 using 指令或程序集引用?)
+(499,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(507,54): error CS0246: 未能找到类型或命名空间名“IAuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(507,96): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(507,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(533,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(533,86): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(8,12): error CS0246: 未能找到类型或命名空间名“IAccountPlatformAuthenticatorRepository”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(8,65): error CS0103: 当前上下文中不存在名称“Ioc”
+(8,73): error CS0246: 未能找到类型或命名空间名“IAccountPlatformAuthenticatorRepository”(是否缺少 using 指令或程序集引用?)
+(63,30): error CS0161: “AuthenticatorHelper.DeleteAllAuthenticatorsAsync()”: 并非所有的代码路径都返回值
+(77,30): error CS0161: “AuthenticatorHelper.SaveEditAuthNameAsync(IAuthenticatorDTO, string)”: 并非所有的代码路径都返回值
+(120,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(122,13): error CS0103: 当前上下文中不存在名称“Log”
+(138,9): error CS0246: 未能找到类型或命名空间名“SaveFileResult”(是否缺少 using 指令或程序集引用?)
+(139,13): error CS0103: 当前上下文中不存在名称“CommonEssentials”
+(141,13): error CS0246: 未能找到类型或命名空间名“AvaloniaFilePickerFileTypeFilter”(是否缺少 using 指令或程序集引用?)
+(141,62): error CS0246: 未能找到类型或命名空间名“AvaloniaFilePickerFileTypeFilter”(是否缺少 using 指令或程序集引用?)
+(143,44): error CS0103: 当前上下文中不存在名称“FileEx”
+(148,44): error CS0103: 当前上下文中不存在名称“FileEx”
+(153,32): error CS0103: 当前上下文中不存在名称“FilePicker2”
+(153,58): error CS0246: 未能找到类型或命名空间名“PickOptions”(是否缺少 using 指令或程序集引用?)
+(159,17): error CS0019: 运算符“==”无法应用于“SaveFileResult?”和“<null>”类型的操作数
+(161,41): error CS1061: “SaveFileResult?”未包含“OpenWrite”的定义，并且找不到可接受第一个“SaveFileResult?”类型参数的可访问扩展方法“OpenWrite”(是否缺少 using 指令或程序集引用?)
+(213,29): error CS0103: 当前上下文中不存在名称“Task”
+(219,29): error CS0103: 当前上下文中不存在名称“Task”
+(231,30): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(246,9): error CS0103: 当前上下文中不存在名称“Toast”
+(246,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(257,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(258,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(260,19): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(261,90): error CS0103: 当前上下文中不存在名称“ApiRspCode”
+(263,37): error CS0246: 未能找到类型或命名空间名“TextBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(264,24): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(267,33): error CS0246: 未能找到类型或命名空间名“TextBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(268,24): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(273,23): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(280,17): error CS0103: 当前上下文中不存在名称“Toast”
+(280,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(286,39): error CS0246: 未能找到类型或命名空间名“TextBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(287,51): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(294,17): error CS0103: 当前上下文中不存在名称“Toast”
+(294,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(299,23): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(303,17): error CS0103: 当前上下文中不存在名称“Toast”
+(303,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(314,25): error CS0103: 当前上下文中不存在名称“MemoryPackSerializer”
+(314,58): error CS0246: 未能找到类型或命名空间名“AuthenticatorExportDTO”(是否缺少 using 指令或程序集引用?)
+(317,9): error CS0246: 未能找到类型或命名空间名“AuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(317,36): error CS0246: 未能找到类型或命名空间名“AuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(330,9): error CS0246: 未能找到类型或命名空间名“IAuthenticatorValueDTO”(是否缺少 using 指令或程序集引用?)
+(334,18): error CS0103: 当前上下文中不存在名称“AuthenticatorPlatform”
+(335,32): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(341,18): error CS0103: 当前上下文中不存在名称“AuthenticatorPlatform”
+(342,32): error CS0246: 未能找到类型或命名空间名“MicrosoftAuthenticator”(是否缺少 using 指令或程序集引用?)
+(344,18): error CS0103: 当前上下文中不存在名称“AuthenticatorPlatform”
+(345,32): error CS0246: 未能找到类型或命名空间名“BattleNetAuthenticator”(是否缺少 using 指令或程序集引用?)
+(347,18): error CS0103: 当前上下文中不存在名称“AuthenticatorPlatform”
+(348,32): error CS0246: 未能找到类型或命名空间名“GoogleAuthenticator”(是否缺少 using 指令或程序集引用?)
+(350,18): error CS0103: 当前上下文中不存在名称“AuthenticatorPlatform”
+(351,32): error CS0246: 未能找到类型或命名空间名“HOTPAuthenticator”(是否缺少 using 指令或程序集引用?)
+(354,13): error CS0019: 运算符“==”无法应用于“IAuthenticatorValueDTO?”和“<null>”类型的操作数
+(356,18): error CS1061: “IAuthenticatorValueDTO?”未包含“Issuer”的定义，并且找不到可接受第一个“IAuthenticatorValueDTO?”类型参数的可访问扩展方法“Issuer”(是否缺少 using 指令或程序集引用?)
+(357,18): error CS1061: “IAuthenticatorValueDTO?”未包含“HMACType”的定义，并且找不到可接受第一个“IAuthenticatorValueDTO?”类型参数的可访问扩展方法“HMACType”(是否缺少 using 指令或程序集引用?)
+(358,18): error CS1061: “IAuthenticatorValueDTO?”未包含“SecretKey”的定义，并且找不到可接受第一个“IAuthenticatorValueDTO?”类型参数的可访问扩展方法“SecretKey”(是否缺少 using 指令或程序集引用?)
+(359,18): error CS1061: “IAuthenticatorValueDTO?”未包含“Period”的定义，并且找不到可接受第一个“IAuthenticatorValueDTO?”类型参数的可访问扩展方法“Period”(是否缺少 using 指令或程序集引用?)
+(360,22): error CS1061: “IAuthenticatorValueDTO?”未包含“Period”的定义，并且找不到可接受第一个“IAuthenticatorValueDTO?”类型参数的可访问扩展方法“Period”(是否缺少 using 指令或程序集引用?)
+(360,44): error CS1061: “IAuthenticatorValueDTO?”未包含“Period”的定义，并且找不到可接受第一个“IAuthenticatorValueDTO?”类型参数的可访问扩展方法“Period”(是否缺少 using 指令或程序集引用?)
+(361,18): error CS1061: “IAuthenticatorValueDTO?”未包含“CodeDigits”的定义，并且找不到可接受第一个“IAuthenticatorValueDTO?”类型参数的可访问扩展方法“CodeDigits”(是否缺少 using 指令或程序集引用?)
+(374,46): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(377,46): error CS0246: 未能找到类型或命名空间名“BattleNetAuthenticator”(是否缺少 using 指令或程序集引用?)
+(380,46): error CS0246: 未能找到类型或命名空间名“GoogleAuthenticator”(是否缺少 using 指令或程序集引用?)
+(383,46): error CS0246: 未能找到类型或命名空间名“HOTPAuthenticator”(是否缺少 using 指令或程序集引用?)
+(386,46): error CS0246: 未能找到类型或命名空间名“MicrosoftAuthenticator”(是否缺少 using 指令或程序集引用?)
+(411,30): error CS0103: 当前上下文中不存在名称“Convert”
+(411,50): error CS0246: 未能找到类型或命名空间名“TimeSpan”(是否缺少 using 指令或程序集引用?)
+(411,63): error CS0246: 未能找到类型或命名空间名“DateTime”(是否缺少 using 指令或程序集引用?)
+(412,30): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(413,56): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(413,75): error CS0246: 未能找到类型或命名空间名“DateTime”(是否缺少 using 指令或程序集引用?)
+(422,32): error CS0246: 未能找到类型或命名空间名“WinAuthEncryptedSecretDataException”(是否缺少 using 指令或程序集引用?)
+(426,32): error CS0246: 未能找到类型或命名空间名“WinAuthBadPasswordException”(是否缺少 using 指令或程序集引用?)
+(435,36): error CS0103: 当前上下文中不存在名称“AuthenticatorValueDTO”
+(459,27): error CS0246: 未能找到类型或命名空间名“PickOptions”(是否缺少 using 指令或程序集引用?)
+(462,13): error CS0246: 未能找到类型或命名空间名“AvaloniaFilePickerFileTypeFilter”(是否缺少 using 指令或程序集引用?)
+(462,62): error CS0246: 未能找到类型或命名空间名“AvaloniaFilePickerFileTypeFilter”(是否缺少 using 指令或程序集引用?)
+(471,31): error CS0103: 当前上下文中不存在名称“FilePicker2”
+(473,14): error CS0103: 当前上下文中不存在名称“File”
+(474,13): error CS0103: 当前上下文中不存在名称“Toast”
+(474,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(474,43): error CS0103: 当前上下文中不存在名称“Strings”
+(480,27): error CS0246: 未能找到类型或命名空间名“PickOptions”(是否缺少 using 指令或程序集引用?)
+(483,13): error CS0246: 未能找到类型或命名空间名“AvaloniaFilePickerFileTypeFilter”(是否缺少 using 指令或程序集引用?)
+(483,62): error CS0246: 未能找到类型或命名空间名“AvaloniaFilePickerFileTypeFilter”(是否缺少 using 指令或程序集引用?)
+(492,31): error CS0103: 当前上下文中不存在名称“FilePicker2”
+(495,13): error CS0103: 当前上下文中不存在名称“Toast”
+(495,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(495,43): error CS0103: 当前上下文中不存在名称“Strings”
+(502,28): error CS0103: 当前上下文中不存在名称“IAccountPlatformAuthenticatorRepository”
+(503,9): error CS0103: 当前上下文中不存在名称“Toast”
+(503,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(503,36): error CS0103: 当前上下文中不存在名称“Strings”
+(515,21): error CS0103: 当前上下文中不存在名称“Toast”
+(515,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(515,51): error CS0103: 当前上下文中不存在名称“Strings”
+(527,21): error CS0103: 当前上下文中不存在名称“Toast”
+(527,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(527,51): error CS0103: 当前上下文中不存在名称“Strings”
+(541,37): error CS0246: 未能找到类型或命名空间名“TextBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(543,29): error CS0103: 当前上下文中不存在名称“TextBoxWindowViewModel”
+(545,23): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(545,82): error CS0103: 当前上下文中不存在名称“Strings”
+(555,21): error CS0103: 当前上下文中不存在名称“Toast”
+(555,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(555,51): error CS0103: 当前上下文中不存在名称“Strings”
+(1,1): hidden CS8019: 不需要的 using 指令。

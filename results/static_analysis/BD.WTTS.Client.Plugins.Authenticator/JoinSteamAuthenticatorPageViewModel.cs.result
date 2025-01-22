@@ -1,0 +1,137 @@
+(4,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(1,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(2,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“WinAuth”(是否缺少 using 指令或程序集引用?)
+(11,67): error CS0246: 未能找到类型或命名空间名“ViewModelBase”(是否缺少 using 指令或程序集引用?)
+(29,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(35,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(41,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(47,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(53,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(80,29): error CS0246: 未能找到类型或命名空间名“ISteamAccountService”(是否缺少 using 指令或程序集引用?)
+(85,13): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(87,13): error CS0246: 未能找到类型或命名空间名“SteamLoginState”(是否缺少 using 指令或程序集引用?)
+(97,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(180,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(216,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(258,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(286,94): error CS0246: 未能找到类型或命名空间名“SteamLoginState”(是否缺少 using 指令或程序集引用?)
+(286,19): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(341,19): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(371,82): error CS0246: 未能找到类型或命名空间名“SteamConvertSteamDataJsonStruct”(是否缺少 using 指令或程序集引用?)
+(406,80): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(406,20): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(28,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(28,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(34,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(34,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(40,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(40,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(46,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(46,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(52,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(52,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(58,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(58,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(64,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(64,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(70,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(70,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(80,73): error CS0103: 当前上下文中不存在名称“Ioc”
+(80,81): error CS0246: 未能找到类型或命名空间名“ISteamAccountService”(是否缺少 using 指令或程序集引用?)
+(100,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(108,17): error CS0103: 当前上下文中不存在名称“Toast”
+(108,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(109,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(113,62): error CS0246: 未能找到类型或命名空间名“SteamLoginState”(是否缺少 using 指令或程序集引用?)
+(117,35): error CS0103: 当前上下文中不存在名称“ResourceService”
+(129,20): error CS0246: 未能找到类型或命名空间名“HttpRequestException”(是否缺少 using 指令或程序集引用?)
+(131,17): error CS0103: 当前上下文中不存在名称“Toast”
+(131,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(132,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(141,21): error CS0103: 当前上下文中不存在名称“Toast”
+(141,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(141,48): error CS0103: 当前上下文中不存在名称“Strings”
+(142,21): error CS0126: 需要一个类型可转换为“Task”的对象
+(146,21): error CS0103: 当前上下文中不存在名称“Toast”
+(146,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(147,21): error CS0126: 需要一个类型可转换为“Task”的对象
+(151,21): error CS0103: 当前上下文中不存在名称“Toast”
+(151,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(154,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(158,18): error CS8130: 无法推断隐式类型的析构变量“initialized”的类型。
+(158,31): error CS8130: 无法推断隐式类型的析构变量“errMsg”的类型。
+(162,17): error CS0103: 当前上下文中不存在名称“Toast”
+(162,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(163,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(166,62): error CS1061: “SteamAuthenticator?”未包含“RecoveryCode”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“RecoveryCode”(是否缺少 using 指令或程序集引用?)
+(97,23): error CS0161: “JoinSteamAuthenticatorPageViewModel.LoginAsync()”: 并非所有的代码路径都返回值
+(183,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(190,17): error CS0103: 当前上下文中不存在名称“Toast”
+(190,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(191,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(198,17): error CS0103: 当前上下文中不存在名称“Toast”
+(198,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(200,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(203,62): error CS1061: “SteamAuthenticator?”未包含“RecoveryCode”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“RecoveryCode”(是否缺少 using 指令或程序集引用?)
+(180,23): error CS0161: “JoinSteamAuthenticatorPageViewModel.VerifyCodeAsync()”: 并非所有的代码路径都返回值
+(219,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(225,17): error CS0019: 运算符“==”无法应用于“SteamAuthenticator?”和“<null>”类型的操作数
+(227,17): error CS0103: 当前上下文中不存在名称“Toast”
+(227,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(229,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(234,17): error CS0103: 当前上下文中不存在名称“Toast”
+(234,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(236,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(239,62): error CS1503: 参数 2: 无法从“SteamAuthenticator?”转换为“SteamAuthenticator”
+(241,17): error CS0103: 当前上下文中不存在名称“Toast”
+(241,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(242,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(216,23): error CS0161: “JoinSteamAuthenticatorPageViewModel.SaveAsync()”: 并非所有的代码路径都返回值
+(260,13): error CS0019: 运算符“==”无法应用于“SteamLoginState?”和“<null>”类型的操作数
+(262,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(266,76): error CS1503: 参数 1: 无法从“SteamLoginState?”转换为“SteamLoginState”
+(266,14): error CS8130: 无法推断隐式类型的析构变量“initialized”的类型。
+(266,27): error CS8130: 无法推断隐式类型的析构变量“errMsg”的类型。
+(270,13): error CS0103: 当前上下文中不存在名称“Toast”
+(270,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(271,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(274,58): error CS1061: “SteamAuthenticator?”未包含“RecoveryCode”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“RecoveryCode”(是否缺少 using 指令或程序集引用?)
+(258,23): error CS0161: “JoinSteamAuthenticatorPageViewModel.ResetRevocationCodeAsync()”: 并非所有的代码路径都返回值
+(288,42): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(290,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(299,49): error CS1061: “SteamAuthenticator?”未包含“GetClient”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“GetClient”(是否缺少 using 指令或程序集引用?)
+(308,25): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(313,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(321,14): error CS8130: 无法推断隐式类型的析构变量“initialized”的类型。
+(321,27): error CS8130: 无法推断隐式类型的析构变量“msg”的类型。
+(328,40): error CS1061: “SteamAuthenticator?”未包含“DeviceId”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“DeviceId”(是否缺少 using 指令或程序集引用?)
+(329,40): error CS1061: “SteamAuthenticator?”未包含“SteamData”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“SteamData”(是否缺少 using 指令或程序集引用?)
+(329,52): error CS0103: 当前上下文中不存在名称“SystemTextJsonSerializer”
+(329,105): error CS0103: 当前上下文中不存在名称“SteamJsonContext”
+(330,40): error CS1061: “SteamAuthenticator?”未包含“SecretKey”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“SecretKey”(是否缺少 using 指令或程序集引用?)
+(330,52): error CS0103: 当前上下文中不存在名称“Base64Extensions”
+(330,119): error CS1061: “SteamConvertSteamDataJsonStruct?”未包含“SharedSecret”的定义，并且找不到可接受第一个“SteamConvertSteamDataJsonStruct?”类型参数的可访问扩展方法“SharedSecret”(是否缺少 using 指令或程序集引用?)
+(331,40): error CS1061: “SteamAuthenticator?”未包含“Serial”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“Serial”(是否缺少 using 指令或程序集引用?)
+(331,65): error CS1061: “SteamConvertSteamDataJsonStruct?”未包含“SerialNumber”的定义，并且找不到可接受第一个“SteamConvertSteamDataJsonStruct?”类型参数的可访问扩展方法“SerialNumber”(是否缺少 using 指令或程序集引用?)
+(343,13): error CS0019: 运算符“==”无法应用于“SteamAuthenticator?”和“<null>”类型的操作数
+(350,19): error CS0103: 当前上下文中不存在名称“Task”
+(352,40): error CS1061: “SteamAuthenticator?”未包含“Sync”的定义，并且找不到可接受第一个“SteamAuthenticator?”类型参数的可访问扩展方法“Sync”(是否缺少 using 指令或程序集引用?)
+(354,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(360,91): error CS0103: 当前上下文中不存在名称“StringComparison”
+(375,9): error CS0246: 未能找到类型或命名空间名“SteamDoLoginTfaJsonStruct”(是否缺少 using 指令或程序集引用?)
+(379,37): error CS0103: 当前上下文中不存在名称“SystemTextJsonSerializer”
+(381,20): error CS0103: 当前上下文中不存在名称“SteamJsonContext”
+(384,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(389,13): error CS0019: 运算符“==”无法应用于“SteamDoLoginTfaJsonStruct?”和“<null>”类型的操作数
+(389,68): error CS1061: “SteamDoLoginTfaJsonStruct?”未包含“Response”的定义，并且找不到可接受第一个“SteamDoLoginTfaJsonStruct?”类型参数的可访问扩展方法“Response”(是否缺少 using 指令或程序集引用?)
+(392,58): error CS1061: “SteamDoLoginTfaJsonStruct?”未包含“Response”的定义，并且找不到可接受第一个“SteamDoLoginTfaJsonStruct?”类型参数的可访问扩展方法“Response”(是否缺少 using 指令或程序集引用?)
+(397,16): error CS0019: 运算符“!=”无法应用于“SteamConvertSteamDataJsonStruct?”和“<null>”类型的操作数
+(408,25): error CS0246: 未能找到类型或命名空间名“AuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(412,23): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(415,16): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(422,61): error CS0103: 当前上下文中不存在名称“Guid”
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

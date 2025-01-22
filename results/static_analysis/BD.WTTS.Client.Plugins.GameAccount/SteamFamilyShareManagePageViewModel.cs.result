@@ -1,0 +1,42 @@
+(1,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(5,67): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(9,14): error CS0246: 未能找到类型或命名空间名“ISteamService”(是否缺少 using 指令或程序集引用?)
+(10,14): error CS0246: 未能找到类型或命名空间名“ISteamworksWebApiService”(是否缺少 using 指令或程序集引用?)
+(46,12): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(46,33): error CS0246: 未能找到类型或命名空间名“AuthorizedDevice”(是否缺少 using 指令或程序集引用?)
+(105,42): error CS0246: 未能找到类型或命名空间名“AuthorizedDevice”(是否缺少 using 指令或程序集引用?)
+(128,36): error CS0246: 未能找到类型或命名空间名“AuthorizedDevice”(是否缺少 using 指令或程序集引用?)
+(45,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(45,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,43): error CS0103: 当前上下文中不存在名称“Ioc”
+(9,51): error CS0246: 未能找到类型或命名空间名“ISteamService”(是否缺少 using 指令或程序集引用?)
+(10,55): error CS0103: 当前上下文中不存在名称“Ioc”
+(10,63): error CS0246: 未能找到类型或命名空间名“ISteamworksWebApiService”(是否缺少 using 指令或程序集引用?)
+(7,41): error CS0103: 当前上下文中不存在名称“Strings”
+(14,9): error CS0103: 当前上下文中不存在名称“Title”
+(24,30): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(24,51): error CS0246: 未能找到类型或命名空间名“AuthorizedDevice”(是否缺少 using 指令或程序集引用?)
+(26,14): error CS1061: “SteamFamilyShareManagePageViewModel”未包含“WhenValueChanged”的定义，并且找不到可接受第一个“SteamFamilyShareManagePageViewModel”类型参数的可访问扩展方法“WhenValueChanged”(是否缺少 using 指令或程序集引用?)
+(29,9): error CS0103: 当前上下文中不存在名称“OpenUserProfileUrl_Click”
+(29,36): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(29,59): error CS0246: 未能找到类型或命名空间名“AuthorizedDevice”(是否缺少 using 指令或程序集引用?)
+(31,9): error CS0103: 当前上下文中不存在名称“RemoveButton_Click”
+(31,30): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(31,53): error CS0246: 未能找到类型或命名空间名“AuthorizedDevice”(是否缺少 using 指令或程序集引用?)
+(52,24): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(52,29): error CS0246: 未能找到类型或命名空间名“AuthorizedDevice”(是否缺少 using 指令或程序集引用?)
+(56,21): error CS0103: 当前上下文中不存在名称“GameAccountSettings”
+(81,30): error CS0103: 当前上下文中不存在名称“GameAccountSettings”
+(107,15): error CS0103: 当前上下文中不存在名称“Browser2”
+(112,15): error CS0103: 当前上下文中不存在名称“MessageBox”
+(112,36): error CS0103: 当前上下文中不存在名称“Strings”
+(112,88): error CS0103: 当前上下文中不存在名称“MessageBox”
+(130,28): error CS0103: 当前上下文中不存在名称“MessageBox”
+(130,49): error CS0103: 当前上下文中不存在名称“Strings”
+(130,90): error CS0103: 当前上下文中不存在名称“MessageBox”
+(172,13): error CS0103: 当前上下文中不存在名称“GameAccountSettings”
+(180,32): error CS0103: 当前上下文中不存在名称“MessageBox”
+(180,53): error CS0103: 当前上下文中不存在名称“Strings”
+(180,97): error CS0103: 当前上下文中不存在名称“MessageBox”
+(1,1): hidden CS8019: 不需要的 using 指令。

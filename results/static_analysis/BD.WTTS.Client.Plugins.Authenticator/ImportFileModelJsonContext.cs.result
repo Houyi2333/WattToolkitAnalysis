@@ -1,0 +1,11 @@
+(6,51): error CS0246: 未能找到类型或命名空间名“JsonSerializerContext”(是否缺少 using 指令或程序集引用?)
+(3,2): error CS0246: 未能找到类型或命名空间名“JsonSerializableAttribute”(是否缺少 using 指令或程序集引用?)
+(3,2): error CS0246: 未能找到类型或命名空间名“JsonSerializable”(是否缺少 using 指令或程序集引用?)
+(4,2): error CS0246: 未能找到类型或命名空间名“JsonSerializableAttribute”(是否缺少 using 指令或程序集引用?)
+(4,2): error CS0246: 未能找到类型或命名空间名“JsonSerializable”(是否缺少 using 指令或程序集引用?)
+(5,2): error CS0246: 未能找到类型或命名空间名“JsonSerializableAttribute”(是否缺少 using 指令或程序集引用?)
+(5,2): error CS0246: 未能找到类型或命名空间名“JsonSerializable”(是否缺少 using 指令或程序集引用?)
+(3,26): error CS0246: 未能找到类型或命名空间名“SteamGuardModel”(是否缺少 using 指令或程序集引用?)
+(4,26): error CS0246: 未能找到类型或命名空间名“SdaFileModel”(是否缺少 using 指令或程序集引用?)
+(5,26): error CS0246: 未能找到类型或命名空间名“SdaFileConvertToSteamDataModel”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

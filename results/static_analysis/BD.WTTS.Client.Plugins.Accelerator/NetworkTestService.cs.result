@@ -1,0 +1,228 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“STUN”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“STUN”(是否缺少 using 指令或程序集引用?)
+(3,18): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“NetworkInformation”(是否缺少程序集引用?)
+(7,45): error CS0246: 未能找到类型或命名空间名“INetworkTestService”(是否缺少 using 指令或程序集引用?)
+(38,78): error CS0246: 未能找到类型或命名空间名“TimeSpan”(是否缺少 using 指令或程序集引用?)
+(38,96): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(38,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(38,23): error CS0246: 未能找到类型或命名空间名“PingReply”(是否缺少 using 指令或程序集引用?)
+(55,83): error CS0246: 未能找到类型或命名空间名“Func<>”(是否缺少 using 指令或程序集引用?)
+(55,88): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(55,124): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(55,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(79,13): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(76,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(102,96): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(102,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(119,17): error CS0246: 未能找到类型或命名空间名“Func<>”(是否缺少 using 指令或程序集引用?)
+(119,22): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(120,17): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(120,30): error CS0246: 未能找到类型或命名空间名“HttpContent”(是否缺少 using 指令或程序集引用?)
+(123,17): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(118,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(158,92): error CS0246: 未能找到类型或命名空间名“Func<>”(是否缺少 using 指令或程序集引用?)
+(158,97): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(158,133): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(158,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(205,5): error CS0246: 未能找到类型或命名空间名“StunClient3489”(是否缺少 using 指令或程序集引用?)
+(217,19): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(219,13): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(221,13): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(216,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(216,23): error CS0246: 未能找到类型或命名空间名“ClassicStunResult”(是否缺少 using 指令或程序集引用?)
+(244,101): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(244,19): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(244,29): error CS0246: 未能找到类型或命名空间名“StunClient3489”(是否缺少 using 指令或程序集引用?)
+(258,19): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(258,24): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(282,13): error CS0246: 未能找到类型或命名空间名“TransportProtocol”(是否缺少 using 指令或程序集引用?)
+(283,19): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(285,13): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(286,13): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(281,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(281,23): error CS0246: 未能找到类型或命名空间名“StunResult5389”(是否缺少 using 指令或程序集引用?)
+(311,69): error CS0246: 未能找到类型或命名空间名“TransportProtocol”(是否缺少 using 指令或程序集引用?)
+(311,130): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(311,19): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(311,29): error CS0246: 未能找到类型或命名空间名“IStunClient5389”(是否缺少 using 指令或程序集引用?)
+(344,13): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(339,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(339,38): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(377,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(373,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(373,38): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(412,9): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(414,9): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(414,21): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(425,16): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(451,89): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(521,79): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(583,16): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(583,28): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(710,41): error CS0246: 未能找到类型或命名空间名“ReadOnlyMemory<>”(是否缺少 using 指令或程序集引用?)
+(737,16): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(746,17): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(758,16): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(758,28): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(775,63): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(777,56): error CS0246: 未能找到类型或命名空间名“Utf8JsonReader”(是否缺少 using 指令或程序集引用?)
+(777,79): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(777,99): error CS0246: 未能找到类型或命名空间名“SystemTextJsonSerializerOptions”(是否缺少 using 指令或程序集引用?)
+(777,45): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(807,36): error CS0246: 未能找到类型或命名空间名“Utf8JsonWriter”(是否缺少 using 指令或程序集引用?)
+(807,87): error CS0246: 未能找到类型或命名空间名“SystemTextJsonSerializerOptions”(是否缺少 using 指令或程序集引用?)
+(852,20): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(845,65): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(864,20): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(857,68): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(880,48): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(880,81): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(882,49): error CS0246: 未能找到类型或命名空间名“Utf8JsonReader”(是否缺少 using 指令或程序集引用?)
+(882,72): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(882,92): error CS0246: 未能找到类型或命名空间名“SystemTextJsonSerializerOptions”(是否缺少 using 指令或程序集引用?)
+(882,29): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(921,40): error CS0246: 未能找到类型或命名空间名“Utf8JsonWriter”(是否缺少 using 指令或程序集引用?)
+(921,63): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(921,80): error CS0246: 未能找到类型或命名空间名“SystemTextJsonSerializerOptions”(是否缺少 using 指令或程序集引用?)
+(736,10): error CS0246: 未能找到类型或命名空间名“S_JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(736,10): error CS0246: 未能找到类型或命名空间名“S_JsonProperty”(是否缺少 using 指令或程序集引用?)
+(718,10): error CS0246: 未能找到类型或命名空间名“S_JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(718,10): error CS0246: 未能找到类型或命名空间名“S_JsonProperty”(是否缺少 using 指令或程序集引用?)
+(721,10): error CS0246: 未能找到类型或命名空间名“S_JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(721,10): error CS0246: 未能找到类型或命名空间名“S_JsonProperty”(是否缺少 using 指令或程序集引用?)
+(724,10): error CS0246: 未能找到类型或命名空间名“S_JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(724,10): error CS0246: 未能找到类型或命名空间名“S_JsonProperty”(是否缺少 using 指令或程序集引用?)
+(727,10): error CS0246: 未能找到类型或命名空间名“S_JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(727,10): error CS0246: 未能找到类型或命名空间名“S_JsonProperty”(是否缺少 using 指令或程序集引用?)
+(730,10): error CS0246: 未能找到类型或命名空间名“S_JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(730,10): error CS0246: 未能找到类型或命名空间名“S_JsonProperty”(是否缺少 using 指令或程序集引用?)
+(733,10): error CS0246: 未能找到类型或命名空间名“S_JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(733,10): error CS0246: 未能找到类型或命名空间名“S_JsonProperty”(是否缺少 using 指令或程序集引用?)
+(813,18): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(814,6): error CS0246: 未能找到类型或命名空间名“JsonDerivedTypeAttribute”(是否缺少 using 指令或程序集引用?)
+(814,6): error CS0246: 未能找到类型或命名空间名“JsonDerivedType”(是否缺少 using 指令或程序集引用?)
+(815,6): error CS0246: 未能找到类型或命名空间名“JsonDerivedTypeAttribute”(是否缺少 using 指令或程序集引用?)
+(815,6): error CS0246: 未能找到类型或命名空间名“JsonDerivedType”(是否缺少 using 指令或程序集引用?)
+(816,6): error CS0246: 未能找到类型或命名空间名“JsonDerivedTypeAttribute”(是否缺少 using 指令或程序集引用?)
+(816,6): error CS0246: 未能找到类型或命名空间名“JsonDerivedType”(是否缺少 using 指令或程序集引用?)
+(819,10): error CS0246: 未能找到类型或命名空间名“S_JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(819,10): error CS0246: 未能找到类型或命名空间名“S_JsonProperty”(是否缺少 using 指令或程序集引用?)
+(822,10): error CS0246: 未能找到类型或命名空间名“S_JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(822,10): error CS0246: 未能找到类型或命名空间名“S_JsonProperty”(是否缺少 using 指令或程序集引用?)
+(825,10): error CS0246: 未能找到类型或命名空间名“S_JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(825,10): error CS0246: 未能找到类型或命名空间名“S_JsonProperty”(是否缺少 using 指令或程序集引用?)
+(850,14): error CS0246: 未能找到类型或命名空间名“S_JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(850,14): error CS0246: 未能找到类型或命名空间名“S_JsonProperty”(是否缺少 using 指令或程序集引用?)
+(851,14): error CS0246: 未能找到类型或命名空间名“SystemTextJsonConverterAttribute”(是否缺少 using 指令或程序集引用?)
+(851,14): error CS0246: 未能找到类型或命名空间名“SystemTextJsonConverter”(是否缺少 using 指令或程序集引用?)
+(862,14): error CS0246: 未能找到类型或命名空间名“S_JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(862,14): error CS0246: 未能找到类型或命名空间名“S_JsonProperty”(是否缺少 using 指令或程序集引用?)
+(863,14): error CS0246: 未能找到类型或命名空间名“SystemTextJsonConverterAttribute”(是否缺少 using 指令或程序集引用?)
+(863,14): error CS0246: 未能找到类型或命名空间名“SystemTextJsonConverter”(是否缺少 using 指令或程序集引用?)
+(874,14): error CS0246: 未能找到类型或命名空间名“S_JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(874,14): error CS0246: 未能找到类型或命名空间名“S_JsonProperty”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(40,15): error CS0246: 未能找到类型或命名空间名“Ping”(是否缺少 using 指令或程序集引用?)
+(40,28): error CS0246: 未能找到类型或命名空间名“Ping”(是否缺少 using 指令或程序集引用?)
+(57,64): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(59,9): error CS0246: 未能找到类型或命名空间名“Stopwatch”(是否缺少 using 指令或程序集引用?)
+(59,27): error CS0103: 当前上下文中不存在名称“Stopwatch”
+(63,55): error CS0103: 当前上下文中不存在名称“HttpCompletionOption”
+(69,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(71,13): error CS0103: 当前上下文中不存在名称“Log”
+(72,28): error CS8716: default 字面量缺少目标类型。
+(82,15): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(82,43): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(94,13): error CS0246: 未能找到类型或命名空间名“MultipartFormDataContent”(是否缺少 using 指令或程序集引用?)
+(94,52): error CS0246: 未能找到类型或命名空间名“MultipartFormDataContent”(是否缺少 using 指令或程序集引用?)
+(96,29): error CS0246: 未能找到类型或命名空间名“ByteArrayContent”(是否缺少 using 指令或程序集引用?)
+(92,16): error CS0246: 未能找到类型或命名空间名“MultipartFormDataContent”(是否缺少 using 指令或程序集引用?)
+(104,15): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(104,43): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(134,13): error CS0246: 未能找到类型或命名空间名“Stopwatch”(是否缺少 using 指令或程序集引用?)
+(134,31): error CS0103: 当前上下文中不存在名称“Stopwatch”
+(144,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(146,13): error CS0103: 当前上下文中不存在名称“Log”
+(160,58): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(164,13): error CS0246: 未能找到类型或命名空间名“Stopwatch”(是否缺少 using 指令或程序集引用?)
+(164,31): error CS0103: 当前上下文中不存在名称“Stopwatch”
+(166,55): error CS0103: 当前上下文中不存在名称“HttpCompletionOption”
+(176,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(178,13): error CS0103: 当前上下文中不存在名称“Log”
+(183,17): error CS0019: 运算符“==”无法应用于“Func<HttpClient>?”和“<null>”类型的操作数
+(191,23): error CS0246: 未能找到类型或命名空间名“ArgumentException”(是否缺少 using 指令或程序集引用?)
+(227,13): error CS0019: 运算符“==”无法应用于“StunClient3489?”和“<null>”类型的操作数
+(232,31): error CS1061: “StunClient3489?”未包含“QueryAsync”的定义，并且找不到可接受第一个“StunClient3489?”类型参数的可访问扩展方法“QueryAsync”(是否缺少 using 指令或程序集引用?)
+(234,16): error CS0246: 未能找到类型或命名空间名“OperationCanceledException”(是否缺少 using 指令或程序集引用?)
+(235,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(237,13): error CS0103: 当前上下文中不存在名称“Log”
+(241,28): error CS1061: “StunClient3489?”未包含“State”的定义，并且找不到可接受第一个“StunClient3489?”类型参数的可访问扩展方法“State”(是否缺少 using 指令或程序集引用?)
+(246,9): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(248,9): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(248,59): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(248,70): error CS0103: 当前上下文中不存在名称“IPAddress”
+(250,26): error CS0246: 未能找到类型或命名空间名“StunClient3489”(是否缺少 using 指令或程序集引用?)
+(260,31): error CS0103: 当前上下文中不存在名称“Dns”
+(262,9): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(262,41): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(292,9): error CS0246: 未能找到类型或命名空间名“IStunClient5389”(是否缺少 using 指令或程序集引用?)
+(301,16): error CS0246: 未能找到类型或命名空间名“OperationCanceledException”(是否缺少 using 指令或程序集引用?)
+(302,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(304,13): error CS0103: 当前上下文中不存在名称“Log”
+(313,9): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(315,9): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(315,59): error CS0246: 未能找到类型或命名空间名“IPEndPoint”(是否缺少 using 指令或程序集引用?)
+(315,70): error CS0103: 当前上下文中不存在名称“IPAddress”
+(317,9): error CS0246: 未能找到类型或命名空间名“IStunClient5389”(是否缺少 using 指令或程序集引用?)
+(317,46): error CS0103: 当前上下文中不存在名称“TransportProtocol”
+(318,19): error CS0246: 未能找到类型或命名空间名“StunClient5389TCP”(是否缺少 using 指令或程序集引用?)
+(319,19): error CS0246: 未能找到类型或命名空间名“StunClient5389UDP”(是否缺少 using 指令或程序集引用?)
+(347,15): error CS0246: 未能找到类型或命名空间名“UdpClient”(是否缺少 using 指令或程序集引用?)
+(347,41): error CS0246: 未能找到类型或命名空间名“UdpClient”(是否缺少 using 指令或程序集引用?)
+(352,9): error CS0246: 未能找到类型或命名空间名“Stopwatch”(是否缺少 using 指令或程序集引用?)
+(352,27): error CS0103: 当前上下文中不存在名称“Stopwatch”
+(379,27): error CS0246: 未能找到类型或命名空间名“HttpClientHandler”(是否缺少 using 指令或程序集引用?)
+(383,21): error CS0103: 当前上下文中不存在名称“HttpNoProxy”
+(385,15): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(385,39): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(386,26): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(389,9): error CS0246: 未能找到类型或命名空间名“Stopwatch”(是否缺少 using 指令或程序集引用?)
+(389,27): error CS0103: 当前上下文中不存在名称“Stopwatch”
+(391,9): error CS0246: 未能找到类型或命名空间名“HttpResponseMessage”(是否缺少 using 指令或程序集引用?)
+(394,52): error CS0103: 当前上下文中不存在名称“HttpCompletionOption”
+(396,18): error CS1061: “HttpResponseMessage?”未包含“EnsureSuccessStatusCode”的定义，并且找不到可接受第一个“HttpResponseMessage?”类型参数的可访问扩展方法“EnsureSuccessStatusCode”(是否缺少 using 指令或程序集引用?)
+(403,36): error CS1061: “HttpResponseMessage?”未包含“Content”的定义，并且找不到可接受第一个“HttpResponseMessage?”类型参数的可访问扩展方法“Content”(是否缺少 using 指令或程序集引用?)
+(405,83): error CS0103: 当前上下文中不存在名称“Array”
+(405,95): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(781,41): error CS0103: 当前上下文中不存在名称“JsonTokenType”
+(783,32): error CS0103: 当前上下文中不存在名称“JsonDocument”
+(809,23): error CS0246: 未能找到类型或命名空间名“NotImplementedException”(是否缺少 using 指令或程序集引用?)
+(884,17): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(887,41): error CS0103: 当前上下文中不存在名称“JsonTokenType”
+(889,27): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(890,69): error CS0103: 当前上下文中不存在名称“IPAddress”
+(893,46): error CS0103: 当前上下文中不存在名称“JsonTokenType”
+(895,21): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(895,44): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(899,49): error CS0103: 当前上下文中不存在名称“JsonTokenType”
+(902,49): error CS0103: 当前上下文中不存在名称“JsonTokenType”
+(906,54): error CS0103: 当前上下文中不存在名称“JsonTokenType”
+(915,74): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(444,27): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(923,27): error CS0246: 未能找到类型或命名空间名“NotImplementedException”(是否缺少 using 指令或程序集引用?)
+(465,21): error CS0103: 当前上下文中不存在名称“Array”
+(472,41): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(479,21): error CS0103: 当前上下文中不存在名称“Array”
+(486,39): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(496,25): error CS0103: 当前上下文中不存在名称“Log”
+(511,21): error CS0103: 当前上下文中不存在名称“Log”
+(523,13): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)
+(523,45): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)
+(547,40): error CS0103: 当前上下文中不存在名称“Encoding”
+(760,38): error CS0103: 当前上下文中不存在名称“Enumerable”
+(760,55): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(639,35): error CS0103: 当前上下文中不存在名称“Random”
+(686,37): error CS0103: 当前上下文中不存在名称“Encoding”
+(1,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

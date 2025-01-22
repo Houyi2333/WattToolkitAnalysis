@@ -1,0 +1,53 @@
+(2,21): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(8,28): error CS0246: 未能找到类型或命名空间名“ContentControl”(是否缺少 using 指令或程序集引用?)
+(8,44): error CS0246: 未能找到类型或命名空间名“ISelectable”(是否缺少 using 指令或程序集引用?)
+(7,2): error CS0246: 未能找到类型或命名空间名“PseudoClassesAttribute”(是否缺少 using 指令或程序集引用?)
+(7,2): error CS0246: 未能找到类型或命名空间名“PseudoClasses”(是否缺少 using 指令或程序集引用?)
+(13,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(16,29): error CS0246: 未能找到类型或命名空间名“Point”(是否缺少 using 指令或程序集引用?)
+(17,13): error CS0246: 未能找到类型或命名空间名“Point”(是否缺少 using 指令或程序集引用?)
+(38,28): error CS0246: 未能找到类型或命名空间名“DirectProperty<,>”(是否缺少 using 指令或程序集引用?)
+(42,28): error CS0246: 未能找到类型或命名空间名“DirectProperty<,>”(是否缺少 using 指令或程序集引用?)
+(50,28): error CS0246: 未能找到类型或命名空间名“DirectProperty<,>”(是否缺少 using 指令或程序集引用?)
+(62,28): error CS0246: 未能找到类型或命名空间名“DirectProperty<,>”(是否缺少 using 指令或程序集引用?)
+(62,56): error CS0246: 未能找到类型或命名空间名“StepStatus”(是否缺少 using 指令或程序集引用?)
+(66,13): error CS0246: 未能找到类型或命名空间名“StepStatus”(是否缺少 using 指令或程序集引用?)
+(68,12): error CS0246: 未能找到类型或命名空间名“StepStatus”(是否缺少 using 指令或程序集引用?)
+(74,24): error CS0246: 未能找到类型或命名空间名“AutomationPeer”(是否缺少 using 指令或程序集引用?)
+(79,46): error CS0246: 未能找到类型或命名空间名“PointerPressedEventArgs”(是否缺少 using 指令或程序集引用?)
+(115,47): error CS0246: 未能找到类型或命名空间名“PointerReleasedEventArgs”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(14,9): error CS0103: 当前上下文中不存在名称“SelectingItemsControl”
+(16,56): error CS0246: 未能找到类型或命名空间名“Point”(是否缺少 using 指令或程序集引用?)
+(39,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(43,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(51,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(63,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(63,54): error CS0246: 未能找到类型或命名空间名“StepStatus”(是否缺少 using 指令或程序集引用?)
+(66,34): error CS0103: 当前上下文中不存在名称“StepStatus”
+(24,22): error CS0103: 当前上下文中不存在名称“GetValue”
+(25,15): error CS0103: 当前上下文中不存在名称“SetValue”
+(33,9): error CS0103: 当前上下文中不存在名称“SelectableMixin”
+(34,9): error CS0103: 当前上下文中不存在名称“PressedMixin”
+(35,9): error CS0103: 当前上下文中不存在名称“FocusableProperty”
+(59,25): error CS0103: 当前上下文中不存在名称“SetAndRaise”
+(71,25): error CS0103: 当前上下文中不存在名称“SetAndRaise”
+(88,27): error CS0103: 当前上下文中不存在名称“ItemsControl”
+(88,78): error CS0246: 未能找到类型或命名空间名“Stepper”(是否缺少 using 指令或程序集引用?)
+(92,51): error CS0103: 当前上下文中不存在名称“PointerUpdateKind”
+(93,17): error CS0103: 当前上下文中不存在名称“PointerUpdateKind”
+(95,39): error CS0103: 当前上下文中不存在名称“PointerType”
+(124,28): error CS0103: 当前上下文中不存在名称“TopLevel”
+(124,61): error CS0246: 未能找到类型或命名空间名“Visual”(是否缺少 using 指令或程序集引用?)
+(125,75): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(126,31): error CS0246: 未能找到类型或命名空间名“Rect”(是否缺少 using 指令或程序集引用?)
+(126,59): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(127,30): error CS0246: 未能找到类型或命名空间名“Thickness”(是否缺少 using 指令或程序集引用?)
+(129,21): error CS0246: 未能找到类型或命名空间名“Rect”(是否缺少 using 指令或程序集引用?)
+(129,26): error CS0103: 当前上下文中不存在名称“Bounds”
+(131,17): error CS0103: 当前上下文中不存在名称“ItemsControl”
+(131,68): error CS0246: 未能找到类型或命名空间名“Stepper”(是否缺少 using 指令或程序集引用?)
+(3,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

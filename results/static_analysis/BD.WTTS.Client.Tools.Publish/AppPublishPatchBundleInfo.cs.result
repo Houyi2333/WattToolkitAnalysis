@@ -1,0 +1,21 @@
+(6,2): error CS0246: 未能找到类型或命名空间名“MP2ObjAttribute”(是否缺少 using 指令或程序集引用?)
+(6,2): error CS0246: 未能找到类型或命名空间名“MP2Obj”(是否缺少 using 指令或程序集引用?)
+(7,2): error CS0246: 未能找到类型或命名空间名“DebuggerDisplayAttribute”(是否缺少 using 指令或程序集引用?)
+(7,2): error CS0246: 未能找到类型或命名空间名“DebuggerDisplay”(是否缺少 using 指令或程序集引用?)
+(6,9): error CS0103: 当前上下文中不存在名称“SerializeLayout”
+(46,12): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(46,31): error CS0246: 未能找到类型或命名空间名“PatchBundleInfo”(是否缺少 using 指令或程序集引用?)
+(15,6): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(15,6): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(21,6): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(21,6): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(27,6): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(27,6): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(33,6): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(33,6): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(39,6): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(39,6): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(45,6): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(45,6): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(10,69): error CS0103: 当前上下文中不存在名称“IOPath”

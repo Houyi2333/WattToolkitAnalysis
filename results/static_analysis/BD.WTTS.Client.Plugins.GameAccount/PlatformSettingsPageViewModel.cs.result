@@ -1,0 +1,9 @@
+(3,46): error CS0246: 未能找到类型或命名空间名“ViewModelBase”(是否缺少 using 指令或程序集引用?)
+(5,12): error CS0246: 未能找到类型或命名空间名“PlatformSettings”(是否缺少 using 指令或程序集引用?)
+(7,12): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+(9,42): error CS0246: 未能找到类型或命名空间名“PlatformAccount”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(20,9): error CS0246: 未能找到类型或命名空间名“AvaloniaFilePickerFileTypeFilter”(是否缺少 using 指令或程序集引用?)
+(20,58): error CS0246: 未能找到类型或命名空间名“AvaloniaFilePickerFileTypeFilter”(是否缺少 using 指令或程序集引用?)
+(21,26): error CS1061: “PlatformAccount?”未包含“FullName”的定义，并且找不到可接受第一个“PlatformAccount?”类型参数的可访问扩展方法“FullName”(是否缺少 using 指令或程序集引用?)
+(28,15): error CS0103: 当前上下文中不存在名称“FilePicker2”

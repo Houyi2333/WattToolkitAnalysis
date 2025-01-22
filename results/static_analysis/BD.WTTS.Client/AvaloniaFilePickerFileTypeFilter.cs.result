@@ -1,0 +1,16 @@
+(3,56): error CS0246: 未能找到类型或命名空间名“IFilePickerFileType”(是否缺少 using 指令或程序集引用?)
+(22,26): error CS0246: 未能找到类型或命名空间名“IFilePickerFileType”(是否缺少 using 指令或程序集引用?)
+(8,9): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(5,12): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(22,66): error CS0246: 未能找到类型或命名空间名“Platform”(是否缺少 using 指令或程序集引用?)
+(22,5): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(22,26): error CS0538: '显式接口声明中的“IFilePickerFileType”不是接口
+(47,16): error CS0246: 未能找到类型或命名空间名“IReadOnlyList<>”(是否缺少 using 指令或程序集引用?)
+(49,16): error CS0246: 未能找到类型或命名空间名“IReadOnlyList<>”(是否缺少 using 指令或程序集引用?)
+(51,16): error CS0246: 未能找到类型或命名空间名“IReadOnlyList<>”(是否缺少 using 指令或程序集引用?)
+(40,27): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(19,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(19,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(19,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(22,46): error CS1624: “IEnumerable<string>?”不是迭代器接口类型，因此“AvaloniaFilePickerFileTypeFilter.GetPlatformFileType(Platform)”体不能是迭代器块

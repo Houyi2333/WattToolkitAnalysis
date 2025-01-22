@@ -1,0 +1,177 @@
+(3,33): error CS0246: 未能找到类型或命名空间名“Panel”(是否缺少 using 指令或程序集引用?)
+(5,29): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(5,34): error CS0246: 未能找到类型或命名空间名“Layoutable”(是否缺少 using 指令或程序集引用?)
+(6,29): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(6,34): error CS0246: 未能找到类型或命名空间名“Layoutable”(是否缺少 using 指令或程序集引用?)
+(11,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(11,43): error CS0246: 未能找到类型或命名空间名“FlexDirection”(是否缺少 using 指令或程序集引用?)
+(17,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(17,43): error CS0246: 未能找到类型或命名空间名“JustifyContent”(是否缺少 using 指令或程序集引用?)
+(23,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(23,43): error CS0246: 未能找到类型或命名空间名“AlignItems”(是否缺少 using 指令或程序集引用?)
+(29,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(29,43): error CS0246: 未能找到类型或命名空间名“AlignContent”(是否缺少 using 指令或程序集引用?)
+(35,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(35,43): error CS0246: 未能找到类型或命名空间名“FlexWrap”(是否缺少 using 指令或程序集引用?)
+(41,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(47,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(80,12): error CS0246: 未能找到类型或命名空间名“FlexDirection”(是否缺少 using 指令或程序集引用?)
+(89,12): error CS0246: 未能找到类型或命名空间名“JustifyContent”(是否缺少 using 指令或程序集引用?)
+(98,12): error CS0246: 未能找到类型或命名空间名“AlignItems”(是否缺少 using 指令或程序集引用?)
+(107,12): error CS0246: 未能找到类型或命名空间名“AlignContent”(是否缺少 using 指令或程序集引用?)
+(116,12): error CS0246: 未能找到类型或命名空间名“FlexWrap”(是否缺少 using 指令或程序集引用?)
+(141,45): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(141,24): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(238,45): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(238,24): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(378,39): error CS0246: 未能找到类型或命名空间名“Layoutable”(是否缺少 using 指令或程序集引用?)
+(389,43): error CS0246: 未能找到类型或命名空间名“Layoutable”(是否缺少 using 指令或程序集引用?)
+(410,26): error CS0246: 未能找到类型或命名空间名“IReadOnlyList<>”(是否缺少 using 指令或程序集引用?)
+(410,40): error CS0246: 未能找到类型或命名空间名“Layoutable”(是否缺少 using 指令或程序集引用?)
+(412,16): error CS0246: 未能找到类型或命名空间名“IReadOnlyList<>”(是否缺少 using 指令或程序集引用?)
+(414,32): error CS0246: 未能找到类型或命名空间名“IReadOnlyList<>”(是否缺少 using 指令或程序集引用?)
+(414,46): error CS0246: 未能找到类型或命名空间名“Layoutable”(是否缺少 using 指令或程序集引用?)
+(414,68): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(414,90): error CS0246: 未能找到类型或命名空间名“FlexWrap”(是否缺少 using 指令或程序集引用?)
+(424,16): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(424,28): error CS0246: 未能找到类型或命名空间名“Layoutable”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(12,46): error CS0246: 未能找到类型或命名空间名“FlexDirection”(是否缺少 using 指令或程序集引用?)
+(18,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(18,46): error CS0246: 未能找到类型或命名空间名“JustifyContent”(是否缺少 using 指令或程序集引用?)
+(24,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(24,46): error CS0246: 未能找到类型或命名空间名“AlignItems”(是否缺少 using 指令或程序集引用?)
+(30,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(30,46): error CS0246: 未能找到类型或命名空间名“AlignContent”(是否缺少 using 指令或程序集引用?)
+(36,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(36,46): error CS0246: 未能找到类型或命名空间名“FlexWrap”(是否缺少 using 指令或程序集引用?)
+(36,70): error CS0103: 当前上下文中不存在名称“FlexWrap”
+(42,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(48,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(54,9): error CS0103: 当前上下文中不存在名称“AffectsMeasure”
+(61,9): error CS0103: 当前上下文中不存在名称“AffectsArrange”
+(65,9): error CS0103: 当前上下文中不存在名称“AffectsParentMeasure”
+(66,13): error CS0103: 当前上下文中不存在名称“HorizontalAlignmentProperty”
+(67,13): error CS0103: 当前上下文中不存在名称“VerticalAlignmentProperty”
+(68,13): error CS0103: 当前上下文中不存在名称“Flex”
+(69,13): error CS0103: 当前上下文中不存在名称“Flex”
+(70,13): error CS0103: 当前上下文中不存在名称“Flex”
+(71,13): error CS0103: 当前上下文中不存在名称“Flex”
+(73,9): error CS0103: 当前上下文中不存在名称“AffectsParentArrange”
+(74,13): error CS0103: 当前上下文中不存在名称“Flex”
+(82,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(83,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(91,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(92,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(100,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(101,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(109,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(110,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(118,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(119,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(127,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(128,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(136,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(137,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(143,51): error CS0103: 当前上下文中不存在名称“Children”
+(143,25): error CS0246: 未能找到类型或命名空间名“IReadOnlyList<>”(是否缺少 using 指令或程序集引用?)
+(143,39): error CS0246: 未能找到类型或命名空间名“Layoutable”(是否缺少 using 指令或程序集引用?)
+(145,37): error CS0103: 当前上下文中不存在名称“FlexDirection”
+(145,61): error CS0103: 当前上下文中不存在名称“FlexDirection”
+(147,19): error CS0103: 当前上下文中不存在名称“Uv”
+(148,23): error CS0103: 当前上下文中不存在名称“Uv”
+(153,25): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(158,25): error CS0103: 当前上下文中不存在名称“Flex”
+(161,17): error CS0103: 当前上下文中不存在名称“FlexBasisKind”
+(162,17): error CS0103: 当前上下文中不存在名称“FlexBasisKind”
+(163,17): error CS0103: 当前上下文中不存在名称“FlexBasisKind”
+(164,32): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(166,29): error CS0103: 当前上下文中不存在名称“Uv”
+(168,24): error CS0103: 当前上下文中不存在名称“Uv”
+(171,17): error CS0103: 当前上下文中不存在名称“FlexBasisKind”
+(172,17): error CS0103: 当前上下文中不存在名称“FlexBasisKind”
+(172,43): error CS0103: 当前上下文中不存在名称“FlexBasisKind”
+(172,69): error CS0103: 当前上下文中不存在名称“Math”
+(173,32): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(176,13): error CS0103: 当前上下文中不存在名称“Flex”
+(177,13): error CS0103: 当前上下文中不存在名称“Flex”
+(179,25): error CS0103: 当前上下文中不存在名称“FlexWrap”
+(190,21): error CS0103: 当前上下文中不存在名称“Math”
+(191,27): error CS0103: 当前上下文中不存在名称“Flex”
+(192,25): error CS0103: 当前上下文中不存在名称“Flex”
+(218,38): error CS0103: 当前上下文中不存在名称“Flex”
+(222,38): error CS0103: 当前上下文中不存在名称“Math”
+(223,41): error CS0103: 当前上下文中不存在名称“Uv”
+(233,58): error CS0246: 未能找到类型或命名空间名“Uv”(是否缺少 using 指令或程序集引用?)
+(234,16): error CS0103: 当前上下文中不存在名称“Uv”
+(240,41): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(242,37): error CS0103: 当前上下文中不存在名称“FlexDirection”
+(242,61): error CS0103: 当前上下文中不存在名称“FlexDirection”
+(243,38): error CS0103: 当前上下文中不存在名称“FlexDirection”
+(243,66): error CS0103: 当前上下文中不存在名称“FlexDirection”
+(245,25): error CS0103: 当前上下文中不存在名称“Uv”
+(246,23): error CS0103: 当前上下文中不存在名称“Uv”
+(256,26): error CS1061: “AlignContent”未包含“FlexStart”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“FlexStart”(是否缺少 using 指令或程序集引用?)
+(256,52): error CS1061: “AlignContent”未包含“Stretch”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“Stretch”(是否缺少 using 指令或程序集引用?)
+(256,76): error CS1061: “AlignContent”未包含“SpaceBetween”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“SpaceBetween”(是否缺少 using 指令或程序集引用?)
+(256,105): error CS1061: “AlignContent”未包含“FlexStart”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“FlexStart”(是否缺少 using 指令或程序集引用?)
+(257,26): error CS1061: “AlignContent”未包含“Center”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“Center”(是否缺少 using 指令或程序集引用?)
+(257,49): error CS1061: “AlignContent”未包含“SpaceAround”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“SpaceAround”(是否缺少 using 指令或程序集引用?)
+(257,77): error CS1061: “AlignContent”未包含“SpaceEvenly”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“SpaceEvenly”(是否缺少 using 指令或程序集引用?)
+(257,105): error CS1061: “AlignContent”未包含“Center”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“Center”(是否缺少 using 指令或程序集引用?)
+(258,26): error CS1061: “AlignContent”未包含“FlexEnd”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“FlexEnd”(是否缺少 using 指令或程序集引用?)
+(258,50): error CS1061: “AlignContent”未包含“FlexEnd”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“FlexEnd”(是否缺少 using 指令或程序集引用?)
+(259,28): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(264,26): error CS1061: “AlignContent”未包含“FlexStart”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“FlexStart”(是否缺少 using 指令或程序集引用?)
+(265,26): error CS1061: “AlignContent”未包含“FlexEnd”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“FlexEnd”(是否缺少 using 指令或程序集引用?)
+(266,26): error CS1061: “AlignContent”未包含“Center”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“Center”(是否缺少 using 指令或程序集引用?)
+(267,26): error CS1061: “AlignContent”未包含“Stretch”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“Stretch”(是否缺少 using 指令或程序集引用?)
+(268,26): error CS1061: “AlignContent”未包含“SpaceBetween”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“SpaceBetween”(是否缺少 using 指令或程序集引用?)
+(269,26): error CS1061: “AlignContent”未包含“SpaceAround”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“SpaceAround”(是否缺少 using 指令或程序集引用?)
+(270,26): error CS1061: “AlignContent”未包含“SpaceEvenly”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“SpaceEvenly”(是否缺少 using 指令或程序集引用?)
+(271,28): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(262,14): error CS8130: 无法推断隐式类型的析构变量“spacingV”的类型。
+(262,24): error CS8130: 无法推断隐式类型的析构变量“v”的类型。
+(274,51): error CS1061: “AlignContent”未包含“Stretch”的定义，并且找不到可接受第一个“AlignContent”类型参数的可访问扩展方法“Stretch”(是否缺少 using 指令或程序集引用?)
+(287,38): error CS0103: 当前上下文中不存在名称“Flex”
+(291,38): error CS0103: 当前上下文中不存在名称“Math”
+(292,25): error CS0103: 当前上下文中不存在名称“Flex”
+(303,38): error CS0103: 当前上下文中不存在名称“Flex”
+(307,38): error CS0103: 当前上下文中不存在名称“Math”
+(308,25): error CS0103: 当前上下文中不存在名称“Flex”
+(317,32): error CS1061: “JustifyContent”未包含“FlexStart”的定义，并且找不到可接受第一个“JustifyContent”类型参数的可访问扩展方法“FlexStart”(是否缺少 using 指令或程序集引用?)
+(318,32): error CS1061: “JustifyContent”未包含“FlexEnd”的定义，并且找不到可接受第一个“JustifyContent”类型参数的可访问扩展方法“FlexEnd”(是否缺少 using 指令或程序集引用?)
+(319,32): error CS1061: “JustifyContent”未包含“Center”的定义，并且找不到可接受第一个“JustifyContent”类型参数的可访问扩展方法“Center”(是否缺少 using 指令或程序集引用?)
+(320,32): error CS1061: “JustifyContent”未包含“SpaceBetween”的定义，并且找不到可接受第一个“JustifyContent”类型参数的可访问扩展方法“SpaceBetween”(是否缺少 using 指令或程序集引用?)
+(321,32): error CS1061: “JustifyContent”未包含“SpaceAround”的定义，并且找不到可接受第一个“JustifyContent”类型参数的可访问扩展方法“SpaceAround”(是否缺少 using 指令或程序集引用?)
+(322,32): error CS1061: “JustifyContent”未包含“SpaceEvenly”的定义，并且找不到可接受第一个“JustifyContent”类型参数的可访问扩展方法“SpaceEvenly”(是否缺少 using 指令或程序集引用?)
+(323,32): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(315,18): error CS8130: 无法推断隐式类型的析构变量“spacingU”的类型。
+(315,28): error CS8130: 无法推断隐式类型的析构变量“u”的类型。
+(328,28): error CS0103: 当前上下文中不存在名称“Uv”
+(328,77): error CS0103: 当前上下文中不存在名称“Flex”
+(329,29): error CS0103: 当前上下文中不存在名称“Flex”
+(333,32): error CS1061: “AlignItems”未包含“FlexStart”的定义，并且找不到可接受第一个“AlignItems”类型参数的可访问扩展方法“FlexStart”(是否缺少 using 指令或程序集引用?)
+(334,32): error CS1061: “AlignItems”未包含“FlexEnd”的定义，并且找不到可接受第一个“AlignItems”类型参数的可访问扩展方法“FlexEnd”(是否缺少 using 指令或程序集引用?)
+(335,32): error CS1061: “AlignItems”未包含“Center”的定义，并且找不到可接受第一个“AlignItems”类型参数的可访问扩展方法“Center”(是否缺少 using 指令或程序集引用?)
+(336,32): error CS1061: “AlignItems”未包含“Stretch”的定义，并且找不到可接受第一个“AlignItems”类型参数的可访问扩展方法“Stretch”(是否缺少 using 指令或程序集引用?)
+(337,36): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(340,55): error CS1061: “AlignItems”未包含“Stretch”的定义，并且找不到可接受第一个“AlignItems”类型参数的可访问扩展方法“Stretch”(是否缺少 using 指令或程序集引用?)
+(341,36): error CS0246: 未能找到类型或命名空间名“Uv”(是否缺少 using 指令或程序集引用?)
+(342,37): error CS0246: 未能找到类型或命名空间名“Rect”(是否缺少 using 指令或程序集引用?)
+(342,42): error CS0103: 当前上下文中不存在名称“Uv”
+(342,74): error CS0103: 当前上下文中不存在名称“Uv”
+(382,20): error CS0103: 当前上下文中不存在名称“Flex”
+(383,20): error CS0103: 当前上下文中不存在名称“Flex”
+(394,17): error CS0103: 当前上下文中不存在名称“VerticalAlignment”
+(395,17): error CS0103: 当前上下文中不存在名称“VerticalAlignment”
+(395,42): error CS0103: 当前上下文中不存在名称“VerticalAlignment”
+(396,17): error CS0103: 当前上下文中不存在名称“VerticalAlignment”
+(397,32): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(401,17): error CS0103: 当前上下文中不存在名称“HorizontalAlignment”
+(402,17): error CS0103: 当前上下文中不存在名称“HorizontalAlignment”
+(402,45): error CS0103: 当前上下文中不存在名称“HorizontalAlignment”
+(403,17): error CS0103: 当前上下文中不存在名称“HorizontalAlignment”
+(404,32): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(416,25): error CS0103: 当前上下文中不存在名称“FlexWrap”

@@ -1,0 +1,13 @@
+(11,5): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(104,12): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(69,32): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(69,81): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(81,32): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(47,32): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(57,32): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(94,32): error CS0246: 未能找到类型或命名空间名“OperationResultType”(是否缺少 using 指令或程序集引用?)
+(94,100): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(110,16): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(40,22): error CS0103: 当前上下文中不存在名称“OperationResultType”
+(116,29): error CS0103: 当前上下文中不存在名称“Activator”

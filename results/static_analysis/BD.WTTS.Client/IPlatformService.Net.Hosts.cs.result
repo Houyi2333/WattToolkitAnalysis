@@ -1,0 +1,9 @@
+(46,35): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(27,6): error CS0246: 未能找到类型或命名空间名“ObsoleteAttribute”(是否缺少 using 指令或程序集引用?)
+(27,6): error CS0246: 未能找到类型或命名空间名“Obsolete”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(35,36): error CS0246: 未能找到类型或命名空间名“FileStream”(是否缺少 using 指令或程序集引用?)
+(36,13): error CS0103: 当前上下文中不存在名称“FileMode”
+(37,13): error CS0103: 当前上下文中不存在名称“FileAccess”
+(38,13): error CS0103: 当前上下文中不存在名称“FileShare”
+(38,35): error CS0103: 当前上下文中不存在名称“FileShare”

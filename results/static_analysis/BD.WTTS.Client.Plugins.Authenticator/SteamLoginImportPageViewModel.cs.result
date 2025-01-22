@@ -1,0 +1,137 @@
+(5,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(1,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(2,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(3,18): error CS0234: 命名空间“BD.WTTS.UI”中不存在类型或命名空间名“Views”(是否缺少程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“WinAuth”(是否缺少 using 指令或程序集引用?)
+(13,61): error CS0246: 未能找到类型或命名空间名“ViewModelBase”(是否缺少 using 指令或程序集引用?)
+(22,14): error CS0246: 未能找到类型或命名空间名“ISteamAccountService”(是否缺少 using 指令或程序集引用?)
+(24,5): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(26,5): error CS0246: 未能找到类型或命名空间名“SteamLoginState”(是否缺少 using 指令或程序集引用?)
+(28,5): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(46,19): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(76,19): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(99,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(115,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(131,11): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(170,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(206,11): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+(212,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(22,58): error CS0103: 当前上下文中不存在名称“Ioc”
+(22,66): error CS0246: 未能找到类型或命名空间名“ISteamAccountService”(是否缺少 using 指令或程序集引用?)
+(28,55): error CS0246: 未能找到类型或命名空间名“SteamAuthenticator”(是否缺少 using 指令或程序集引用?)
+(36,9): error CS0103: 当前上下文中不存在名称“UserNameText”
+(37,9): error CS0103: 当前上下文中不存在名称“PasswordText”
+(38,9): error CS0103: 当前上下文中不存在名称“CaptchaImageText”
+(39,9): error CS0103: 当前上下文中不存在名称“EmailAuthText”
+(40,9): error CS0103: 当前上下文中不存在名称“EmailDomainText”
+(41,9): error CS0103: 当前上下文中不存在名称“PhoneCodeText”
+(42,9): error CS0103: 当前上下文中不存在名称“RevocationCodeText”
+(43,9): error CS0103: 当前上下文中不存在名称“SelectIndex”
+(48,39): error CS0103: 当前上下文中不存在名称“UserNameText”
+(48,82): error CS0103: 当前上下文中不存在名称“PasswordText”
+(50,13): error CS0103: 当前上下文中不存在名称“Toast”
+(50,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(51,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(53,37): error CS0103: 当前上下文中不存在名称“UserNameText”
+(54,37): error CS0103: 当前上下文中不存在名称“PasswordText”
+(55,37): error CS0103: 当前上下文中不存在名称“ResourceService”
+(56,9): error CS0103: 当前上下文中不存在名称“IsLoading”
+(46,24): error CS0161: “SteamLoginImportPageViewModel.LoginSteamFirstAsync()”: 并非所有的代码路径都返回值
+(78,34): error CS0103: 当前上下文中不存在名称“EmailAuthText”
+(86,46): error CS0103: 当前上下文中不存在名称“EmailAuthText”
+(91,42): error CS0103: 当前上下文中不存在名称“EmailAuthText”
+(95,9): error CS0103: 当前上下文中不存在名称“EmailAuthText”
+(96,9): error CS0103: 当前上下文中不存在名称“EmailDomainText”
+(76,24): error CS0161: “SteamLoginImportPageViewModel.LoginSteamWithCodeAsync()”: 并非所有的代码路径都返回值
+(101,34): error CS0103: 当前上下文中不存在名称“PhoneCodeText”
+(103,13): error CS0103: 当前上下文中不存在名称“Toast”
+(103,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(107,43): error CS0103: 当前上下文中不存在名称“PhoneCodeText”
+(111,9): error CS0103: 当前上下文中不存在名称“PhoneCodeText”
+(117,25): error CS0246: 未能找到类型或命名空间名“AuthenticatorDTO”(是否缺少 using 指令或程序集引用?)
+(119,29): error CS0103: 当前上下文中不存在名称“UserNameText”
+(121,23): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(123,15): error CS0103: 当前上下文中不存在名称“AuthenticatorHelper”
+(124,9): error CS0103: 当前上下文中不存在名称“SelectIndex”
+(115,23): error CS0161: “SteamLoginImportPageViewModel.SaveAuthenticatorAsync()”: 并非所有的代码路径都返回值
+(136,23): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(137,25): error CS0246: 未能找到类型或命名空间名“MessageBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(139,17): error CS0103: 当前上下文中不存在名称“Toast”
+(139,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(147,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(160,13): error CS0103: 当前上下文中不存在名称“RevocationCodeText”
+(161,13): error CS0103: 当前上下文中不存在名称“SelectIndex”
+(131,16): error CS0161: “SteamLoginImportPageViewModel.CheckAddAuthenticatorResult()”: 并非所有的代码路径都返回值
+(177,13): error CS0103: 当前上下文中不存在名称“Requires2FA”
+(178,13): error CS0103: 当前上下文中不存在名称“SelectIndex”
+(184,13): error CS0103: 当前上下文中不存在名称“EmailDomainText”
+(187,13): error CS0103: 当前上下文中不存在名称“SelectIndex”
+(193,23): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(194,25): error CS0246: 未能找到类型或命名空间名“MessageBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(196,17): error CS0103: 当前上下文中不存在名称“Toast”
+(196,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(209,9): error CS0103: 当前上下文中不存在名称“IsVerifyAccountPhone”
+(206,21): error CS0161: “SteamLoginImportPageViewModel.CheckAccountPhoneStatus()”: 并非所有的代码路径都返回值
+(214,13): error CS0103: 当前上下文中不存在名称“IsLoading”
+(216,13): error CS0103: 当前上下文中不存在名称“Toast”
+(216,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(217,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(219,9): error CS0103: 当前上下文中不存在名称“IsLoading”
+(223,17): error CS0103: 当前上下文中不存在名称“SelectIndex”
+(247,25): error CS0103: 当前上下文中不存在名称“SelectIndex”
+(251,25): error CS0103: 当前上下文中不存在名称“SelectIndex”
+(253,30): error CS0103: 当前上下文中不存在名称“IsVerifyAccountPhone”
+(255,29): error CS0103: 当前上下文中不存在名称“Toast”
+(255,40): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(258,47): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(259,52): error CS0246: 未能找到类型或命名空间名“AddSteamAccountPhoneNumberPageViewModel”(是否缺少 using 指令或程序集引用?)
+(260,54): error CS0246: 未能找到类型或命名空间名“AddSteamAccountPhoneNumberPage”(是否缺少 using 指令或程序集引用?)
+(270,42): error CS0103: 当前上下文中不存在名称“IsVerifyAccountPhone”
+(278,39): error CS0103: 当前上下文中不存在名称“Task”
+(278,50): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(285,33): error CS0103: 当前上下文中不存在名称“SelectIndex”
+(288,29): error CS0126: 需要一个类型可转换为“Task”的对象
+(290,25): error CS0126: 需要一个类型可转换为“Task”的对象
+(292,30): error CS0103: 当前上下文中不存在名称“SelectIndex”
+(294,50): error CS0103: 当前上下文中不存在名称“PhoneCodeText”
+(296,29): error CS0103: 当前上下文中不存在名称“Toast”
+(296,40): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(296,57): error CS0103: 当前上下文中不存在名称“Strings”
+(297,29): error CS0126: 需要一个类型可转换为“Task”的对象
+(300,98): error CS0103: 当前上下文中不存在名称“PhoneCodeText”
+(303,29): error CS0103: 当前上下文中不存在名称“RevocationCodeText”
+(304,29): error CS0126: 需要一个类型可转换为“Task”的对象
+(308,76): error CS0103: 当前上下文中不存在名称“Strings”
+(309,21): error CS0103: 当前上下文中不存在名称“Toast”
+(309,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(316,25): error CS0126: 需要一个类型可转换为“Task”的对象
+(321,31): error CS0103: 当前上下文中不存在名称“Strings”
+(323,25): error CS0103: 当前上下文中不存在名称“Toast”
+(323,36): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(330,50): error CS0103: 当前上下文中不存在名称“PhoneNumberText”
+(332,29): error CS0103: 当前上下文中不存在名称“Toast”
+(332,40): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(333,29): error CS0126: 需要一个类型可转换为“Task”的对象
+(336,97): error CS0103: 当前上下文中不存在名称“PhoneNumberText”
+(340,42): error CS0103: 当前上下文中不存在名称“MessageBox”
+(340,63): error CS0103: 当前上下文中不存在名称“Strings”
+(340,163): error CS0103: 当前上下文中不存在名称“MessageBox”
+(340,194): error CS0103: 当前上下文中不存在名称“MessageBox”
+(342,101): error CS0103: 当前上下文中不存在名称“PhoneNumberText”
+(350,29): error CS0103: 当前上下文中不存在名称“Toast”
+(350,40): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(351,29): error CS0126: 需要一个类型可转换为“Task”的对象
+(361,16): error CS0246: 未能找到类型或命名空间名“WinAuthSteamToManyRequestException”(是否缺少 using 指令或程序集引用?)
+(363,13): error CS0103: 当前上下文中不存在名称“Toast”
+(363,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(365,16): error CS0246: 未能找到类型或命名空间名“WinAuthInvalidEnrollResponseException”(是否缺少 using 指令或程序集引用?)
+(367,13): error CS0103: 当前上下文中不存在名称“Toast”
+(367,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(369,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(380,13): error CS0103: 当前上下文中不存在名称“IsLoading”
+(212,23): error CS0161: “SteamLoginImportPageViewModel.LoginSteamImport()”: 并非所有的代码路径都返回值
+(4,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。

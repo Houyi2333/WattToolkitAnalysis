@@ -1,0 +1,3 @@
+(8,5): error CS0246: 未能找到类型或命名空间名“HostString”(是否缺少 using 指令或程序集引用?)
+(10,5): error CS0246: 未能找到类型或命名空间名“ProxyProtocol”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

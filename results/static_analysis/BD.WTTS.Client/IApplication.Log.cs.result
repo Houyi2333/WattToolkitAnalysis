@@ -1,0 +1,45 @@
+(10,19): error CS0246: 未能找到类型或命名空间名“NLogLevel”(是否缺少 using 指令或程序集引用?)
+(18,38): error CS0246: 未能找到类型或命名空间名“LogLevel”(是否缺少 using 指令或程序集引用?)
+(18,12): error CS0246: 未能找到类型或命名空间名“NLogLevel”(是否缺少 using 指令或程序集引用?)
+(21,36): error CS0246: 未能找到类型或命名空间名“LogLevel”(是否缺少 using 指令或程序集引用?)
+(24,36): error CS0246: 未能找到类型或命名空间名“NLogLevel”(是否缺少 using 指令或程序集引用?)
+(31,45): error CS0246: 未能找到类型或命名空间名“LogLevel”(是否缺少 using 指令或程序集引用?)
+(49,12): error CS0246: 未能找到类型或命名空间名“LoggerFilterOptions”(是否缺少 using 指令或程序集引用?)
+(62,60): error CS0246: 未能找到类型或命名空间名“LogLevel”(是否缺少 using 指令或程序集引用?)
+(62,19): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(62,26): error CS0246: 未能找到类型或命名空间名“ILoggingBuilder”(是否缺少 using 指令或程序集引用?)
+(111,19): error CS0246: 未能找到类型或命名空间名“LogLevel”(是否缺少 using 指令或程序集引用?)
+(173,12): error CS0246: 未能找到类型或命名空间名“Action”(是否缺少 using 指令或程序集引用?)
+(8,11): error CS0246: 未能找到类型或命名空间名“LogLevel”(是否缺少 using 指令或程序集引用?)
+(44,20): error CS0246: 未能找到类型或命名空间名“LoggerFilterOptions”(是否缺少 using 指令或程序集引用?)
+(8,44): error CS0103: 当前上下文中不存在名称“IPCSubProcessFileSystem”
+(17,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(17,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(17,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(20,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(20,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(20,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(23,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(23,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(23,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(30,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(30,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(30,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(10,55): error CS0103: 当前上下文中不存在名称“IPCSubProcessFileSystem”
+(18,60): error CS0103: 当前上下文中不存在名称“IPCSubProcessFileSystem”
+(26,9): error CS0103: 当前上下文中不存在名称“NLogManager”
+(27,9): error CS0103: 当前上下文中不存在名称“NInternalLogger”
+(36,17): error CS0019: 运算符“!=”无法应用于“LoggerFilterOptions?”和“<null>”类型的操作数
+(36,30): error CS1061: “LoggerFilterOptions?”未包含“MinLevel”的定义，并且找不到可接受第一个“LoggerFilterOptions?”类型参数的可访问扩展方法“MinLevel”(是否缺少 using 指令或程序集引用?)
+(53,17): error CS0019: 运算符“!=”无法应用于“LoggerFilterOptions?”和“<null>”类型的操作数
+(54,20): error CS0103: 当前上下文中不存在名称“Ioc”
+(54,37): error CS0246: 未能找到类型或命名空间名“IOptions<>”(是否缺少 using 指令或程序集引用?)
+(54,46): error CS0246: 未能找到类型或命名空间名“LoggerFilterOptions”(是否缺少 using 指令或程序集引用?)
+(64,17): error CS0246: 未能找到类型或命名空间名“ILoggingBuilder”(是否缺少 using 指令或程序集引用?)
+(116,17): error CS0019: 运算符“==”无法应用于“LoggerFilterOptions?”和“<null>”类型的操作数
+(121,22): error CS1061: “LoggerFilterOptions?”未包含“MinLevel”的定义，并且找不到可接受第一个“LoggerFilterOptions?”类型参数的可访问扩展方法“MinLevel”(是否缺少 using 指令或程序集引用?)
+(127,17): error CS0019: 运算符“!=”无法应用于“LoggerFilterOptions?”和“<null>”类型的操作数
+(129,19): error CS1061: “LoggerFilterOptions?”未包含“MinLevel”的定义，并且找不到可接受第一个“LoggerFilterOptions?”类型参数的可访问扩展方法“MinLevel”(是否缺少 using 指令或程序集引用?)
+(140,33): error CS0103: 当前上下文中不存在名称“LogLevel”
+(143,62): error CS0103: 当前上下文中不存在名称“LogLevel”

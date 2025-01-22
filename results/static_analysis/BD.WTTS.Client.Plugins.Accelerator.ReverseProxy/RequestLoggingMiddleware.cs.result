@@ -1,0 +1,20 @@
+(24,35): error CS0246: 未能找到类型或命名空间名“HttpContext”(是否缺少 using 指令或程序集引用?)
+(24,56): error CS0246: 未能找到类型或命名空间名“RequestDelegate”(是否缺少 using 指令或程序集引用?)
+(24,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(66,25): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(87,52): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(107,30): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(11,14): error CS0246: 未能找到类型或命名空间名“ILogger<>”(是否缺少 using 指令或程序集引用?)
+(13,37): error CS0246: 未能找到类型或命名空间名“ILogger<>”(是否缺少 using 指令或程序集引用?)
+(88,33): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(121,42): error CS0246: 未能找到类型或命名空间名“IRequestLoggingFeature”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(27,30): error CS0246: 未能找到类型或命名空间名“IRequestLoggingFeature”(是否缺少 using 指令或程序集引用?)
+(28,25): error CS0103: 当前上下文中不存在名称“Stopwatch”
+(41,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(53,172): error CS0103: 当前上下文中不存在名称“Environment”
+(57,174): error CS0103: 当前上下文中不存在名称“Environment”
+(24,23): error CS0161: “RequestLoggingMiddleware.InvokeAsync(HttpContext, RequestDelegate)”: 并非所有的代码路径都返回值
+(68,26): error CS0246: 未能找到类型或命名空间名“OperationCanceledException”(是否缺少 using 指令或程序集引用?)
+(73,31): error CS0246: 未能找到类型或命名空间名“ConnectionAbortedException”(是否缺少 using 指令或程序集引用?)
+(110,27): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)

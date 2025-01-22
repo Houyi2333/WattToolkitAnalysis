@@ -1,0 +1,206 @@
+(2,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Helpers”(是否缺少程序集引用?)
+(3,24): error CS0234: 命名空间“BD.WTTS.Services”中不存在类型或命名空间名“Implementation”(是否缺少程序集引用?)
+(19,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(19,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(19,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(20,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(33,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(315,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(315,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(315,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(316,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(329,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(402,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(402,29): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(480,73): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(480,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(507,44): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(507,78): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(507,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(507,22): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(9,11): error CS0246: 未能找到类型或命名空间名“ProxyMode”(是否缺少 using 指令或程序集引用?)
+(11,5): error CS0246: 未能找到类型或命名空间名“ProxyMode”(是否缺少 using 指令或程序集引用?)
+(13,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(430,60): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(430,69): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(434,67): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(9,40): error CS0103: 当前上下文中不存在名称“ProxyMode”
+(440,10): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(440,10): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(440,21): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(462,10): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(462,10): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(462,21): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(27,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(35,9): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(35,29): error CS0246: 未能找到类型或命名空间名“AccelerateProjectDTO”(是否缺少 using 指令或程序集引用?)
+(35,67): error CS0103: 当前上下文中不存在名称“EnableProxyDomains”
+(37,27): error CS1061: “IReadOnlyCollection<AccelerateProjectDTO>?”未包含“Any_Nullable”的定义，并且找不到可接受第一个“IReadOnlyCollection<AccelerateProjectDTO>?”类型参数的可访问扩展方法“Any_Nullable”(是否缺少 using 指令或程序集引用?)
+(39,13): error CS0103: 当前上下文中不存在名称“Toast”
+(39,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(39,43): error CS0103: 当前上下文中不存在名称“Strings”
+(42,9): error CS0103: 当前上下文中不存在名称“TracepointHelper”
+(42,55): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(43,28): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(44,36): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(47,9): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(47,29): error CS0246: 未能找到类型或命名空间名“ScriptIPCDTO”(是否缺少 using 指令或程序集引用?)
+(48,31): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(49,39): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(50,28): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(50,73): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(50,115): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(51,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(51,27): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(53,27): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(54,38): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(55,39): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(56,34): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(57,14): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(58,17): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(58,49): error CS0103: 当前上下文中不存在名称“ProxyMode”
+(59,36): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(60,14): error CS0103: 当前上下文中不存在名称“ModelValidatorProvider”
+(61,33): error CS0103: 当前上下文中不存在名称“IProxySettings”
+(62,36): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(63,9): error CS0246: 未能找到类型或命名空间名“ExternalProxyType”(是否缺少 using 指令或程序集引用?)
+(63,52): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(65,38): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+(66,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(66,35): error CS0103: 当前上下文中不存在名称“ReverseProxySettings”
+(66,75): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(67,38): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(68,14): error CS0103: 当前上下文中不存在名称“ModelValidatorProvider”
+(69,35): error CS0103: 当前上下文中不存在名称“IProxySettings”
+(70,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(70,41): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(71,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(71,41): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(72,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(72,28): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(73,36): error CS0103: 当前上下文中不存在名称“RefreshIpv6Support”
+(74,23): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(75,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(75,35): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(77,13): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(81,60): error CS0103: 当前上下文中不存在名称“ProxySettingsWindowViewModel”
+(85,53): error CS0103: 当前上下文中不存在名称“ProxySettingsWindowViewModel”
+(89,9): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(89,14): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(90,25): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(98,19): error CS0103: 当前上下文中不存在名称“EnableProxyScripts”
+(130,14): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(130,43): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(131,16): error CS0103: 当前上下文中不存在名称“IPAddress”
+(133,24): error CS0103: 当前上下文中不存在名称“IPAddress”
+(138,42): error CS0103: 当前上下文中不存在名称“EnableProxyDomains”
+(138,14): error CS1061: “ProxyService”未包含“RaisePropertyChanged”的定义，并且找不到可接受第一个“ProxyService”类型参数的可访问扩展方法“RaisePropertyChanged”(是否缺少 using 指令或程序集引用?)
+(139,42): error CS0103: 当前上下文中不存在名称“EnableProxyScripts”
+(139,14): error CS1061: “ProxyService”未包含“RaisePropertyChanged”的定义，并且找不到可接受第一个“ProxyService”类型参数的可访问扩展方法“RaisePropertyChanged”(是否缺少 using 指令或程序集引用?)
+(146,18): error CS0103: 当前上下文中不存在名称“ProxyMode”
+(147,33): error CS0103: 当前上下文中不存在名称“SocketHelper”
+(150,26): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(164,31): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(165,29): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(168,37): error CS0103: 当前上下文中不存在名称“SocketHelper”
+(173,37): error CS0103: 当前上下文中不存在名称“Strings”
+(178,29): error CS0103: 当前上下文中不存在名称“Strings”
+(184,18): error CS0103: 当前上下文中不存在名称“ProxyMode”
+(185,21): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(186,43): error CS0103: 当前上下文中不存在名称“IPAddress”
+(188,32): error CS0103: 当前上下文中不存在名称“IPAddress”
+(190,50): error CS0103: 当前上下文中不存在名称“platformService”
+(195,28): error CS0103: 当前上下文中不存在名称“Strings”
+(199,18): error CS0103: 当前上下文中不存在名称“ProxyMode”
+(200,21): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(201,43): error CS0103: 当前上下文中不存在名称“IPAddress”
+(203,32): error CS0103: 当前上下文中不存在名称“IPAddress”
+(206,53): error CS0103: 当前上下文中不存在名称“platformService”
+(209,28): error CS0103: 当前上下文中不存在名称“Strings”
+(221,14): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(223,44): error CS0103: 当前上下文中不存在名称“ICertificateManager”
+(224,19): error CS0103: 当前上下文中不存在名称“platformService”
+(225,19): error CS0103: 当前上下文中不存在名称“ICertificateManager”
+(226,45): error CS0103: 当前上下文中不存在名称“StartProxyResultCode”
+(232,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(232,43): error CS1061: “IReadOnlyCollection<AccelerateProjectDTO>?”未包含“Any_Nullable”的定义，并且找不到可接受第一个“IReadOnlyCollection<AccelerateProjectDTO>?”类型参数的可访问扩展方法“Any_Nullable”(是否缺少 using 指令或程序集引用?)
+(235,9): error CS0246: 未能找到类型或命名空间名“ReverseProxySettings”(是否缺少 using 指令或程序集引用?)
+(241,40): error CS0103: 当前上下文中不存在名称“Serializable”
+(242,38): error CS0103: 当前上下文中不存在名称“reverseProxyService”
+(247,22): error CS0103: 当前上下文中不存在名称“ProxyMode”
+(248,38): error CS1061: “IReadOnlyCollection<AccelerateProjectDTO>?”未包含“Any_Nullable”的定义，并且找不到可接受第一个“IReadOnlyCollection<AccelerateProjectDTO>?”类型参数的可访问扩展方法“Any_Nullable”(是否缺少 using 指令或程序集引用?)
+(250,41): error CS0103: 当前上下文中不存在名称“IPAddress”
+(251,29): error CS0103: 当前上下文中不存在名称“IPAddress”
+(252,50): error CS1061: “IReadOnlyCollection<AccelerateProjectDTO>?”未包含“SelectMany”的定义，并且找不到可接受第一个“IReadOnlyCollection<AccelerateProjectDTO>?”类型参数的可访问扩展方法“SelectMany”(是否缺少 using 指令或程序集引用?)
+(268,42): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+(270,55): error CS0103: 当前上下文中不存在名称“hostsFileService”
+(271,61): error CS0103: 当前上下文中不存在名称“OperationResultType”
+(273,33): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(273,63): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(275,33): error CS0103: 当前上下文中不存在名称“Browser2”
+(275,47): error CS0103: 当前上下文中不存在名称“Constants”
+(278,35): error CS0103: 当前上下文中不存在名称“reverseProxyService”
+(279,36): error CS0103: 当前上下文中不存在名称“Strings”
+(284,13): error CS0103: 当前上下文中不存在名称“_StartAccelerateTime”
+(284,36): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(285,13): error CS0103: 当前上下文中不存在名称“StartTimer”
+(286,20): error CS8716: default 字面量缺少目标类型。
+(290,42): error CS0103: 当前上下文中不存在名称“StartProxyResultCode”
+(292,48): error CS0103: 当前上下文中不存在名称“Plugin”
+(294,21): error CS0103: 当前上下文中不存在名称“Process”
+(294,99): error CS0103: 当前上下文中不存在名称“Plugin”
+(297,17): error CS0103: 当前上下文中不存在名称“reverseProxyService”
+(304,21): error CS0103: 当前上下文中不存在名称“StartProxyResultCode”
+(304,104): error CS0103: 当前上下文中不存在名称“StartProxyResultCode”
+(323,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(344,18): error CS0103: 当前上下文中不存在名称“ProxyMode”
+(345,33): error CS0103: 当前上下文中不存在名称“hostsFileService”
+(348,51): error CS0103: 当前上下文中不存在名称“hostsFileService”
+(349,57): error CS0103: 当前上下文中不存在名称“OperationResultType”
+(352,41): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(353,30): error CS0103: 当前上下文中不存在名称“OperatingSystem”
+(353,60): error CS0103: 当前上下文中不存在名称“platformService”
+(355,29): error CS0103: 当前上下文中不存在名称“Browser2”
+(355,43): error CS0103: 当前上下文中不存在名称“Constants”
+(361,36): error CS0103: 当前上下文中不存在名称“Strings”
+(367,18): error CS0103: 当前上下文中不存在名称“ProxyMode”
+(370,27): error CS0103: 当前上下文中不存在名称“platformService”
+(374,18): error CS0103: 当前上下文中不存在名称“ProxyMode”
+(377,27): error CS0103: 当前上下文中不存在名称“platformService”
+(389,9): error CS0103: 当前上下文中不存在名称“StopTimer”
+(393,15): error CS0103: 当前上下文中不存在名称“reverseProxyService”
+(395,16): error CS8716: default 字面量缺少目标类型。
+(409,30): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(419,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(486,13): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(487,17): error CS0103: 当前上下文中不存在名称“ProxySettings”
+(489,44): error CS0103: 当前上下文中不存在名称“INetworkTestService”
+(493,44): error CS0103: 当前上下文中不存在名称“INetworkTestService”
+(496,27): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(500,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(502,13): error CS0103: 当前上下文中不存在名称“Log”
+(502,30): error CS0103: 当前上下文中不存在名称“StartOrStopProxyService”
+(509,19): error CS0103: 当前上下文中不存在名称“CancellationTokenSource”
+(510,25): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(510,30): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(520,39): error CS0103: 当前上下文中不存在名称“Task”
+(523,18): error CS8130: 无法推断隐式类型的析构变量“delayMs”的类型。
+(523,27): error CS8130: 无法推断隐式类型的析构变量“dns”的类型。
+(532,16): error CS0246: 未能找到类型或命名空间名“OperationCanceledException”(是否缺少 using 指令或程序集引用?)
+(536,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(538,13): error CS0103: 当前上下文中不存在名称“Log”
+(538,30): error CS0103: 当前上下文中不存在名称“StartOrStopProxyService”
+(446,17): error CS0103: 当前上下文中不存在名称“Toast”
+(446,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(446,47): error CS0103: 当前上下文中不存在名称“Strings”
+(449,22): error CS0019: 运算符“!=”无法应用于“Exception?”和“<null>”类型的操作数
+(451,27): error CS1061: “Exception?”未包含“LogAndShowT”的定义，并且找不到可接受第一个“Exception?”类型参数的可访问扩展方法“LogAndShowT”(是否缺少 using 指令或程序集引用?)
+(456,17): error CS0103: 当前上下文中不存在名称“Toast”
+(456,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(468,17): error CS0103: 当前上下文中不存在名称“Toast”
+(468,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(471,22): error CS0019: 运算符“!=”无法应用于“Exception?”和“<null>”类型的操作数
+(473,27): error CS1061: “Exception?”未包含“LogAndShowT”的定义，并且找不到可接受第一个“Exception?”类型参数的可访问扩展方法“LogAndShowT”(是否缺少 using 指令或程序集引用?)
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

@@ -1,0 +1,92 @@
+(10,46): error CS0246: 未能找到类型或命名空间名“AppWindow”(是否缺少 using 指令或程序集引用?)
+(10,57): error CS0246: 未能找到类型或命名空间名“IViewFor<>”(是否缺少 using 指令或程序集引用?)
+(10,79): error CS0246: 未能找到类型或命名空间名“IViewFor”(是否缺少 using 指令或程序集引用?)
+(10,89): error CS0246: 未能找到类型或命名空间名“IActivatableView”(是否缺少 using 指令或程序集引用?)
+(93,13): error CS0246: 未能找到类型或命名空间名“IViewFor”(是否缺少 using 指令或程序集引用?)
+(93,11): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(93,13): error CS0538: '显式接口声明中的“IViewFor”不是接口
+(12,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(12,53): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(14,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(76,5): error CS0246: 未能找到类型或命名空间名“SizePosition”(是否缺少 using 指令或程序集引用?)
+(87,22): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(99,45): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(111,43): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(169,39): error CS0246: 未能找到类型或命名空间名“WindowClosingEventArgs”(是否缺少 using 指令或程序集引用?)
+(189,38): error CS0246: 未能找到类型或命名空间名“EventArgs”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,76): error CS0103: 当前上下文中不存在名称“ReactiveWindow”
+(14,76): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(22,34): error CS1729: “AppWindow”不包含采用 0 个参数的构造函数
+(44,14): error CS1061: “ReactiveAppWindow<TViewModel>”未包含“WhenActivated”的定义，并且找不到可接受第一个“ReactiveAppWindow<TViewModel>”类型参数的可访问扩展方法“WhenActivated”(是否缺少 using 指令或程序集引用?)
+(45,28): error CS0103: 当前上下文中不存在名称“DataContextProperty”
+(45,14): error CS1061: “ReactiveAppWindow<TViewModel>”未包含“GetObservable”的定义，并且找不到可接受第一个“ReactiveAppWindow<TViewModel>”类型参数的可访问扩展方法“GetObservable”(是否缺少 using 指令或程序集引用?)
+(46,14): error CS1061: “ReactiveAppWindow<TViewModel>”未包含“GetObservable”的定义，并且找不到可接受第一个“ReactiveAppWindow<TViewModel>”类型参数的可访问扩展方法“GetObservable”(是否缺少 using 指令或程序集引用?)
+(50,48): error CS0103: 当前上下文中不存在名称“App”
+(50,94): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(50,14): error CS1061: “ReactiveAppWindow<TViewModel>”未包含“TryFindResource”的定义，并且找不到可接受第一个“ReactiveAppWindow<TViewModel>”类型参数的可访问扩展方法“TryFindResource”(是否缺少 using 指令或程序集引用?)
+(51,9): error CS0103: 当前上下文中不存在名称“TitleBar”
+(52,9): error CS0103: 当前上下文中不存在名称“TitleBar”
+(53,9): error CS0103: 当前上下文中不存在名称“TitleBar”
+(53,40): error CS0103: 当前上下文中不存在名称“TitleBarHitTestType”
+(56,9): error CS0103: 当前上下文中不存在名称“Background”
+(57,9): error CS0103: 当前上下文中不存在名称“TransparencyBackgroundFallback”
+(57,42): error CS0103: 当前上下文中不存在名称“OperatingSystem2”
+(57,71): error CS0103: 当前上下文中不存在名称“Brushes”
+(57,87): error CS0103: 当前上下文中不存在名称“Brushes”
+(58,9): error CS0103: 当前上下文中不存在名称“TransparencyLevelHint”
+(58,37): error CS0246: 未能找到类型或命名空间名“WindowTransparencyLevel”(是否缺少 using 指令或程序集引用?)
+(58,65): error CS0103: 当前上下文中不存在名称“UISettings”
+(62,30): error CS0120: 对象引用对于非静态的字段、方法或属性“object.GetType()”是必需的
+(63,39): error CS0103: 当前上下文中不存在名称“UISettings”
+(80,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(81,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(89,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(90,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(96,39): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(115,13): error CS0103: 当前上下文中不存在名称“ClearValue”
+(115,24): error CS0103: 当前上下文中不存在名称“DataContextProperty”
+(117,18): error CS0103: 当前上下文中不存在名称“DataContext”
+(119,13): error CS0103: 当前上下文中不存在名称“DataContext”
+(125,33): error CS0019: 运算符“!=”无法应用于“SizePosition?”和“<null>”类型的操作数
+(127,26): error CS0103: 当前上下文中不存在名称“Screens”
+(127,50): error CS0103: 当前上下文中不存在名称“Position”
+(132,21): error CS0103: 当前上下文中不存在名称“CanResize”
+(132,53): error CS0103: 当前上下文中不存在名称“IsVisible”
+(134,21): error CS0103: 当前上下文中不存在名称“WindowStartupLocation”
+(134,45): error CS0103: 当前上下文中不存在名称“WindowStartupLocation”
+(137,38): error CS1061: “SizePosition?”未包含“Width”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“Width”(是否缺少 using 指令或程序集引用?)
+(138,67): error CS1061: “SizePosition?”未包含“Width”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“Width”(是否缺少 using 指令或程序集引用?)
+(139,25): error CS0103: 当前上下文中不存在名称“Width”
+(139,46): error CS1061: “SizePosition?”未包含“Width”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“Width”(是否缺少 using 指令或程序集引用?)
+(141,38): error CS1061: “SizePosition?”未包含“Height”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“Height”(是否缺少 using 指令或程序集引用?)
+(142,68): error CS1061: “SizePosition?”未包含“Height”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“Height”(是否缺少 using 指令或程序集引用?)
+(143,25): error CS0103: 当前上下文中不存在名称“Height”
+(143,47): error CS1061: “SizePosition?”未包含“Height”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“Height”(是否缺少 using 指令或程序集引用?)
+(145,38): error CS1061: “SizePosition?”未包含“X”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“X”(是否缺少 using 指令或程序集引用?)
+(145,60): error CS1061: “SizePosition?”未包含“Y”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“Y”(是否缺少 using 指令或程序集引用?)
+(147,44): error CS0103: 当前上下文中不存在名称“Math”
+(149,48): error CS0246: 未能找到类型或命名空间名“PixelPoint”(是否缺少 using 指令或程序集引用?)
+(149,72): error CS1061: “SizePosition?”未包含“X”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“X”(是否缺少 using 指令或程序集引用?)
+(149,88): error CS1061: “SizePosition?”未包含“Y”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“Y”(是否缺少 using 指令或程序集引用?)
+(150,52): error CS0246: 未能找到类型或命名空间名“PixelPoint”(是否缺少 using 指令或程序集引用?)
+(150,76): error CS1061: “SizePosition?”未包含“X”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“X”(是否缺少 using 指令或程序集引用?)
+(150,85): error CS0103: 当前上下文中不存在名称“Width”
+(150,105): error CS1061: “SizePosition?”未包含“Y”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“Y”(是否缺少 using 指令或程序集引用?)
+(150,114): error CS0103: 当前上下文中不存在名称“Height”
+(154,29): error CS0103: 当前上下文中不存在名称“Position”
+(173,33): error CS0103: 当前上下文中不存在名称“WindowState”
+(173,48): error CS0103: 当前上下文中不存在名称“WindowState”
+(175,34): error CS0246: 未能找到类型或命名空间名“SizePosition”(是否缺少 using 指令或程序集引用?)
+(176,26): error CS1061: “SizePosition?”未包含“X”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“X”(是否缺少 using 指令或程序集引用?)
+(176,30): error CS0103: 当前上下文中不存在名称“Position”
+(177,26): error CS1061: “SizePosition?”未包含“Y”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“Y”(是否缺少 using 指令或程序集引用?)
+(177,30): error CS0103: 当前上下文中不存在名称“Position”
+(178,26): error CS1061: “SizePosition?”未包含“Width”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“Width”(是否缺少 using 指令或程序集引用?)
+(178,34): error CS0103: 当前上下文中不存在名称“ClientSize”
+(179,26): error CS1061: “SizePosition?”未包含“Height”的定义，并且找不到可接受第一个“SizePosition?”类型参数的可访问扩展方法“Height”(是否缺少 using 指令或程序集引用?)
+(179,35): error CS0103: 当前上下文中不存在名称“ClientSize”
+(181,28): error CS0120: 对象引用对于非静态的字段、方法或属性“object.GetType()”是必需的
+(184,17): error CS0103: 当前上下文中不存在名称“UISettings”
+(192,13): error CS0103: 当前上下文中不存在名称“DataContext”
+(192,28): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)

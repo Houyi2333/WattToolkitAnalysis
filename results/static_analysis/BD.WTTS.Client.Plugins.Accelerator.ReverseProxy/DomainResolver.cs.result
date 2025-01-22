@@ -1,0 +1,25 @@
+(8,31): error CS0246: 未能找到类型或命名空间名“IDomainResolver”(是否缺少 using 指令或程序集引用?)
+(10,14): error CS0246: 未能找到类型或命名空间名“IReverseProxyConfig”(是否缺少 using 指令或程序集引用?)
+(11,14): error CS0246: 未能找到类型或命名空间名“IPCToastService”(是否缺少 using 指令或程序集引用?)
+(15,27): error CS0246: 未能找到类型或命名空间名“IPCToastService”(是否缺少 using 指令或程序集引用?)
+(15,50): error CS0246: 未能找到类型或命名空间名“IReverseProxyConfig”(是否缺少 using 指令或程序集引用?)
+(21,53): error CS0246: 未能找到类型或命名空间名“DnsEndPoint”(是否缺少 using 指令或程序集引用?)
+(21,75): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(21,12): error CS0246: 未能找到类型或命名空间名“IAsyncEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(21,29): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(47,45): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(52,32): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(52,12): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(25,17): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+(27,104): error CS0246: 未能找到类型或命名空间名“IPAddress”(是否缺少 using 指令或程序集引用?)
+(27,118): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+(29,22): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+(29,75): error CS0103: 当前上下文中不存在名称“ProxyMode”
+(29,101): error CS0103: 当前上下文中不存在名称“ProxyMode”
+(32,100): error CS0103: 当前上下文中不存在名称“IDnsAnalysisService”
+(36,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(39,17): error CS0103: 当前上下文中不存在名称“IPCToastService”
+(40,17): error CS0103: 当前上下文中不存在名称“IPCToastService”
+(41,17): error CS0103: 当前上下文中不存在名称“Environment”
+(54,19): error CS0246: 未能找到类型或命名空间名“NotImplementedException”(是否缺少 using 指令或程序集引用?)

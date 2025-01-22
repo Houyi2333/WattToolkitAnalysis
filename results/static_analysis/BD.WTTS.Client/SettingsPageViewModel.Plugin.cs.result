@@ -1,0 +1,45 @@
+(2,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Linq”(是否缺少程序集引用?)
+(6,53): error CS0246: 未能找到类型或命名空间名“TabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(21,36): error CS0246: 未能找到类型或命名空间名“PluginResult<>”(是否缺少 using 指令或程序集引用?)
+(21,49): error CS0246: 未能找到类型或命名空间名“IPlugin”(是否缺少 using 指令或程序集引用?)
+(49,36): error CS0246: 未能找到类型或命名空间名“IPlugin”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(10,13): error CS0103: 当前上下文中不存在名称“Startup”
+(12,13): error CS0103: 当前上下文中不存在名称“Plugins”
+(12,27): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(12,48): error CS0246: 未能找到类型或命名空间名“PluginResult<>”(是否缺少 using 指令或程序集引用?)
+(12,61): error CS0246: 未能找到类型或命名空间名“IPlugin”(是否缺少 using 指令或程序集引用?)
+(18,9): error CS0103: 当前上下文中不存在名称“Toast”
+(18,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(18,36): error CS0103: 当前上下文中不存在名称“Strings”
+(28,13): error CS0103: 当前上下文中不存在名称“GeneralSettings”
+(32,13): error CS0103: 当前上下文中不存在名称“GeneralSettings”
+(35,9): error CS0103: 当前上下文中不存在名称“Startup”
+(40,20): error CS0103: 当前上下文中不存在名称“Path”
+(51,23): error CS0103: 当前上下文中不存在名称“MessageBox”
+(51,44): error CS0103: 当前上下文中不存在名称“Strings”
+(51,102): error CS0103: 当前上下文中不存在名称“MessageBox”
+(54,35): error CS0103: 当前上下文中不存在名称“Toast”
+(54,46): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(54,65): error CS0103: 当前上下文中不存在名称“Strings”
+(55,27): error CS0103: 当前上下文中不存在名称“Plugins”
+(64,28): error CS0103: 当前上下文中不存在名称“Path”
+(65,21): error CS0103: 当前上下文中不存在名称“Directory”
+(70,25): error CS0103: 当前上下文中不存在名称“Directory”
+(74,28): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(76,25): error CS0103: 当前上下文中不存在名称“Toast”
+(81,21): error CS0103: 当前上下文中不存在名称“Toast”
+(81,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(81,49): error CS0103: 当前上下文中不存在名称“Strings”
+(86,17): error CS0103: 当前上下文中不存在名称“Toast”
+(86,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(86,47): error CS0103: 当前上下文中不存在名称“Strings”
+(96,26): error CS0103: 当前上下文中不存在名称“clickOpenFolderTimeRecord”
+(97,23): error CS0103: 当前上下文中不存在名称“DateTime”
+(98,54): error CS0103: 当前上下文中不存在名称“clickOpenFolderIntervalSeconds”
+(100,13): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(101,18): error CS0103: 当前上下文中不存在名称“clickOpenFolderTimeRecord”
+(101,63): error CS0103: 当前上下文中不存在名称“clickOpenFolderTimeRecord”
+(103,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(105,13): error CS0103: 当前上下文中不存在名称“Toast”
+(2,1): hidden CS8019: 不需要的 using 指令。

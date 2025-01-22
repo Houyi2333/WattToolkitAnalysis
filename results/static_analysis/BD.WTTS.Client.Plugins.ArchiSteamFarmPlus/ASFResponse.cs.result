@@ -1,0 +1,45 @@
+(22,22): error CS0234: 命名空间“ArchiSteamFarm”中不存在类型或命名空间名“Storage”(是否缺少程序集引用?)
+(23,7): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(49,12): error CS0246: 未能找到类型或命名空间名“GlobalConfig”(是否缺少 using 指令或程序集引用?)
+(63,12): error CS0246: 未能找到类型或命名空间名“DateTime”(是否缺少 using 指令或程序集引用?)
+(77,12): error CS0246: 未能找到类型或命名空间名“Version”(是否缺少 using 指令或程序集引用?)
+(33,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(33,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(34,6): error CS0246: 未能找到类型或命名空间名“RequiredAttribute”(是否缺少 using 指令或程序集引用?)
+(34,6): error CS0246: 未能找到类型或命名空间名“Required”(是否缺少 using 指令或程序集引用?)
+(33,30): error CS0103: 当前上下文中不存在名称“Required”
+(40,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(40,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(41,6): error CS0246: 未能找到类型或命名空间名“RequiredAttribute”(是否缺少 using 指令或程序集引用?)
+(41,6): error CS0246: 未能找到类型或命名空间名“Required”(是否缺少 using 指令或程序集引用?)
+(40,30): error CS0103: 当前上下文中不存在名称“Required”
+(47,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(47,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(48,6): error CS0246: 未能找到类型或命名空间名“RequiredAttribute”(是否缺少 using 指令或程序集引用?)
+(48,6): error CS0246: 未能找到类型或命名空间名“Required”(是否缺少 using 指令或程序集引用?)
+(47,30): error CS0103: 当前上下文中不存在名称“Required”
+(54,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(54,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(55,6): error CS0246: 未能找到类型或命名空间名“RequiredAttribute”(是否缺少 using 指令或程序集引用?)
+(55,6): error CS0246: 未能找到类型或命名空间名“Required”(是否缺少 using 指令或程序集引用?)
+(54,30): error CS0103: 当前上下文中不存在名称“Required”
+(61,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(61,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(62,6): error CS0246: 未能找到类型或命名空间名“RequiredAttribute”(是否缺少 using 指令或程序集引用?)
+(62,6): error CS0246: 未能找到类型或命名空间名“Required”(是否缺少 using 指令或程序集引用?)
+(61,30): error CS0103: 当前上下文中不存在名称“Required”
+(68,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(68,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(69,6): error CS0246: 未能找到类型或命名空间名“RequiredAttribute”(是否缺少 using 指令或程序集引用?)
+(69,6): error CS0246: 未能找到类型或命名空间名“Required”(是否缺少 using 指令或程序集引用?)
+(68,30): error CS0103: 当前上下文中不存在名称“Required”
+(75,6): error CS0246: 未能找到类型或命名空间名“JsonPropertyAttribute”(是否缺少 using 指令或程序集引用?)
+(75,6): error CS0246: 未能找到类型或命名空间名“JsonProperty”(是否缺少 using 指令或程序集引用?)
+(76,6): error CS0246: 未能找到类型或命名空间名“RequiredAttribute”(是否缺少 using 指令或程序集引用?)
+(76,6): error CS0246: 未能找到类型或命名空间名“Required”(是否缺少 using 指令或程序集引用?)
+(75,30): error CS0103: 当前上下文中不存在名称“Required”
+(79,6): error CS0246: 未能找到类型或命名空间名“JsonConstructorAttribute”(是否缺少 using 指令或程序集引用?)
+(79,6): error CS0246: 未能找到类型或命名空间名“JsonConstructor”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(22,1): hidden CS8019: 不需要的 using 指令。
+(23,1): hidden CS8019: 不需要的 using 指令。

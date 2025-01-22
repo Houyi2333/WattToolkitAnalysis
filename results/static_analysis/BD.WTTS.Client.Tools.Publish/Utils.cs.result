@@ -1,0 +1,90 @@
+(14,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Linq”(是否缺少程序集引用?)
+(18,36): error CS0234: 命名空间“System.Management.Automation”中不存在类型或命名空间名“Security”(是否缺少程序集引用?)
+(29,17): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“PowerShell”(是否缺少程序集引用?)
+(1704,38): error CS0246: 未能找到类型或命名空间名“LinkedList<>”(是否缺少 using 指令或程序集引用?)
+(47,25): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(49,38): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(61,38): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(73,38): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(85,38): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(97,38): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(109,38): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(121,38): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(133,38): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(145,38): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(157,38): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(179,25): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(1207,62): error CS0246: 未能找到类型或命名空间名“WindowsIdentity”(是否缺少 using 指令或程序集引用?)
+(1226,68): error CS0246: 未能找到类型或命名空间名“WindowsIdentity”(是否缺少 using 指令或程序集引用?)
+(1415,13): error CS0246: 未能找到类型或命名空间名“WindowsIdentity”(是否缺少 using 指令或程序集引用?)
+(380,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitiveAttribute”(是否缺少 using 指令或程序集引用?)
+(380,10): error CS0246: 未能找到类型或命名空间名“ArchitectureSensitive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(1672,35): error CS1061: “BoundedStack<T>”未包含“Clear”的定义，并且找不到可接受第一个“BoundedStack<T>”类型参数的可访问扩展方法“Clear”(是否缺少 using 指令或程序集引用?)
+(47,67): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(1696,53): error CS0428: 无法将方法组“Count”转换为非委托类型“int”。是否希望调用此方法?
+(1698,53): error CS0428: 无法将方法组“Count”转换为非委托类型“int”。是否希望调用此方法?
+(1723,18): error CS1061: “BoundedStack<T>”未包含“AddFirst”的定义，并且找不到可接受第一个“BoundedStack<T>”类型参数的可访问扩展方法“AddFirst”(是否缺少 using 指令或程序集引用?)
+(1725,17): error CS0019: 运算符“>”无法应用于“方法组”和“int”类型的操作数
+(1727,22): error CS1061: “BoundedStack<T>”未包含“RemoveLast”的定义，并且找不到可接受第一个“BoundedStack<T>”类型参数的可访问扩展方法“RemoveLast”(是否缺少 using 指令或程序集引用?)
+(147,26): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(147,58): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(159,26): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(159,57): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(262,24): error CS0246: 未能找到类型或命名空间名“BigInteger”(是否缺少 using 指令或程序集引用?)
+(343,23): error CS0103: 当前上下文中不存在名称“PSTraceSource”
+(347,23): error CS0103: 当前上下文中不存在名称“PSTraceSource”
+(362,23): error CS0103: 当前上下文中不存在名称“PSTraceSource”
+(376,23): error CS0103: 当前上下文中不存在名称“PSTraceSource”
+(568,13): error CS0246: 未能找到类型或命名空间名“RegistryKey”(是否缺少 using 指令或程序集引用?)
+(574,28): error CS0103: 当前上下文中不存在名称“Registry”
+(724,20): error CS1929: “string[]”不包含“Contains”的定义，并且最佳扩展方法重载“MemoryExtensions.Contains(ReadOnlySpan<char>, ReadOnlySpan<char>, StringComparison)”需要类型为“System.ReadOnlySpan<char>”的接收器
+(1211,35): error CS0103: 当前上下文中不存在名称“WindowsIdentity”
+(1228,13): error CS0246: 未能找到类型或命名空间名“WindowsIdentity”(是否缺少 using 指令或程序集引用?)
+(1251,13): error CS0246: 未能找到类型或命名空间名“WindowsIdentity”(是否缺少 using 指令或程序集引用?)
+(1254,37): error CS0246: 未能找到类型或命名空间名“WindowsPrincipal”(是否缺少 using 指令或程序集引用?)
+(1255,43): error CS0103: 当前上下文中不存在名称“WindowsBuiltInRole”
+(1306,13): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(1307,20): error CS0103: 当前上下文中不存在名称“Uri”
+(1307,40): error CS0103: 当前上下文中不存在名称“UriKind”
+(1429,13): error CS0246: 未能找到类型或命名空间名“WindowsIdentity”(是否缺少 using 指令或程序集引用?)
+(1429,64): error CS0246: 未能找到类型或命名空间名“WindowsIdentity”(是否缺少 using 指令或程序集引用?)
+(1435,17): error CS0103: 当前上下文中不存在名称“WindowsIdentity”
+(1611,30): warning CS0649: 从未对字段“InternalTestHooks.ShowMarkdownOutputBypass”赋值，字段将一直保持其默认值 false
+(1590,29): warning CS0649: 从未对字段“InternalTestHooks.TestRenameComputerResults”赋值，字段将一直保持其默认值 0
+(1597,30): warning CS0649: 从未对字段“InternalTestHooks.SetConsoleWidthToZero”赋值，字段将一直保持其默认值 false
+(1620,30): warning CS0649: 从未对字段“InternalTestHooks.OneDriveTestRecurseOn”赋值，字段将一直保持其默认值 false
+(1580,30): warning CS0649: 从未对字段“InternalTestHooks.BypassOnlineHelpRetrieval”赋值，字段将一直保持其默认值 false
+(1613,30): warning CS0649: 从未对字段“InternalTestHooks.ThrowExdevErrorOnMoveDirectory”赋值，字段将一直保持其默认值 false
+(1587,30): warning CS0649: 从未对字段“InternalTestHooks.TestWaitStopComputer”赋值，字段将一直保持其默认值 false
+(1593,30): warning CS0649: 从未对字段“InternalTestHooks.IgnoreScriptBlockCache”赋值，字段将一直保持其默认值 false
+(1576,30): warning CS0649: 从未对字段“InternalTestHooks.BypassGroupPolicyCaching”赋值，字段将一直保持其默认值 false
+(1619,30): warning CS0649: 从未对字段“InternalTestHooks.OneDriveTestOn”赋值，字段将一直保持其默认值 false
+(1608,32): warning CS0649: 从未对字段“InternalTestHooks.TestWindowsPowerShellVersionString”赋值，字段将一直保持其默认值 null
+(499,33): warning CS0169: 从不使用字段“Utils.s_productFolderDirectories”
+(1582,30): warning CS0649: 从未对字段“InternalTestHooks.NoPromptForPassword”赋值，字段将一直保持其默认值 false
+(1577,30): warning CS0649: 从未对字段“InternalTestHooks.ForceScriptBlockLogging”赋值，字段将一直保持其默认值 false
+(1583,30): warning CS0649: 从未对字段“InternalTestHooks.ForceFormatListFixedLabelWidth”赋值，字段将一直保持其默认值 false
+(1581,30): warning CS0649: 从未对字段“InternalTestHooks.ForcePromptForChoiceDefaultOption”赋值，字段将一直保持其默认值 false
+(1589,29): warning CS0649: 从未对字段“InternalTestHooks.TestStopComputerResults”赋值，字段将一直保持其默认值 0
+(1578,30): warning CS0649: 从未对字段“InternalTestHooks.UseDebugAmsiImplementation”赋值，字段将一直保持其默认值 false
+(1603,32): warning CS0649: 从未对字段“InternalTestHooks.TestWindowsPowerShellPSHomeLocation”赋值，字段将一直保持其默认值 null
+(1586,30): warning CS0649: 从未对字段“InternalTestHooks.TestStopComputer”赋值，字段将一直保持其默认值 false
+(1595,30): warning CS0649: 从未对字段“InternalTestHooks.StopwatchIsNotHighResolution”赋值，字段将一直保持其默认值 false
+(1596,30): warning CS0649: 从未对字段“InternalTestHooks.DisableGACLoading”赋值，字段将一直保持其默认值 false
+(1598,30): warning CS0649: 从未对字段“InternalTestHooks.SetConsoleHeightToZero”赋值，字段将一直保持其默认值 false
+(1588,30): warning CS0649: 从未对字段“InternalTestHooks.TestRenameComputer”赋值，字段将一直保持其默认值 false
+(1579,30): warning CS0649: 从未对字段“InternalTestHooks.BypassAppLockerPolicyCaching”赋值，字段将一直保持其默认值 false
+(420,31): warning CS0414: 字段“Utils.s_pshome”已被赋值，但从未使用过它的值
+(450,31): warning CS0414: 字段“Utils.s_windowsPowerShellVersion”已被赋值，但从未使用过它的值
+(19,1): hidden CS8019: 不需要的 using 指令。
+(31,1): hidden CS8019: 不需要的 using 指令。
+(21,1): hidden CS8019: 不需要的 using 指令。
+(18,1): hidden CS8019: 不需要的 using 指令。
+(6,1): hidden CS8019: 不需要的 using 指令。
+(30,1): hidden CS8019: 不需要的 using 指令。
+(14,1): hidden CS8019: 不需要的 using 指令。
+(29,1): hidden CS8019: 不需要的 using 指令。
+(10,1): hidden CS8019: 不需要的 using 指令。
+(9,1): hidden CS8019: 不需要的 using 指令。
+(16,1): hidden CS8019: 不需要的 using 指令。

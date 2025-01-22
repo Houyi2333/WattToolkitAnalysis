@@ -1,0 +1,144 @@
+(1,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(2,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(3,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(7,48): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(9,14): error CS0246: 未能找到类型或命名空间名“SourceCache<,>”(是否缺少 using 指令或程序集引用?)
+(9,26): error CS0246: 未能找到类型或命名空间名“SteamGridItem”(是否缺少 using 指令或程序集引用?)
+(10,14): error CS0246: 未能找到类型或命名空间名“ReadOnlyObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(10,43): error CS0246: 未能找到类型或命名空间名“SteamGridItem”(是否缺少 using 指令或程序集引用?)
+(14,12): error CS0246: 未能找到类型或命名空间名“ReadOnlyObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(14,41): error CS0246: 未能找到类型或命名空间名“SteamGridItem”(是否缺少 using 指令或程序集引用?)
+(16,12): error CS0246: 未能找到类型或命名空间名“SteamApp”(是否缺少 using 指令或程序集引用?)
+(19,12): error CS0246: 未能找到类型或命名空间名“SteamGridItem”(是否缺少 using 指令或程序集引用?)
+(26,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(28,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(30,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(32,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(34,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(36,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(38,41): error CS0246: 未能找到类型或命名空间名“SteamApp”(是否缺少 using 指令或程序集引用?)
+(79,28): error CS0246: 未能找到类型或命名空间名“SteamAppLaunchItem”(是否缺少 using 指令或程序集引用?)
+(92,30): error CS0246: 未能找到类型或命名空间名“SteamAppLaunchItem”(是否缺少 using 指令或程序集引用?)
+(97,32): error CS0246: 未能找到类型或命名空间名“SteamAppLaunchItem”(是否缺少 using 指令或程序集引用?)
+(102,34): error CS0246: 未能找到类型或命名空间名“SteamAppLaunchItem”(是否缺少 using 指令或程序集引用?)
+(110,47): error CS0246: 未能找到类型或命名空间名“SteamUser”(是否缺少 using 指令或程序集引用?)
+(216,48): error CS0246: 未能找到类型或命名空间名“SteamGridItemType”(是否缺少 using 指令或程序集引用?)
+(236,45): error CS0246: 未能找到类型或命名空间名“SteamGridItemType”(是否缺少 using 指令或程序集引用?)
+(283,42): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(283,52): error CS0246: 未能找到类型或命名空间名“CancelEventArgs”(是否缺少 using 指令或程序集引用?)
+(288,47): error CS0246: 未能找到类型或命名空间名“SteamGridItem”(是否缺少 using 指令或程序集引用?)
+(293,45): error CS0246: 未能找到类型或命名空间名“SteamGridItem”(是否缺少 using 指令或程序集引用?)
+(308,48): error CS0246: 未能找到类型或命名空间名“SteamGridItem”(是否缺少 using 指令或程序集引用?)
+(313,34): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(18,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(18,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(21,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(21,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(216,73): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,41): error CS0103: 当前上下文中不存在名称“Strings”
+(50,40): error CS0246: 未能找到类型或命名空间名“SourceCache<,>”(是否缺少 using 指令或程序集引用?)
+(50,52): error CS0246: 未能找到类型或命名空间名“SteamGridItem”(是否缺少 using 指令或程序集引用?)
+(54,22): error CS0103: 当前上下文中不存在名称“RxApp”
+(55,40): error CS0246: 未能找到类型或命名空间名“SteamGridItem”(是否缺少 using 指令或程序集引用?)
+(55,17): error CS0103: 当前上下文中不存在名称“SortExpressionComparer”
+(59,31): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(59,54): error CS0246: 未能找到类型或命名空间名“SteamAppLaunchItem”(是否缺少 using 指令或程序集引用?)
+(60,33): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(60,56): error CS0246: 未能找到类型或命名空间名“SteamAppLaunchItem”(是否缺少 using 指令或程序集引用?)
+(61,35): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(61,58): error CS0246: 未能找到类型或命名空间名“SteamAppLaunchItem”(是否缺少 using 指令或程序集引用?)
+(62,42): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(62,65): error CS0246: 未能找到类型或命名空间名“SteamGridItem”(是否缺少 using 指令或程序集引用?)
+(63,40): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(63,63): error CS0246: 未能找到类型或命名空间名“SteamGridItem”(是否缺少 using 指令或程序集引用?)
+(64,43): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(64,66): error CS0246: 未能找到类型或命名空间名“SteamGridItem”(是否缺少 using 指令或程序集引用?)
+(71,35): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(71,56): error CS0246: 未能找到类型或命名空间名“SteamAppLaunchItem”(是否缺少 using 指令或程序集引用?)
+(112,13): error CS0019: 运算符“==”无法应用于“SteamUser?”和“<null>”类型的操作数
+(114,13): error CS0103: 当前上下文中不存在名称“Toast”
+(114,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(114,41): error CS0103: 当前上下文中不存在名称“Strings”
+(124,30): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(125,43): error CS0246: 未能找到类型或命名空间名“FileStream”(是否缺少 using 指令或程序集引用?)
+(130,23): error CS0103: 当前上下文中不存在名称“ISteamService”
+(131,42): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(133,17): error CS0103: 当前上下文中不存在名称“Toast”
+(133,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(133,59): error CS0103: 当前上下文中不存在名称“Strings”
+(133,95): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(136,22): error CS1061: “EditAppInfoPageViewModel”未包含“RaisePropertyChanged”的定义，并且找不到可接受第一个“EditAppInfoPageViewModel”类型参数的可访问扩展方法“RaisePropertyChanged”(是否缺少 using 指令或程序集引用?)
+(138,44): error CS0246: 未能找到类型或命名空间名“FileStream”(是否缺少 using 指令或程序集引用?)
+(143,23): error CS0103: 当前上下文中不存在名称“ISteamService”
+(144,42): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(146,17): error CS0103: 当前上下文中不存在名称“Toast”
+(146,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(146,59): error CS0103: 当前上下文中不存在名称“Strings”
+(146,95): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(149,22): error CS1061: “EditAppInfoPageViewModel”未包含“RaisePropertyChanged”的定义，并且找不到可接受第一个“EditAppInfoPageViewModel”类型参数的可访问扩展方法“RaisePropertyChanged”(是否缺少 using 指令或程序集引用?)
+(151,44): error CS0246: 未能找到类型或命名空间名“FileStream”(是否缺少 using 指令或程序集引用?)
+(156,23): error CS0103: 当前上下文中不存在名称“ISteamService”
+(157,42): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(159,17): error CS0103: 当前上下文中不存在名称“Toast”
+(159,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(159,59): error CS0103: 当前上下文中不存在名称“Strings”
+(159,95): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(162,22): error CS1061: “EditAppInfoPageViewModel”未包含“RaisePropertyChanged”的定义，并且找不到可接受第一个“EditAppInfoPageViewModel”类型参数的可访问扩展方法“RaisePropertyChanged”(是否缺少 using 指令或程序集引用?)
+(164,44): error CS0246: 未能找到类型或命名空间名“FileStream”(是否缺少 using 指令或程序集引用?)
+(169,23): error CS0103: 当前上下文中不存在名称“ISteamService”
+(170,45): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(172,17): error CS0103: 当前上下文中不存在名称“Toast”
+(172,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(172,59): error CS0103: 当前上下文中不存在名称“Strings”
+(172,95): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(175,22): error CS1061: “EditAppInfoPageViewModel”未包含“RaisePropertyChanged”的定义，并且找不到可接受第一个“EditAppInfoPageViewModel”类型参数的可访问扩展方法“RaisePropertyChanged”(是否缺少 using 指令或程序集引用?)
+(181,9): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(186,9): error CS0103: 当前上下文中不存在名称“Toast”
+(186,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(188,14): error CS1061: “EditAppInfoPageViewModel”未包含“Close”的定义，并且找不到可接受第一个“EditAppInfoPageViewModel”类型参数的可访问扩展方法“Close”(是否缺少 using 指令或程序集引用?)
+(194,14): error CS1061: “EditAppInfoPageViewModel”未包含“Close”的定义，并且找不到可接受第一个“EditAppInfoPageViewModel”类型参数的可访问扩展方法“Close”(是否缺少 using 指令或程序集引用?)
+(204,19): error CS0246: 未能找到类型或命名空间名“BinaryReader”(是否缺少 using 指令或程序集引用?)
+(204,45): error CS0246: 未能找到类型或命名空间名“BinaryReader”(是否缺少 using 指令或程序集引用?)
+(204,62): error CS0246: 未能找到类型或命名空间名“MemoryStream”(是否缺少 using 指令或程序集引用?)
+(204,94): error CS0103: 当前上下文中不存在名称“Encoding”
+(205,41): error CS0103: 当前上下文中不存在名称“SeekOrigin”
+(211,13): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(221,26): error CS0103: 当前上下文中不存在名称“ISteamGridDBWebApiServiceImpl”
+(225,31): error CS0103: 当前上下文中不存在名称“ISteamGridDBWebApiServiceImpl”
+(238,13): error CS0019: 运算符“==”无法应用于“SteamGridItem?”和“<null>”类型的操作数
+(241,34): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(244,19): error CS0103: 当前上下文中不存在名称“ISteamService”
+(248,22): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(251,22): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(254,22): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(257,22): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(263,9): error CS0103: 当前上下文中不存在名称“Toast”
+(263,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(264,38): error CS0103: 当前上下文中不存在名称“Ioc”
+(264,46): error CS0246: 未能找到类型或命名空间名“IImageHttpClientService”(是否缺少 using 指令或程序集引用?)
+(265,88): error CS1061: “SteamGridItem?”未包含“Url”的定义，并且找不到可接受第一个“SteamGridItem?”类型参数的可访问扩展方法“Url”(是否缺少 using 指令或程序集引用?)
+(268,18): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(271,18): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(274,18): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(277,18): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(290,15): error CS0103: 当前上下文中不存在名称“Browser2”
+(297,13): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(297,53): error CS0103: 当前上下文中不存在名称“SteamGridDBApiUrls”
+(298,13): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(298,55): error CS0103: 当前上下文中不存在名称“SteamGridDBApiUrls”
+(299,13): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(299,53): error CS0103: 当前上下文中不存在名称“SteamGridDBApiUrls”
+(300,13): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(300,53): error CS0103: 当前上下文中不存在名称“SteamGridDBApiUrls”
+(301,13): error CS0103: 当前上下文中不存在名称“SteamGridItemType”
+(301,53): error CS0103: 当前上下文中不存在名称“SteamGridDBApiUrls”
+(302,32): error CS0103: 当前上下文中不存在名称“SteamGridDBApiUrls”
+(305,15): error CS0103: 当前上下文中不存在名称“Browser2”
+(310,15): error CS0103: 当前上下文中不存在名称“Browser2”
+(310,48): error CS0103: 当前上下文中不存在名称“SteamGridDBApiUrls”
+(316,13): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(321,9): error CS0103: 当前上下文中不存在名称“GameListPageViewModel”
+(2,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

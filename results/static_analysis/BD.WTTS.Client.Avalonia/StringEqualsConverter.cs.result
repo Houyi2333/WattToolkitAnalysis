@@ -1,0 +1,13 @@
+(3,38): error CS0246: 未能找到类型或命名空间名“IValueConverter”(是否缺少 using 指令或程序集引用?)
+(5,34): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(7,34): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(7,43): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(7,66): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(7,79): error CS0246: 未能找到类型或命名空间名“CultureInfo”(是否缺少 using 指令或程序集引用?)
+(7,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(14,38): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(14,47): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(14,70): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(14,83): error CS0246: 未能找到类型或命名空间名“CultureInfo”(是否缺少 using 指令或程序集引用?)
+(14,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

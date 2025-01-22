@@ -1,0 +1,93 @@
+(1,18): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“NetworkInformation”(是否缺少程序集引用?)
+(14,44): error CS0246: 未能找到类型或命名空间名“IProgress<>”(是否缺少 using 指令或程序集引用?)
+(14,55): error CS0246: 未能找到类型或命名空间名“NetworkEnvCheckStep”(是否缺少 using 指令或程序集引用?)
+(14,119): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(14,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(40,20): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(50,72): error CS0246: 未能找到类型或命名空间名“NetworkInterface”(是否缺少 using 指令或程序集引用?)
+(50,90): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(82,71): error CS0246: 未能找到类型或命名空间名“NetworkInterface”(是否缺少 using 指令或程序集引用?)
+(196,13): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(197,8): error CS0246: 未能找到类型或命名空间名“IntPtr”(是否缺少 using 指令或程序集引用?)
+(203,18): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(204,48): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)
+(247,16): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(206,10): error CS0246: 未能找到类型或命名空间名“OutAttribute”(是否缺少 using 指令或程序集引用?)
+(206,10): error CS0246: 未能找到类型或命名空间名“Out”(是否缺少 using 指令或程序集引用?)
+(194,6): error CS0246: 未能找到类型或命名空间名“DllImportAttribute”(是否缺少 using 指令或程序集引用?)
+(194,6): error CS0246: 未能找到类型或命名空间名“DllImport”(是否缺少 using 指令或程序集引用?)
+(194,40): error CS0103: 当前上下文中不存在名称“CharSet”
+(201,6): error CS0246: 未能找到类型或命名空间名“DllImportAttribute”(是否缺少 using 指令或程序集引用?)
+(201,6): error CS0246: 未能找到类型或命名空间名“DllImport”(是否缺少 using 指令或程序集引用?)
+(201,40): error CS0103: 当前上下文中不存在名称“CharSet”
+(203,10): error CS0246: 未能找到类型或命名空间名“InAttribute”(是否缺少 using 指令或程序集引用?)
+(203,10): error CS0246: 未能找到类型或命名空间名“In”(是否缺少 using 指令或程序集引用?)
+(204,10): error CS0246: 未能找到类型或命名空间名“OutAttribute”(是否缺少 using 指令或程序集引用?)
+(204,10): error CS0246: 未能找到类型或命名空间名“Out”(是否缺少 using 指令或程序集引用?)
+(204,15): error CS0246: 未能找到类型或命名空间名“MarshalAsAttribute”(是否缺少 using 指令或程序集引用?)
+(204,15): error CS0246: 未能找到类型或命名空间名“MarshalAs”(是否缺少 using 指令或程序集引用?)
+(204,25): error CS0103: 当前上下文中不存在名称“UnmanagedType”
+(205,10): error CS0246: 未能找到类型或命名空间名“InAttribute”(是否缺少 using 指令或程序集引用?)
+(205,10): error CS0246: 未能找到类型或命名空间名“In”(是否缺少 using 指令或程序集引用?)
+(205,14): error CS0246: 未能找到类型或命名空间名“OutAttribute”(是否缺少 using 指令或程序集引用?)
+(205,14): error CS0246: 未能找到类型或命名空间名“Out”(是否缺少 using 指令或程序集引用?)
+(215,6): error CS0246: 未能找到类型或命名空间名“SuppressMessageAttribute”(是否缺少 using 指令或程序集引用?)
+(215,6): error CS0246: 未能找到类型或命名空间名“SuppressMessage”(是否缺少 using 指令或程序集引用?)
+(216,6): error CS0246: 未能找到类型或命名空间名“StructLayoutAttribute”(是否缺少 using 指令或程序集引用?)
+(216,6): error CS0246: 未能找到类型或命名空间名“StructLayout”(是否缺少 using 指令或程序集引用?)
+(216,19): error CS0103: 当前上下文中不存在名称“LayoutKind”
+(216,52): error CS0103: 当前上下文中不存在名称“CharSet”
+(297,10): error CS0246: 未能找到类型或命名空间名“MarshalAsAttribute”(是否缺少 using 指令或程序集引用?)
+(297,10): error CS0246: 未能找到类型或命名空间名“MarshalAs”(是否缺少 using 指令或程序集引用?)
+(297,20): error CS0103: 当前上下文中不存在名称“UnmanagedType”
+(305,6): error CS0246: 未能找到类型或命名空间名“StructLayoutAttribute”(是否缺少 using 指令或程序集引用?)
+(305,6): error CS0246: 未能找到类型或命名空间名“StructLayout”(是否缺少 using 指令或程序集引用?)
+(305,19): error CS0103: 当前上下文中不存在名称“LayoutKind”
+(317,10): error CS0246: 未能找到类型或命名空间名“MarshalAsAttribute”(是否缺少 using 指令或程序集引用?)
+(317,10): error CS0246: 未能找到类型或命名空间名“MarshalAs”(是否缺少 using 指令或程序集引用?)
+(317,20): error CS0103: 当前上下文中不存在名称“UnmanagedType”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(16,15): error CS0103: 当前上下文中不存在名称“Parallel”
+(17,21): error CS0103: 当前上下文中不存在名称“NetworkEnvCheckStep”
+(18,21): error CS0103: 当前上下文中不存在名称“NetworkEnvCheckStep”
+(14,23): error CS0161: “NetworkEnvCheckService.CheckNetworkEnvAsync(IProgress<(NetworkEnvCheckStep Step, bool HasError, string Msg)>, CancellationToken)”: 并非所有的代码路径都返回值
+(42,30): error CS0103: 当前上下文中不存在名称“File”
+(45,20): error CS0103: 当前上下文中不存在名称“Task”
+(47,16): error CS0103: 当前上下文中不存在名称“Task”
+(52,24): error CS0103: 当前上下文中不存在名称“NetworkInterface”
+(60,24): error CS1061: “NetworkInterface[]”未包含“Where”的定义，并且找不到可接受第一个“NetworkInterface[]”类型参数的可访问扩展方法“Where”(是否缺少 using 指令或程序集引用?)
+(89,45): error CS0103: 当前上下文中不存在名称“OperationalStatus”
+(120,36): error CS0103: 当前上下文中不存在名称“IntPtr”
+(122,9): error CS0246: 未能找到类型或命名空间名“IntPtr”(是否缺少 using 指令或程序集引用?)
+(122,33): error CS0103: 当前上下文中不存在名称“Marshal”
+(132,30): error CS0103: 当前上下文中不存在名称“Marshal”
+(137,17): error CS0246: 未能找到类型或命名空间名“IntPtr”(是否缺少 using 指令或程序集引用?)
+(139,49): error CS0103: 当前上下文中不存在名称“Marshal”
+(159,13): error CS0103: 当前上下文中不存在名称“Marshal”
+(174,9): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)
+(174,41): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)
+(177,9): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(190,9): error CS0103: 当前上下文中不存在名称“Console”
+(318,23): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOLCHAIN.ChainEntries”赋值，字段将一直保持其默认值 null
+(237,21): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.dwServiceFlags4”赋值，字段将一直保持其默认值 0
+(242,21): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.dwProviderFlags”赋值，字段将一直保持其默认值 0
+(315,20): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOLCHAIN.ChainLen”赋值，字段将一直保持其默认值 0
+(283,20): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.iNetworkByteOrder”赋值，字段将一直保持其默认值 0
+(259,20): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.iVersion”赋值，字段将一直保持其默认值 0
+(264,20): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.iAddressFamily”赋值，字段将一直保持其默认值 0
+(298,23): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.szProtocol”赋值，字段将一直保持其默认值 null
+(292,21): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.dwProviderReserved”赋值，字段将一直保持其默认值 0
+(232,21): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.dwServiceFlags3”赋值，字段将一直保持其默认值 0
+(222,21): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.dwServiceFlags1”赋值，字段将一直保持其默认值 0
+(254,33): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.ProtocolChain”赋值，字段将一直保持其默认值 
+(269,20): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.iMaxSockAddr”赋值，字段将一直保持其默认值 0
+(290,21): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.dwMessageSize”赋值，字段将一直保持其默认值 0
+(227,21): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.dwServiceFlags2”赋值，字段将一直保持其默认值 0
+(285,20): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.iSecurityScheme”赋值，字段将一直保持其默认值 0
+(252,21): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.dwCatalogEntryId”赋值，字段将一直保持其默认值 0
+(278,20): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.iProtocolMaxOffset”赋值，字段将一直保持其默认值 0
+(277,20): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.iProtocol”赋值，字段将一直保持其默认值 0
+(274,20): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.iMinSockAddr”赋值，字段将一直保持其默认值 0
+(247,21): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.ProviderId”赋值，字段将一直保持其默认值 null
+(276,20): warning CS0649: 从未对字段“NetworkEnvCheckService.WSAPROTOCOL_INFO.iSocketType”赋值，字段将一直保持其默认值 0
+(1,1): hidden CS8019: 不需要的 using 指令。

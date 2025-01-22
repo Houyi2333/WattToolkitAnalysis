@@ -1,0 +1,32 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“AvaloniaEdit”(是否缺少 using 指令或程序集引用?)
+(5,7): error CS0246: 未能找到类型或命名空间名“AvaloniaEdit”(是否缺少 using 指令或程序集引用?)
+(6,7): error CS0246: 未能找到类型或命名空间名“Org”(是否缺少 using 指令或程序集引用?)
+(7,7): error CS0246: 未能找到类型或命名空间名“TextMateSharp”(是否缺少 using 指令或程序集引用?)
+(11,33): error CS0246: 未能找到类型或命名空间名“UserControl”(是否缺少 using 指令或程序集引用?)
+(13,5): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(55,47): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(55,57): error CS0246: 未能找到类型或命名空间名“EventArgs”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(17,9): error CS0103: 当前上下文中不存在名称“InitializeComponent”
+(19,43): error CS0246: 未能找到类型或命名空间名“TextEditor”(是否缺少 using 指令或程序集引用?)
+(19,31): error CS1061: “ProxyLog”未包含“FindControl”的定义，并且找不到可接受第一个“ProxyLog”类型参数的可访问扩展方法“FindControl”(是否缺少 using 指令或程序集引用?)
+(22,35): error CS0246: 未能找到类型或命名空间名“TextMateSharp”(是否缺少 using 指令或程序集引用?)
+(22,74): error CS0103: 当前上下文中不存在名称“ThemeName”
+(36,9): error CS0103: 当前上下文中不存在名称“ProxyService”
+(57,9): error CS0103: 当前上下文中不存在名称“LogTextbox”
+(57,33): error CS0103: 当前上下文中不存在名称“LogTextbox”
+(66,51): error CS1061: “ProxyLog”未包含“IsAttachedToVisualTree”的定义，并且找不到可接受第一个“ProxyLog”类型参数的可访问扩展方法“IsAttachedToVisualTree”(是否缺少 using 指令或程序集引用?)
+(69,35): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+(72,25): error CS0103: 当前上下文中不存在名称“Thread”
+(76,21): error CS0103: 当前上下文中不存在名称“Dispatcher”
+(88,17): error CS0103: 当前上下文中不存在名称“Thread”
+(4,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。
+(7,1): hidden CS8019: 不需要的 using 指令。
+(6,1): hidden CS8019: 不需要的 using 指令。
+(5,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。

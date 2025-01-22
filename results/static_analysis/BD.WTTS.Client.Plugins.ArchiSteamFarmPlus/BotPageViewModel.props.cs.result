@@ -1,0 +1,14 @@
+(13,12): error CS0246: 未能找到类型或命名空间名“ReadOnlyObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(13,41): error CS0246: 未能找到类型或命名空间名“BotViewModel”(是否缺少 using 指令或程序集引用?)
+(18,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(23,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(28,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(33,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(38,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(43,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(48,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(53,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(8,22): error CS0246: 未能找到类型或命名空间名“ReadOnlyObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(8,51): error CS0246: 未能找到类型或命名空间名“BotViewModel”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(8,65): warning CS0649: 从未对字段“BotPageViewModel._SteamBots”赋值，字段将一直保持其默认值 null

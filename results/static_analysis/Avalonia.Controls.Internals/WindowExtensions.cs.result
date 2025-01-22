@@ -1,0 +1,12 @@
+(7,40): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(7,55): error CS0246: 未能找到类型或命名空间名“WindowCloseReason”(是否缺少 using 指令或程序集引用?)
+(10,44): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(10,59): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(10,76): error CS0246: 未能找到类型或命名空间名“WindowResizeReason”(是否缺少 using 指令或程序集引用?)
+(6,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(6,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(6,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(9,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(9,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(9,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

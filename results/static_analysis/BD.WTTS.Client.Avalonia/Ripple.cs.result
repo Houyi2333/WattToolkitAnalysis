@@ -1,0 +1,30 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(6,23): error CS0246: 未能找到类型或命名空间名“Ellipse”(是否缺少 using 指令或程序集引用?)
+(8,20): error CS0246: 未能找到类型或命名空间名“Easing”(是否缺少 using 指令或程序集引用?)
+(10,19): error CS0246: 未能找到类型或命名空间名“Easing”(是否缺少 using 指令或程序集引用?)
+(16,28): error CS0246: 未能找到类型或命名空间名“TimeSpan”(是否缺少 using 指令或程序集引用?)
+(36,36): error CS0246: 未能找到类型或命名空间名“PointerPressedEventArgs”(是否缺少 using 指令或程序集引用?)
+(36,63): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(8,41): error CS0246: 未能找到类型或命名空间名“CircularEaseOut”(是否缺少 using 指令或程序集引用?)
+(16,52): error CS0246: 未能找到类型或命名空间名“TimeSpan”(是否缺少 using 指令或程序集引用?)
+(25,9): error CS0103: 当前上下文中不存在名称“Width”
+(26,9): error CS0103: 当前上下文中不存在名称“Height”
+(28,19): error CS0103: 当前上下文中不存在名称“Math”
+(28,29): error CS0103: 当前上下文中不存在名称“Math”
+(28,55): error CS0103: 当前上下文中不存在名称“Math”
+(31,9): error CS0103: 当前上下文中不存在名称“HorizontalAlignment”
+(31,31): error CS0103: 当前上下文中不存在名称“HorizontalAlignment”
+(32,9): error CS0103: 当前上下文中不存在名称“VerticalAlignment”
+(32,29): error CS0103: 当前上下文中不存在名称“VerticalAlignment”
+(33,9): error CS0103: 当前上下文中不存在名称“Opacity”
+(39,9): error CS0103: 当前上下文中不存在名称“Margin”
+(39,22): error CS0246: 未能找到类型或命名空间名“Thickness”(是否缺少 using 指令或程序集引用?)
+(44,9): error CS0103: 当前上下文中不存在名称“Width”
+(45,9): error CS0103: 当前上下文中不存在名称“Height”
+(46,9): error CS0103: 当前上下文中不存在名称“Margin”
+(46,22): error CS0246: 未能找到类型或命名空间名“Thickness”(是否缺少 using 指令或程序集引用?)
+(51,9): error CS0103: 当前上下文中不存在名称“Opacity”
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

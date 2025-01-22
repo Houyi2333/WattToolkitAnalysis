@@ -1,0 +1,55 @@
+(8,31): error CS0246: 未能找到类型或命名空间名“Panel”(是否缺少 using 指令或程序集引用?)
+(8,38): error CS0246: 未能找到类型或命名空间名“INavigableContainer”(是否缺少 using 指令或程序集引用?)
+(46,19): error CS0246: 未能找到类型或命名空间名“INavigableContainer”(是否缺少 using 指令或程序集引用?)
+(13,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(19,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(46,50): error CS0246: 未能找到类型或命名空间名“NavigationDirection”(是否缺少 using 指令或程序集引用?)
+(46,81): error CS0246: 未能找到类型或命名空间名“IInputElement”(是否缺少 using 指令或程序集引用?)
+(46,5): error CS0246: 未能找到类型或命名空间名“IInputElement”(是否缺少 using 指令或程序集引用?)
+(46,19): error CS0538: '显式接口声明中的“INavigableContainer”不是接口
+(86,45): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(86,24): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(123,45): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(123,24): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(190,27): error CS0246: 未能找到类型或命名空间名“Point”(是否缺少 using 指令或程序集引用?)
+(201,30): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(210,27): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(14,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(20,5): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(24,9): error CS0103: 当前上下文中不存在名称“AffectsMeasure”
+(32,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(33,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(41,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(42,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(48,29): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(48,47): error CS0103: 当前上下文中不存在名称“Children”
+(51,18): error CS0103: 当前上下文中不存在名称“NavigationDirection”
+(54,18): error CS0103: 当前上下文中不存在名称“NavigationDirection”
+(55,25): error CS0103: 当前上下文中不存在名称“Children”
+(57,18): error CS0103: 当前上下文中不存在名称“NavigationDirection”
+(60,18): error CS0103: 当前上下文中不存在名称“NavigationDirection”
+(63,18): error CS0103: 当前上下文中不存在名称“NavigationDirection”
+(66,18): error CS0103: 当前上下文中不存在名称“NavigationDirection”
+(69,18): error CS0103: 当前上下文中不存在名称“NavigationDirection”
+(72,18): error CS0103: 当前上下文中不存在名称“NavigationDirection”
+(77,35): error CS0103: 当前上下文中不存在名称“Children”
+(79,20): error CS0103: 当前上下文中不存在名称“Children”
+(93,31): error CS0103: 当前上下文中不存在名称“Children”
+(93,47): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(95,31): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(101,35): error CS0103: 当前上下文中不存在名称“Math”
+(110,35): error CS0103: 当前上下文中不存在名称“Math”
+(116,27): error CS0103: 当前上下文中不存在名称“Math”
+(131,35): error CS0103: 当前上下文中不存在名称“Children”
+(131,51): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(142,37): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(143,35): error CS0246: 未能找到类型或命名空间名“Rect”(是否缺少 using 指令或程序集引用?)
+(146,30): error CS0103: 当前上下文中不存在名称“Math”
+(161,13): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(161,29): error CS0103: 当前上下文中不存在名称“Children”
+(172,39): error CS0246: 未能找到类型或命名空间名“Rect”(是否缺少 using 指令或程序集引用?)
+(177,39): error CS0246: 未能找到类型或命名空间名“Rect”(是否缺少 using 指令或程序集引用?)
+(190,50): error CS0246: 未能找到类型或命名空间名“Point”(是否缺少 using 指令或程序集引用?)
+(212,24): error CS0246: 未能找到类型或命名空间名“Size”(是否缺少 using 指令或程序集引用?)
+(1,1): hidden CS8019: 不需要的 using 指令。

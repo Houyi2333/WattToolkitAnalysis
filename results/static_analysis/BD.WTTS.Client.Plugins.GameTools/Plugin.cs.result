@@ -1,0 +1,26 @@
+(1,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Properties”(是否缺少程序集引用?)
+(2,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)
+(9,30): error CS0246: 未能找到类型或命名空间名“PluginBase<>”(是否缺少 using 指令或程序集引用?)
+(9,50): error CS0246: 未能找到类型或命名空间名“IPlugin”(是否缺少 using 指令或程序集引用?)
+(13,21): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(21,37): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(23,34): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(25,21): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(25,33): error CS0246: 未能找到类型或命名空间名“MenuTabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(35,50): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(35,79): error CS0246: 未能找到类型或命名空间名“Startup”(是否缺少 using 指令或程序集引用?)
+(39,52): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(39,81): error CS0246: 未能找到类型或命名空间名“Startup”(是否缺少 using 指令或程序集引用?)
+(43,42): error CS0246: 未能找到类型或命名空间名“IMapperConfigurationExpression”(是否缺少 using 指令或程序集引用?)
+(11,31): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(13,32): error CS0103: 当前上下文中不存在名称“Guid”
+(13,43): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(15,36): error CS0103: 当前上下文中不存在名称“Strings”
+(23,44): error CS0103: 当前上下文中不存在名称“Resources”
+(27,26): error CS0246: 未能找到类型或命名空间名“MenuTabItemViewModel”(是否缺少 using 指令或程序集引用?)
+(27,60): error CS0103: 当前上下文中不存在名称“Strings”
+(29,31): error CS0246: 未能找到类型或命名空间名“GameToolsPage”(是否缺少 using 指令或程序集引用?)
+(25,56): error CS1624: “IEnumerable<MenuTabItemViewModel>?”不是迭代器接口类型，因此“Plugin.GetMenuTabItems()”体不能是迭代器块
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

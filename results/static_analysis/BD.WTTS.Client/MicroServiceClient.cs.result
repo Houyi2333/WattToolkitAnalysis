@@ -1,0 +1,40 @@
+(1,32): error CS0234: 命名空间“System.Net”中不存在类型或命名空间名“HttpVersion”(是否缺少程序集引用?)
+(5,35): error CS0246: 未能找到类型或命名空间名“MicroServiceClientBase”(是否缺少 using 指令或程序集引用?)
+(7,14): error CS0246: 未能找到类型或命名空间名“IUserManager”(是否缺少 using 指令或程序集引用?)
+(12,9): error CS0246: 未能找到类型或命名空间名“ILoggerFactory”(是否缺少 using 指令或程序集引用?)
+(13,9): error CS0246: 未能找到类型或命名空间名“IHttpClientFactory”(是否缺少 using 指令或程序集引用?)
+(14,9): error CS0246: 未能找到类型或命名空间名“IHttpPlatformHelperService”(是否缺少 using 指令或程序集引用?)
+(15,9): error CS0246: 未能找到类型或命名空间名“IUserManager”(是否缺少 using 指令或程序集引用?)
+(16,9): error CS0246: 未能找到类型或命名空间名“IToast”(是否缺少 using 指令或程序集引用?)
+(17,9): error CS0246: 未能找到类型或命名空间名“IOptions<>”(是否缺少 using 指令或程序集引用?)
+(17,18): error CS0246: 未能找到类型或命名空间名“AppSettings”(是否缺少 using 指令或程序集引用?)
+(18,9): error CS0246: 未能找到类型或命名空间名“IModelValidator”(是否缺少 using 指令或程序集引用?)
+(19,9): error CS0246: 未能找到类型或命名空间名“IApplicationVersionService”(是否缺少 using 指令或程序集引用?)
+(33,55): error CS0246: 未能找到类型或命名空间名“HttpHandlerCategory”(是否缺少 using 指令或程序集引用?)
+(33,31): error CS0246: 未能找到类型或命名空间名“HttpClient”(是否缺少 using 指令或程序集引用?)
+(54,58): error CS0246: 未能找到类型或命名空间名“JWTEntity”(是否缺少 using 指令或程序集引用?)
+(54,34): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(64,62): error CS0246: 未能找到类型或命名空间名“JWTEntity”(是否缺少 using 指令或程序集引用?)
+(64,34): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(75,9): error CS0246: 未能找到类型或命名空间名“IReadOnlyPhoneNumber”(是否缺少 using 指令或程序集引用?)
+(76,9): error CS0246: 未能找到类型或命名空间名“ILoginResponse”(是否缺少 using 指令或程序集引用?)
+(74,34): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(95,48): error CS0246: 未能找到类型或命名空间名“IDeviceId”(是否缺少 using 指令或程序集引用?)
+(9,40): error CS0103: 当前上下文中不存在名称“ClientName_”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(19,53): error CS1729: “MicroServiceClientBase”不包含采用 9 个参数的构造函数
+(35,20): error CS0103: 当前上下文中不存在名称“HttpHandlerCategory”
+(40,38): error CS0246: 未能找到类型或命名空间名“Uri”(是否缺少 using 指令或程序集引用?)
+(40,42): error CS0103: 当前上下文中不存在名称“ApiBaseUrl”
+(40,54): error CS0103: 当前上下文中不存在名称“UriKind”
+(41,61): error CS0103: 当前上下文中不存在名称“UserAgent”
+(46,16): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(54,39): error CS0161: “MicroServiceClient.SaveAuthTokenAsync(JWTEntity)”: 并非所有的代码路径都返回值
+(64,39): error CS0161: “MicroServiceClient.SaveShopAuthTokenAsync(JWTEntity)”: 并非所有的代码路径都返回值
+(78,25): error CS0246: 未能找到类型或命名空间名“LoginOrRegisterResponse”(是否缺少 using 指令或程序集引用?)
+(85,9): error CS0246: 未能找到类型或命名空间名“CurrentUser”(是否缺少 using 指令或程序集引用?)
+(74,39): error CS0161: “MicroServiceClient.OnLoginedAsync(IReadOnlyPhoneNumber?, ILoginResponse)”: 并非所有的代码路径都返回值
+(97,25): error CS0103: 当前上下文中不存在名称“DeviceIdHelper”
+(98,25): error CS0103: 当前上下文中不存在名称“DeviceIdHelper”
+(99,25): error CS0103: 当前上下文中不存在名称“DeviceIdHelper”
+(1,1): hidden CS8019: 不需要的 using 指令。

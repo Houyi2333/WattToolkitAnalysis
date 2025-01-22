@@ -1,0 +1,9 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(5,34): error CS0246: 未能找到类型或命名空间名“PageBase<>”(是否缺少 using 指令或程序集引用?)
+(5,43): error CS0246: 未能找到类型或命名空间名“DebugPageViewModel”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,9): error CS0103: 当前上下文中不存在名称“InitializeComponent”
+(10,27): error CS0246: 未能找到类型或命名空间名“DebugPageViewModel”(是否缺少 using 指令或程序集引用?)
+(10,14): error CS1061: “DebugPage”未包含“SetViewModel”的定义，并且找不到可接受第一个“DebugPage”类型参数的可访问扩展方法“SetViewModel”(是否缺少 using 指令或程序集引用?)
+(12,9): error CS0103: 当前上下文中不存在名称“CommandTextBox”
+(1,1): hidden CS8019: 不需要的 using 指令。

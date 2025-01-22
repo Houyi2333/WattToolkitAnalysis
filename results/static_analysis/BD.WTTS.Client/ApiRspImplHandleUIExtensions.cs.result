@@ -1,0 +1,46 @@
+(11,31): error CS0246: 未能找到类型或命名空间名“ApiRspBase”(是否缺少 using 指令或程序集引用?)
+(26,38): error CS0246: 未能找到类型或命名空间名“ApiRspBase”(是否缺少 using 指令或程序集引用?)
+(26,57): error CS0246: 未能找到类型或命名空间名“ToastIcon”(是否缺少 using 指令或程序集引用?)
+(26,97): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(26,129): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(56,48): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(57,40): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(57,51): error CS0246: 未能找到类型或命名空间名“ToastIcon”(是否缺少 using 指令或程序集引用?)
+(57,91): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(57,123): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(111,57): error CS0246: 未能找到类型或命名空间名“ApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(112,20): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(112,31): error CS0246: 未能找到类型或命名空间名“ToastIcon”(是否缺少 using 指令或程序集引用?)
+(112,71): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(112,103): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(57,9): error CS0246: 未能找到类型或命名空间名“NotNullWhenAttribute”(是否缺少 using 指令或程序集引用?)
+(57,9): error CS0246: 未能找到类型或命名空间名“NotNullWhen”(是否缺少 using 指令或程序集引用?)
+(10,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(10,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(10,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(25,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(25,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(25,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(26,74): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(55,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(55,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(55,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(57,68): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(110,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(110,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(110,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(112,48): error CS0103: 当前上下文中不存在名称“ToastIcon”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(13,88): error CS0103: 当前上下文中不存在名称“StringSplitOptions”
+(14,9): error CS0103: 当前上下文中不存在名称“Log”
+(33,13): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(35,13): error CS0103: 当前上下文中不存在名称“Toast”
+(66,13): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(68,13): error CS0103: 当前上下文中不存在名称“Toast”
+(78,27): error CS0103: 当前上下文中不存在名称“ApiRspCode”
+(79,13): error CS0103: 当前上下文中不存在名称“Toast”
+(84,24): error CS0246: 未能找到类型或命名空间名“IExplicitHasValue”(是否缺少 using 指令或程序集引用?)
+(90,31): error CS0103: 当前上下文中不存在名称“ApiRspCode”
+(91,17): error CS0103: 当前上下文中不存在名称“Toast”
+(121,13): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(123,13): error CS0103: 当前上下文中不存在名称“Toast”

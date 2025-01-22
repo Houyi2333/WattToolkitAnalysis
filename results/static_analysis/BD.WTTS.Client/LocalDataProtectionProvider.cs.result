@@ -1,0 +1,9 @@
+(1,17): error CS0234: 命名空间“BD”中不存在类型或命名空间名“Common”(是否缺少程序集引用?)
+(7,44): error CS0246: 未能找到类型或命名空间名“LocalDataProtectionProviderBase”(是否缺少 using 指令或程序集引用?)
+(9,14): error CS0246: 未能找到类型或命名空间名“IPlatformService”(是否缺少 using 指令或程序集引用?)
+(12,9): error CS0246: 未能找到类型或命名空间名“IProtectedData”(是否缺少 using 指令或程序集引用?)
+(13,9): error CS0246: 未能找到类型或命名空间名“IDataProtectionProvider”(是否缺少 using 指令或程序集引用?)
+(14,9): error CS0246: 未能找到类型或命名空间名“IPlatformService”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(14,45): error CS1729: “LocalDataProtectionProviderBase”不包含采用 2 个参数的构造函数
+(1,1): hidden CS8019: 不需要的 using 指令。

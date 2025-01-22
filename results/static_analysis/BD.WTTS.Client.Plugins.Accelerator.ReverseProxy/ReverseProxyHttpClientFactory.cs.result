@@ -1,0 +1,33 @@
+(8,46): error CS0246: 未能找到类型或命名空间名“IReverseProxyHttpClientFactory”(是否缺少 using 指令或程序集引用?)
+(10,14): error CS0246: 未能找到类型或命名空间名“IDomainResolver”(是否缺少 using 指令或程序集引用?)
+(11,14): error CS0246: 未能找到类型或命名空间名“IWebProxy”(是否缺少 using 指令或程序集引用?)
+(16,14): error CS0246: 未能找到类型或命名空间名“TimeSpan”(是否缺少 using 指令或程序集引用?)
+(21,14): error CS0246: 未能找到类型或命名空间名“TimeSpan”(是否缺少 using 指令或程序集引用?)
+(26,14): error CS0246: 未能找到类型或命名空间名“LifetimeHttpHandlerCleaner”(是否缺少 using 指令或程序集引用?)
+(31,14): error CS0246: 未能找到类型或命名空间名“ConcurrentDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(31,35): error CS0246: 未能找到类型或命名空间名“LifeTimeKey”(是否缺少 using 指令或程序集引用?)
+(31,48): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(31,53): error CS0246: 未能找到类型或命名空间名“LifetimeHttpHandler”(是否缺少 using 指令或程序集引用?)
+(33,42): error CS0246: 未能找到类型或命名空间名“IDomainResolver”(是否缺少 using 指令或程序集引用?)
+(33,74): error CS0246: 未能找到类型或命名空间名“IReverseProxyConfig”(是否缺少 using 指令或程序集引用?)
+(48,67): error CS0246: 未能找到类型或命名空间名“IDomainConfig”(是否缺少 using 指令或程序集引用?)
+(48,12): error CS0246: 未能找到类型或命名空间名“ReverseProxyHttpClient”(是否缺少 using 指令或程序集引用?)
+(58,51): error CS0246: 未能找到类型或命名空间名“LifeTimeKey”(是否缺少 using 指令或程序集引用?)
+(58,76): error CS0246: 未能找到类型或命名空间名“TimeSpan”(是否缺少 using 指令或程序集引用?)
+(58,5): error CS0246: 未能找到类型或命名空间名“LifetimeHttpHandler”(是否缺少 using 指令或程序集引用?)
+(61,42): error CS0246: 未能找到类型或命名空间名“LifetimeHttpHandler”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(16,39): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(21,38): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(38,33): error CS0246: 未能找到类型或命名空间名“WebProxy”(是否缺少 using 指令或程序集引用?)
+(41,44): error CS0246: 未能找到类型或命名空间名“NetworkCredential”(是否缺少 using 指令或程序集引用?)
+(45,29): error CS0103: 当前上下文中不存在名称“HttpNoProxy”
+(50,31): error CS0246: 未能找到类型或命名空间名“LifeTimeKey”(是否缺少 using 指令或程序集引用?)
+(52,20): error CS0246: 未能找到类型或命名空间名“ReverseProxyHttpClient”(是否缺少 using 指令或程序集引用?)
+(54,9): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(54,14): error CS0246: 未能找到类型或命名空间名“LifetimeHttpHandler”(是否缺少 using 指令或程序集引用?)
+(54,70): error CS0246: 未能找到类型或命名空间名“LifeTimeKey”(是否缺少 using 指令或程序集引用?)
+(67,69): error CS0246: 未能找到类型或命名空间名“LifeTimeKey”(是否缺少 using 指令或程序集引用?)
+(67,9): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(67,14): error CS0246: 未能找到类型或命名空间名“LifetimeHttpHandler”(是否缺少 using 指令或程序集引用?)
+(4,1): hidden CS8019: 不需要的 using 指令。

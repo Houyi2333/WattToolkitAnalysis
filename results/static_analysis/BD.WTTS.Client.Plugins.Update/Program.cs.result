@@ -1,0 +1,9 @@
+(1,17): error CS0234: 命名空间“Microsoft”中不存在类型或命名空间名“AspNetCore”(是否缺少程序集引用?)
+(6,22): error CS0103: 当前上下文中不存在名称“Encoding”
+(6,46): error CS0103: 当前上下文中不存在名称“WebEncoders”
+(7,20): error CS0103: 当前上下文中不存在名称“Encoding”
+(7,44): error CS0103: 当前上下文中不存在名称“WebEncoders”
+(10,9): error CS0103: 当前上下文中不存在名称“Encoding”
+(10,33): error CS0103: 当前上下文中不存在名称“WebEncoders”
+(11,1): error CS0103: 当前上下文中不存在名称“Console”
+(1,1): hidden CS8019: 不需要的 using 指令。

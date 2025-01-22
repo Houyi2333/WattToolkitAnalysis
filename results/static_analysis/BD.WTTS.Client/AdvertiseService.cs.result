@@ -1,0 +1,38 @@
+(7,40): error CS0246: 未能找到类型或命名空间名“ReactiveObject”(是否缺少 using 指令或程序集引用?)
+(9,21): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(14,12): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(14,33): error CS0246: 未能找到类型或命名空间名“AdvertisementDTO”(是否缺少 using 指令或程序集引用?)
+(17,12): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(17,33): error CS0246: 未能找到类型或命名空间名“AdvertisementDTO”(是否缺少 using 指令或程序集引用?)
+(25,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(79,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(98,36): error CS0246: 未能找到类型或命名空间名“AdvertisementDTO”(是否缺少 using 指令或程序集引用?)
+(13,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(13,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(16,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(16,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(19,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(19,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(22,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(22,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,72): error CS0103: 当前上下文中不存在名称“LazyThreadSafetyMode”
+(45,37): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(45,60): error CS0246: 未能找到类型或命名空间名“AdvertisementDTO”(是否缺少 using 指令或程序集引用?)
+(47,9): error CS0103: 当前上下文中不存在名称“UserService”
+(53,9): error CS0103: 当前上下文中不存在名称“UISettings”
+(81,22): error CS0103: 当前上下文中不存在名称“IMicroServiceClient”
+(82,39): error CS0103: 当前上下文中不存在名称“AdvertisementType”
+(87,50): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(87,71): error CS0246: 未能找到类型或命名空间名“AdvertisementDTO”(是否缺少 using 指令或程序集引用?)
+(90,48): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(90,69): error CS0246: 未能找到类型或命名空间名“AdvertisementDTO”(是否缺少 using 指令或程序集引用?)
+(94,13): error CS0103: 当前上下文中不存在名称“Log”
+(79,23): error CS0161: “AdvertiseService.RefrshAdvertiseAsync()”: 并非所有的代码路径都返回值
+(100,13): error CS0019: 运算符“!=”无法应用于“AdvertisementDTO?”和“<null>”类型的操作数
+(102,13): error CS0103: 当前上下文中不存在名称“IApplication”
+(102,62): error CS1061: “AdvertisementDTO?”未包含“Url”的定义，并且找不到可接受第一个“AdvertisementDTO?”类型参数的可访问扩展方法“Url”(是否缺少 using 指令或程序集引用?)
+(115,13): error CS0103: 当前上下文中不存在名称“UserService”
+(115,49): error CS0103: 当前上下文中不存在名称“UserService”
+(115,86): error CS0103: 当前上下文中不存在名称“UserType”
+(117,18): error CS0103: 当前上下文中不存在名称“UISettings”

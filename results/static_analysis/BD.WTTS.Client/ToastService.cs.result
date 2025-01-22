@@ -1,0 +1,17 @@
+(8,36): error CS0246: 未能找到类型或命名空间名“ReactiveObject”(是否缺少 using 指令或程序集引用?)
+(7,2): error CS0246: 未能找到类型或命名空间名“ObsoleteAttribute”(是否缺少 using 指令或程序集引用?)
+(7,2): error CS0246: 未能找到类型或命名空间名“Obsolete”(是否缺少 using 指令或程序集引用?)
+(10,21): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(14,21): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(18,14): error CS0246: 未能找到类型或命名空间名“Subject<>”(是否缺少 using 指令或程序集引用?)
+(76,6): error CS0246: 未能找到类型或命名空间名“ObsoleteAttribute”(是否缺少 using 指令或程序集引用?)
+(76,6): error CS0246: 未能找到类型或命名空间名“Obsolete”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(10,68): error CS0103: 当前上下文中不存在名称“LazyThreadSafetyMode”
+(34,18): error CS1061: “ToastService”未包含“RaisePropertyChanged”的定义，并且找不到可接受第一个“ToastService”类型参数的可访问扩展方法“RaisePropertyChanged”(是否缺少 using 指令或程序集引用?)
+(48,21): error CS1061: “ToastService”未包含“RaiseAndSetIfChanged”的定义，并且找不到可接受第一个“ToastService”类型参数的可访问扩展方法“RaiseAndSetIfChanged”(是否缺少 using 指令或程序集引用?)
+(53,24): error CS0246: 未能找到类型或命名空间名“Subject<>”(是否缺少 using 指令或程序集引用?)
+(60,23): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(67,14): error CS1061: “ToastService”未包含“WhenAnyValue”的定义，并且找不到可接受第一个“ToastService”类型参数的可访问扩展方法“WhenAnyValue”(是否缺少 using 指令或程序集引用?)
+(79,9): error CS0103: 当前上下文中不存在名称“MainThread2”
+(89,14): error CS1061: “ToastService”未包含“RaisePropertyChanged”的定义，并且找不到可接受第一个“ToastService”类型参数的可访问扩展方法“RaisePropertyChanged”(是否缺少 using 指令或程序集引用?)

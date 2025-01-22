@@ -1,0 +1,59 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(5,36): error CS0246: 未能找到类型或命名空间名“UserControl”(是否缺少 using 指令或程序集引用?)
+(7,12): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(7,17): error CS0246: 未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(7,56): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(7,61): error CS0246: 未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+(9,9): error CS0103: 当前上下文中不存在名称“Color”
+(10,9): error CS0103: 当前上下文中不存在名称“Color”
+(11,9): error CS0103: 当前上下文中不存在名称“Color”
+(12,9): error CS0103: 当前上下文中不存在名称“Color”
+(13,9): error CS0103: 当前上下文中不存在名称“Color”
+(14,9): error CS0103: 当前上下文中不存在名称“Color”
+(15,9): error CS0103: 当前上下文中不存在名称“Color”
+(16,9): error CS0103: 当前上下文中不存在名称“Color”
+(17,9): error CS0103: 当前上下文中不存在名称“Color”
+(18,9): error CS0103: 当前上下文中不存在名称“Color”
+(19,9): error CS0103: 当前上下文中不存在名称“Color”
+(20,9): error CS0103: 当前上下文中不存在名称“Color”
+(21,9): error CS0103: 当前上下文中不存在名称“Color”
+(22,9): error CS0103: 当前上下文中不存在名称“Color”
+(23,9): error CS0103: 当前上下文中不存在名称“Color”
+(24,9): error CS0103: 当前上下文中不存在名称“Color”
+(25,9): error CS0103: 当前上下文中不存在名称“Color”
+(26,9): error CS0103: 当前上下文中不存在名称“Color”
+(27,9): error CS0103: 当前上下文中不存在名称“Color”
+(28,9): error CS0103: 当前上下文中不存在名称“Color”
+(29,9): error CS0103: 当前上下文中不存在名称“Color”
+(30,9): error CS0103: 当前上下文中不存在名称“Color”
+(31,9): error CS0103: 当前上下文中不存在名称“Color”
+(32,9): error CS0103: 当前上下文中不存在名称“Color”
+(33,9): error CS0103: 当前上下文中不存在名称“Color”
+(34,9): error CS0103: 当前上下文中不存在名称“Color”
+(35,9): error CS0103: 当前上下文中不存在名称“Color”
+(36,9): error CS0103: 当前上下文中不存在名称“Color”
+(37,9): error CS0103: 当前上下文中不存在名称“Color”
+(38,9): error CS0103: 当前上下文中不存在名称“Color”
+(39,9): error CS0103: 当前上下文中不存在名称“Color”
+(40,9): error CS0103: 当前上下文中不存在名称“Color”
+(41,9): error CS0103: 当前上下文中不存在名称“Color”
+(42,9): error CS0103: 当前上下文中不存在名称“Color”
+(43,9): error CS0103: 当前上下文中不存在名称“Color”
+(44,9): error CS0103: 当前上下文中不存在名称“Color”
+(45,9): error CS0103: 当前上下文中不存在名称“Color”
+(46,9): error CS0103: 当前上下文中不存在名称“Color”
+(47,9): error CS0103: 当前上下文中不存在名称“Color”
+(48,9): error CS0103: 当前上下文中不存在名称“Color”
+(49,9): error CS0103: 当前上下文中不存在名称“Color”
+(50,9): error CS0103: 当前上下文中不存在名称“Color”
+(51,9): error CS0103: 当前上下文中不存在名称“Color”
+(52,9): error CS0103: 当前上下文中不存在名称“Color”
+(53,9): error CS0103: 当前上下文中不存在名称“Color”
+(54,9): error CS0103: 当前上下文中不存在名称“Color”
+(55,9): error CS0103: 当前上下文中不存在名称“Color”
+(56,9): error CS0103: 当前上下文中不存在名称“Color”
+(61,9): error CS0103: 当前上下文中不存在名称“InitializeComponent”
+(62,13): error CS0103: 当前上下文中不存在名称“ColorListBox”
+(63,13): error CS0103: 当前上下文中不存在名称“ColorListBox”
+(1,1): hidden CS8019: 不需要的 using 指令。

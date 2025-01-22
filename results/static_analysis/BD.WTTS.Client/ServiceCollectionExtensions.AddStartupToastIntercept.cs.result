@@ -1,0 +1,8 @@
+(7,68): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(7,19): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(6,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(6,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(6,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,31): error CS0246: 未能找到类型或命名空间名“StartupToastIntercept”(是否缺少 using 指令或程序集引用?)
+(10,31): error CS0246: 未能找到类型或命名空间名“IToastIntercept”(是否缺少 using 指令或程序集引用?)

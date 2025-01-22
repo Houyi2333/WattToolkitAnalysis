@@ -1,0 +1,22 @@
+(3,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Linq”(是否缺少程序集引用?)
+(9,45): error CS0246: 未能找到类型或命名空间名“ViewModelBase”(是否缺少 using 指令或程序集引用?)
+(12,12): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(17,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(11,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(11,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(14,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(14,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(21,32): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(22,9): error CS0103: 当前上下文中不存在名称“CompositeDisposable”
+(22,33): error CS0103: 当前上下文中不存在名称“GameLibrarySettings”
+(29,28): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(29,77): error CS0103: 当前上下文中不存在名称“GameLibrarySettings”
+(30,13): error CS0019: 运算符“==”无法应用于“方法组”和“int”类型的操作数
+(38,13): error CS0103: 当前上下文中不存在名称“GameLibrarySettings”
+(40,13): error CS0103: 当前上下文中不存在名称“GameLibrarySettings”
+(44,9): error CS0103: 当前上下文中不存在名称“Task2”
+(44,28): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(4,1): hidden CS8019: 不需要的 using 指令。
+(5,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。

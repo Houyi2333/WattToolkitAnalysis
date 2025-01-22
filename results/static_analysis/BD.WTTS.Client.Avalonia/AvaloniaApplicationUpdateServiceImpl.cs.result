@@ -1,0 +1,12 @@
+(1,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(6,53): error CS0246: 未能找到类型或命名空间名“AppUpdateServiceBaseImpl”(是否缺少 using 指令或程序集引用?)
+(9,9): error CS0246: 未能找到类型或命名空间名“IApplication”(是否缺少 using 指令或程序集引用?)
+(10,9): error CS0246: 未能找到类型或命名空间名“INotificationService”(是否缺少 using 指令或程序集引用?)
+(11,9): error CS0246: 未能找到类型或命名空间名“IToast”(是否缺少 using 指令或程序集引用?)
+(12,9): error CS0246: 未能找到类型或命名空间名“IMicroServiceClient”(是否缺少 using 指令或程序集引用?)
+(13,9): error CS0246: 未能找到类型或命名空间名“IOptions<>”(是否缺少 using 指令或程序集引用?)
+(13,18): error CS0246: 未能找到类型或命名空间名“AppSettings”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(13,42): error CS1729: “AppUpdateServiceBaseImpl”不包含采用 5 个参数的构造函数
+(20,31): error CS0103: 当前上下文中不存在名称“App”
+(1,1): hidden CS8019: 不需要的 using 指令。

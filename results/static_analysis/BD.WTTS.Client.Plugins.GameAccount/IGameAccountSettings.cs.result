@@ -1,0 +1,17 @@
+(26,5): error CS0246: 未能找到类型或命名空间名“ConcurrentDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(31,5): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(31,25): error CS0246: 未能找到类型或命名空间名“DisableAuthorizedDevice”(是否缺少 using 指令或程序集引用?)
+(36,5): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(41,5): error CS0246: 未能找到类型或命名空间名“ConcurrentDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(41,34): error CS0246: 未能找到类型或命名空间名“PlatformSettings”(是否缺少 using 指令或程序集引用?)
+(51,21): error CS0246: 未能找到类型或命名空间名“ConcurrentDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(56,21): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(56,41): error CS0246: 未能找到类型或命名空间名“DisableAuthorizedDevice”(是否缺少 using 指令或程序集引用?)
+(61,21): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(66,21): error CS0246: 未能找到类型或命名空间名“ConcurrentDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(66,50): error CS0246: 未能找到类型或命名空间名“PlatformSettings”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(56,99): error CS0103: 当前上下文中不存在名称“Array”
+(56,111): error CS0246: 未能找到类型或命名空间名“DisableAuthorizedDevice”(是否缺少 using 指令或程序集引用?)
+(21,12): error CS0103: 当前上下文中不存在名称“Ioc”
+(21,29): error CS0246: 未能找到类型或命名空间名“IOptionsMonitor<>”(是否缺少 using 指令或程序集引用?)

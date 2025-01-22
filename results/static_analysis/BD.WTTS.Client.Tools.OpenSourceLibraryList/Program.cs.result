@@ -1,0 +1,17 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“BD”(是否缺少 using 指令或程序集引用?)
+(5,12): error CS0103: 当前上下文中不存在名称“Path”
+(5,25): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(7,16): error CS0103: 当前上下文中不存在名称“IOPath”
+(8,20): error CS0246: 未能找到类型或命名空间名“StreamReader”(是否缺少 using 指令或程序集引用?)
+(8,38): error CS0103: 当前上下文中不存在名称“Encoding”
+(10,16): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(10,21): error CS0246: 未能找到类型或命名空间名“HyperlinkModel”(是否缺少 using 指令或程序集引用?)
+(12,7): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(34,43): error CS1503: 参数 1: 无法从“string”转换为“int”
+(34,48): error CS1503: 参数 2: 无法从“string”转换为“int”
+(38,51): error CS1503: 参数 1: 无法从“string”转换为“int”
+(38,56): error CS1503: 参数 2: 无法从“string”转换为“int”
+(40,32): error CS0246: 未能找到类型或命名空间名“HyperlinkModel”(是否缺少 using 指令或程序集引用?)
+(48,13): error CS0103: 当前上下文中不存在名称“Serializable”
+(49,1): error CS0103: 当前上下文中不存在名称“File”
+(1,1): hidden CS8019: 不需要的 using 指令。

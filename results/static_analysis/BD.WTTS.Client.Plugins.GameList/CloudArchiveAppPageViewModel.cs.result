@@ -1,0 +1,58 @@
+(1,14): error CS0234: 命名空间“System”中不存在类型或命名空间名“Xml”(是否缺少程序集引用?)
+(5,52): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(13,22): error CS0246: 未能找到类型或命名空间名“ReadOnlyObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(13,51): error CS0246: 未能找到类型或命名空间名“SteamRemoteFile”(是否缺少 using 指令或程序集引用?)
+(14,22): error CS0246: 未能找到类型或命名空间名“SourceList<>”(是否缺少 using 指令或程序集引用?)
+(14,33): error CS0246: 未能找到类型或命名空间名“SteamRemoteFile”(是否缺少 using 指令或程序集引用?)
+(16,12): error CS0246: 未能找到类型或命名空间名“ReadOnlyObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(16,41): error CS0246: 未能找到类型或命名空间名“SteamRemoteFile”(是否缺少 using 指令或程序集引用?)
+(31,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(33,12): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(22,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(22,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(25,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(25,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(28,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(28,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(7,41): error CS0103: 当前上下文中不存在名称“Strings”
+(18,58): error CS0103: 当前上下文中不存在名称“Strings”
+(37,9): error CS0103: 当前上下文中不存在名称“Title”
+(39,9): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(41,13): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(43,13): error CS0103: 当前上下文中不存在名称“MessageBox”
+(43,34): error CS0103: 当前上下文中不存在名称“Strings”
+(43,65): error CS0103: 当前上下文中不存在名称“Title”
+(43,72): error CS0103: 当前上下文中不存在名称“MessageBox”
+(49,24): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(49,47): error CS0246: 未能找到类型或命名空间名“SteamRemoteFile”(是否缺少 using 指令或程序集引用?)
+(74,22): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(74,45): error CS0246: 未能找到类型或命名空间名“SteamRemoteFile”(是否缺少 using 指令或程序集引用?)
+(85,40): error CS0246: 未能找到类型或命名空间名“SourceList<>”(是否缺少 using 指令或程序集引用?)
+(85,51): error CS0246: 未能找到类型或命名空间名“SteamRemoteFile”(是否缺少 using 指令或程序集引用?)
+(89,24): error CS0103: 当前上下文中不存在名称“RxApp”
+(90,42): error CS0246: 未能找到类型或命名空间名“SteamRemoteFile”(是否缺少 using 指令或程序集引用?)
+(90,19): error CS0103: 当前上下文中不存在名称“SortExpressionComparer”
+(95,23): error CS0103: 当前上下文中不存在名称“ISteamworksLocalApiService”
+(97,9): error CS0103: 当前上下文中不存在名称“Title”
+(97,17): error CS0103: 当前上下文中不存在名称“Constants”
+(109,27): error CS0103: 当前上下文中不存在名称“ISteamworksLocalApiService”
+(116,9): error CS0103: 当前上下文中不存在名称“ISteamworksLocalApiService”
+(123,28): error CS0103: 当前上下文中不存在名称“MessageBox”
+(123,49): error CS0103: 当前上下文中不存在名称“Strings”
+(123,92): error CS0103: 当前上下文中不存在名称“Title”
+(123,99): error CS0103: 当前上下文中不存在名称“MessageBox”
+(136,28): error CS0103: 当前上下文中不存在名称“FilePicker2”
+(136,62): error CS0246: 未能找到类型或命名空间名“PickOptions”(是否缺少 using 指令或程序集引用?)
+(145,32): error CS0246: 未能找到类型或命名空间名“SteamRemoteFile”(是否缺少 using 指令或程序集引用?)
+(149,35): error CS0103: 当前上下文中不存在名称“File”
+(152,35): error CS0246: 未能找到类型或命名空间名“IOException”(是否缺少 using 指令或程序集引用?)
+(154,21): error CS0103: 当前上下文中不存在名称“Toast”
+(154,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(154,51): error CS0103: 当前上下文中不存在名称“Strings”
+(156,24): error CS0246: 未能找到类型或命名空间名“IOException”(是否缺少 using 指令或程序集引用?)
+(158,21): error CS0103: 当前上下文中不存在名称“Toast”
+(158,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(158,49): error CS0103: 当前上下文中不存在名称“Strings”
+(168,9): error CS0103: 当前上下文中不存在名称“Process”
+(1,1): hidden CS8019: 不需要的 using 指令。

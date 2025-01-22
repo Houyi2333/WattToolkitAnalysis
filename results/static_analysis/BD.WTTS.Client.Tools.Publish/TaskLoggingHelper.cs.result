@@ -1,0 +1,11 @@
+(1,23): error CS0234: 命名空间“Microsoft.Build”中不存在类型或命名空间名“Framework”(是否缺少程序集引用?)
+(29,28): error CS0246: 未能找到类型或命名空间名“MessageImportance”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(20,9): error CS0103: 当前上下文中不存在名称“Log”
+(33,18): error CS0103: 当前上下文中不存在名称“MessageImportance”
+(34,17): error CS0103: 当前上下文中不存在名称“Log”
+(36,18): error CS0103: 当前上下文中不存在名称“MessageImportance”
+(37,17): error CS0103: 当前上下文中不存在名称“Log”
+(39,18): error CS0103: 当前上下文中不存在名称“MessageImportance”
+(40,17): error CS0103: 当前上下文中不存在名称“Log”
+(1,1): hidden CS8019: 不需要的 using 指令。

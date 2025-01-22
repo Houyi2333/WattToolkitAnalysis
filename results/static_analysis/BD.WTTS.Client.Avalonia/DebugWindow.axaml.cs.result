@@ -1,0 +1,33 @@
+(3,36): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(29,20): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(29,33): error CS0246: 未能找到类型或命名空间名“StandardCursorType”(是否缺少 using 指令或程序集引用?)
+(29,60): error CS0246: 未能找到类型或命名空间名“WindowEdge”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(7,9): error CS0103: 当前上下文中不存在名称“InitializeComponent”
+(9,9): error CS0103: 当前上下文中不存在名称“TitleBar”
+(14,9): error CS0103: 当前上下文中不存在名称“TitleBar”
+(19,19): error CS0103: 当前上下文中不存在名称“Left”
+(19,25): error CS0103: 当前上下文中不存在名称“StandardCursorType”
+(19,54): error CS0103: 当前上下文中不存在名称“WindowEdge”
+(20,19): error CS0103: 当前上下文中不存在名称“Right”
+(20,26): error CS0103: 当前上下文中不存在名称“StandardCursorType”
+(20,56): error CS0103: 当前上下文中不存在名称“WindowEdge”
+(21,19): error CS0103: 当前上下文中不存在名称“Top”
+(21,24): error CS0103: 当前上下文中不存在名称“StandardCursorType”
+(21,52): error CS0103: 当前上下文中不存在名称“WindowEdge”
+(22,19): error CS0103: 当前上下文中不存在名称“Bottom”
+(22,27): error CS0103: 当前上下文中不存在名称“StandardCursorType”
+(22,58): error CS0103: 当前上下文中不存在名称“WindowEdge”
+(23,19): error CS0103: 当前上下文中不存在名称“TopLeft”
+(23,28): error CS0103: 当前上下文中不存在名称“StandardCursorType”
+(23,62): error CS0103: 当前上下文中不存在名称“WindowEdge”
+(24,19): error CS0103: 当前上下文中不存在名称“TopRight”
+(24,29): error CS0103: 当前上下文中不存在名称“StandardCursorType”
+(24,64): error CS0103: 当前上下文中不存在名称“WindowEdge”
+(25,19): error CS0103: 当前上下文中不存在名称“BottomLeft”
+(25,31): error CS0103: 当前上下文中不存在名称“StandardCursorType”
+(25,68): error CS0103: 当前上下文中不存在名称“WindowEdge”
+(26,19): error CS0103: 当前上下文中不存在名称“BottomRight”
+(26,32): error CS0103: 当前上下文中不存在名称“StandardCursorType”
+(26,70): error CS0103: 当前上下文中不存在名称“WindowEdge”
+(33,30): error CS0246: 未能找到类型或命名空间名“Cursor”(是否缺少 using 指令或程序集引用?)

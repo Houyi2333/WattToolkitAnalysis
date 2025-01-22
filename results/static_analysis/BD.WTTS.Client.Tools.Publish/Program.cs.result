@@ -1,0 +1,12 @@
+(1,12): error CS0246: 未能找到类型或命名空间名“SuppressMessageAttribute”(是否缺少 using 指令或程序集引用?)
+(1,12): error CS0246: 未能找到类型或命名空间名“SuppressMessage”(是否缺少 using 指令或程序集引用?)
+(2,12): error CS0246: 未能找到类型或命名空间名“SuppressMessageAttribute”(是否缺少 using 指令或程序集引用?)
+(2,12): error CS0246: 未能找到类型或命名空间名“SuppressMessage”(是否缺少 using 指令或程序集引用?)
+(4,23): error CS0246: 未能找到类型或命名空间名“RootCommand”(是否缺少 using 指令或程序集引用?)
+(4,38): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(5,28): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(6,48): error CS0103: 当前上下文中不存在名称“ICommand”
+(6,70): error CS0103: 当前上下文中不存在名称“BindingFlags”
+(6,92): error CS0103: 当前上下文中不存在名称“BindingFlags”
+(8,5): error CS1061: “Type[]”未包含“Where”的定义，并且找不到可接受第一个“Type[]”类型参数的可访问扩展方法“Where”(是否缺少 using 指令或程序集引用?)
+(11,1): error CS0103: 当前上下文中不存在名称“Array”

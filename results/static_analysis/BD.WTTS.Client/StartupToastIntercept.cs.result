@@ -1,0 +1,7 @@
+(4,45): error CS0246: 未能找到类型或命名空间名“IToastIntercept”(是否缺少 using 指令或程序集引用?)
+(6,14): error CS0246: 未能找到类型或命名空间名“ILogger”(是否缺少 using 指令或程序集引用?)
+(8,34): error CS0246: 未能找到类型或命名空间名“ILogger<>”(是否缺少 using 指令或程序集引用?)
+(24,33): error CS0246: 未能找到类型或命名空间名“ToastIcon”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(11,14): error CS0103: 当前上下文中不存在名称“IApplication”
+(37,37): error CS0103: 当前上下文中不存在名称“Ioc”

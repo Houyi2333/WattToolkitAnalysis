@@ -1,0 +1,28 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“SkiaSharp”(是否缺少 using 指令或程序集引用?)
+(11,31): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(11,46): error CS0246: 未能找到类型或命名空间名“IReadOnlyList<>”(是否缺少 using 指令或程序集引用?)
+(11,60): error CS0246: 未能找到类型或命名空间名“SKBitmap”(是否缺少 using 指令或程序集引用?)
+(66,27): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(66,48): error CS0246: 未能找到类型或命名空间名“MemoryStream”(是否缺少 using 指令或程序集引用?)
+(145,28): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(145,45): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(145,66): error CS0246: 未能找到类型或命名空间名“MemoryStream”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(20,22): error CS0103: 当前上下文中不存在名称“BitConverter”
+(20,44): error CS0103: 当前上下文中不存在名称“Convert”
+(23,9): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(24,9): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(24,14): error CS0246: 未能找到类型或命名空间名“MemoryStream”(是否缺少 using 指令或程序集引用?)
+(30,17): error CS0246: 未能找到类型或命名空间名“MemoryStream”(是否缺少 using 指令或程序集引用?)
+(31,45): error CS0103: 当前上下文中不存在名称“SKEncodedImageFormat”
+(39,13): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(39,34): error CS0246: 未能找到类型或命名空间名“MemoryStream”(是否缺少 using 指令或程序集引用?)
+(150,18): error CS0246: 未能找到类型或命名空间名“MemoryStream”(是否缺少 using 指令或程序集引用?)
+(110,26): error CS0103: 当前上下文中不存在名称“BitConverter”
+(114,22): error CS0103: 当前上下文中不存在名称“BitConverter”
+(120,22): error CS0103: 当前上下文中不存在名称“BitConverter”
+(136,35): error CS0103: 当前上下文中不存在名称“BitConverter”
+(138,45): error CS0103: 当前上下文中不存在名称“BitConverter”
+(140,35): error CS0103: 当前上下文中不存在名称“BitConverter”
+(142,45): error CS0103: 当前上下文中不存在名称“BitConverter”
+(1,1): hidden CS8019: 不需要的 using 指令。

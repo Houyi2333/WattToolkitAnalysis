@@ -1,0 +1,157 @@
+(15,31): error CS0234: 命名空间“BD.WTTS.Settings”中不存在类型或命名空间名“Abstractions”(是否缺少程序集引用?)
+(22,45): error CS0246: 未能找到类型或命名空间名“JsonSerializerContext”(是否缺少 using 指令或程序集引用?)
+(31,44): error CS0246: 未能找到类型或命名空间名“IASFSettings”(是否缺少 using 指令或程序集引用?)
+(31,58): error CS0246: 未能找到类型或命名空间名“ISettings”(是否缺少 using 指令或程序集引用?)
+(31,69): error CS0246: 未能找到类型或命名空间名“ISettings<>”(是否缺少 using 指令或程序集引用?)
+(35,19): error CS0246: 未能找到类型或命名空间名“ISettings”(是否缺少 using 指令或程序集引用?)
+(37,34): error CS0246: 未能找到类型或命名空间名“ISettings”(是否缺少 using 指令或程序集引用?)
+(40,25): error CS0246: 未能找到类型或命名空间名“ISettings”(是否缺少 using 指令或程序集引用?)
+(43,39): error CS0246: 未能找到类型或命名空间名“ISettings<>”(是否缺少 using 指令或程序集引用?)
+(137,19): error CS0246: 未能找到类型或命名空间名“SettingsProperty<,>”(是否缺少 using 指令或程序集引用?)
+(35,19): error CS0538: '显式接口声明中的“ISettings”不是接口
+(37,12): error CS0246: 未能找到类型或命名空间名“JsonSerializerContext”(是否缺少 using 指令或程序集引用?)
+(37,34): error CS0538: '显式接口声明中的“ISettings”不是接口
+(40,12): error CS0246: 未能找到类型或命名空间名“JsonTypeInfo”(是否缺少 using 指令或程序集引用?)
+(40,25): error CS0538: '显式接口声明中的“ISettings”不是接口
+(43,12): error CS0246: 未能找到类型或命名空间名“JsonTypeInfo<>”(是否缺少 using 指令或程序集引用?)
+(43,39): error CS0538: '显式接口声明中的“ISettings<ASFSettings_>”不是接口
+(143,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
+(149,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
+(155,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
+(161,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
+(167,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
+(173,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
+(179,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
+(185,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
+(191,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
+(197,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
+(203,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
+(209,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
+(215,19): error CS0246: 未能找到类型或命名空间名“SettingsStructProperty<,>”(是否缺少 using 指令或程序集引用?)
+(30,2): error CS0246: 未能找到类型或命名空间名“MPObjAttribute”(是否缺少 using 指令或程序集引用?)
+(30,2): error CS0246: 未能找到类型或命名空间名“MPObj”(是否缺少 using 指令或程序集引用?)
+(30,9): error CS0246: 未能找到类型或命名空间名“MP2ObjAttribute”(是否缺少 using 指令或程序集引用?)
+(30,9): error CS0246: 未能找到类型或命名空间名“MP2Obj”(是否缺少 using 指令或程序集引用?)
+(30,16): error CS0103: 当前上下文中不存在名称“SerializeLayout”
+(20,2): error CS0246: 未能找到类型或命名空间名“JsonSourceGenerationOptionsAttribute”(是否缺少 using 指令或程序集引用?)
+(20,2): error CS0246: 未能找到类型或命名空间名“JsonSourceGenerationOptions”(是否缺少 using 指令或程序集引用?)
+(21,2): error CS0246: 未能找到类型或命名空间名“JsonSerializableAttribute”(是否缺少 using 指令或程序集引用?)
+(21,2): error CS0246: 未能找到类型或命名空间名“JsonSerializable”(是否缺少 using 指令或程序集引用?)
+(49,6): error CS0246: 未能找到类型或命名空间名“MPKeyAttribute”(是否缺少 using 指令或程序集引用?)
+(49,6): error CS0246: 未能找到类型或命名空间名“MPKey”(是否缺少 using 指令或程序集引用?)
+(49,16): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(49,16): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(49,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrderAttribute”(是否缺少 using 指令或程序集引用?)
+(49,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrder”(是否缺少 using 指令或程序集引用?)
+(55,6): error CS0246: 未能找到类型或命名空间名“MPKeyAttribute”(是否缺少 using 指令或程序集引用?)
+(55,6): error CS0246: 未能找到类型或命名空间名“MPKey”(是否缺少 using 指令或程序集引用?)
+(55,16): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(55,16): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(55,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrderAttribute”(是否缺少 using 指令或程序集引用?)
+(55,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrder”(是否缺少 using 指令或程序集引用?)
+(61,6): error CS0246: 未能找到类型或命名空间名“MPKeyAttribute”(是否缺少 using 指令或程序集引用?)
+(61,6): error CS0246: 未能找到类型或命名空间名“MPKey”(是否缺少 using 指令或程序集引用?)
+(61,16): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(61,16): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(61,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrderAttribute”(是否缺少 using 指令或程序集引用?)
+(61,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrder”(是否缺少 using 指令或程序集引用?)
+(67,6): error CS0246: 未能找到类型或命名空间名“MPKeyAttribute”(是否缺少 using 指令或程序集引用?)
+(67,6): error CS0246: 未能找到类型或命名空间名“MPKey”(是否缺少 using 指令或程序集引用?)
+(67,16): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(67,16): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(67,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrderAttribute”(是否缺少 using 指令或程序集引用?)
+(67,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrder”(是否缺少 using 指令或程序集引用?)
+(73,6): error CS0246: 未能找到类型或命名空间名“MPKeyAttribute”(是否缺少 using 指令或程序集引用?)
+(73,6): error CS0246: 未能找到类型或命名空间名“MPKey”(是否缺少 using 指令或程序集引用?)
+(73,16): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(73,16): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(73,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrderAttribute”(是否缺少 using 指令或程序集引用?)
+(73,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrder”(是否缺少 using 指令或程序集引用?)
+(79,6): error CS0246: 未能找到类型或命名空间名“MPKeyAttribute”(是否缺少 using 指令或程序集引用?)
+(79,6): error CS0246: 未能找到类型或命名空间名“MPKey”(是否缺少 using 指令或程序集引用?)
+(79,16): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(79,16): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(79,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrderAttribute”(是否缺少 using 指令或程序集引用?)
+(79,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrder”(是否缺少 using 指令或程序集引用?)
+(85,6): error CS0246: 未能找到类型或命名空间名“MPKeyAttribute”(是否缺少 using 指令或程序集引用?)
+(85,6): error CS0246: 未能找到类型或命名空间名“MPKey”(是否缺少 using 指令或程序集引用?)
+(85,16): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(85,16): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(85,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrderAttribute”(是否缺少 using 指令或程序集引用?)
+(85,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrder”(是否缺少 using 指令或程序集引用?)
+(91,6): error CS0246: 未能找到类型或命名空间名“MPKeyAttribute”(是否缺少 using 指令或程序集引用?)
+(91,6): error CS0246: 未能找到类型或命名空间名“MPKey”(是否缺少 using 指令或程序集引用?)
+(91,16): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(91,16): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(91,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrderAttribute”(是否缺少 using 指令或程序集引用?)
+(91,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrder”(是否缺少 using 指令或程序集引用?)
+(97,6): error CS0246: 未能找到类型或命名空间名“MPKeyAttribute”(是否缺少 using 指令或程序集引用?)
+(97,6): error CS0246: 未能找到类型或命名空间名“MPKey”(是否缺少 using 指令或程序集引用?)
+(97,16): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(97,16): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(97,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrderAttribute”(是否缺少 using 指令或程序集引用?)
+(97,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrder”(是否缺少 using 指令或程序集引用?)
+(103,6): error CS0246: 未能找到类型或命名空间名“MPKeyAttribute”(是否缺少 using 指令或程序集引用?)
+(103,6): error CS0246: 未能找到类型或命名空间名“MPKey”(是否缺少 using 指令或程序集引用?)
+(103,16): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(103,16): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(103,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrderAttribute”(是否缺少 using 指令或程序集引用?)
+(103,27): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrder”(是否缺少 using 指令或程序集引用?)
+(109,6): error CS0246: 未能找到类型或命名空间名“MPKeyAttribute”(是否缺少 using 指令或程序集引用?)
+(109,6): error CS0246: 未能找到类型或命名空间名“MPKey”(是否缺少 using 指令或程序集引用?)
+(109,17): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(109,17): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(109,29): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrderAttribute”(是否缺少 using 指令或程序集引用?)
+(109,29): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrder”(是否缺少 using 指令或程序集引用?)
+(115,6): error CS0246: 未能找到类型或命名空间名“MPKeyAttribute”(是否缺少 using 指令或程序集引用?)
+(115,6): error CS0246: 未能找到类型或命名空间名“MPKey”(是否缺少 using 指令或程序集引用?)
+(115,17): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(115,17): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(115,29): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrderAttribute”(是否缺少 using 指令或程序集引用?)
+(115,29): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrder”(是否缺少 using 指令或程序集引用?)
+(121,6): error CS0246: 未能找到类型或命名空间名“MPKeyAttribute”(是否缺少 using 指令或程序集引用?)
+(121,6): error CS0246: 未能找到类型或命名空间名“MPKey”(是否缺少 using 指令或程序集引用?)
+(121,17): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(121,17): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(121,29): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrderAttribute”(是否缺少 using 指令或程序集引用?)
+(121,29): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrder”(是否缺少 using 指令或程序集引用?)
+(127,6): error CS0246: 未能找到类型或命名空间名“MPKeyAttribute”(是否缺少 using 指令或程序集引用?)
+(127,6): error CS0246: 未能找到类型或命名空间名“MPKey”(是否缺少 using 指令或程序集引用?)
+(127,17): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(127,17): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(127,29): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrderAttribute”(是否缺少 using 指令或程序集引用?)
+(127,29): error CS0246: 未能找到类型或命名空间名“JsonPropertyOrder”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(138,15): error CS0103: 当前上下文中不存在名称“DefaultArchiSteamFarmExePath”
+(144,15): error CS0103: 当前上下文中不存在名称“DefaultAutoRunArchiSteamFarm”
+(150,15): error CS0103: 当前上下文中不存在名称“DefaultCheckArchiSteamFarmExe”
+(156,15): error CS0103: 当前上下文中不存在名称“DefaultConsoleMaxLineDefault”
+(162,15): error CS0103: 当前上下文中不存在名称“DefaultMinRangeConsoleMaxLine”
+(168,15): error CS0103: 当前上下文中不存在名称“DefaultMaxRangeConsoleMaxLine”
+(174,15): error CS0103: 当前上下文中不存在名称“DefaultConsoleMaxLine”
+(180,15): error CS0103: 当前上下文中不存在名称“DefaultConsoleFontSizeDefault”
+(186,15): error CS0103: 当前上下文中不存在名称“DefaultMinRangeConsoleFontSize”
+(192,15): error CS0103: 当前上下文中不存在名称“DefaultMaxRangeConsoleFontSize”
+(198,15): error CS0103: 当前上下文中不存在名称“DefaultConsoleFontSize”
+(204,15): error CS0103: 当前上下文中不存在名称“DefaultIPCPortIdValue”
+(210,15): error CS0103: 当前上下文中不存在名称“DefaultIPCPortId”
+(216,15): error CS0103: 当前上下文中不存在名称“DefaultIPCPortOccupiedRandom”
+(50,58): error CS0103: 当前上下文中不存在名称“IASFSettings”
+(56,55): error CS0103: 当前上下文中不存在名称“IASFSettings”
+(62,56): error CS0103: 当前上下文中不存在名称“IASFSettings”
+(68,54): error CS0103: 当前上下文中不存在名称“IASFSettings”
+(74,55): error CS0103: 当前上下文中不存在名称“IASFSettings”
+(80,55): error CS0103: 当前上下文中不存在名称“IASFSettings”
+(86,47): error CS0103: 当前上下文中不存在名称“IASFSettings”
+(92,55): error CS0103: 当前上下文中不存在名称“IASFSettings”
+(98,56): error CS0103: 当前上下文中不存在名称“IASFSettings”
+(104,56): error CS0103: 当前上下文中不存在名称“IASFSettings”
+(110,48): error CS0103: 当前上下文中不存在名称“IASFSettings”
+(116,47): error CS0103: 当前上下文中不存在名称“IASFSettings”
+(122,42): error CS0103: 当前上下文中不存在名称“IASFSettings”
+(128,55): error CS0103: 当前上下文中不存在名称“IASFSettings”
+(27,48): error CS0103: 当前上下文中不存在名称“ISettings”
+(27,29): error CS1729: “ASFSettingsContext”不包含采用 1 个参数的构造函数
+(41,40): error CS1061: “ASFSettingsContext”未包含“ASFSettings_”的定义，并且找不到可接受第一个“ASFSettingsContext”类型参数的可访问扩展方法“ASFSettings_”(是否缺少 using 指令或程序集引用?)
+(44,40): error CS1061: “ASFSettingsContext”未包含“ASFSettings_”的定义，并且找不到可接受第一个“ASFSettingsContext”类型参数的可访问扩展方法“ASFSettings_”(是否缺少 using 指令或程序集引用?)
+(15,1): hidden CS8019: 不需要的 using 指令。

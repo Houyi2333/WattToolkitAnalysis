@@ -1,0 +1,124 @@
+(1,21): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(5,51): error CS0246: 未能找到类型或命名空间名“WindowViewModel”(是否缺少 using 指令或程序集引用?)
+(12,22): error CS0246: 未能找到类型或命名空间名“ReadOnlyObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(12,51): error CS0246: 未能找到类型或命名空间名“AchievementInfo”(是否缺少 using 指令或程序集引用?)
+(13,22): error CS0246: 未能找到类型或命名空间名“SourceList<>”(是否缺少 using 指令或程序集引用?)
+(13,33): error CS0246: 未能找到类型或命名空间名“AchievementInfo”(是否缺少 using 指令或程序集引用?)
+(16,12): error CS0246: 未能找到类型或命名空间名“ReadOnlyObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(16,41): error CS0246: 未能找到类型或命名空间名“AchievementInfo”(是否缺少 using 指令或程序集引用?)
+(21,22): error CS0246: 未能找到类型或命名空间名“ReadOnlyObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(21,51): error CS0246: 未能找到类型或命名空间名“StatInfo”(是否缺少 using 指令或程序集引用?)
+(22,22): error CS0246: 未能找到类型或命名空间名“SourceList<>”(是否缺少 using 指令或程序集引用?)
+(22,33): error CS0246: 未能找到类型或命名空间名“StatInfo”(是否缺少 using 指令或程序集引用?)
+(24,12): error CS0246: 未能找到类型或命名空间名“ReadOnlyObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(24,41): error CS0246: 未能找到类型或命名空间名“StatInfo”(是否缺少 using 指令或程序集引用?)
+(33,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(35,64): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(35,5): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(35,10): error CS0246: 未能找到类型或命名空间名“AchievementInfo”(是否缺少 using 指令或程序集引用?)
+(53,54): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(53,5): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(53,10): error CS0246: 未能找到类型或命名空间名“StatInfo”(是否缺少 using 指令或程序集引用?)
+(28,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(28,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(32,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(32,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(7,41): error CS0103: 当前上下文中不存在名称“Constants”
+(7,80): error CS0103: 当前上下文中不存在名称“Strings”
+(73,9): error CS0103: 当前上下文中不存在名称“Title”
+(75,9): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(77,13): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(79,13): error CS0103: 当前上下文中不存在名称“MessageBox”
+(79,34): error CS0103: 当前上下文中不存在名称“Strings”
+(79,78): error CS0103: 当前上下文中不存在名称“MessageBox”
+(85,39): error CS0246: 未能找到类型或命名空间名“SourceList<>”(是否缺少 using 指令或程序集引用?)
+(85,50): error CS0246: 未能找到类型或命名空间名“AchievementInfo”(是否缺少 using 指令或程序集引用?)
+(86,37): error CS0246: 未能找到类型或命名空间名“SourceList<>”(是否缺少 using 指令或程序集引用?)
+(86,48): error CS0246: 未能找到类型或命名空间名“StatInfo”(是否缺少 using 指令或程序集引用?)
+(88,43): error CS1061: “AchievementAppPageViewModel”未包含“WhenAnyValue”的定义，并且找不到可接受第一个“AchievementAppPageViewModel”类型参数的可访问扩展方法“WhenAnyValue”(是否缺少 using 指令或程序集引用?)
+(90,41): error CS1061: “AchievementAppPageViewModel”未包含“WhenAnyValue”的定义，并且找不到可接受第一个“AchievementAppPageViewModel”类型参数的可访问扩展方法“WhenAnyValue”(是否缺少 using 指令或程序集引用?)
+(95,24): error CS0103: 当前上下文中不存在名称“RxApp”
+(96,42): error CS0246: 未能找到类型或命名空间名“AchievementInfo”(是否缺少 using 指令或程序集引用?)
+(96,19): error CS0103: 当前上下文中不存在名称“SortExpressionComparer”
+(103,24): error CS0103: 当前上下文中不存在名称“RxApp”
+(104,42): error CS0246: 未能找到类型或命名空间名“StatInfo”(是否缺少 using 指令或程序集引用?)
+(104,19): error CS0103: 当前上下文中不存在名称“SortExpressionComparer”
+(108,14): error CS1061: “AchievementAppPageViewModel”未包含“WhenAnyValue”的定义，并且找不到可接受第一个“AchievementAppPageViewModel”类型参数的可访问扩展方法“WhenAnyValue”(是否缺少 using 指令或程序集引用?)
+(117,23): error CS0103: 当前上下文中不存在名称“ISteamworksLocalApiService”
+(119,9): error CS0103: 当前上下文中不存在名称“Title”
+(119,17): error CS0103: 当前上下文中不存在名称“Constants”
+(123,9): error CS0103: 当前上下文中不存在名称“ISteamworksLocalApiService”
+(145,9): error CS0103: 当前上下文中不存在名称“Task”
+(162,9): error CS0103: 当前上下文中不存在名称“Process”
+(167,20): error CS0103: 当前上下文中不存在名称“ISteamService”
+(169,16): error CS0103: 当前上下文中不存在名称“Path”
+(170,16): error CS0103: 当前上下文中不存在名称“Path”
+(171,16): error CS0103: 当前上下文中不存在名称“Path”
+(172,13): error CS0103: 当前上下文中不存在名称“CultureInfo”
+(176,13): error CS0103: 当前上下文中不存在名称“File”
+(188,31): error CS0103: 当前上下文中不存在名称“ResourceService”
+(189,39): error CS0103: 当前上下文中不存在名称“CultureInfo”
+(206,25): error CS0246: 未能找到类型或命名空间名“UserStatType”(是否缺少 using 指令或程序集引用?)
+(209,22): error CS0103: 当前上下文中不存在名称“UserStatType”
+(214,22): error CS0103: 当前上下文中不存在名称“UserStatType”
+(219,55): error CS0246: 未能找到类型或命名空间名“IntStatInfo”(是否缺少 using 指令或程序集引用?)
+(233,22): error CS0103: 当前上下文中不存在名称“UserStatType”
+(234,22): error CS0103: 当前上下文中不存在名称“UserStatType”
+(239,55): error CS0246: 未能找到类型或命名空间名“FloatStatInfo”(是否缺少 using 指令或程序集引用?)
+(253,22): error CS0103: 当前上下文中不存在名称“UserStatType”
+(254,22): error CS0103: 当前上下文中不存在名称“UserStatType”
+(273,69): error CS0246: 未能找到类型或命名空间名“AchievementInfo”(是否缺少 using 指令或程序集引用?)
+(293,35): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(309,20): error CS0103: 当前上下文中不存在名称“ISteamworksLocalApiService”
+(337,24): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(337,29): error CS0246: 未能找到类型或命名空间名“AchievementInfo”(是否缺少 using 指令或程序集引用?)
+(345,17): error CS0103: 当前上下文中不存在名称“ISteamworksLocalApiService”
+(352,28): error CS0246: 未能找到类型或命名空间名“AchievementInfo”(是否缺少 using 指令或程序集引用?)
+(382,13): error CS0019: 运算符“==”无法应用于“ReadOnlyObservableCollection<AchievementInfo>?”和“<null>”类型的操作数
+(382,50): error CS1061: “ReadOnlyObservableCollection<AchievementInfo>?”未包含“Count”的定义，并且找不到可接受第一个“ReadOnlyObservableCollection<AchievementInfo>?”类型参数的可访问扩展方法“Count”(是否缺少 using 指令或程序集引用?)
+(387,32): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(387,37): error CS0246: 未能找到类型或命名空间名“AchievementInfo”(是否缺少 using 指令或程序集引用?)
+(388,41): error CS1579: “ReadOnlyObservableCollection<AchievementInfo>?”不包含“GetEnumerator”的公共实例或扩展定义，因此 foreach 语句不能作用于“ReadOnlyObservableCollection<AchievementInfo>?”类型的变量
+(403,18): error CS0246: 未能找到类型或命名空间名“AchievementInfo”(是否缺少 using 指令或程序集引用?)
+(405,17): error CS0103: 当前上下文中不存在名称“ISteamworksLocalApiService”
+(407,17): error CS0103: 当前上下文中不存在名称“MessageBox”
+(407,38): error CS0103: 当前上下文中不存在名称“Strings”
+(407,100): error CS0103: 当前上下文中不存在名称“MessageBox”
+(420,24): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(420,29): error CS0246: 未能找到类型或命名空间名“StatInfo”(是否缺少 using 指令或程序集引用?)
+(427,25): error CS0246: 未能找到类型或命名空间名“IntStatInfo”(是否缺少 using 指令或程序集引用?)
+(429,21): error CS0103: 当前上下文中不存在名称“ISteamworksLocalApiService”
+(431,34): error CS0246: 未能找到类型或命名空间名“IntStatInfo”(是否缺少 using 指令或程序集引用?)
+(442,30): error CS0246: 未能找到类型或命名空间名“FloatStatInfo”(是否缺少 using 指令或程序集引用?)
+(444,21): error CS0103: 当前上下文中不存在名称“ISteamworksLocalApiService”
+(446,34): error CS0246: 未能找到类型或命名空间名“FloatStatInfo”(是否缺少 using 指令或程序集引用?)
+(466,13): error CS0019: 运算符“==”无法应用于“ReadOnlyObservableCollection<StatInfo>?”和“<null>”类型的操作数
+(466,46): error CS1061: “ReadOnlyObservableCollection<StatInfo>?”未包含“Count”的定义，并且找不到可接受第一个“ReadOnlyObservableCollection<StatInfo>?”类型参数的可访问扩展方法“Count”(是否缺少 using 指令或程序集引用?)
+(471,37): error CS1061: “ReadOnlyObservableCollection<StatInfo>?”未包含“Where”的定义，并且找不到可接受第一个“ReadOnlyObservableCollection<StatInfo>?”类型参数的可访问扩展方法“Where”(是否缺少 using 指令或程序集引用?)
+(479,25): error CS0246: 未能找到类型或命名空间名“IntStatInfo”(是否缺少 using 指令或程序集引用?)
+(481,21): error CS0103: 当前上下文中不存在名称“ISteamworksLocalApiService”
+(485,21): error CS0103: 当前上下文中不存在名称“Toast”
+(485,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(485,49): error CS0103: 当前上下文中不存在名称“Strings”
+(489,30): error CS0246: 未能找到类型或命名空间名“FloatStatInfo”(是否缺少 using 指令或程序集引用?)
+(491,21): error CS0103: 当前上下文中不存在名称“ISteamworksLocalApiService”
+(495,21): error CS0103: 当前上下文中不存在名称“Toast”
+(495,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(495,49): error CS0103: 当前上下文中不存在名称“Strings”
+(501,27): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(514,9): error CS0103: 当前上下文中不存在名称“ISteamworksLocalApiService”
+(521,28): error CS0103: 当前上下文中不存在名称“MessageBox”
+(521,49): error CS0103: 当前上下文中不存在名称“Strings”
+(521,97): error CS0103: 当前上下文中不存在名称“MessageBox”
+(524,41): error CS0103: 当前上下文中不存在名称“MessageBox”
+(524,62): error CS0103: 当前上下文中不存在名称“Strings”
+(524,110): error CS0103: 当前上下文中不存在名称“MessageBox”
+(525,30): error CS0103: 当前上下文中不存在名称“MessageBox”
+(525,51): error CS0103: 当前上下文中不存在名称“Strings”
+(525,99): error CS0103: 当前上下文中不存在名称“MessageBox”
+(528,21): error CS0103: 当前上下文中不存在名称“ISteamworksLocalApiService”
+(553,13): error CS0103: 当前上下文中不存在名称“ISteamworksLocalApiService”
+(558,9): error CS0103: 当前上下文中不存在名称“Toast”
+(558,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(558,39): error CS0103: 当前上下文中不存在名称“Strings”

@@ -1,0 +1,36 @@
+(13,37): error CS0246: 未能找到类型或命名空间名“KestrelServerOptions”(是否缺少 using 指令或程序集引用?)
+(25,45): error CS0246: 未能找到类型或命名空间名“KestrelServerOptions”(是否缺少 using 指令或程序集引用?)
+(99,52): error CS0246: 未能找到类型或命名空间名“KestrelServerOptions”(是否缺少 using 指令或程序集引用?)
+(115,53): error CS0246: 未能找到类型或命名空间名“KestrelServerOptions”(是否缺少 using 指令或程序集引用?)
+(138,35): error CS0246: 未能找到类型或命名空间名“KestrelServerOptions”(是否缺少 using 指令或程序集引用?)
+(138,12): error CS0246: 未能找到类型或命名空间名“ILogger”(是否缺少 using 指令或程序集引用?)
+(12,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(12,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(12,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(24,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(24,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(24,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(98,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(98,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(98,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(114,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(114,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(114,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(137,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(137,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(137,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(27,81): error CS0246: 未能找到类型或命名空间名“IReverseProxyConfig”(是否缺少 using 指令或程序集引用?)
+(30,14): error CS0103: 当前上下文中不存在名称“IReverseProxyConfig”
+(32,23): error CS0246: 未能找到类型或命名空间名“ApplicationException”(是否缺少 using 指令或程序集引用?)
+(36,24): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+(49,13): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+(101,24): error CS0103: 当前上下文中不存在名称“IReverseProxyConfig”
+(102,24): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+(107,13): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+(117,74): error CS0246: 未能找到类型或命名空间名“CertService”(是否缺少 using 指令或程序集引用?)
+(120,77): error CS0246: 未能找到类型或命名空间名“IDomainResolver”(是否缺少 using 指令或程序集引用?)
+(123,25): error CS0103: 当前上下文中不存在名称“IReverseProxyConfig”
+(124,24): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+(134,13): error CS0103: 当前上下文中不存在名称“IReverseProxyService”
+(140,76): error CS0246: 未能找到类型或命名空间名“ILoggerFactory”(是否缺少 using 指令或程序集引用?)

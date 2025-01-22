@@ -1,0 +1,8 @@
+(6,12): error CS0246: 未能找到类型或命名空间名“IPlatformService”(是否缺少 using 指令或程序集引用?)
+(6,50): error CS0246: 未能找到类型或命名空间名“FontWeight”(是否缺少 using 指令或程序集引用?)
+(6,12): error CS0538: '显式接口声明中的“IPlatformService”不是接口
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(10,23): error CS0103: 当前上下文中不存在名称“ResourceService”
+(11,29): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(19,34): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(23,16): error CS0103: 当前上下文中不存在名称“IPlatformService”

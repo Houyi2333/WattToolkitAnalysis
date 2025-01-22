@@ -1,0 +1,76 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(10,33): error CS0246: 未能找到类型或命名空间名“Behavior<>”(是否缺少 using 指令或程序集引用?)
+(10,42): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(12,13): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(13,13): error CS0246: 未能找到类型或命名空间名“AvaloniaList<>”(是否缺少 using 指令或程序集引用?)
+(13,26): error CS0246: 未能找到类型或命名空间名“AdaptiveClassSetter”(是否缺少 using 指令或程序集引用?)
+(18,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(18,43): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(24,28): error CS0246: 未能找到类型或命名空间名“StyledProperty<>”(是否缺少 using 指令或程序集引用?)
+(24,43): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(30,28): error CS0246: 未能找到类型或命名空间名“DirectProperty<,>”(是否缺少 using 指令或程序集引用?)
+(30,61): error CS0246: 未能找到类型或命名空间名“AvaloniaList<>”(是否缺少 using 指令或程序集引用?)
+(30,74): error CS0246: 未能找到类型或命名空间名“AdaptiveClassSetter”(是否缺少 using 指令或程序集引用?)
+(37,12): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(47,12): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(57,12): error CS0246: 未能找到类型或命名空间名“AvaloniaList<>”(是否缺少 using 指令或程序集引用?)
+(57,25): error CS0246: 未能找到类型或命名空间名“AdaptiveClassSetter”(是否缺少 using 指令或程序集引用?)
+(93,39): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(93,13): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(104,31): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(104,55): error CS0246: 未能找到类型或命名空间名“AvaloniaList<>”(是否缺少 using 指令或程序集引用?)
+(104,68): error CS0246: 未能找到类型或命名空间名“AdaptiveClassSetter”(是否缺少 using 指令或程序集引用?)
+(104,99): error CS0246: 未能找到类型或命名空间名“Rect”(是否缺少 using 指令或程序集引用?)
+(154,28): error CS0246: 未能找到类型或命名空间名“ComparisonConditionType”(是否缺少 using 指令或程序集引用?)
+(170,29): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(170,58): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(187,32): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(187,61): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(36,6): error CS0246: 未能找到类型或命名空间名“ResolveByNameAttribute”(是否缺少 using 指令或程序集引用?)
+(36,6): error CS0246: 未能找到类型或命名空间名“ResolveByName”(是否缺少 using 指令或程序集引用?)
+(46,6): error CS0246: 未能找到类型或命名空间名“ResolveByNameAttribute”(是否缺少 using 指令或程序集引用?)
+(46,6): error CS0246: 未能找到类型或命名空间名“ResolveByName”(是否缺少 using 指令或程序集引用?)
+(56,6): error CS0246: 未能找到类型或命名空间名“ContentAttribute”(是否缺少 using 指令或程序集引用?)
+(56,6): error CS0246: 未能找到类型或命名空间名“Content”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(19,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(19,53): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(25,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(25,53): error CS0246: 未能找到类型或命名空间名“Control”(是否缺少 using 指令或程序集引用?)
+(31,9): error CS0103: 当前上下文中不存在名称“AvaloniaProperty”
+(31,59): error CS0246: 未能找到类型或命名空间名“AvaloniaList<>”(是否缺少 using 指令或程序集引用?)
+(31,72): error CS0246: 未能找到类型或命名空间名“AdaptiveClassSetter”(是否缺少 using 指令或程序集引用?)
+(39,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(40,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(49,16): error CS0103: 当前上下文中不存在名称“GetValue”
+(50,16): error CS0103: 当前上下文中不存在名称“SetValue”
+(57,74): error CS0246: 未能找到类型或命名空间名“AvaloniaList<>”(是否缺少 using 指令或程序集引用?)
+(57,87): error CS0246: 未能找到类型或命名空间名“AdaptiveClassSetter”(是否缺少 using 指令或程序集引用?)
+(78,29): error CS0103: 当前上下文中不存在名称“GetValue”
+(80,15): error CS0103: 当前上下文中不存在名称“AssociatedObject”
+(97,23): error CS0246: 未能找到类型或命名空间名“ArgumentNullException”(是否缺少 using 指令或程序集引用?)
+(100,44): error CS0103: 当前上下文中不存在名称“Visual”
+(101,28): error CS0246: 未能找到类型或命名空间名“AnonymousObserver<>”(是否缺少 using 指令或程序集引用?)
+(101,46): error CS0246: 未能找到类型或命名空间名“Rect”(是否缺少 using 指令或程序集引用?)
+(111,32): error CS1579: “AvaloniaList<AdaptiveClassSetter>?”不包含“GetEnumerator”的公共实例或扩展定义，因此 foreach 语句不能作用于“AvaloniaList<AdaptiveClassSetter>?”类型的变量
+(113,51): error CS0103: 当前上下文中不存在名称“AdaptiveClassSetter”
+(114,54): error CS0103: 当前上下文中不存在名称“AdaptiveClassSetter”
+(118,52): error CS0103: 当前上下文中不存在名称“AdaptiveClassSetter”
+(119,55): error CS0103: 当前上下文中不存在名称“AdaptiveClassSetter”
+(131,49): error CS0103: 当前上下文中不存在名称“AdaptiveClassSetter”
+(133,19): error CS0103: 当前上下文中不存在名称“GetValue”
+(135,23): error CS0103: 当前上下文中不存在名称“AssociatedObject”
+(159,13): error CS0103: 当前上下文中不存在名称“ComparisonConditionType”
+(161,13): error CS0103: 当前上下文中不存在名称“ComparisonConditionType”
+(162,13): error CS0103: 当前上下文中不存在名称“ComparisonConditionType”
+(163,13): error CS0103: 当前上下文中不存在名称“ComparisonConditionType”
+(164,13): error CS0103: 当前上下文中不存在名称“ComparisonConditionType”
+(165,13): error CS0103: 当前上下文中不存在名称“ComparisonConditionType”
+(166,28): error CS0246: 未能找到类型或命名空间名“ArgumentOutOfRangeException”(是否缺少 using 指令或程序集引用?)
+(179,15): error CS0246: 未能找到类型或命名空间名“IPseudoClasses”(是否缺少 using 指令或程序集引用?)
+(196,15): error CS0246: 未能找到类型或命名空间名“IPseudoClasses”(是否缺少 using 指令或程序集引用?)
+(1,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

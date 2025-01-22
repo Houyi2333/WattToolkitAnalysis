@@ -1,0 +1,36 @@
+(1,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Helpers”(是否缺少程序集引用?)
+(2,22): error CS0234: 命名空间“System.Runtime”中不存在类型或命名空间名“Devices”(是否缺少程序集引用?)
+(3,31): error CS0234: 命名空间“BD.WTTS.Services”中不存在类型或命名空间名“IMicroServiceClient”(是否缺少程序集引用?)
+(8,37): error CS0246: 未能找到类型或命名空间名“ReactiveObject”(是否缺少 using 指令或程序集引用?)
+(10,21): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(17,12): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(17,33): error CS0246: 未能找到类型或命名空间名“OfficialMessageItemDTO”(是否缺少 using 指令或程序集引用?)
+(22,13): error CS0246: 未能找到类型或命名空间名“Timer”(是否缺少 using 指令或程序集引用?)
+(42,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(16,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(16,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+(19,6): error CS0246: 未能找到类型或命名空间名“ReactiveAttribute”(是否缺少 using 指令或程序集引用?)
+(19,6): error CS0246: 未能找到类型或命名空间名“Reactive”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(10,69): error CS0103: 当前上下文中不存在名称“LazyThreadSafetyMode”
+(31,23): error CS0246: 未能找到类型或命名空间名“ObservableCollection<>”(是否缺少 using 指令或程序集引用?)
+(31,44): error CS0246: 未能找到类型或命名空间名“OfficialMessageItemDTO”(是否缺少 using 指令或程序集引用?)
+(33,22): error CS0246: 未能找到类型或命名空间名“Timer”(是否缺少 using 指令或程序集引用?)
+(36,18): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(36,41): error CS0103: 当前上下文中不存在名称“TimeSpan”
+(44,22): error CS0103: 当前上下文中不存在名称“Instance”
+(45,46): error CS0103: 当前上下文中不存在名称“IApplication”
+(45,75): error CS0103: 当前上下文中不存在名称“OfficialMessageType”
+(42,23): error CS0161: “NoticeService.GetNewsAsync()”: 并非所有的代码路径都返回值
+(62,37): error CS0103: 当前上下文中不存在名称“GeneralSettings”
+(70,50): error CS0103: 当前上下文中不存在名称“GeneralSettings”
+(78,17): error CS0103: 当前上下文中不存在名称“INotificationService”
+(78,70): error CS0103: 当前上下文中不存在名称“NotificationType”
+(79,17): error CS0103: 当前上下文中不存在名称“GeneralSettings”
+(79,64): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(86,9): error CS0103: 当前上下文中不存在名称“TracepointHelper”
+(87,9): error CS0103: 当前上下文中不存在名称“GeneralSettings”
+(87,56): error CS0103: 当前上下文中不存在名称“DateTimeOffset”
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

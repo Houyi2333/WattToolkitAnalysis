@@ -1,0 +1,98 @@
+(8,9): error CS0246: 未能找到类型或命名空间名“AppServicesLevel”(是否缺少 using 指令或程序集引用?)
+(9,9): error CS0246: 未能找到类型或命名空间名“Func<>”(是否缺少 using 指令或程序集引用?)
+(361,28): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(411,53): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(411,29): error CS0513: “Startup.ConfigureDemandServices(IServiceCollection)”是抽象的，但它包含在非抽象类型“Startup”中
+(417,55): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(417,29): error CS0513: “Startup.ConfigureRequiredServices(IServiceCollection)”是抽象的，但它包含在非抽象类型“Startup”中
+(422,29): error CS0513: “Startup.StartUIApplication()”是抽象的，但它包含在非抽象类型“Startup”中
+(326,5): error CS0246: 未能找到类型或命名空间名“LogLevel”(是否缺少 using 指令或程序集引用?)
+(424,24): error CS0246: 未能找到类型或命名空间名“TaskCompletionSource<>”(是否缺少 using 指令或程序集引用?)
+(424,45): error CS0246: 未能找到类型或命名空间名“IApplication”(是否缺少 using 指令或程序集引用?)
+(6,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(6,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(6,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(360,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(360,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(360,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(33,19): error CS0103: 当前上下文中不存在名称“IsMainProcess”
+(33,35): error CS0103: 当前上下文中不存在名称“AppServicesLevel”
+(33,66): error CS0103: 当前上下文中不存在名称“AppServicesLevel”
+(35,9): error CS0103: 当前上下文中不存在名称“HasTrayIcon”
+(35,43): error CS0103: 当前上下文中不存在名称“AppServicesLevel”
+(36,9): error CS0103: 当前上下文中不存在名称“HasUI”
+(36,37): error CS0103: 当前上下文中不存在名称“AppServicesLevel”
+(37,9): error CS0103: 当前上下文中不存在名称“HasServerApiClient”
+(37,50): error CS0103: 当前上下文中不存在名称“AppServicesLevel”
+(38,9): error CS0103: 当前上下文中不存在名称“HasRepositories”
+(38,27): error CS0103: 当前上下文中不存在名称“HasServerApiClient”
+(38,69): error CS0103: 当前上下文中不存在名称“AppServicesLevel”
+(39,9): error CS0103: 当前上下文中不存在名称“HasSteam”
+(39,40): error CS0103: 当前上下文中不存在名称“AppServicesLevel”
+(40,9): error CS0103: 当前上下文中不存在名称“HasHttpClientFactory”
+(40,32): error CS0103: 当前上下文中不存在名称“HasSteam”
+(40,64): error CS0103: 当前上下文中不存在名称“AppServicesLevel”
+(41,9): error CS0103: 当前上下文中不存在名称“HasHttpProxy”
+(41,44): error CS0103: 当前上下文中不存在名称“AppServicesLevel”
+(42,9): error CS0103: 当前上下文中不存在名称“HasHosts”
+(42,40): error CS0103: 当前上下文中不存在名称“AppServicesLevel”
+(43,9): error CS0103: 当前上下文中不存在名称“HasIPCRoot”
+(43,42): error CS0103: 当前上下文中不存在名称“AppServicesLevel”
+(48,31): error CS0103: 当前上下文中不存在名称“ISettings”
+(52,23): error CS0246: 未能找到类型或命名空间名“GeneralSettings_”(是否缺少 using 指令或程序集引用?)
+(52,13): error CS0103: 当前上下文中不存在名称“ISettings”
+(53,13): error CS0103: 当前上下文中不存在名称“InvalidConfigurationFileNames”
+(53,47): error CS0103: 当前上下文中不存在名称“GeneralSettings_”
+(117,13): error CS0103: 当前上下文中不存在名称“IsMainProcess”
+(119,18): error CS0103: 当前上下文中不存在名称“InitSingleInstancePipeline”
+(123,13): error CS0103: 当前上下文中不存在名称“singleInstancePipeline”
+(129,13): error CS0103: 当前上下文中不存在名称“HasHttpClientFactory”
+(129,37): error CS0103: 当前上下文中不存在名称“HasHttpProxy”
+(135,26): error CS0103: 当前上下文中不存在名称“AppWebProxyMode”
+(136,25): error CS0103: 当前上下文中不存在名称“HttpClient”
+(136,51): error CS0103: 当前上下文中不存在名称“HttpNoProxy”
+(138,26): error CS0103: 当前上下文中不存在名称“AppWebProxyMode”
+(139,25): error CS0246: 未能找到类型或命名空间名“WebProxy”(是否缺少 using 指令或程序集引用?)
+(153,45): error CS0103: 当前上下文中不存在名称“AppWebProxyMode”
+(158,29): error CS0246: 未能找到类型或命名空间名“NetworkCredential”(是否缺少 using 指令或程序集引用?)
+(163,25): error CS0103: 当前上下文中不存在名称“HttpClient”
+(166,26): error CS0103: 当前上下文中不存在名称“AppWebProxyMode”
+(131,34): error CS0246: 未能找到类型或命名空间名“AppWebProxyMode”(是否缺少 using 指令或程序集引用?)
+(183,23): error CS0246: 未能找到类型或命名空间名“UISettings_”(是否缺少 using 指令或程序集引用?)
+(183,13): error CS0103: 当前上下文中不存在名称“ISettings”
+(184,13): error CS0103: 当前上下文中不存在名称“InvalidConfigurationFileNames”
+(184,47): error CS0103: 当前上下文中不存在名称“UISettings_”
+(187,23): error CS0246: 未能找到类型或命名空间名“SteamSettings_”(是否缺少 using 指令或程序集引用?)
+(187,13): error CS0103: 当前上下文中不存在名称“ISettings”
+(188,13): error CS0103: 当前上下文中不存在名称“InvalidConfigurationFileNames”
+(188,47): error CS0103: 当前上下文中不存在名称“SteamSettings_”
+(192,13): error CS0103: 当前上下文中不存在名称“TryGetPlugins”
+(198,39): error CS0103: 当前上下文中不存在名称“ISettings”
+(206,33): error CS0103: 当前上下文中不存在名称“InvalidConfigurationFileNames”
+(215,24): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(217,21): error CS0103: 当前上下文中不存在名称“GlobalExceptionHandler”
+(218,61): error CS0103: 当前上下文中不存在名称“IPlugin”
+(223,9): error CS0103: 当前上下文中不存在名称“Configuration”
+(236,14): error CS0103: 当前上下文中不存在名称“IsDesignMode”
+(236,30): error CS0103: 当前上下文中不存在名称“IsMainProcess”
+(246,22): error CS0103: 当前上下文中不存在名称“key_shutdown”
+(250,22): error CS0103: 当前上下文中不存在名称“key_show”
+(253,25): error CS0103: 当前上下文中不存在名称“MainThread2”
+(271,49): error CS0103: 当前上下文中不存在名称“StringSplitOptions”
+(276,34): error CS0103: 当前上下文中不存在名称“key_proxy”
+(284,49): error CS0103: 当前上下文中不存在名称“Enum”
+(284,63): error CS0246: 未能找到类型或命名空间名“OnOffToggle”(是否缺少 using 指令或程序集引用?)
+(288,41): error CS0103: 当前上下文中不存在名称“MainThread2”
+(302,44): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(304,41): error CS0103: 当前上下文中不存在名称“GlobalExceptionHandler”
+(318,13): error CS0103: 当前上下文中不存在名称“MainThread2”
+(320,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(322,13): error CS0103: 当前上下文中不存在名称“GlobalExceptionHandler”
+(337,13): error CS0103: 当前上下文中不存在名称“HasServerApiClient”
+(339,13): error CS0103: 当前上下文中不存在名称“ModelValidatorProvider”
+(346,9): error CS0103: 当前上下文中不存在名称“Ioc”
+(350,13): error CS0103: 当前上下文中不存在名称“IApplication”
+(353,9): error CS0103: 当前上下文中不存在名称“waitConfiguredServices”
+(365,9): error CS0103: 当前上下文中不存在名称“Configuration”
+(326,15): warning CS0649: 从未对字段“Startup.overrideLoggerMinLevel”赋值，字段将一直保持其默认值 

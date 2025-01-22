@@ -1,0 +1,30 @@
+(14,62): error CS0246: 未能找到类型或命名空间名“IApplicationBuilder”(是否缺少 using 指令或程序集引用?)
+(14,21): error CS0246: 未能找到类型或命名空间名“IApplicationBuilder”(是否缺少 using 指令或程序集引用?)
+(26,66): error CS0246: 未能找到类型或命名空间名“IApplicationBuilder”(是否缺少 using 指令或程序集引用?)
+(26,21): error CS0246: 未能找到类型或命名空间名“IApplicationBuilder”(是否缺少 using 指令或程序集引用?)
+(38,64): error CS0246: 未能找到类型或命名空间名“IApplicationBuilder”(是否缺少 using 指令或程序集引用?)
+(38,21): error CS0246: 未能找到类型或命名空间名“IApplicationBuilder”(是否缺少 using 指令或程序集引用?)
+(50,68): error CS0246: 未能找到类型或命名空间名“IApplicationBuilder”(是否缺少 using 指令或程序集引用?)
+(50,21): error CS0246: 未能找到类型或命名空间名“IApplicationBuilder”(是否缺少 using 指令或程序集引用?)
+(69,66): error CS0246: 未能找到类型或命名空间名“IApplicationBuilder”(是否缺少 using 指令或程序集引用?)
+(69,21): error CS0246: 未能找到类型或命名空间名“IApplicationBuilder”(是否缺少 using 指令或程序集引用?)
+(13,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(13,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(13,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(25,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(25,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(25,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(37,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(37,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(37,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(49,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(49,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(49,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(68,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(68,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(68,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(16,69): error CS0246: 未能找到类型或命名空间名“HttpProxyPacMiddleware”(是否缺少 using 指令或程序集引用?)
+(28,69): error CS0246: 未能找到类型或命名空间名“HttpLocalRequestMiddleware”(是否缺少 using 指令或程序集引用?)
+(40,69): error CS0246: 未能找到类型或命名空间名“RequestLoggingMiddleware”(是否缺少 using 指令或程序集引用?)
+(71,69): error CS0246: 未能找到类型或命名空间名“HttpReverseProxyMiddleware”(是否缺少 using 指令或程序集引用?)

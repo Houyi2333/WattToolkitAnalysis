@@ -1,0 +1,20 @@
+(6,35): error CS8795: 分部方法“AuthenticatorRegexHelper.SecretCodeHttpRegex()”必须具有实现部分，因为它具有可访问性修饰符。
+(9,35): error CS8795: 分部方法“AuthenticatorRegexHelper.SecretCodeDataImageRegex()”必须具有实现部分，因为它具有可访问性修饰符。
+(12,35): error CS8795: 分部方法“AuthenticatorRegexHelper.SecretCodeOptAuthRegex()”必须具有实现部分，因为它具有可访问性修饰符。
+(15,35): error CS8795: 分部方法“AuthenticatorRegexHelper.SecretHexCodeAuthRegex()”必须具有实现部分，因为它具有可访问性修饰符。
+(6,29): error CS0246: 未能找到类型或命名空间名“Regex”(是否缺少 using 指令或程序集引用?)
+(9,29): error CS0246: 未能找到类型或命名空间名“Regex”(是否缺少 using 指令或程序集引用?)
+(12,29): error CS0246: 未能找到类型或命名空间名“Regex”(是否缺少 using 指令或程序集引用?)
+(15,29): error CS0246: 未能找到类型或命名空间名“Regex”(是否缺少 using 指令或程序集引用?)
+(5,6): error CS0246: 未能找到类型或命名空间名“GeneratedRegexAttribute”(是否缺少 using 指令或程序集引用?)
+(5,6): error CS0246: 未能找到类型或命名空间名“GeneratedRegex”(是否缺少 using 指令或程序集引用?)
+(8,6): error CS0246: 未能找到类型或命名空间名“GeneratedRegexAttribute”(是否缺少 using 指令或程序集引用?)
+(8,6): error CS0246: 未能找到类型或命名空间名“GeneratedRegex”(是否缺少 using 指令或程序集引用?)
+(8,56): error CS0103: 当前上下文中不存在名称“RegexOptions”
+(11,6): error CS0246: 未能找到类型或命名空间名“GeneratedRegexAttribute”(是否缺少 using 指令或程序集引用?)
+(11,6): error CS0246: 未能找到类型或命名空间名“GeneratedRegex”(是否缺少 using 指令或程序集引用?)
+(11,57): error CS0103: 当前上下文中不存在名称“RegexOptions”
+(14,6): error CS0246: 未能找到类型或命名空间名“GeneratedRegexAttribute”(是否缺少 using 指令或程序集引用?)
+(14,6): error CS0246: 未能找到类型或命名空间名“GeneratedRegex”(是否缺少 using 指令或程序集引用?)
+(14,35): error CS0103: 当前上下文中不存在名称“RegexOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

@@ -1,0 +1,12 @@
+(17,12): error CS0246: 未能找到类型或命名空间名“FileInfo”(是否缺少 using 指令或程序集引用?)
+(14,6): error CS0246: 未能找到类型或命名空间名“MP2IgnoreAttribute”(是否缺少 using 指令或程序集引用?)
+(14,6): error CS0246: 未能找到类型或命名空间名“MP2Ignore”(是否缺少 using 指令或程序集引用?)
+(15,6): error CS0246: 未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+(16,18): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(7,9): error CS0103: 当前上下文中不存在名称“FilePath”
+(8,9): error CS0103: 当前上下文中不存在名称“RelativePath”
+(8,24): error CS0103: 当前上下文中不存在名称“Path”
+(10,9): error CS0103: 当前上下文中不存在名称“Length”
+(10,27): error CS1061: “FileInfo?”未包含“Length”的定义，并且找不到可接受第一个“FileInfo?”类型参数的可访问扩展方法“Length”(是否缺少 using 指令或程序集引用?)
+(11,9): error CS0103: 当前上下文中不存在名称“FileEx”

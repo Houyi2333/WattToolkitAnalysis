@@ -1,0 +1,28 @@
+(3,30): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(7,20): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(7,12): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(7,20): error CS0538: '显式接口声明中的“ICommand”不是接口
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,25): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(10,27): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(20,24): error CS0103: 当前上下文中不存在名称“Path”
+(21,13): error CS0103: 当前上下文中不存在名称“File”
+(23,28): error CS0103: 当前上下文中不存在名称“IOPath”
+(26,29): error CS0103: 当前上下文中不存在名称“Hashs”
+(35,28): error CS0103: 当前上下文中不存在名称“ProjectPath_AvaloniaApp”
+(36,29): error CS0103: 当前上下文中不存在名称“IDotNetPublishCommand”
+(37,24): error CS0103: 当前上下文中不存在名称“Path”
+(40,25): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(42,25): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(44,25): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(46,25): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(53,18): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(54,18): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(56,18): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(58,18): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(61,24): error CS0103: 当前上下文中不存在名称“Path”
+(62,9): error CS0103: 当前上下文中不存在名称“IOPath”
+(63,9): error CS0103: 当前上下文中不存在名称“File”
+(64,9): error CS0103: 当前上下文中不存在名称“Console”
+(65,9): error CS0103: 当前上下文中不存在名称“Console”
+(66,9): error CS0103: 当前上下文中不存在名称“Console”

@@ -1,0 +1,128 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“dotnetCampus”(是否缺少 using 指令或程序集引用?)
+(2,31): error CS0234: 命名空间“BD.WTTS.Services”中不存在类型或命名空间名“IPCSubProcessModuleService”(是否缺少程序集引用?)
+(265,40): error CS0246: 未能找到类型或命名空间名“IOPath”(是否缺少 using 指令或程序集引用?)
+(9,41): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(19,38): error CS0246: 未能找到类型或命名空间名“TaskCompletionSource”(是否缺少 using 指令或程序集引用?)
+(19,81): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(19,88): error CS0246: 未能找到类型或命名空间名“IpcProvider”(是否缺少 using 指令或程序集引用?)
+(19,5): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(277,18): error CS0246: 未能找到类型或命名空间名“LogLevel”(是否缺少 using 指令或程序集引用?)
+(279,28): error CS0246: 未能找到类型或命名空间名“NLogLevel”(是否缺少 using 指令或程序集引用?)
+(287,45): error CS0246: 未能找到类型或命名空间名“LogLevel”(是否缺少 using 指令或程序集引用?)
+(287,19): error CS0246: 未能找到类型或命名空间名“NLogLevel”(是否缺少 using 指令或程序集引用?)
+(302,34): error CS0246: 未能找到类型或命名空间名“LoggingConfiguration”(是否缺少 using 指令或程序集引用?)
+(302,63): error CS0246: 未能找到类型或命名空间名“Target”(是否缺少 using 指令或程序集引用?)
+(302,78): error CS0246: 未能找到类型或命名空间名“NLogLevel”(是否缺少 using 指令或程序集引用?)
+(314,46): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(314,73): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(335,19): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(336,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(337,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(338,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(26,6): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(33,50): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(50,68): error CS0246: 未能找到类型或命名空间名“Process”(是否缺少 using 指令或程序集引用?)
+(255,2): error CS0246: 未能找到类型或命名空间名“MP2ObjAttribute”(是否缺少 using 指令或程序集引用?)
+(255,2): error CS0246: 未能找到类型或命名空间名“MP2Obj”(是否缺少 using 指令或程序集引用?)
+(255,9): error CS0103: 当前上下文中不存在名称“SerializeLayout”
+(269,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(269,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(269,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(74,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(74,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(74,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(77,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(78,9): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(78,16): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(79,9): error CS0246: 未能找到类型或命名空间名“Action<>”(是否缺少 using 指令或程序集引用?)
+(79,16): error CS0246: 未能找到类型或命名空间名“IpcProvider”(是否缺少 using 指令或程序集引用?)
+(75,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(28,20): error CS0246: 未能找到类型或命名空间名“IPCSubProcessServiceImpl”(是否缺少 using 指令或程序集引用?)
+(50,45): error CS0246: 未能找到类型或命名空间名“NotNullWhenAttribute”(是否缺少 using 指令或程序集引用?)
+(50,45): error CS0246: 未能找到类型或命名空间名“NotNullWhen”(是否缺少 using 指令或程序集引用?)
+(277,51): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(277,77): error CS0103: 当前上下文中不存在名称“LogLevel”
+(277,94): error CS0103: 当前上下文中不存在名称“LogLevel”
+(286,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(286,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(286,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(32,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(32,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(32,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(49,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(49,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(49,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(333,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(333,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(333,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+(258,6): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(258,6): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+(261,6): error CS0246: 未能找到类型或命名空间名“MP2KeyAttribute”(是否缺少 using 指令或程序集引用?)
+(261,6): error CS0246: 未能找到类型或命名空间名“MP2Key”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(30,70): error CS1061: “IPCSubProcessServiceImpl?”未包含“ThrowIsNull”的定义，并且找不到可接受第一个“IPCSubProcessServiceImpl?”类型参数的可访问扩展方法“ThrowIsNull”(是否缺少 using 指令或程序集引用?)
+(37,23): error CS1061: “string”未包含“Base64UrlDecodeToByteArray”的定义，并且找不到可接受第一个“string”类型参数的可访问扩展方法“Base64UrlDecodeToByteArray”(是否缺少 using 指令或程序集引用?)
+(38,21): error CS0103: 当前上下文中不存在名称“Serializable”
+(54,23): error CS0103: 当前上下文中不存在名称“Process”
+(272,32): error CS0103: 当前上下文中不存在名称“GetPluginsDirectory”
+(273,30): error CS0103: 当前上下文中不存在名称“GetPluginsDirectory”
+(274,27): error CS1660: 无法将 lambda 表达式 转换为类型“SubProcessArgumentIndex2Model”，原因是它不是委托类型
+(274,51): error CS1660: 无法将 lambda 表达式 转换为类型“string”，原因是它不是委托类型
+(290,9): error CS0103: 当前上下文中不存在名称“LogLevel”
+(290,27): error CS0103: 当前上下文中不存在名称“NLogLevel”
+(291,9): error CS0103: 当前上下文中不存在名称“LogLevel”
+(291,27): error CS0103: 当前上下文中不存在名称“NLogLevel”
+(292,9): error CS0103: 当前上下文中不存在名称“LogLevel”
+(292,33): error CS0103: 当前上下文中不存在名称“NLogLevel”
+(293,9): error CS0103: 当前上下文中不存在名称“LogLevel”
+(293,29): error CS0103: 当前上下文中不存在名称“NLogLevel”
+(294,9): error CS0103: 当前上下文中不存在名称“LogLevel”
+(294,27): error CS0103: 当前上下文中不存在名称“NLogLevel”
+(295,9): error CS0103: 当前上下文中不存在名称“LogLevel”
+(295,30): error CS0103: 当前上下文中不存在名称“NLogLevel”
+(296,9): error CS0103: 当前上下文中不存在名称“LogLevel”
+(296,26): error CS0103: 当前上下文中不存在名称“NLogLevel”
+(297,14): error CS0103: 当前上下文中不存在名称“NLogLevel”
+(305,24): error CS0103: 当前上下文中不存在名称“NLogLevel”
+(307,41): error CS0246: 未能找到类型或命名空间名“LoggingRule”(是否缺少 using 指令或程序集引用?)
+(307,93): error CS0103: 当前上下文中不存在名称“NLogLevel”
+(308,41): error CS0246: 未能找到类型或命名空间名“LoggingRule”(是否缺少 using 指令或程序集引用?)
+(308,110): error CS0103: 当前上下文中不存在名称“NLogLevel”
+(309,41): error CS0246: 未能找到类型或命名空间名“LoggingRule”(是否缺少 using 指令或程序集引用?)
+(309,90): error CS0103: 当前上下文中不存在名称“NLogLevel”
+(311,37): error CS0246: 未能找到类型或命名空间名“LoggingRule”(是否缺少 using 指令或程序集引用?)
+(316,28): error CS0103: 当前上下文中不存在名称“IOPath”
+(321,26): error CS0103: 当前上下文中不存在名称“Path”
+(325,27): error CS0103: 当前上下文中不存在名称“GetDirectoryName”
+(326,26): error CS0103: 当前上下文中不存在名称“Path”
+(329,9): error CS0103: 当前上下文中不存在名称“IOPath”
+(355,28): error CS0103: 当前上下文中不存在名称“IOPath”
+(362,40): error CS0103: 当前上下文中不存在名称“Path”
+(363,9): error CS0103: 当前上下文中不存在名称“NInternalLogger”
+(364,9): error CS0103: 当前上下文中不存在名称“NInternalLogger”
+(364,36): error CS0103: 当前上下文中不存在名称“NLogLevel”
+(365,29): error CS0246: 未能找到类型或命名空间名“LoggingConfiguration”(是否缺少 using 指令或程序集引用?)
+(367,27): error CS0246: 未能找到类型或命名空间名“FileTarget”(是否缺少 using 指令或程序集引用?)
+(380,9): error CS0103: 当前上下文中不存在名称“NLogManager”
+(381,9): error CS0103: 当前上下文中不存在名称“Log”
+(83,25): error CS0103: 当前上下文中不存在名称“CommandExitCode”
+(86,25): error CS0103: 当前上下文中不存在名称“CommandExitCode”
+(88,25): error CS0103: 当前上下文中不存在名称“CommandExitCode”
+(90,25): error CS0103: 当前上下文中不存在名称“CommandExitCode”
+(172,38): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(176,29): error CS0103: 当前上下文中不存在名称“CommandExitCode”
+(179,29): error CS0103: 当前上下文中不存在名称“CommandExitCode”
+(184,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(188,9): error CS0246: 未能找到类型或命名空间名“TaskCompletionSource”(是否缺少 using 指令或程序集引用?)
+(189,21): error CS1061: “Process?”未包含“EnableRaisingEvents”的定义，并且找不到可接受第一个“Process?”类型参数的可访问扩展方法“EnableRaisingEvents”(是否缺少 using 指令或程序集引用?)
+(190,21): error CS1061: “Process?”未包含“Exited”的定义，并且找不到可接受第一个“Process?”类型参数的可访问扩展方法“Exited”(是否缺少 using 指令或程序集引用?)
+(208,33): error CS0103: 当前上下文中不存在名称“Ioc”
+(208,41): error CS0246: 未能找到类型或命名空间名“ILoggerFactory”(是否缺少 using 指令或程序集引用?)
+(214,18): error CS1061: “IPCSubProcessServiceImpl?”未包含“RunAsync”的定义，并且找不到可接受第一个“IPCSubProcessServiceImpl?”类型参数的可访问扩展方法“RunAsync”(是否缺少 using 指令或程序集引用?)
+(220,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(235,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(237,13): error CS0103: 当前上下文中不存在名称“Console”
+(238,25): error CS0103: 当前上下文中不存在名称“CommandExitCode”
+(245,19): error CS0103: 当前上下文中不存在名称“Ioc”
+(1,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。

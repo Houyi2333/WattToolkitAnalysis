@@ -1,0 +1,17 @@
+(3,44): error CS0246: 未能找到类型或命名空间名“IReverseProxyService”(是否缺少 using 指令或程序集引用?)
+(7,19): error CS0246: 未能找到类型或命名空间名“IReverseProxyService”(是否缺少 using 指令或程序集引用?)
+(11,12): error CS0246: 未能找到类型或命名空间名“IReverseProxyService”(是否缺少 using 指令或程序集引用?)
+(16,12): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(16,32): error CS0246: 未能找到类型或命名空间名“ScriptIPCDTO”(是否缺少 using 指令或程序集引用?)
+(24,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(26,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(28,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(28,23): error CS0246: 未能找到类型或命名空间名“StartProxyResult”(是否缺少 using 指令或程序集引用?)
+(39,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(9,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(9,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(9,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(11,43): error CS0103: 当前上下文中不存在名称“Ioc”
+(11,51): error CS0246: 未能找到类型或命名空间名“IReverseProxyService”(是否缺少 using 指令或程序集引用?)
+(39,23): error CS0161: “LazyReverseProxyServiceImpl.StopProxyAsync()”: 并非所有的代码路径都返回值

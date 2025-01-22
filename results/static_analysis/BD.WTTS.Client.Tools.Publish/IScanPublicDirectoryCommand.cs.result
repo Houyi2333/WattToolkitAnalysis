@@ -1,0 +1,44 @@
+(6,41): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(10,20): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(44,58): error CS0246: 未能找到类型或命名空间名“DeploymentMode”(是否缺少 using 指令或程序集引用?)
+(44,12): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(60,39): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(123,41): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(123,48): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(142,46): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(142,51): error CS0246: 未能找到类型或命名空间名“AppPublishFileInfo”(是否缺少 using 指令或程序集引用?)
+(142,91): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(142,120): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(10,12): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(10,20): error CS0538: '显式接口声明中的“ICommand”不是接口
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(12,26): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(13,26): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(14,29): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(15,24): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(16,27): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(31,35): error CS1061: “string[]”未包含“Any”的定义，并且找不到可接受第一个“string[]”类型参数的可访问扩展方法“Any”(是否缺少 using 指令或程序集引用?)
+(33,20): error CS0103: 当前上下文中不存在名称“all_rids”
+(46,24): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(51,64): error CS0103: 当前上下文中不存在名称“DeconstructRuntimeIdentifier”
+(62,30): error CS0103: 当前上下文中不存在名称“Platform”
+(71,9): error CS0246: 未能找到类型或命名空间名“ConcurrentBag<>”(是否缺少 using 指令或程序集引用?)
+(71,23): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(73,26): error CS1061: “string[]”未包含“Select”的定义，并且找不到可接受第一个“string[]”类型参数的可访问扩展方法“Select”(是否缺少 using 指令或程序集引用?)
+(117,9): error CS0103: 当前上下文中不存在名称“ThreadTask”
+(119,13): error CS0103: 当前上下文中不存在名称“AppPublishInfo”
+(120,9): error CS0103: 当前上下文中不存在名称“Console”
+(129,17): error CS0103: 当前上下文中不存在名称“DeploymentMode”
+(129,39): error CS0103: 当前上下文中不存在名称“DirPublish_SCD”
+(130,17): error CS0103: 当前上下文中不存在名称“DeploymentMode”
+(130,39): error CS0103: 当前上下文中不存在名称“DirPublish_FDE”
+(131,32): error CS0246: 未能找到类型或命名空间名“ArgumentOutOfRangeException”(是否缺少 using 指令或程序集引用?)
+(133,34): error CS0103: 当前上下文中不存在名称“Path”
+(133,60): error CS1061: “string”未包含“ThrowIsNull”的定义，并且找不到可接受第一个“string”类型参数的可访问扩展方法“ThrowIsNull”(是否缺少 using 指令或程序集引用?)
+(135,14): error CS0103: 当前上下文中不存在名称“Directory”
+(138,74): error CS0103: 当前上下文中不存在名称“ignoreDirNames”
+(146,31): error CS0103: 当前上下文中不存在名称“Directory”
+(153,18): error CS1061: “List<AppPublishFileInfo>?”未包含“AddRange”的定义，并且找不到可接受第一个“List<AppPublishFileInfo>?”类型参数的可访问扩展方法“AddRange”(是否缺少 using 指令或程序集引用?)
+(155,20): error CS0103: 当前上下文中不存在名称“Directory”
+(159,45): error CS0103: 当前上下文中不存在名称“Path”
+(159,36): error CS1061: “string[]”未包含“Contains”的定义，并且找不到可接受第一个“string[]”类型参数的可访问扩展方法“Contains”(是否缺少 using 指令或程序集引用?)

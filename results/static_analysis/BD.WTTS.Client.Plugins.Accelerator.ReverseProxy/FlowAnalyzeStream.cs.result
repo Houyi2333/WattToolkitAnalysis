@@ -1,0 +1,27 @@
+(6,34): error CS0246: 未能找到类型或命名空间名“DelegatingStream”(是否缺少 using 指令或程序集引用?)
+(8,14): error CS0246: 未能找到类型或命名空间名“IFlowAnalyzer”(是否缺少 using 指令或程序集引用?)
+(10,30): error CS0246: 未能找到类型或命名空间名“Stream”(是否缺少 using 指令或程序集引用?)
+(10,44): error CS0246: 未能找到类型或命名空间名“IFlowAnalyzer”(是否缺少 using 指令或程序集引用?)
+(23,30): error CS0246: 未能找到类型或命名空间名“Span<>”(是否缺少 using 指令或程序集引用?)
+(30,85): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(30,27): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(37,52): error CS0246: 未能找到类型或命名空间名“Memory<>”(是否缺少 using 指令或程序集引用?)
+(37,78): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(37,27): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(50,32): error CS0246: 未能找到类型或命名空间名“ReadOnlySpan<>”(是否缺少 using 指令或程序集引用?)
+(56,75): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(56,21): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(62,42): error CS0246: 未能找到类型或命名空间名“ReadOnlyMemory<>”(是否缺少 using 指令或程序集引用?)
+(62,71): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(62,21): error CS0246: 未能找到类型或命名空间名“ValueTask”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(11,11): error CS1729: “DelegatingStream”不包含采用 1 个参数的构造函数
+(19,29): error CS0103: 当前上下文中不存在名称“FlowType”
+(26,29): error CS0103: 当前上下文中不存在名称“FlowType”
+(32,48): error CS1061: “byte[]”未包含“AsMemory”的定义，并且找不到可接受第一个“byte[]”类型参数的可访问扩展方法“AsMemory”(是否缺少 using 指令或程序集引用?)
+(33,29): error CS0103: 当前上下文中不存在名称“FlowType”
+(40,29): error CS0103: 当前上下文中不存在名称“FlowType”
+(46,29): error CS0103: 当前上下文中不存在名称“FlowType”
+(52,29): error CS0103: 当前上下文中不存在名称“FlowType”
+(58,29): error CS0103: 当前上下文中不存在名称“FlowType”
+(64,29): error CS0103: 当前上下文中不存在名称“FlowType”

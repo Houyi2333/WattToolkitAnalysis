@@ -1,0 +1,11 @@
+(2,25): error CS0234: 命名空间“Avalonia.Controls”中不存在类型或命名空间名“ApplicationLifetimes”(是否缺少程序集引用?)
+(3,16): error CS0234: 命名空间“Avalonia”中不存在类型或命名空间名“Platform”(是否缺少程序集引用?)
+(10,50): error CS0246: 未能找到类型或命名空间名“IPlatformLifetimeEventsImpl”(是否缺少 using 指令或程序集引用?)
+(10,96): error CS0246: 未能找到类型或命名空间名“EventHandler<>”(是否缺少 using 指令或程序集引用?)
+(10,109): error CS0246: 未能找到类型或命名空间名“ShutdownRequestedEventArgs”(是否缺少 using 指令或程序集引用?)
+(9,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(9,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(9,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(2,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。

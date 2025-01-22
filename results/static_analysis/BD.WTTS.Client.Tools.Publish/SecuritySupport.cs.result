@@ -1,0 +1,34 @@
+(18,36): error CS0234: 命名空间“System.Security.Cryptography”中不存在类型或命名空间名“X509Certificates”(是否缺少程序集引用?)
+(859,40): error CS0234: 命名空间“System.Security.Cryptography”中不存在类型或命名空间名“Pkcs”(是否缺少程序集引用?)
+(1021,16): error CS0246: 未能找到类型或命名空间名“X509Certificate2Collection”(是否缺少 using 指令或程序集引用?)
+(608,51): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(625,54): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(639,48): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(644,40): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(663,45): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(663,65): error CS0246: 未能找到类型或命名空间名“X509KeyUsageFlags”(是否缺少 using 指令或程序集引用?)
+(1009,36): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+(1016,26): error CS0246: 未能找到类型或命名空间名“X509Certificate2”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(999,37): error CS0246: 未能找到类型或命名空间名“X509Certificate2Collection”(是否缺少 using 指令或程序集引用?)
+(1013,37): error CS0246: 未能找到类型或命名空间名“X509Certificate2Collection”(是否缺少 using 指令或程序集引用?)
+(629,37): error CS0103: 当前上下文中不存在名称“X509KeyUsageFlags”
+(630,37): error CS0103: 当前上下文中不存在名称“X509KeyUsageFlags”
+(648,34): error CS0246: 未能找到类型或命名空间名“X509EnhancedKeyUsageExtension”(是否缺少 using 指令或程序集引用?)
+(650,30): error CS0246: 未能找到类型或命名空间名“Oid”(是否缺少 using 指令或程序集引用?)
+(665,22): error CS0246: 未能找到类型或命名空间名“X509Extension”(是否缺少 using 指令或程序集引用?)
+(667,17): error CS0246: 未能找到类型或命名空间名“X509KeyUsageExtension”(是否缺少 using 指令或程序集引用?)
+(667,72): error CS0246: 未能找到类型或命名空间名“X509KeyUsageExtension”(是否缺少 using 指令或程序集引用?)
+(964,30): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“RegularExpressions”(是否缺少程序集引用?)
+(216,30): warning CS0169: 从不使用字段“SecuritySupport._hasGpScriptParent”
+(491,29): warning CS0414: 字段“SecuritySupport._saferIdentifyLevelApiSupported”已被赋值，但从未使用过它的值
+(859,5): hidden CS8019: 不需要的 using 指令。
+(8,1): hidden CS8019: 不需要的 using 指令。
+(14,1): hidden CS8019: 不需要的 using 指令。
+(18,1): hidden CS8019: 不需要的 using 指令。
+(10,1): hidden CS8019: 不需要的 using 指令。
+(12,1): hidden CS8019: 不需要的 using 指令。
+(9,1): hidden CS8019: 不需要的 using 指令。
+(7,1): hidden CS8019: 不需要的 using 指令。
+(16,1): hidden CS8019: 不需要的 using 指令。
+(17,1): hidden CS8019: 不需要的 using 指令。

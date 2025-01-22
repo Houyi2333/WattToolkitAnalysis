@@ -1,0 +1,62 @@
+(3,21): error CS0246: 未能找到类型或命名空间名“IApplication”(是否缺少 using 指令或程序集引用?)
+(141,10): error CS0246: 未能找到类型或命名空间名“IApplication”(是否缺少 using 指令或程序集引用?)
+(143,12): error CS0246: 未能找到类型或命名空间名“IApplication”(是否缺少 using 指令或程序集引用?)
+(143,12): error CS0538: '显式接口声明中的“IApplication”不是接口
+(5,21): error CS0246: 未能找到类型或命名空间名“Lazy<>”(是否缺少 using 指令或程序集引用?)
+(83,12): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(101,45): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(101,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(118,28): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(136,36): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(141,10): error CS0538: '显式接口声明中的“IApplication”不是接口
+(145,19): error CS0234: 命名空间“System”中不存在类型或命名空间名“Drawing”(是否缺少程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(16,9): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(19,13): error CS0103: 当前上下文中不存在名称“ApplicationLifetime”
+(19,36): error CS0246: 未能找到类型或命名空间名“IClassicDesktopStyleApplicationLifetime”(是否缺少 using 指令或程序集引用?)
+(22,17): error CS0019: 运算符“==”无法应用于“Window?”和“<null>”类型的操作数
+(22,50): error CS1061: “Window?”未包含“PlatformImpl”的定义，并且找不到可接受第一个“Window?”类型参数的可访问扩展方法“PlatformImpl”(是否缺少 using 指令或程序集引用?)
+(24,21): error CS0019: 运算符“!=”无法应用于“Window?”和“<null>”类型的操作数
+(26,33): error CS1061: “Window?”未包含“DataContext”的定义，并且找不到可接受第一个“Window?”类型参数的可访问扩展方法“DataContext”(是否缺少 using 指令或程序集引用?)
+(26,48): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(27,36): error CS0246: 未能找到类型或命名空间名“IDisposable”(是否缺少 using 指令或程序集引用?)
+(28,21): error CS0103: 当前上下文中不存在名称“MainWindow”
+(30,30): error CS0103: 当前上下文中不存在名称“MainWindow”
+(30,68): error CS0246: 未能找到类型或命名空间名“MainWindow”(是否缺少 using 指令或程序集引用?)
+(34,13): error CS0019: 运算符“==”无法应用于“Window?”和“<null>”类型的操作数
+(36,23): error CS0246: 未能找到类型或命名空间名“ArgumentNullException”(是否缺少 using 指令或程序集引用?)
+(41,24): error CS1061: “Window?”未包含“Show”的定义，并且找不到可接受第一个“Window?”类型参数的可访问扩展方法“Show”(是否缺少 using 指令或程序集引用?)
+(43,16): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(49,24): error CS1061: “Window?”未包含“WindowState”的定义，并且找不到可接受第一个“Window?”类型参数的可访问扩展方法“WindowState”(是否缺少 using 指令或程序集引用?)
+(49,39): error CS0103: 当前上下文中不存在名称“WindowState”
+(50,24): error CS1061: “Window?”未包含“WindowState”的定义，并且找不到可接受第一个“Window?”类型参数的可访问扩展方法“WindowState”(是否缺少 using 指令或程序集引用?)
+(50,38): error CS0103: 当前上下文中不存在名称“WindowState”
+(51,20): error CS1061: “Window?”未包含“Topmost”的定义，并且找不到可接受第一个“Window?”类型参数的可访问扩展方法“Topmost”(是否缺少 using 指令或程序集引用?)
+(52,20): error CS1061: “Window?”未包含“Topmost”的定义，并且找不到可接受第一个“Window?”类型参数的可访问扩展方法“Topmost”(是否缺少 using 指令或程序集引用?)
+(53,20): error CS1061: “Window?”未包含“BringIntoView”的定义，并且找不到可接受第一个“Window?”类型参数的可访问扩展方法“BringIntoView”(是否缺少 using 指令或程序集引用?)
+(54,20): error CS1061: “Window?”未包含“ActivateWorkaround”的定义，并且找不到可接受第一个“Window?”类型参数的可访问扩展方法“ActivateWorkaround”(是否缺少 using 指令或程序集引用?)
+(55,20): error CS1061: “Window?”未包含“Focus”的定义，并且找不到可接受第一个“Window?”类型参数的可访问扩展方法“Focus”(是否缺少 using 指令或程序集引用?)
+(64,13): error CS0103: 当前上下文中不存在名称“MainWindow”
+(64,35): error CS0103: 当前上下文中不存在名称“MainWindow”
+(64,61): error CS0103: 当前上下文中不存在名称“WindowState”
+(66,13): error CS0103: 当前上下文中不存在名称“MainWindow”
+(67,13): error CS0103: 当前上下文中不存在名称“MainWindow”
+(73,13): error CS0103: 当前上下文中不存在名称“ApplicationLifetime”
+(73,36): error CS0246: 未能找到类型或命名空间名“IClassicDesktopStyleApplicationLifetime”(是否缺少 using 指令或程序集引用?)
+(85,13): error CS0103: 当前上下文中不存在名称“ApplicationLifetime”
+(85,36): error CS0246: 未能找到类型或命名空间名“IClassicDesktopStyleApplicationLifetime”(是否缺少 using 指令或程序集引用?)
+(93,16): error CS0103: 当前上下文中不存在名称“MainWindow”
+(109,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(111,20): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(101,23): error CS0161: “App.ShowDialogWindowAsync(Window)”: 并非所有的代码路径都返回值
+(128,20): error CS0246: 未能找到类型或命名空间名“InvalidOperationException”(是否缺少 using 指令或程序集引用?)
+(141,37): error CS0103: 当前上下文中不存在名称“Shutdown”
+(143,50): error CS0103: 当前上下文中不存在名称“MainWindow”
+(149,26): error CS0103: 当前上下文中不存在名称“GetFirstOrDefaultWindow”
+(167,17): error CS0103: 当前上下文中不存在名称“ApplicationLifetime”
+(167,40): error CS0246: 未能找到类型或命名空间名“IClassicDesktopStyleApplicationLifetime”(是否缺少 using 指令或程序集引用?)
+(173,52): error CS0246: 未能找到类型或命名空间名“Rect”(是否缺少 using 指令或程序集引用?)
+(173,63): error CS0246: 未能找到类型或命名空间名“PixelRect”(是否缺少 using 指令或程序集引用?)
+(171,63): error CS0246: 未能找到类型或命名空间名“Window”(是否缺少 using 指令或程序集引用?)
+(184,47): error CS0103: 当前上下文中不存在名称“WindowState”
+(182,65): error CS8422: 静态本地函数不能包含对 "this" 或 "base" 的引用。

@@ -1,0 +1,29 @@
+(3,51): error CS0246: 未能找到类型或命名空间名“IValueConverter”(是否缺少 using 指令或程序集引用?)
+(5,34): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(5,43): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(5,66): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(5,79): error CS0246: 未能找到类型或命名空间名“CultureInfo”(是否缺少 using 指令或程序集引用?)
+(5,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(26,38): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(26,47): error CS0246: 未能找到类型或命名空间名“Type”(是否缺少 using 指令或程序集引用?)
+(26,70): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(26,83): error CS0246: 未能找到类型或命名空间名“CultureInfo”(是否缺少 using 指令或程序集引用?)
+(26,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(47,30): error CS0246: 未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(7,48): error CS0246: 未能找到类型或命名空间名“ISolidColorBrush”(是否缺少 using 指令或程序集引用?)
+(9,26): error CS0246: 未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+(10,28): error CS0246: 未能找到类型或命名空间名“SolidColorBrush”(是否缺少 using 指令或程序集引用?)
+(11,26): error CS0246: 未能找到类型或命名空间名“Color2”(是否缺少 using 指令或程序集引用?)
+(12,28): error CS0246: 未能找到类型或命名空间名“SolidColorBrush”(是否缺少 using 指令或程序集引用?)
+(13,39): error CS0103: 当前上下文中不存在名称“Color”
+(14,28): error CS0246: 未能找到类型或命名空间名“SolidColorBrush”(是否缺少 using 指令或程序集引用?)
+(18,39): error CS0103: 当前上下文中不存在名称“Color”
+(20,39): error CS0103: 当前上下文中不存在名称“Color2”
+(30,26): error CS0246: 未能找到类型或命名空间名“ISolidColorBrush”(是否缺少 using 指令或程序集引用?)
+(32,26): error CS0246: 未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+(34,26): error CS0246: 未能找到类型或命名空间名“Color2”(是否缺少 using 指令或程序集引用?)
+(39,26): error CS0246: 未能找到类型或命名空间名“ISolidColorBrush”(是否缺少 using 指令或程序集引用?)
+(41,26): error CS0246: 未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+(41,44): error CS0246: 未能找到类型或命名空间名“Color2”(是否缺少 using 指令或程序集引用?)
+(44,21): error CS1061: “ColorStringToBrushConverter”未包含“DoNothing”的定义，并且找不到可接受第一个“ColorStringToBrushConverter”类型参数的可访问扩展方法“DoNothing”(是否缺少 using 指令或程序集引用?)

@@ -1,0 +1,270 @@
+(1,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(2,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(3,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(4,10): error CS0234: 命名空间“BD”中不存在类型或命名空间名“SteamClient”(是否缺少程序集引用?)
+(5,7): error CS0246: 未能找到类型或命名空间名“Avalonia”(是否缺少 using 指令或程序集引用?)
+(6,22): error CS0234: 命名空间“System.Runtime”中不存在类型或命名空间名“Devices”(是否缺少程序集引用?)
+(7,15): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Helpers”(是否缺少程序集引用?)
+(82,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(163,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(176,43): error CS0246: 未能找到类型或命名空间名“IdleApp”(是否缺少 using 指令或程序集引用?)
+(176,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(219,19): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(275,19): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(296,19): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(316,19): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(421,19): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(534,32): error CS0246: 未能找到类型或命名空间名“IdleApp”(是否缺少 using 指令或程序集引用?)
+(595,31): error CS0246: 未能找到类型或命名空间名“SteamApp”(是否缺少 using 指令或程序集引用?)
+(675,19): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(746,19): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(803,19): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(72,26): error CS0115: “IdleCardPageViewModel.Activation()”: 没有找到适合的方法来重写
+(13,14): error CS0246: 未能找到类型或命名空间名“ISteamService”(是否缺少 using 指令或程序集引用?)
+(14,14): error CS0246: 未能找到类型或命名空间名“ISteamIdleCardService”(是否缺少 using 指令或程序集引用?)
+(15,14): error CS0246: 未能找到类型或命名空间名“ISteamSessionService”(是否缺少 using 指令或程序集引用?)
+(17,13): error CS0246: 未能找到类型或命名空间名“SteamLoginState”(是否缺少 using 指令或程序集引用?)
+(19,22): error CS0246: 未能找到类型或命名空间名“AsyncLock”(是否缺少 using 指令或程序集引用?)
+(203,13): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(208,13): error CS0246: 未能找到类型或命名空间名“CancellationTokenSource”(是否缺少 using 指令或程序集引用?)
+(821,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(821,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(821,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(13,40): error CS0103: 当前上下文中不存在名称“ISteamService”
+(14,47): error CS0103: 当前上下文中不存在名称“ISteamIdleCardService”
+(15,50): error CS0103: 当前上下文中不存在名称“ISteamSessionService”
+(19,48): error CS0246: 未能找到类型或命名空间名“AsyncLock”(是否缺少 using 指令或程序集引用?)
+(23,9): error CS0103: 当前上下文中不存在名称“SteamIdleSettings”
+(24,9): error CS0103: 当前上下文中不存在名称“SteamIdleSettings”
+(26,14): error CS1061: “IdleCardPageViewModel”未包含“WhenAnyValue”的定义，并且找不到可接受第一个“IdleCardPageViewModel”类型参数的可访问扩展方法“WhenAnyValue”(是否缺少 using 指令或程序集引用?)
+(32,14): error CS1061: “IdleCardPageViewModel”未包含“PriorityRunIdle”的定义，并且找不到可接受第一个“IdleCardPageViewModel”类型参数的可访问扩展方法“PriorityRunIdle”(是否缺少 using 指令或程序集引用?)
+(32,32): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(32,63): error CS0246: 未能找到类型或命名空间名“IdleApp”(是否缺少 using 指令或程序集引用?)
+(33,14): error CS1061: “IdleCardPageViewModel”未包含“IdleRunStartOrStop”的定义，并且找不到可接受第一个“IdleCardPageViewModel”类型参数的可访问扩展方法“IdleRunStartOrStop”(是否缺少 using 指令或程序集引用?)
+(33,35): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(34,14): error CS1061: “IdleCardPageViewModel”未包含“IdleManualRunNext”的定义，并且找不到可接受第一个“IdleCardPageViewModel”类型参数的可访问扩展方法“IdleManualRunNext”(是否缺少 using 指令或程序集引用?)
+(34,34): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(35,14): error CS1061: “IdleCardPageViewModel”未包含“LoginSteamCommand”的定义，并且找不到可接受第一个“IdleCardPageViewModel”类型参数的可访问扩展方法“LoginSteamCommand”(是否缺少 using 指令或程序集引用?)
+(35,34): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(64,9): error CS0103: 当前上下文中不存在名称“NavAppToSteamViewCommand”
+(64,36): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(69,9): error CS0103: 当前上下文中不存在名称“OpenLinkUrlCommand”
+(69,30): error CS0103: 当前上下文中不存在名称“ReactiveCommand”
+(74,13): error CS0103: 当前上下文中不存在名称“IsFirstActivation”
+(75,13): error CS0103: 当前上下文中不存在名称“LoginSteamCommand”
+(76,14): error CS0117: “object”未包含“Activation”的定义
+(86,13): error CS0103: 当前上下文中不存在名称“Toast”
+(86,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(86,43): error CS0103: 当前上下文中不存在名称“Strings”
+(88,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(91,14): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(93,13): error CS0103: 当前上下文中不存在名称“Toast”
+(93,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(93,43): error CS0103: 当前上下文中不存在名称“Strings”
+(95,13): error CS0126: 需要一个类型可转换为“Task”的对象
+(98,14): error CS0103: 当前上下文中不存在名称“IsLogin”
+(100,13): error CS0103: 当前上下文中不存在名称“IsLoaing”
+(103,17): error CS0103: 当前上下文中不存在名称“IsLoaing”
+(104,17): error CS0103: 当前上下文中不存在名称“Toast”
+(104,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(104,47): error CS0103: 当前上下文中不存在名称“Strings”
+(105,17): error CS0126: 需要一个类型可转换为“Task”的对象
+(108,17): error CS0103: 当前上下文中不存在名称“IsLoaing”
+(111,14): error CS0103: 当前上下文中不存在名称“RunLoaingState”
+(113,13): error CS0103: 当前上下文中不存在名称“RunLoaingState”
+(115,18): error CS0103: 当前上下文中不存在名称“RunState”
+(117,17): error CS0103: 当前上下文中不存在名称“TracepointHelper”
+(119,37): error CS1061: “SteamLoginState”未包含“Success”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“Success”(是否缺少 using 指令或程序集引用?)
+(119,64): error CS1061: “SteamLoginState”未包含“SteamId”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“SteamId”(是否缺少 using 指令或程序集引用?)
+(119,83): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(121,21): error CS0103: 当前上下文中不存在名称“Toast”
+(121,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(121,51): error CS0103: 当前上下文中不存在名称“Strings”
+(127,21): error CS0103: 当前上下文中不存在名称“RunState”
+(133,21): error CS0103: 当前上下文中不存在名称“Toast”
+(133,32): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(133,49): error CS0103: 当前上下文中不存在名称“Strings”
+(140,13): error CS0103: 当前上下文中不存在名称“RunLoaingState”
+(145,13): error CS0103: 当前上下文中不存在名称“Toast”
+(145,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(145,43): error CS0103: 当前上下文中不存在名称“Strings”
+(82,23): error CS0161: “IdleCardPageViewModel.IdleRunStartOrStop_Click()”: 并非所有的代码路径都返回值
+(151,9): error CS0103: 当前上下文中不存在名称“RunState”
+(155,9): error CS0103: 当前上下文中不存在名称“IdleTime”
+(163,23): error CS0161: “IdleCardPageViewModel.ManualRunNext()”: 并非所有的代码路径都返回值
+(183,32): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(176,23): error CS0161: “IdleCardPageViewModel.PriorityRunIdleGame(IdleApp)”: 并非所有的代码路径都返回值
+(221,29): error CS0103: 当前上下文中不存在名称“Ioc”
+(221,37): error CS0246: 未能找到类型或命名空间名“ISteamSessionService”(是否缺少 using 指令或程序集引用?)
+(225,29): error CS1061: “SteamLoginState”未包含“SteamId”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“SteamId”(是否缺少 using 指令或程序集引用?)
+(226,29): error CS1061: “SteamLoginState”未包含“AccessToken”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“AccessToken”(是否缺少 using 指令或程序集引用?)
+(227,29): error CS1061: “SteamLoginState”未包含“RefreshToken”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“RefreshToken”(是否缺少 using 指令或程序集引用?)
+(228,29): error CS1061: “SteamLoginState”未包含“Cookies”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“Cookies”(是否缺少 using 指令或程序集引用?)
+(231,13): error CS0103: 当前上下文中不存在名称“IsLogin”
+(231,39): error CS1061: “SteamLoginState”未包含“Success”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“Success”(是否缺少 using 指令或程序集引用?)
+(235,30): error CS1061: “SteamLoginState”未包含“Success”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“Success”(是否缺少 using 指令或程序集引用?)
+(237,13): error CS0103: 当前上下文中不存在名称“LoginViewModel”
+(237,34): error CS0246: 未能找到类型或命名空间名“IdleSteamLoginPageViewModel”(是否缺少 using 指令或程序集引用?)
+(238,13): error CS0103: 当前上下文中不存在名称“LoginViewModel”
+(245,13): error CS0103: 当前上下文中不存在名称“ViewState”
+(252,19): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(253,29): error CS1061: “SteamLoginState”未包含“Success”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“Success”(是否缺少 using 指令或程序集引用?)
+(253,72): error CS1061: “SteamLoginState”未包含“SteamId”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“SteamId”(是否缺少 using 指令或程序集引用?)
+(255,13): error CS0103: 当前上下文中不存在名称“Toast”
+(255,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(255,41): error CS0103: 当前上下文中不存在名称“Strings”
+(258,16): error CS0103: 当前上下文中不存在名称“IsLogin”
+(265,9): error CS0103: 当前上下文中不存在名称“RuningCount”
+(265,23): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(266,9): error CS0103: 当前上下文中不存在名称“RunState”
+(266,20): error CS0103: 当前上下文中不存在名称“RuningCount”
+(269,39): error CS0103: 当前上下文中不存在名称“CurrentIdle”
+(277,13): error CS0103: 当前上下文中不存在名称“SteamIdleSettings”
+(277,49): error CS0103: 当前上下文中不存在名称“IdleRule”
+(279,13): error CS0103: 当前上下文中不存在名称“RunState”
+(275,24): error CS0161: “IdleCardPageViewModel.IdleRuleChange()”: 并非所有的代码路径都返回值
+(298,13): error CS0103: 当前上下文中不存在名称“RunState”
+(296,24): error CS0161: “IdleCardPageViewModel.IdleSequentitalChance()”: 并非所有的代码路径都返回值
+(320,33): error CS0103: 当前上下文中不存在名称“Ioc”
+(320,41): error CS0246: 未能找到类型或命名空间名“ISteamAccountService”(是否缺少 using 指令或程序集引用?)
+(320,100): error CS1061: “SteamLoginState”未包含“AccessToken”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“AccessToken”(是否缺少 using 指令或程序集引用?)
+(327,45): error CS0103: 当前上下文中不存在名称“Ioc”
+(327,53): error CS0246: 未能找到类型或命名空间名“ISteamAccountService”(是否缺少 using 指令或程序集引用?)
+(327,112): error CS1061: “SteamLoginState”未包含“SteamId”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“SteamId”(是否缺少 using 指令或程序集引用?)
+(327,137): error CS1061: “SteamLoginState”未包含“RefreshToken”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“RefreshToken”(是否缺少 using 指令或程序集引用?)
+(335,27): error CS0103: 当前上下文中不存在名称“ISecureStorage”
+(335,63): error CS0103: 当前上下文中不存在名称“ISteamSessionService”
+(343,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(345,13): error CS0103: 当前上下文中不存在名称“Toast”
+(350,13): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(350,25): error CS0246: 未能找到类型或命名空间名“Badge”(是否缺少 using 指令或程序集引用?)
+(351,13): error CS0246: 未能找到类型或命名空间名“HttpStatusCode”(是否缺少 using 指令或程序集引用?)
+(354,44): error CS1061: “SteamLoginState”未包含“SteamId”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“SteamId”(是否缺少 using 指令或程序集引用?)
+(355,14): error CS0103: 当前上下文中不存在名称“UserIdleInfo”
+(356,27): error CS0103: 当前上下文中不存在名称“HttpStatusCode”
+(358,36): error CS0103: 当前上下文中不存在名称“TextBoxWindowViewModel”
+(358,79): error CS0246: 未能找到类型或命名空间名“TextBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(360,29): error CS0103: 当前上下文中不存在名称“Strings”
+(362,33): error CS0103: 当前上下文中不存在名称“TextBoxWindowViewModel”
+(369,27): error CS0246: 未能找到类型或命名空间名“ArgumentNullException”(是否缺少 using 指令或程序集引用?)
+(369,49): error CS0103: 当前上下文中不存在名称“Strings”
+(371,32): error CS0103: 当前上下文中不存在名称“HttpStatusCode”
+(372,27): error CS0246: 未能找到类型或命名空间名“HttpRequestException”(是否缺少 using 指令或程序集引用?)
+(372,51): error CS0103: 当前上下文中不存在名称“Strings”
+(376,13): error CS0103: 当前上下文中不存在名称“Badges”
+(377,13): error CS0103: 当前上下文中不存在名称“Badges”
+(378,13): error CS0103: 当前上下文中不存在名称“TotalCardsRemaining”
+(379,13): error CS0103: 当前上下文中不存在名称“TotalCardsAvgPrice”
+(381,30): error CS1061: “IEnumerable<Badge>?”未包含“Where”的定义，并且找不到可接受第一个“IEnumerable<Badge>?”类型参数的可访问扩展方法“Where”(是否缺少 using 指令或程序集引用?)
+(383,35): error CS1579: “IEnumerable<Badge>?”不包含“GetEnumerator”的公共实例或扩展定义，因此 foreach 语句不能作用于“IEnumerable<Badge>?”类型的变量
+(385,17): error CS0103: 当前上下文中不存在名称“TotalCardsAvgPrice”
+(386,17): error CS0103: 当前上下文中不存在名称“TotalCardsRemaining”
+(348,20): error CS0161: “RunLoadBadges()”: 并非所有的代码路径都返回值
+(348,15): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(399,26): error CS0103: 当前上下文中不存在名称“Badges”
+(400,25): error CS0103: 当前上下文中不存在名称“SteamIdleSettings”
+(402,17): error CS0103: 当前上下文中不存在名称“IdleSequentital”
+(403,17): error CS0103: 当前上下文中不存在名称“IdleSequentital”
+(404,17): error CS0103: 当前上下文中不存在名称“IdleSequentital”
+(407,13): error CS0103: 当前上下文中不存在名称“Dispatcher”
+(414,16): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(427,17): error CS0103: 当前上下文中不存在名称“DroppedCardsCount”
+(427,37): error CS0103: 当前上下文中不存在名称“TotalCardsRemaining”
+(440,9): error CS0246: 未能找到类型或命名空间名“IdleApp”(是否缺少 using 指令或程序集引用?)
+(442,14): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(448,13): error CS0103: 当前上下文中不存在名称“SteamIdleSettings”
+(448,49): error CS0103: 当前上下文中不存在名称“IdleRule”
+(450,25): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(452,52): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(470,17): error CS0103: 当前上下文中不存在名称“SteamIdleSettings”
+(470,53): error CS0103: 当前上下文中不存在名称“IdleRule”
+(472,40): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(477,21): error CS0103: 当前上下文中不存在名称“SteamIdleSettings”
+(477,57): error CS0103: 当前上下文中不存在名称“IdleRule”
+(479,39): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(492,38): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(499,72): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(506,30): error CS0246: 未能找到类型或命名空间名“IList<>”(是否缺少 using 指令或程序集引用?)
+(506,36): error CS0246: 未能找到类型或命名空间名“IdleApp”(是否缺少 using 指令或程序集引用?)
+(506,9): error CS0246: 未能找到类型或命名空间名“IdleApp”(是否缺少 using 指令或程序集引用?)
+(523,13): error CS0103: 当前上下文中不存在名称“RunState”
+(536,9): error CS0103: 当前上下文中不存在名称“CurrentIdle”
+(537,9): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(541,13): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(558,30): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(560,43): error CS0103: 当前上下文中不存在名称“SteamIdleSettings”
+(563,42): error CS0103: 当前上下文中不存在名称“SteamIdleSettings”
+(563,80): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(563,129): error CS0103: 当前上下文中不存在名称“SteamIdleSettings”
+(568,14): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(578,30): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(580,13): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(584,17): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(590,17): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(597,9): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(601,13): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(607,13): error CS0103: 当前上下文中不存在名称“SteamConnectService”
+(637,17): error CS0103: 当前上下文中不存在名称“RunState”
+(642,17): error CS0103: 当前上下文中不存在名称“Task2”
+(661,17): error CS0103: 当前上下文中不存在名称“Toast”
+(661,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(661,44): error CS0103: 当前上下文中不存在名称“Strings”
+(677,13): error CS0103: 当前上下文中不存在名称“IdleTime”
+(677,48): error CS0103: 当前上下文中不存在名称“IdleTime”
+(677,77): error CS0103: 当前上下文中不存在名称“SteamIdleSettings”
+(683,21): error CS0126: 需要一个类型可转换为“Task”的对象
+(685,21): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(697,21): error CS0126: 需要一个类型可转换为“Task”的对象
+(675,24): error CS0161: “IdleCardPageViewModel.AutoNextTask()”: 并非所有的代码路径都返回值
+(715,17): error CS0103: 当前上下文中不存在名称“RunState”
+(720,17): error CS0103: 当前上下文中不存在名称“Task2”
+(738,17): error CS0103: 当前上下文中不存在名称“Toast”
+(738,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(738,44): error CS0103: 当前上下文中不存在名称“Strings”
+(750,17): error CS0103: 当前上下文中不存在名称“RunState”
+(754,21): error CS0103: 当前上下文中不存在名称“CurrentIdle”
+(756,40): error CS0103: 当前上下文中不存在名称“CurrentIdle”
+(757,38): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(757,88): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(765,17): error CS0246: 未能找到类型或命名空间名“IdleApp”(是否缺少 using 指令或程序集引用?)
+(769,26): error CS0103: 当前上下文中不存在名称“Badges”
+(772,39): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(775,35): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(778,38): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(779,39): error CS0019: 运算符“==”无法应用于“IdleApp?”和“<null>”类型的操作数
+(783,40): error CS0103: 当前上下文中不存在名称“IdleGameList”
+(784,35): error CS1503: 参数 1: 无法从“IdleApp?”转换为“IdleApp”
+(746,24): error CS0161: “IdleCardPageViewModel.AutoCardDropCheck()”: 并非所有的代码路径都返回值
+(797,9): error CS0103: 当前上下文中不存在名称“RunState”
+(798,23): error CS0103: 当前上下文中不存在名称“Strings”
+(798,52): error CS0103: 当前上下文中不存在名称“DropCardsCount”
+(798,68): error CS0103: 当前上下文中不存在名称“IdleTime”
+(799,9): error CS0103: 当前上下文中不存在名称“Toast”
+(799,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(800,9): error CS0103: 当前上下文中不存在名称“INotificationService”
+(800,55): error CS0103: 当前上下文中不存在名称“NotificationType”
+(805,25): error CS1061: “SteamLoginState”未包含“AccessToken”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“AccessToken”(是否缺少 using 指令或程序集引用?)
+(806,9): error CS0246: 未能找到类型或命名空间名“SteamSession”(是否缺少 using 指令或程序集引用?)
+(806,36): error CS0246: 未能找到类型或命名空间名“SteamSession”(是否缺少 using 指令或程序集引用?)
+(808,39): error CS1061: “SteamLoginState”未包含“SteamId”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“SteamId”(是否缺少 using 指令或程序集引用?)
+(809,43): error CS1061: “SteamLoginState”未包含“AccessToken”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“AccessToken”(是否缺少 using 指令或程序集引用?)
+(810,44): error CS1061: “SteamLoginState”未包含“RefreshToken”的定义，并且找不到可接受第一个“SteamLoginState”类型参数的可访问扩展方法“RefreshToken”(是否缺少 using 指令或程序集引用?)
+(813,30): error CS0103: 当前上下文中不存在名称“Ioc”
+(813,38): error CS0246: 未能找到类型或命名空间名“ISteamSessionService”(是否缺少 using 指令或程序集引用?)
+(816,13): error CS0103: 当前上下文中不存在名称“LoginViewModel”
+(816,39): error CS0103: 当前上下文中不存在名称“LoginViewModel”
+(803,24): error CS0161: “IdleCardPageViewModel.RefreshAccessTokenAsync(string)”: 并非所有的代码路径都返回值
+(824,13): error CS0103: 当前上下文中不存在名称“Ioc”
+(824,30): error CS0246: 未能找到类型或命名空间名“IToastIntercept”(是否缺少 using 指令或程序集引用?)
+(824,52): error CS0246: 未能找到类型或命名空间名“StartupToastIntercept”(是否缺少 using 指令或程序集引用?)
+(829,9): error CS0103: 当前上下文中不存在名称“Toast”
+(829,20): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(829,36): error CS0103: 当前上下文中不存在名称“Strings”
+(5,1): hidden CS8019: 不需要的 using 指令。
+(7,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。
+(6,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。

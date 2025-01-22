@@ -1,0 +1,57 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“DynamicData”(是否缺少 using 指令或程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“SkiaSharp”(是否缺少 using 指令或程序集引用?)
+(100,33): error CS0246: 未能找到类型或命名空间名“SKBitmap”(是否缺少 using 指令或程序集引用?)
+(100,49): error CS0246: 未能找到类型或命名空间名“SKBitmap”(是否缺少 using 指令或程序集引用?)
+(100,12): error CS0246: 未能找到类型或命名空间名“SKBitmap”(是否缺少 using 指令或程序集引用?)
+(116,12): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(59,6): error CS0246: 未能找到类型或命名空间名“TestAttribute”(是否缺少 using 指令或程序集引用?)
+(59,6): error CS0246: 未能找到类型或命名空间名“Test”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(16,26): error CS1061: “string”未包含“ThrowIsNull”的定义，并且找不到可接受第一个“string”类型参数的可访问扩展方法“ThrowIsNull”(是否缺少 using 指令或程序集引用?)
+(17,23): error CS0103: 当前上下文中不存在名称“Path”
+(18,21): error CS1061: “string”未包含“ThrowIsNull”的定义，并且找不到可接受第一个“string”类型参数的可访问扩展方法“ThrowIsNull”(是否缺少 using 指令或程序集引用?)
+(27,27): error CS0103: 当前上下文中不存在名称“Path”
+(27,40): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(28,9): error CS0246: 未能找到类型或命名空间名“SKBitmap”(是否缺少 using 指令或程序集引用?)
+(28,19): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(31,39): error CS0103: 当前上下文中不存在名称“SKBitmap”
+(34,18): error CS1061: “int[]”未包含“Select”的定义，并且找不到可接受第一个“int[]”类型参数的可访问扩展方法“Select”(是否缺少 using 指令或程序集引用?)
+(33,51): error CS1061: “?[]”未包含“Concat”的定义，并且找不到可接受第一个“?[]”类型参数的可访问扩展方法“Concat”(是否缺少 using 指令或程序集引用?)
+(37,28): error CS0103: 当前上下文中不存在名称“Path”
+(39,32): error CS0246: 未能找到类型或命名空间名“FileStream”(是否缺少 using 指令或程序集引用?)
+(41,17): error CS0103: 当前上下文中不存在名称“FileMode”
+(42,17): error CS0103: 当前上下文中不存在名称“FileAccess”
+(43,17): error CS0103: 当前上下文中不存在名称“FileShare”
+(43,39): error CS0103: 当前上下文中不存在名称“FileShare”
+(44,13): error CS0103: 当前上下文中不存在名称“IcoEncoder”
+(45,13): error CS0103: 当前上下文中不存在名称“TestContext”
+(62,27): error CS0103: 当前上下文中不存在名称“Path”
+(62,40): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(63,27): error CS0103: 当前上下文中不存在名称“Path”
+(63,40): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(64,30): error CS0246: 未能找到类型或命名空间名“DirectoryInfo”(是否缺少 using 指令或程序集引用?)
+(64,44): error CS0103: 当前上下文中不存在名称“Path”
+(64,57): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(66,35): error CS0103: 当前上下文中不存在名称“SKBitmap”
+(67,32): error CS0103: 当前上下文中不存在名称“SKBitmap”
+(70,27): error CS0103: 当前上下文中不存在名称“Path”
+(71,9): error CS0103: 当前上下文中不存在名称“IOPath”
+(75,13): error CS0246: 未能找到类型或命名空间名“SKBitmap”(是否缺少 using 指令或程序集引用?)
+(75,23): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(76,35): error CS0103: 当前上下文中不存在名称“SKBitmap”
+(81,41): error CS1061: “SKBitmap[]”未包含“Concat”的定义，并且找不到可接受第一个“SKBitmap[]”类型参数的可访问扩展方法“Concat”(是否缺少 using 指令或程序集引用?)
+(85,28): error CS0103: 当前上下文中不存在名称“Path”
+(87,32): error CS0246: 未能找到类型或命名空间名“FileStream”(是否缺少 using 指令或程序集引用?)
+(89,17): error CS0103: 当前上下文中不存在名称“FileMode”
+(90,17): error CS0103: 当前上下文中不存在名称“FileAccess”
+(91,17): error CS0103: 当前上下文中不存在名称“FileShare”
+(91,39): error CS0103: 当前上下文中不存在名称“FileShare”
+(92,13): error CS0103: 当前上下文中不存在名称“IcoEncoder”
+(93,13): error CS0103: 当前上下文中不存在名称“TestContext”
+(96,25): error CS7036: 未提供与“Array.ForEach<T>(T[], Action<T>)”的所需参数“action”对应的参数
+(108,9): error CS0246: 未能找到类型或命名空间名“SKBitmap”(是否缺少 using 指令或程序集引用?)
+(109,40): error CS0103: 当前上下文中不存在名称“SKFilterQuality”
+(111,15): error CS0246: 未能找到类型或命名空间名“SKCanvas”(是否缺少 using 指令或程序集引用?)
+(112,40): error CS0246: 未能找到类型或命名空间名“SKRect”(是否缺少 using 指令或程序集引用?)
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

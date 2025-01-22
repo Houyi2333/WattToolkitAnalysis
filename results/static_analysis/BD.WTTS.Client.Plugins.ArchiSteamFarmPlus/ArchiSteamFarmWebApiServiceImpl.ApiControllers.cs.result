@@ -1,0 +1,173 @@
+(1,7): error CS0246: 未能找到类型或命名空间名“ArchiSteamFarm”(是否缺少 using 指令或程序集引用?)
+(2,31): error CS0234: 命名空间“BD.WTTS.Services”中不存在类型或命名空间名“IArchiSteamFarmWebApiService”(是否缺少程序集引用?)
+(7,7): error CS0246: 未能找到类型或命名空间名“IASFClient”(是否缺少 using 指令或程序集引用?)
+(7,19): error CS0246: 未能找到类型或命名空间名“IBotClient”(是否缺少 using 指令或程序集引用?)
+(7,31): error CS0246: 未能找到类型或命名空间名“ICommandClient”(是否缺少 using 指令或程序集引用?)
+(9,12): error CS0246: 未能找到类型或命名空间名“IASFClient”(是否缺少 using 指令或程序集引用?)
+(14,9): error CS0246: 未能找到类型或命名空间名“ASFEncryptRequest”(是否缺少 using 指令或程序集引用?)
+(15,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(13,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(13,23): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(26,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(25,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(25,23): error CS0246: 未能找到类型或命名空间名“IApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(25,31): error CS0246: 未能找到类型或命名空间名“ASFResponse”(是否缺少 using 指令或程序集引用?)
+(37,9): error CS0246: 未能找到类型或命名空间名“ASFHashRequest”(是否缺少 using 指令或程序集引用?)
+(38,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(36,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(36,23): error CS0246: 未能找到类型或命名空间名“IApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(49,9): error CS0246: 未能找到类型或命名空间名“ASFRequest”(是否缺少 using 指令或程序集引用?)
+(50,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(48,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(48,23): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(61,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(60,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(60,23): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(72,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(71,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(71,23): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(83,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(82,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(82,23): error CS0246: 未能找到类型或命名空间名“IApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(82,37): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(95,12): error CS0246: 未能找到类型或命名空间名“IBotClient”(是否缺少 using 指令或程序集引用?)
+(101,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(99,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(99,23): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(113,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(111,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(111,23): error CS0246: 未能找到类型或命名空间名“IApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(111,31): error CS0246: 未能找到类型或命名空间名“IReadOnlyDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(111,59): error CS0246: 未能找到类型或命名空间名“Bot”(是否缺少 using 指令或程序集引用?)
+(125,9): error CS0246: 未能找到类型或命名空间名“BotRequest”(是否缺少 using 指令或程序集引用?)
+(126,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(123,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(123,23): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(138,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(136,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(136,23): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(150,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(148,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(148,23): error CS0246: 未能找到类型或命名空间名“IApiRsp<>”(是否缺少 using 指令或程序集引用?)
+(148,31): error CS0246: 未能找到类型或命名空间名“IReadOnlyDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(148,59): error CS0246: 未能找到类型或命名空间名“GamesToRedeemInBackgroundResponse”(是否缺少 using 指令或程序集引用?)
+(162,9): error CS0246: 未能找到类型或命名空间名“BotGamesToRedeemInBackgroundRequest”(是否缺少 using 指令或程序集引用?)
+(163,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(160,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(160,23): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(175,9): error CS0246: 未能找到类型或命名空间名“BotInputRequest”(是否缺少 using 指令或程序集引用?)
+(176,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(173,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(173,23): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(188,9): error CS0246: 未能找到类型或命名空间名“BotPauseRequest”(是否缺少 using 指令或程序集引用?)
+(189,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(186,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(186,23): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(201,9): error CS0246: 未能找到类型或命名空间名“BotRedeemRequest”(是否缺少 using 指令或程序集引用?)
+(202,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(199,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(199,23): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(214,9): error CS0246: 未能找到类型或命名空间名“BotRenameRequest”(是否缺少 using 指令或程序集引用?)
+(215,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(212,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(212,23): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(227,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(225,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(225,23): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(239,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(237,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(237,23): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(251,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(249,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(249,23): error CS0246: 未能找到类型或命名空间名“IApiRsp”(是否缺少 using 指令或程序集引用?)
+(263,12): error CS0246: 未能找到类型或命名空间名“ICommandClient”(是否缺少 using 指令或程序集引用?)
+(268,9): error CS0246: 未能找到类型或命名空间名“CommandRequest”(是否缺少 using 指令或程序集引用?)
+(269,9): error CS0246: 未能找到类型或命名空间名“CancellationToken”(是否缺少 using 指令或程序集引用?)
+(267,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(267,23): error CS0246: 未能找到类型或命名空间名“IApiRsp<>”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(17,38): error CS0246: 未能找到类型或命名空间名“ASFEncryptRequest”(是否缺少 using 指令或程序集引用?)
+(17,57): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(17,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(19,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(28,38): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(28,44): error CS0246: 未能找到类型或命名空间名“ASFResponse”(是否缺少 using 指令或程序集引用?)
+(28,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(30,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(40,38): error CS0246: 未能找到类型或命名空间名“ASFHashRequest”(是否缺少 using 指令或程序集引用?)
+(40,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(42,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(52,38): error CS0246: 未能找到类型或命名空间名“ASFRequest”(是否缺少 using 指令或程序集引用?)
+(52,50): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(52,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(54,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(63,38): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(63,44): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(63,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(65,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(74,38): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(74,44): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(74,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(76,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(85,38): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(85,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(87,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(103,38): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(103,44): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(103,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(105,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(115,38): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(115,44): error CS0246: 未能找到类型或命名空间名“IReadOnlyDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(115,72): error CS0246: 未能找到类型或命名空间名“Bot”(是否缺少 using 指令或程序集引用?)
+(115,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(117,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(128,38): error CS0246: 未能找到类型或命名空间名“BotRequest”(是否缺少 using 指令或程序集引用?)
+(128,50): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(128,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(130,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(140,38): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(140,44): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(140,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(142,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(152,38): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(152,44): error CS0246: 未能找到类型或命名空间名“IReadOnlyDictionary<,>”(是否缺少 using 指令或程序集引用?)
+(152,72): error CS0246: 未能找到类型或命名空间名“GamesToRedeemInBackgroundResponse”(是否缺少 using 指令或程序集引用?)
+(152,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(154,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(165,38): error CS0246: 未能找到类型或命名空间名“BotGamesToRedeemInBackgroundRequest”(是否缺少 using 指令或程序集引用?)
+(165,75): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(165,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(167,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(178,38): error CS0246: 未能找到类型或命名空间名“BotInputRequest”(是否缺少 using 指令或程序集引用?)
+(178,55): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(178,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(180,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(191,38): error CS0246: 未能找到类型或命名空间名“BotPauseRequest”(是否缺少 using 指令或程序集引用?)
+(191,55): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(191,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(193,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(204,38): error CS0246: 未能找到类型或命名空间名“BotRedeemRequest”(是否缺少 using 指令或程序集引用?)
+(204,56): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(204,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(206,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(217,38): error CS0246: 未能找到类型或命名空间名“BotRenameRequest”(是否缺少 using 指令或程序集引用?)
+(217,56): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(217,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(219,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(229,38): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(229,44): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(229,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(231,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(241,38): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(241,44): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(241,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(243,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(253,38): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(253,44): error CS0246: 未能找到类型或命名空间名“Void”(是否缺少 using 指令或程序集引用?)
+(253,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(255,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(271,38): error CS0246: 未能找到类型或命名空间名“CommandRequest”(是否缺少 using 指令或程序集引用?)
+(271,28): error CS0103: 当前上下文中不存在名称“SendAsync”
+(273,13): error CS0103: 当前上下文中不存在名称“HttpMethod”
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

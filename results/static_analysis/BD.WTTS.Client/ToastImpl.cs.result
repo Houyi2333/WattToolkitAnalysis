@@ -1,0 +1,16 @@
+(7,35): error CS0246: 未能找到类型或命名空间名“ToastBaseImpl”(是否缺少 using 指令或程序集引用?)
+(9,22): error CS0246: 未能找到类型或命名空间名“IToastIntercept”(是否缺少 using 指令或程序集引用?)
+(9,49): error CS0246: 未能找到类型或命名空间名“IMainThreadPlatformService”(是否缺少 using 指令或程序集引用?)
+(15,53): error CS0246: 未能找到类型或命名空间名“Action”(是否缺少 using 指令或程序集引用?)
+(17,42): error CS0246: 未能找到类型或命名空间名“ToastIcon”(是否缺少 using 指令或程序集引用?)
+(24,52): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(24,21): error CS0246: 未能找到类型或命名空间名“IServiceCollection”(是否缺少 using 指令或程序集引用?)
+(23,6): error CS0246: 未能找到类型或命名空间名“MethodImplAttribute”(是否缺少 using 指令或程序集引用?)
+(23,6): error CS0246: 未能找到类型或命名空间名“MethodImpl”(是否缺少 using 指令或程序集引用?)
+(23,17): error CS0103: 当前上下文中不存在名称“MethodImplOptions”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,90): error CS1729: “ToastBaseImpl”不包含采用 2 个参数的构造函数
+(13,45): error CS0103: 当前上下文中不存在名称“MainThread2”
+(15,71): error CS0103: 当前上下文中不存在名称“MainThread2”
+(20,9): error CS0103: 当前上下文中不存在名称“IToastService”
+(25,12): error CS0308: 非泛型 方法“ToastImpl.TryAddToast(IServiceCollection)”不能与类型参数一起使用

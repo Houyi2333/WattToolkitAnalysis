@@ -1,0 +1,21 @@
+(31,5): error CS0246: 未能找到类型或命名空间名“UpdateChannelType”(是否缺少 using 指令或程序集引用?)
+(61,5): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(61,16): error CS0246: 未能找到类型或命名空间名“Platform”(是否缺少 using 指令或程序集引用?)
+(66,5): error CS0246: 未能找到类型或命名空间名“EncodingType”(是否缺少 using 指令或程序集引用?)
+(86,5): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(96,5): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(103,5): error CS0246: 未能找到类型或命名空间名“AppWebProxyMode”(是否缺少 using 指令或程序集引用?)
+(150,11): error CS0246: 未能找到类型或命名空间名“UpdateChannelType”(是否缺少 using 指令或程序集引用?)
+(180,5): error CS0283: 不能将类型“Dictionary<Platform, string>?”声明为 const
+(180,11): error CS0246: 未能找到类型或命名空间名“Dictionary<,>”(是否缺少 using 指令或程序集引用?)
+(180,22): error CS0246: 未能找到类型或命名空间名“Platform”(是否缺少 using 指令或程序集引用?)
+(185,11): error CS0246: 未能找到类型或命名空间名“EncodingType”(是否缺少 using 指令或程序集引用?)
+(205,5): error CS0283: 不能将类型“HashSet<string>?”声明为 const
+(205,11): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(215,21): error CS0246: 未能找到类型或命名空间名“DateTimeOffset”(是否缺少 using 指令或程序集引用?)
+(220,11): error CS0246: 未能找到类型或命名空间名“AppWebProxyMode”(是否缺少 using 指令或程序集引用?)
+(150,52): error CS0103: 当前上下文中不存在名称“UpdateChannelType”
+(185,55): error CS0103: 当前上下文中不存在名称“EncodingType”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(21,12): error CS0103: 当前上下文中不存在名称“Ioc”
+(21,29): error CS0246: 未能找到类型或命名空间名“IOptionsMonitor<>”(是否缺少 using 指令或程序集引用?)

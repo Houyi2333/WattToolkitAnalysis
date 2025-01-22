@@ -1,0 +1,443 @@
+(7,36): error CS0234: 命名空间“System.Text”中不存在类型或命名空间名“Json”(是否缺少程序集引用?)
+(1,36): error CS0234: 命名空间“BD.WTTS.Client.Tools.Publish”中不存在类型或命名空间名“Helpers”(是否缺少程序集引用?)
+(4,23): error CS0234: 命名空间“System.Security”中不存在类型或命名空间名“Policy”(是否缺少程序集引用?)
+(5,43): error CS0234: 命名空间“BD.WTTS.Client.Tools.Publish”中不存在类型或命名空间名“Helpers”(是否缺少程序集引用?)
+(6,22): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“GlobalDllImportResolver”(是否缺少程序集引用?)
+(14,35): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(40,20): error CS0246: 未能找到类型或命名空间名“ICommand”(是否缺少 using 指令或程序集引用?)
+(98,66): error CS0246: 未能找到类型或命名空间名“FileVersionInfo”(是否缺少 using 指令或程序集引用?)
+(624,52): error CS0246: 未能找到类型或命名空间名“Platform”(是否缺少 using 指令或程序集引用?)
+(624,91): error CS0246: 未能找到类型或命名空间名“Architecture”(是否缺少 using 指令或程序集引用?)
+(722,58): error CS0246: 未能找到类型或命名空间名“Platform”(是否缺少 using 指令或程序集引用?)
+(722,83): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(744,80): error CS0246: 未能找到类型或命名空间名“Platform”(是否缺少 using 指令或程序集引用?)
+(811,9): error CS0246: 未能找到类型或命名空间名“Platform”(是否缺少 using 指令或程序集引用?)
+(812,9): error CS0246: 未能找到类型或命名空间名“DeviceIdiom”(是否缺少 using 指令或程序集引用?)
+(813,9): error CS0246: 未能找到类型或命名空间名“Architecture”(是否缺少 using 指令或程序集引用?)
+(1051,9): error CS0246: 未能找到类型或命名空间名“IList<>”(是否缺少 using 指令或程序集引用?)
+(954,51): error CS0246: 未能找到类型或命名空间名“Platform”(是否缺少 using 指令或程序集引用?)
+(1148,47): error CS0246: 未能找到类型或命名空间名“Platform”(是否缺少 using 指令或程序集引用?)
+(1148,12): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(1169,17): error CS0246: 未能找到类型或命名空间名“Platform”(是否缺少 using 指令或程序集引用?)
+(1170,17): error CS0246: 未能找到类型或命名空间名“Architecture”(是否缺少 using 指令或程序集引用?)
+(40,12): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(40,20): error CS0538: '显式接口声明中的“ICommand”不是接口
+(894,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(907,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(81,9): error CS0103: 当前上下文中不存在名称“Path”
+(611,29): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(24,84): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(30,27): error CS0103: 当前上下文中不存在名称“Hashs”
+(42,25): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(43,24): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(44,30): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(45,28): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(46,26): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(47,26): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(48,30): error CS0246: 未能找到类型或命名空间名“Option<>”(是否缺少 using 指令或程序集引用?)
+(49,27): error CS0246: 未能找到类型或命名空间名“Command”(是否缺少 using 指令或程序集引用?)
+(61,13): error CS0103: 当前上下文中不存在名称“Directory”
+(63,34): error CS0103: 当前上下文中不存在名称“Directory”
+(65,17): error CS0103: 当前上下文中不存在名称“Directory”
+(67,34): error CS0103: 当前上下文中不存在名称“Directory”
+(69,17): error CS0103: 当前上下文中不存在名称“File”
+(88,34): error CS0103: 当前上下文中不存在名称“Directory”
+(101,14): error CS0019: 运算符“==”无法应用于“FileVersionInfo?”和“<null>”类型的操作数
+(101,52): error CS1061: “FileVersionInfo?”未包含“FileVersion”的定义，并且找不到可接受第一个“FileVersionInfo?”类型参数的可访问扩展方法“FileVersion”(是否缺少 using 指令或程序集引用?)
+(110,33): error CS0103: 当前上下文中不存在名称“Path”
+(111,18): error CS0103: 当前上下文中不存在名称“File”
+(113,30): error CS0103: 当前上下文中不存在名称“Path”
+(113,81): error CS1503: 参数 1: 无法从“string”转换为“char”
+(113,89): error CS1503: 参数 2: 无法从“System.StringComparison”转换为“char”
+(114,42): error CS0103: 当前上下文中不存在名称“Directory”
+(121,31): error CS0103: 当前上下文中不存在名称“Path”
+(123,27): error CS0103: 当前上下文中不存在名称“Path”
+(124,17): error CS0103: 当前上下文中不存在名称“File”
+(133,33): error CS0103: 当前上下文中不存在名称“Path”
+(134,17): error CS0103: 当前上下文中不存在名称“File”
+(136,27): error CS0103: 当前上下文中不存在名称“FileVersionInfo”
+(137,30): error CS0103: 当前上下文中不存在名称“Path”
+(137,84): error CS1503: 参数 1: 无法从“string”转换为“char”
+(137,92): error CS1503: 参数 2: 无法从“System.StringComparison”转换为“char”
+(138,42): error CS0103: 当前上下文中不存在名称“Directory”
+(145,31): error CS0103: 当前上下文中不存在名称“Path”
+(147,27): error CS0103: 当前上下文中不存在名称“Path”
+(148,17): error CS0103: 当前上下文中不存在名称“File”
+(149,17): error CS0103: 当前上下文中不存在名称“File”
+(156,13): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(161,31): error CS0103: 当前上下文中不存在名称“Console”
+(162,31): error CS0103: 当前上下文中不存在名称“Console”
+(166,13): error CS0103: 当前上下文中不存在名称“Console”
+(167,13): error CS0103: 当前上下文中不存在名称“Console”
+(171,13): error CS0103: 当前上下文中不存在名称“Console”
+(172,13): error CS0103: 当前上下文中不存在名称“Console”
+(169,30): error CS0246: 未能找到类型或命名空间名“ConsoleColor”(是否缺少 using 指令或程序集引用?)
+(169,60): error CS0246: 未能找到类型或命名空间名“ConsoleColor”(是否缺少 using 指令或程序集引用?)
+(179,28): error CS0103: 当前上下文中不存在名称“DeconstructRuntimeIdentifier”
+(186,26): error CS0103: 当前上下文中不存在名称“Platform”
+(187,26): error CS0103: 当前上下文中不存在名称“Platform”
+(188,26): error CS0103: 当前上下文中不存在名称“Platform”
+(192,26): error CS0103: 当前上下文中不存在名称“Platform”
+(197,68): error CS0103: 当前上下文中不存在名称“Architecture”
+(199,36): error CS0103: 当前上下文中不存在名称“ProjectPath_AvaloniaApp”
+(200,27): error CS0103: 当前上下文中不存在名称“GetProcessStartInfo”
+(211,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(211,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(212,17): error CS0103: 当前上下文中不存在名称“Console”
+(213,17): error CS0103: 当前上下文中不存在名称“Console”
+(214,17): error CS0103: 当前上下文中不存在名称“Console”
+(215,17): error CS0103: 当前上下文中不存在名称“Console”
+(218,34): error CS0103: 当前上下文中不存在名称“Path”
+(219,17): error CS0103: 当前上下文中不存在名称“Console”
+(220,38): error CS0103: 当前上下文中不存在名称“Path”
+(220,55): error CS0103: 当前上下文中不存在名称“Path”
+(228,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(228,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(229,17): error CS0103: 当前上下文中不存在名称“Console”
+(230,17): error CS0103: 当前上下文中不存在名称“Console”
+(234,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(234,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(235,17): error CS0103: 当前上下文中不存在名称“Console”
+(237,17): error CS0103: 当前上下文中不存在名称“ProcessHelper”
+(238,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(238,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(239,17): error CS0103: 当前上下文中不存在名称“Console”
+(243,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(243,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(244,17): error CS0103: 当前上下文中不存在名称“Console”
+(248,47): error CS0103: 当前上下文中不存在名称“Path”
+(249,64): error CS0103: 当前上下文中不存在名称“FileVersionInfo”
+(258,38): error CS0103: 当前上下文中不存在名称“Platform”
+(260,21): error CS0103: 当前上下文中不存在名称“Console”
+(261,36): error CS0103: 当前上下文中不存在名称“Path”
+(261,49): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(262,41): error CS0103: 当前上下文中不存在名称“Path”
+(263,25): error CS0103: 当前上下文中不存在名称“File”
+(265,25): error CS0103: 当前上下文中不存在名称“IOPath”
+(267,25): error CS0103: 当前上下文中不存在名称“File”
+(267,45): error CS0103: 当前上下文中不存在名称“Path”
+(269,21): error CS0103: 当前上下文中不存在名称“Console”
+(270,39): error CS0103: 当前上下文中不存在名称“Path”
+(271,21): error CS0103: 当前上下文中不存在名称“CopyDirectory”
+(271,48): error CS0103: 当前上下文中不存在名称“Path”
+(272,21): error CS0103: 当前上下文中不存在名称“File”
+(272,31): error CS0103: 当前上下文中不存在名称“Path”
+(272,85): error CS0103: 当前上下文中不存在名称“Path”
+(275,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(275,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(276,17): error CS0103: 当前上下文中不存在名称“Console”
+(281,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(281,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(282,17): error CS0103: 当前上下文中不存在名称“Console”
+(290,37): error CS0103: 当前上下文中不存在名称“Path”
+(291,42): error CS0103: 当前上下文中不存在名称“Directory”
+(293,25): error CS0103: 当前上下文中不存在名称“IOPath”
+(296,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(296,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(297,17): error CS0103: 当前上下文中不存在名称“Console”
+(301,45): error CS0103: 当前上下文中不存在名称“Path”
+(301,70): error CS0103: 当前上下文中不存在名称“runtimeconfigjsonfilename”
+(302,17): error CS0103: 当前上下文中不存在名称“ILaunchAppTestCommand”
+(303,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(303,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(304,17): error CS0103: 当前上下文中不存在名称“Console”
+(310,37): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(310,57): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(311,21): error CS0103: 当前上下文中不存在名称“Console”
+(314,37): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(314,57): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(315,21): error CS0103: 当前上下文中不存在名称“Console”
+(322,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(322,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(323,17): error CS0103: 当前上下文中不存在名称“Console”
+(326,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(326,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(327,17): error CS0103: 当前上下文中不存在名称“Console”
+(331,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(331,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(332,17): error CS0103: 当前上下文中不存在名称“Console”
+(335,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(335,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(336,17): error CS0103: 当前上下文中不存在名称“Console”
+(339,38): error CS0246: 未能找到类型或命名空间名“AppPublishInfo”(是否缺少 using 指令或程序集引用?)
+(341,38): error CS0103: 当前上下文中不存在名称“DeploymentMode”
+(346,17): error CS0103: 当前上下文中不存在名称“IOPath”
+(346,37): error CS0103: 当前上下文中不存在名称“Path”
+(346,66): error CS0103: 当前上下文中不存在名称“IOPath”
+(347,17): error CS0103: 当前上下文中不存在名称“IOPath”
+(347,37): error CS0103: 当前上下文中不存在名称“Path”
+(347,66): error CS0103: 当前上下文中不存在名称“IOPath”
+(348,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(348,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(349,17): error CS0103: 当前上下文中不存在名称“Console”
+(352,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(352,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(353,17): error CS0103: 当前上下文中不存在名称“Console”
+(355,17): error CS0103: 当前上下文中不存在名称“IScanPublicDirectoryCommand”
+(357,41): error CS0103: 当前上下文中不存在名称“ignoreDirNames”
+(358,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(358,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(359,17): error CS0103: 当前上下文中不存在名称“Console”
+(362,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(362,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(363,17): error CS0103: 当前上下文中不存在名称“Console”
+(369,48): error CS0103: 当前上下文中不存在名称“File”
+(370,39): error CS0103: 当前上下文中不存在名称“Hashs”
+(377,48): error CS0103: 当前上下文中不存在名称“File”
+(378,39): error CS0103: 当前上下文中不存在名称“Hashs”
+(381,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(381,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(382,17): error CS0103: 当前上下文中不存在名称“Console”
+(388,21): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(388,26): error CS0246: 未能找到类型或命名空间名“AppPublishFileInfo”(是否缺少 using 指令或程序集引用?)
+(389,21): error CS0246: 未能找到类型或命名空间名“HashSet<>”(是否缺少 using 指令或程序集引用?)
+(394,34): error CS0029: 无法将类型“string”隐式转换为“int”
+(394,44): error CS0029: 无法将类型“string”隐式转换为“int”
+(394,54): error CS0029: 无法将类型“string”隐式转换为“int”
+(401,42): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(411,25): error CS0019: 运算符“!=”无法应用于“方法组”和“int”类型的操作数
+(413,41): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(413,61): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(414,25): error CS0103: 当前上下文中不存在名称“Console”
+(415,25): error CS0103: 当前上下文中不存在名称“Console”
+(423,58): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(426,33): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(430,33): error CS0103: 当前上下文中不存在名称“Console”
+(431,33): error CS0103: 当前上下文中不存在名称“Console”
+(434,33): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(434,82): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(441,56): error CS0103: 当前上下文中不存在名称“File”
+(442,56): error CS0103: 当前上下文中不存在名称“Hashs”
+(446,56): error CS0103: 当前上下文中不存在名称“File”
+(447,56): error CS0103: 当前上下文中不存在名称“Hashs”
+(452,37): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(452,57): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(453,21): error CS0103: 当前上下文中不存在名称“Console”
+(456,21): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(459,21): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(462,21): error CS0103: 当前上下文中不存在名称“IOPath”
+(463,40): error CS0103: 当前上下文中不存在名称“Path”
+(466,21): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(467,21): error CS0103: 当前上下文中不存在名称“Thread”
+(471,21): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(471,82): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(474,21): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(475,21): error CS0103: 当前上下文中不存在名称“Thread”
+(479,21): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(479,88): error CS0103: 当前上下文中不存在名称“MSIXHelper”
+(481,48): error CS0103: 当前上下文中不存在名称“File”
+(483,40): error CS0246: 未能找到类型或命名空间名“AppPublishFileInfo”(是否缺少 using 指令或程序集引用?)
+(488,43): error CS0103: 当前上下文中不存在名称“Hashs”
+(490,47): error CS0103: 当前上下文中不存在名称“CloudFileType”
+(492,37): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(492,57): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(493,21): error CS0103: 当前上下文中不存在名称“Console”
+(494,21): error CS0103: 当前上下文中不存在名称“Console”
+(494,35): error CS0103: 当前上下文中不存在名称“IOPath”
+(495,21): error CS0103: 当前上下文中不存在名称“Console”
+(496,21): error CS0103: 当前上下文中不存在名称“Console”
+(500,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(500,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(501,17): error CS0103: 当前上下文中不存在名称“Console”
+(503,23): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(507,21): error CS0103: 当前上下文中不存在名称“IOPath”
+(512,26): error CS0103: 当前上下文中不存在名称“Platform”
+(513,26): error CS0103: 当前上下文中不存在名称“Platform”
+(514,26): error CS0103: 当前上下文中不存在名称“Platform”
+(515,26): error CS0103: 当前上下文中不存在名称“Platform”
+(516,25): error CS0103: 当前上下文中不存在名称“ICompressedPackageCommand”
+(516,106): error CS0103: 当前上下文中不存在名称“FileEx”
+(518,26): error CS0103: 当前上下文中不存在名称“Platform”
+(519,25): error CS0103: 当前上下文中不存在名称“ICompressedPackageCommand”
+(519,102): error CS0103: 当前上下文中不存在名称“FileEx”
+(524,21): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(524,26): error CS0246: 未能找到类型或命名空间名“AppPublishFileInfo”(是否缺少 using 指令或程序集引用?)
+(525,21): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(525,26): error CS0246: 未能找到类型或命名空间名“AppPublishFileInfo”(是否缺少 using 指令或程序集引用?)
+(526,21): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(526,26): error CS0246: 未能找到类型或命名空间名“AppPublishFileInfo”(是否缺少 using 指令或程序集引用?)
+(544,21): error CS0103: 当前上下文中不存在名称“ICompressedPackageCommand”
+(563,25): error CS0103: 当前上下文中不存在名称“ICompressedPackageCommand”
+(565,21): error CS0103: 当前上下文中不存在名称“ICompressedPackageCommand”
+(567,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(567,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(568,17): error CS0103: 当前上下文中不存在名称“Console”
+(571,21): error CS0103: 当前上下文中不存在名称“Console”
+(571,35): error CS0103: 当前上下文中不存在名称“IOPath”
+(571,71): error CS0246: 未能找到类型或命名空间名“FileInfo”(是否缺少 using 指令或程序集引用?)
+(575,21): error CS0103: 当前上下文中不存在名称“Console”
+(577,17): error CS0103: 当前上下文中不存在名称“Console”
+(578,17): error CS0103: 当前上下文中不存在名称“Console”
+(582,44): error CS0103: 当前上下文中不存在名称“File”
+(582,68): error CS0103: 当前上下文中不存在名称“FileMode”
+(583,74): error CS0246: 未能找到类型或命名空间名“AppPublishInfoContext”(是否缺少 using 指令或程序集引用?)
+(583,100): error CS0246: 未能找到类型或命名空间名“JsonSerializerOptions”(是否缺少 using 指令或程序集引用?)
+(586,31): error CS0103: 当前上下文中不存在名称“JavaScriptEncoder”
+(591,33): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(591,53): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(592,17): error CS0103: 当前上下文中不存在名称“Console”
+(593,17): error CS0103: 当前上下文中不存在名称“Console”
+(593,31): error CS0103: 当前上下文中不存在名称“IOPath”
+(594,17): error CS0103: 当前上下文中不存在名称“Console”
+(595,17): error CS0103: 当前上下文中不存在名称“Console”
+(599,29): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(599,49): error CS0103: 当前上下文中不存在名称“ConsoleColor”
+(600,13): error CS0103: 当前上下文中不存在名称“Console”
+(628,18): error CS0103: 当前上下文中不存在名称“Platform”
+(629,18): error CS0103: 当前上下文中不存在名称“Platform”
+(630,18): error CS0103: 当前上下文中不存在名称“Platform”
+(641,41): error CS0103: 当前上下文中不存在名称“Architecture”
+(645,72): error CS0103: 当前上下文中不存在名称“Path”
+(654,75): error CS0103: 当前上下文中不存在名称“Path”
+(662,76): error CS0103: 当前上下文中不存在名称“Path”
+(670,72): error CS0103: 当前上下文中不存在名称“Path”
+(678,25): error CS0103: 当前上下文中不存在名称“Directory”
+(679,25): error CS0103: 当前上下文中不存在名称“Directory”
+(680,25): error CS0103: 当前上下文中不存在名称“File”
+(683,25): error CS0103: 当前上下文中不存在名称“IOPath”
+(683,53): error CS0103: 当前上下文中不存在名称“Path”
+(684,25): error CS0103: 当前上下文中不存在名称“File”
+(685,25): error CS0103: 当前上下文中不存在名称“CopyDirectory”
+(686,25): error CS0103: 当前上下文中不存在名称“CopyDirectory”
+(687,25): error CS0103: 当前上下文中不存在名称“CopyDirectory”
+(691,18): error CS0103: 当前上下文中不存在名称“Platform”
+(694,39): error CS0103: 当前上下文中不存在名称“Path”
+(694,95): error CS0103: 当前上下文中不存在名称“Platform”
+(695,21): error CS0103: 当前上下文中不存在名称“CopyDirectory”
+(695,48): error CS0103: 当前上下文中不存在名称“Path”
+(708,20): error CS0103: 当前上下文中不存在名称“Path”
+(709,13): error CS0103: 当前上下文中不存在名称“File”
+(709,32): error CS0103: 当前上下文中不存在名称“File”
+(710,16): error CS0103: 当前上下文中不存在名称“Path”
+(711,13): error CS0103: 当前上下文中不存在名称“File”
+(711,32): error CS0103: 当前上下文中不存在名称“File”
+(728,17): error CS0103: 当前上下文中不存在名称“Platform”
+(728,33): error CS0103: 当前上下文中不存在名称“Platform”
+(728,53): error CS0103: 当前上下文中不存在名称“Platform”
+(729,17): error CS0103: 当前上下文中不存在名称“Platform”
+(729,35): error CS0103: 当前上下文中不存在名称“Platform”
+(730,17): error CS0103: 当前上下文中不存在名称“Platform”
+(746,25): error CS0103: 当前上下文中不存在名称“Path”
+(747,46): error CS0103: 当前上下文中不存在名称“Path”
+(755,9): error CS0103: 当前上下文中不存在名称“IOPath”
+(756,37): error CS0103: 当前上下文中不存在名称“libraryNames”
+(763,18): error CS0103: 当前上下文中不存在名称“Platform”
+(764,18): error CS0103: 当前上下文中不存在名称“Platform”
+(765,18): error CS0103: 当前上下文中不存在名称“Platform”
+(766,54): error CS0103: 当前上下文中不存在名称“WinDivert32”
+(767,54): error CS0103: 当前上下文中不存在名称“WinDivert64”
+(773,27): error CS0103: 当前上下文中不存在名称“Path”
+(774,17): error CS0103: 当前上下文中不存在名称“File”
+(775,17): error CS0103: 当前上下文中不存在名称“File”
+(775,36): error CS0103: 当前上下文中不存在名称“Path”
+(778,27): error CS0103: 当前上下文中不存在名称“Path”
+(779,21): error CS0103: 当前上下文中不存在名称“File”
+(780,21): error CS0103: 当前上下文中不存在名称“File”
+(780,40): error CS0103: 当前上下文中不存在名称“Path”
+(784,53): error CS1503: 参数 1: 无法从“string”转换为“char”
+(784,60): error CS1503: 参数 2: 无法从“System.StringComparison”转换为“char”
+(785,27): error CS0103: 当前上下文中不存在名称“Path”
+(786,21): error CS0103: 当前上下文中不存在名称“File”
+(787,21): error CS0103: 当前上下文中不存在名称“File”
+(787,40): error CS0103: 当前上下文中不存在名称“Path”
+(794,24): error CS0246: 未能找到类型或命名空间名“List<>”(是否缺少 using 指令或程序集引用?)
+(795,56): error CS0103: 当前上下文中不存在名称“Platform”
+(795,72): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(795,93): error CS0103: 当前上下文中不存在名称“Architecture”
+(819,18): error CS0103: 当前上下文中不存在名称“Platform”
+(822,26): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(823,110): error CS0103: 当前上下文中不存在名称“windowssdkver”
+(824,56): error CS0103: 当前上下文中不存在名称“ArchToString”
+(835,18): error CS0103: 当前上下文中不存在名称“Platform”
+(838,26): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(840,58): error CS0103: 当前上下文中不存在名称“ArchToString”
+(857,18): error CS0103: 当前上下文中不存在名称“Platform”
+(860,26): error CS0103: 当前上下文中不存在名称“DeviceIdiom”
+(862,56): error CS0103: 当前上下文中不存在名称“ArchToString”
+(958,30): error CS0103: 当前上下文中不存在名称“Path”
+(977,15): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(981,18): error CS0103: 当前上下文中不存在名称“Platform”
+(982,18): error CS0103: 当前上下文中不存在名称“Platform”
+(983,18): error CS0103: 当前上下文中不存在名称“Platform”
+(985,29): error CS0176: 无法使用实例引用来访问成员“string.Format(string, object?, object?)”；请改用类型名来限定它
+(991,28): error CS0103: 当前上下文中不存在名称“ProjectPath_AppHost”
+(992,9): error CS0103: 当前上下文中不存在名称“CleanProjDir”
+(993,9): error CS0103: 当前上下文中不存在名称“StartProcessAndWaitForExit”
+(999,37): error CS0103: 当前上下文中不存在名称“Path”
+(1006,13): error CS0103: 当前上下文中不存在名称“ObfuscarHelper”
+(1010,38): error CS0103: 当前上下文中不存在名称“Path”
+(1011,36): error CS0103: 当前上下文中不存在名称“Path”
+(1014,44): error CS0103: 当前上下文中不存在名称“File”
+(1031,38): error CS0246: 未能找到类型或命名空间名“XmlDocument”(是否缺少 using 指令或程序集引用?)
+(1034,21): error CS0103: 当前上下文中不存在名称“File”
+(1038,21): error CS0103: 当前上下文中不存在名称“File”
+(1025,29): warning CS0162: 检测到无法访问的代码
+(911,37): error CS0103: 当前上下文中不存在名称“Path”
+(1070,68): error CS1061: “bool”未包含“ToLowerString”的定义，并且找不到可接受第一个“bool”类型参数的可访问扩展方法“ToLowerString”(是否缺少 using 指令或程序集引用?)
+(1085,75): error CS1061: “bool”未包含“ToLowerString”的定义，并且找不到可接受第一个“bool”类型参数的可访问扩展方法“ToLowerString”(是否缺少 using 指令或程序集引用?)
+(1089,75): error CS1061: “bool”未包含“ToLowerString”的定义，并且找不到可接受第一个“bool”类型参数的可访问扩展方法“ToLowerString”(是否缺少 using 指令或程序集引用?)
+(1093,69): error CS1061: “bool”未包含“ToLowerString”的定义，并且找不到可接受第一个“bool”类型参数的可访问扩展方法“ToLowerString”(是否缺少 using 指令或程序集引用?)
+(1109,82): error CS1061: “bool”未包含“ToLowerString”的定义，并且找不到可接受第一个“bool”类型参数的可访问扩展方法“ToLowerString”(是否缺少 using 指令或程序集引用?)
+(1112,100): error CS1061: “bool”未包含“ToLowerString”的定义，并且找不到可接受第一个“bool”类型参数的可访问扩展方法“ToLowerString”(是否缺少 using 指令或程序集引用?)
+(1115,72): error CS1061: “bool”未包含“ToLowerString”的定义，并且找不到可接受第一个“bool”类型参数的可访问扩展方法“ToLowerString”(是否缺少 using 指令或程序集引用?)
+(1119,74): error CS1061: “bool”未包含“ToLowerString”的定义，并且找不到可接受第一个“bool”类型参数的可访问扩展方法“ToLowerString”(是否缺少 using 指令或程序集引用?)
+(1137,54): error CS1061: “bool”未包含“ToLowerString”的定义，并且找不到可接受第一个“bool”类型参数的可访问扩展方法“ToLowerString”(是否缺少 using 指令或程序集引用?)
+(924,37): error CS0103: 当前上下文中不存在名称“Path”
+(1150,22): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(1151,22): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(1152,22): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(1153,22): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(1154,22): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(1155,25): error CS0103: 当前上下文中不存在名称“Platform”
+(1156,26): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(1157,22): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(1177,32): error CS0103: 当前上下文中不存在名称“Path”
+(1177,45): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(1178,13): error CS0103: 当前上下文中不存在名称“StartProcessAndWaitForExit”
+(1181,34): error CS0103: 当前上下文中不存在名称“Path”
+(1182,27): error CS0103: 当前上下文中不存在名称“Path”
+(1183,18): error CS0103: 当前上下文中不存在名称“File”
+(1185,50): error CS1061: “string[]”未包含“FirstOrDefault”的定义，并且找不到可接受第一个“string[]”类型参数的可访问扩展方法“FirstOrDefault”(是否缺少 using 指令或程序集引用?)
+(1188,31): error CS0103: 当前上下文中不存在名称“Path”
+(1189,26): error CS0103: 当前上下文中不存在名称“File”
+(1190,35): error CS0246: 未能找到类型或命名空间名“FileNotFoundException”(是否缺少 using 指令或程序集引用?)
+(1194,31): error CS0246: 未能找到类型或命名空间名“FileNotFoundException”(是否缺少 using 指令或程序集引用?)
+(1197,29): error CS0103: 当前上下文中不存在名称“Path”
+(1198,13): error CS0103: 当前上下文中不存在名称“IOPath”
+(1199,32): error CS0103: 当前上下文中不存在名称“Path”
+(1200,13): error CS0103: 当前上下文中不存在名称“File”
+(1208,22): error CS0103: 当前上下文中不存在名称“AssemblyInfo”
+(1220,46): error CS0103: 当前上下文中不存在名称“Platform”
+(1220,82): error CS0103: 当前上下文中不存在名称“Architecture”
+(1228,26): error CS0103: 当前上下文中不存在名称“Platform”
+(1229,26): error CS0103: 当前上下文中不存在名称“Platform”
+(1230,26): error CS0103: 当前上下文中不存在名称“Platform”
+(1244,52): error CS0103: 当前上下文中不存在名称“ArchToString”
+(1251,30): error CS0103: 当前上下文中不存在名称“Platform”
+(1255,62): error CS0103: 当前上下文中不存在名称“ArchToString”
+(1257,30): error CS0103: 当前上下文中不存在名称“Platform”
+(1258,60): error CS0103: 当前上下文中不存在名称“ArchToString”
+(1262,36): error CS0103: 当前上下文中不存在名称“Path”
+(1262,49): error CS0103: 当前上下文中不存在名称“ProjectUtils”
+(1272,17): error CS0103: 当前上下文中不存在名称“CleanProjDir”
+(1273,27): error CS0103: 当前上下文中不存在名称“GetProcessStartInfo”
+(1281,17): error CS0103: 当前上下文中不存在名称“Console”
+(1283,17): error CS0103: 当前上下文中不存在名称“ProcessHelper”
+(1285,34): error CS0103: 当前上下文中不存在名称“Path”
+(1287,46): error CS0103: 当前上下文中不存在名称“Path”
+(1288,17): error CS0103: 当前上下文中不存在名称“IOPath”
+(1291,37): error CS0103: 当前上下文中不存在名称“Path”
+(1292,21): error CS0103: 当前上下文中不存在名称“IOPath”
+(1293,21): error CS0103: 当前上下文中不存在名称“CopyDirectory”
+(1298,21): error CS0103: 当前上下文中不存在名称“File”
+(1298,31): error CS0103: 当前上下文中不存在名称“Path”
+(1298,68): error CS0103: 当前上下文中不存在名称“Path”
+(1217,17): error CS0246: 未能找到类型或命名空间名“Platform”(是否缺少 using 指令或程序集引用?)
+(1218,17): error CS0246: 未能找到类型或命名空间名“Architecture”(是否缺少 using 指令或程序集引用?)
+(1274,17): error CS8422: 静态本地函数不能包含对 "this" 或 "base" 的引用。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(4,1): hidden CS8019: 不需要的 using 指令。
+(6,1): hidden CS8019: 不需要的 using 指令。
+(5,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。

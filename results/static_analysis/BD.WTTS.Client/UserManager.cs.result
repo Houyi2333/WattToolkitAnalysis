@@ -1,0 +1,95 @@
+(1,31): error CS0234: 命名空间“BD.WTTS.Services”中不存在类型或命名空间名“IUserManager”(是否缺少程序集引用?)
+(7,29): error CS0246: 未能找到类型或命名空间名“IUserManager”(是否缺少 using 指令或程序集引用?)
+(134,18): error CS0246: 未能找到类型或命名空间名“Action”(是否缺少 using 指令或程序集引用?)
+(11,24): error CS0246: 未能找到类型或命名空间名“ISecureStorage”(是否缺少 using 指令或程序集引用?)
+(12,24): error CS0246: 未能找到类型或命名空间名“ILogger”(是否缺少 using 指令或程序集引用?)
+(13,24): error CS0246: 未能找到类型或命名空间名“IUserRepository”(是否缺少 using 指令或程序集引用?)
+(14,24): error CS0246: 未能找到类型或命名空间名“ISecurityService”(是否缺少 using 指令或程序集引用?)
+(17,9): error CS0246: 未能找到类型或命名空间名“ILoggerFactory”(是否缺少 using 指令或程序集引用?)
+(18,9): error CS0246: 未能找到类型或命名空间名“ISecureStorage”(是否缺少 using 指令或程序集引用?)
+(19,9): error CS0246: 未能找到类型或命名空间名“IUserRepository”(是否缺少 using 指令或程序集引用?)
+(20,9): error CS0246: 未能找到类型或命名空间名“ISecurityService”(是否缺少 using 指令或程序集引用?)
+(29,15): error CS0246: 未能找到类型或命名空间名“CurrentUser”(是否缺少 using 指令或程序集引用?)
+(30,15): error CS0246: 未能找到类型或命名空间名“IdentityUserInfoDTO”(是否缺少 using 指令或程序集引用?)
+(32,15): error CS0246: 未能找到类型或命名空间名“CurrentUser”(是否缺少 using 指令或程序集引用?)
+(48,21): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(48,31): error CS0246: 未能找到类型或命名空间名“CurrentUser”(是否缺少 using 指令或程序集引用?)
+(88,12): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(88,22): error CS0246: 未能找到类型或命名空间名“CurrentUser”(是否缺少 using 指令或程序集引用?)
+(65,12): error CS0246: 未能找到类型或命名空间名“CurrentUser”(是否缺少 using 指令或程序集引用?)
+(93,43): error CS0246: 未能找到类型或命名空间名“CurrentUser”(是否缺少 using 指令或程序集引用?)
+(93,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(100,18): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(100,28): error CS0246: 未能找到类型或命名空间名“IdentityUserInfoDTO”(是否缺少 using 指令或程序集引用?)
+(113,47): error CS0246: 未能找到类型或命名空间名“IdentityUserInfoDTO”(是否缺少 using 指令或程序集引用?)
+(113,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(122,18): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(122,28): error CS0246: 未能找到类型或命名空间名“JWTEntity”(是否缺少 using 指令或程序集引用?)
+(128,18): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(128,28): error CS0246: 未能找到类型或命名空间名“JWTEntity”(是否缺少 using 指令或程序集引用?)
+(136,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(144,44): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(144,5): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(144,15): error CS0246: 未能找到类型或命名空间名“User”(是否缺少 using 指令或程序集引用?)
+(149,130): error CS0246: 未能找到类型或命名空间名“IUserDTO”(是否缺少 using 指令或程序集引用?)
+(149,64): error CS0246: 未能找到类型或命名空间名“User”(是否缺少 using 指令或程序集引用?)
+(149,76): error CS0246: 未能找到类型或命名空间名“Func<,>”(是否缺少 using 指令或程序集引用?)
+(149,81): error CS0246: 未能找到类型或命名空间名“User”(是否缺少 using 指令或程序集引用?)
+(149,87): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(149,100): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(149,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(149,31): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(156,82): error CS0246: 未能找到类型或命名空间名“IUserDTO”(是否缺少 using 指令或程序集引用?)
+(156,54): error CS0246: 未能找到类型或命名空间名“User”(是否缺少 using 指令或程序集引用?)
+(156,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(156,24): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(176,42): error CS0246: 未能找到类型或命名空间名“User”(是否缺少 using 指令或程序集引用?)
+(176,53): error CS0246: 未能找到类型或命名空间名“IdentityUserInfoDTO”(是否缺少 using 指令或程序集引用?)
+(176,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(197,59): error CS0246: 未能找到类型或命名空间名“User”(是否缺少 using 指令或程序集引用?)
+(197,11): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(197,16): error CS0246: 未能找到类型或命名空间名“IdentityUserInfoDTO”(是否缺少 using 指令或程序集引用?)
+(226,66): error CS0246: 未能找到类型或命名空间名“Guid”(是否缺少 using 指令或程序集引用?)
+(226,18): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(226,23): error CS0246: 未能找到类型或命名空间名“IdentityUserInfoDTO”(是否缺少 using 指令或程序集引用?)
+(232,43): error CS0246: 未能找到类型或命名空间名“IUserDTO”(是否缺少 using 指令或程序集引用?)
+(232,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(260,36): error CS0246: 未能找到类型或命名空间名“IUserDTO”(是否缺少 using 指令或程序集引用?)
+(260,65): error CS0246: 未能找到类型或命名空间名“DbRowExecResult”(是否缺少 using 指令或程序集引用?)
+(134,26): error CS0066: “UserManager.OnSignOut”: 事件必须是委托类型的
+(41,6): error CS0246: 未能找到类型或命名空间名“ConditionalAttribute”(是否缺少 using 指令或程序集引用?)
+(41,6): error CS0246: 未能找到类型或命名空间名“Conditional”(是否缺少 using 指令或程序集引用?)
+(259,6): error CS0246: 未能找到类型或命名空间名“ConditionalAttribute”(是否缺少 using 指令或程序集引用?)
+(259,6): error CS0246: 未能找到类型或命名空间名“Conditional”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(37,27): error CS0019: 运算符“==”无法应用于“CurrentUser?”和“<null>”类型的操作数
+(50,13): error CS0019: 运算符“==”无法应用于“CurrentUser?”和“<null>”类型的操作数
+(54,54): error CS0246: 未能找到类型或命名空间名“CurrentUser”(是否缺少 using 指令或程序集引用?)
+(54,67): error CS0103: 当前上下文中不存在名称“KEY_CURRENT_LOGIN_USER”
+(56,20): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(67,30): error CS0019: 运算符“!=”无法应用于“CurrentUser?”和“<null>”类型的操作数
+(72,9): error CS0246: 未能找到类型或命名空间名“CurrentUser”(是否缺少 using 指令或程序集引用?)
+(79,13): error CS0246: 未能找到类型或命名空间名“Func<>”(是否缺少 using 指令或程序集引用?)
+(79,18): error CS0246: 未能找到类型或命名空间名“ValueTask<>”(是否缺少 using 指令或程序集引用?)
+(79,28): error CS0246: 未能找到类型或命名空间名“CurrentUser”(是否缺少 using 指令或程序集引用?)
+(95,32): error CS0103: 当前上下文中不存在名称“KEY_CURRENT_LOGIN_USER”
+(93,23): error CS0161: “UserManager.SetCurrentUserAsync(CurrentUser?)”: 并非所有的代码路径都返回值
+(102,13): error CS0019: 运算符“==”无法应用于“IdentityUserInfoDTO?”和“<null>”类型的操作数
+(113,23): error CS0161: “UserManager.SetCurrentUserInfoAsync(IdentityUserInfoDTO, bool)”: 并非所有的代码路径都返回值
+(136,23): error CS0161: “UserManager.SignOutAsync()”: 并非所有的代码路径都返回值
+(151,13): error CS0019: 运算符“==”无法应用于“User?”和“<null>”类型的操作数
+(151,34): error CS8716: default 字面量缺少目标类型。
+(162,13): error CS0117: “TUserDTO”未包含“Id”的定义
+(163,13): error CS0117: “TUserDTO”未包含“NickName”的定义
+(164,13): error CS0117: “TUserDTO”未包含“Avatar”的定义
+(206,33): error CS0103: 当前上下文中不存在名称“Serializable”
+(206,50): error CS0246: 未能找到类型或命名空间名“IdentityUserInfoDTO”(是否缺少 using 指令或程序集引用?)
+(217,20): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(222,40): error CS0246: 未能找到类型或命名空间名“IdentityUserInfoDTO”(是否缺少 using 指令或程序集引用?)
+(236,29): error CS0246: 未能找到类型或命名空间名“User”(是否缺少 using 指令或程序集引用?)
+(242,21): error CS0246: 未能找到类型或命名空间名“IdentityUserInfoDTO”(是否缺少 using 指令或程序集引用?)
+(244,34): error CS0103: 当前上下文中不存在名称“Serializable”
+(255,14): error CS8130: 无法推断隐式类型的析构变量“rowCount”的类型。
+(255,28): error CS8130: 无法推断隐式类型的析构变量“result”的类型。
+(232,23): error CS0161: “UserManager.InsertOrUpdateAsync(IUserDTO)”: 并非所有的代码路径都返回值
+(1,1): hidden CS8019: 不需要的 using 指令。

@@ -1,0 +1,39 @@
+(2,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(11,40): error CS0246: 未能找到类型或命名空间名“DirectoryInfo”(是否缺少 using 指令或程序集引用?)
+(68,118): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(9,25): error CS0246: 未能找到类型或命名空间名“DirectoryInfo”(是否缺少 using 指令或程序集引用?)
+(35,25): error CS0103: 当前上下文中不存在名称“Log”
+(49,21): error CS0103: 当前上下文中不存在名称“Log”
+(56,13): error CS0103: 当前上下文中不存在名称“Log”
+(72,15): error CS0103: 当前上下文中不存在名称“IOPath”
+(73,15): error CS0103: 当前上下文中不存在名称“Path”
+(79,28): error CS0103: 当前上下文中不存在名称“Path”
+(82,19): error CS0103: 当前上下文中不存在名称“IOPath”
+(82,53): error CS0103: 当前上下文中不存在名称“Path”
+(83,19): error CS0103: 当前上下文中不存在名称“Path”
+(85,26): error CS0103: 当前上下文中不存在名称“IOPath”
+(88,31): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(93,26): error CS0103: 当前上下文中不存在名称“IOPath”
+(93,60): error CS0103: 当前上下文中不存在名称“Path”
+(94,24): error CS0103: 当前上下文中不存在名称“Path”
+(99,22): error CS0103: 当前上下文中不存在名称“Directory”
+(104,17): error CS0103: 当前上下文中不存在名称“Toast”
+(104,28): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(110,17): error CS0103: 当前上下文中不存在名称“Directory”
+(111,31): error CS0103: 当前上下文中不存在名称“Directory”
+(115,60): error CS0103: 当前上下文中不存在名称“Path”
+(116,38): error CS0103: 当前上下文中不存在名称“Path”
+(116,64): error CS0103: 当前上下文中不存在名称“Path”
+(126,24): error CS0103: 当前上下文中不存在名称“IOPath”
+(127,22): error CS0103: 当前上下文中不存在名称“IOPath”
+(130,13): error CS0103: 当前上下文中不存在名称“Directory”
+(132,17): error CS0103: 当前上下文中不存在名称“Directory”
+(136,13): error CS0103: 当前上下文中不存在名称“Toast”
+(136,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(141,14): error CS0103: 当前上下文中不存在名称“File”
+(142,13): error CS0103: 当前上下文中不存在名称“Directory”
+(142,39): error CS0103: 当前上下文中不存在名称“Path”
+(143,20): error CS0103: 当前上下文中不存在名称“Path”
+(143,33): error CS0103: 当前上下文中不存在名称“Path”
+(143,69): error CS0103: 当前上下文中不存在名称“Path”

@@ -1,0 +1,38 @@
+(1,18): error CS0234: 命名空间“BD.WTTS.UI”中不存在类型或命名空间名“Styling”(是否缺少程序集引用?)
+(2,7): error CS0246: 未能找到类型或命名空间名“LiveChartsCore”(是否缺少 using 指令或程序集引用?)
+(3,7): error CS0246: 未能找到类型或命名空间名“LiveChartsCore”(是否缺少 using 指令或程序集引用?)
+(4,7): error CS0246: 未能找到类型或命名空间名“SkiaSharp”(是否缺少 using 指令或程序集引用?)
+(12,14): error CS0246: 未能找到类型或命名空间名“IApplication”(是否缺少 using 指令或程序集引用?)
+(12,5): error CS0246: 未能找到类型或命名空间名“AppTheme”(是否缺少 using 指令或程序集引用?)
+(12,14): error CS0538: '显式接口声明中的“IApplication”不是接口
+(16,12): error CS0246: 未能找到类型或命名空间名“AppTheme”(是否缺少 using 指令或程序集引用?)
+(53,40): error CS0246: 未能找到类型或命名空间名“AppTheme”(是否缺少 using 指令或程序集引用?)
+(74,45): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(10,11): error CS0246: 未能找到类型或命名空间名“AppTheme”(是否缺少 using 指令或程序集引用?)
+(14,5): error CS0246: 未能找到类型或命名空间名“AppTheme”(是否缺少 using 指令或程序集引用?)
+(10,42): error CS0103: 当前上下文中不存在名称“AppTheme”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(22,13): error CS0246: 未能找到类型或命名空间名“AppTheme”(是否缺少 using 指令或程序集引用?)
+(24,26): error CS0103: 当前上下文中不存在名称“AppTheme”
+(26,27): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(30,36): error CS0103: 当前上下文中不存在名称“IApplication”
+(35,32): error CS0103: 当前上下文中不存在名称“AppTheme”
+(37,27): error CS0103: 当前上下文中不存在名称“IPlatformService”
+(42,36): error CS0103: 当前上下文中不存在名称“IApplication”
+(57,13): error CS0103: 当前上下文中不存在名称“AppTheme”
+(57,38): error CS0103: 当前上下文中不存在名称“CustomTheme”
+(58,13): error CS0103: 当前上下文中不存在名称“AppTheme”
+(58,31): error CS0103: 当前上下文中不存在名称“ThemeVariant”
+(59,18): error CS0103: 当前上下文中不存在名称“ThemeVariant”
+(62,9): error CS0103: 当前上下文中不存在名称“RequestedThemeVariant”
+(64,22): error CS0103: 当前上下文中不存在名称“AppTheme”
+(66,13): error CS0103: 当前上下文中不存在名称“LiveCharts”
+(70,13): error CS0103: 当前上下文中不存在名称“LiveCharts”
+(83,23): error CS0117: “App”未包含“Current”的定义
+(83,46): error CS0246: 未能找到类型或命名空间名“FluentAvaloniaTheme”(是否缺少 using 指令或程序集引用?)
+(90,13): error CS0103: 当前上下文中不存在名称“Color”
+(95,51): error CS0103: 当前上下文中不存在名称“StringComparison”
+(4,1): hidden CS8019: 不需要的 using 指令。
+(2,1): hidden CS8019: 不需要的 using 指令。
+(1,1): hidden CS8019: 不需要的 using 指令。
+(3,1): hidden CS8019: 不需要的 using 指令。

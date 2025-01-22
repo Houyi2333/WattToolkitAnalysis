@@ -1,0 +1,16 @@
+(8,14): error CS0246: 未能找到类型或命名空间名“YarpReverseProxyServiceImpl”(是否缺少 using 指令或程序集引用?)
+(10,5): error CS0246: 未能找到类型或命名空间名“IDnsAnalysisService”(是否缺少 using 指令或程序集引用?)
+(14,5): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(14,25): error CS0246: 未能找到类型或命名空间名“AccelerateProjectDTO”(是否缺少 using 指令或程序集引用?)
+(16,5): error CS0246: 未能找到类型或命名空间名“IReadOnlyCollection<>”(是否缺少 using 指令或程序集引用?)
+(16,25): error CS0246: 未能找到类型或命名空间名“ScriptIPCDTO”(是否缺少 using 指令或程序集引用?)
+(31,68): error CS0246: 未能找到类型或命名空间名“IDomainConfig”(是否缺少 using 指令或程序集引用?)
+(39,68): error CS0246: 未能找到类型或命名空间名“IEnumerable<>”(是否缺少 using 指令或程序集引用?)
+(39,80): error CS0246: 未能找到类型或命名空间名“IScriptConfig”(是否缺少 using 指令或程序集引用?)
+(47,49): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(53,5): error CS0246: 未能找到类型或命名空间名“DomainPattern”(是否缺少 using 指令或程序集引用?)
+(31,42): error CS0246: 未能找到类型或命名空间名“MaybeNullWhenAttribute”(是否缺少 using 指令或程序集引用?)
+(31,42): error CS0246: 未能找到类型或命名空间名“MaybeNullWhen”(是否缺少 using 指令或程序集引用?)
+(39,42): error CS0246: 未能找到类型或命名空间名“MaybeNullWhenAttribute”(是否缺少 using 指令或程序集引用?)
+(39,42): error CS0246: 未能找到类型或命名空间名“MaybeNullWhen”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

@@ -1,0 +1,46 @@
+(19,35): error CS0246: 未能找到类型或命名空间名“ConnectionDelegate”(是否缺少 using 指令或程序集引用?)
+(19,60): error CS0246: 未能找到类型或命名空间名“ConnectionContext”(是否缺少 using 指令或程序集引用?)
+(19,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(79,31): error CS0246: 未能找到类型或命名空间名“ReadResult”(是否缺少 using 指令或程序集引用?)
+(79,82): error CS0246: 未能找到类型或命名空间名“SequencePosition”(是否缺少 using 指令或程序集引用?)
+(11,14): error CS0246: 未能找到类型或命名空间名“HttpParser<>”(是否缺少 using 指令或程序集引用?)
+(98,47): error CS0246: 未能找到类型或命名空间名“IHttpRequestLineHandler”(是否缺少 using 指令或程序集引用?)
+(98,72): error CS0246: 未能找到类型或命名空间名“IHttpHeadersHandler”(是否缺少 using 指令或程序集引用?)
+(98,93): error CS0246: 未能找到类型或命名空间名“IHttpProxyFeature”(是否缺少 using 指令或程序集引用?)
+(120,14): error CS0246: 未能找到类型或命名空间名“IHttpRequestLineHandler”(是否缺少 using 指令或程序集引用?)
+(134,14): error CS0246: 未能找到类型或命名空间名“IHttpHeadersHandler”(是否缺少 using 指令或程序集引用?)
+(138,14): error CS0246: 未能找到类型或命名空间名“IHttpHeadersHandler”(是否缺少 using 指令或程序集引用?)
+(142,14): error CS0246: 未能找到类型或命名空间名“IHttpHeadersHandler”(是否缺少 using 指令或程序集引用?)
+(146,14): error CS0246: 未能找到类型或命名空间名“IHttpHeadersHandler”(是否缺少 using 指令或程序集引用?)
+(100,17): error CS0246: 未能找到类型或命名空间名“AspNetCoreHttpMethod”(是否缺少 using 指令或程序集引用?)
+(102,16): error CS0246: 未能找到类型或命名空间名“HostString”(是否缺少 using 指令或程序集引用?)
+(104,16): error CS0246: 未能找到类型或命名空间名“ProxyProtocol”(是否缺少 using 指令或程序集引用?)
+(120,50): error CS0246: 未能找到类型或命名空间名“HttpVersionAndMethod”(是否缺少 using 指令或程序集引用?)
+(120,89): error CS0246: 未能找到类型或命名空间名“TargetOffsetPathLength”(是否缺少 using 指令或程序集引用?)
+(120,124): error CS0246: 未能找到类型或命名空间名“Span<>”(是否缺少 using 指令或程序集引用?)
+(120,14): error CS0538: '显式接口声明中的“IHttpRequestLineHandler”不是接口
+(134,43): error CS0246: 未能找到类型或命名空间名“ReadOnlySpan<>”(是否缺少 using 指令或程序集引用?)
+(134,68): error CS0246: 未能找到类型或命名空间名“ReadOnlySpan<>”(是否缺少 using 指令或程序集引用?)
+(134,14): error CS0538: '显式接口声明中的“IHttpHeadersHandler”不是接口
+(138,14): error CS0538: '显式接口声明中的“IHttpHeadersHandler”不是接口
+(142,14): error CS0538: '显式接口声明中的“IHttpHeadersHandler”不是接口
+(146,67): error CS0246: 未能找到类型或命名空间名“ReadOnlySpan<>”(是否缺少 using 指令或程序集引用?)
+(146,14): error CS0538: '显式接口声明中的“IHttpHeadersHandler”不是接口
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(37,50): error CS0103: 当前上下文中不存在名称“ProxyProtocol”
+(40,25): error CS0246: 未能找到类型或命名空间名“ReadOnlyMemory<>”(是否缺少 using 指令或程序集引用?)
+(48,42): error CS0246: 未能找到类型或命名空间名“IHttpProxyFeature”(是否缺少 using 指令或程序集引用?)
+(63,20): error CS0246: 未能找到类型或命名空间名“Exception”(是否缺少 using 指令或程序集引用?)
+(65,17): error CS0246: 未能找到类型或命名空间名“ReadOnlyMemory<>”(是否缺少 using 指令或程序集引用?)
+(19,23): error CS0161: “HttpProxyMiddleware.InvokeAsync(ConnectionDelegate, ConnectionContext)”: 并非所有的代码路径都返回值
+(81,26): error CS0246: 未能找到类型或命名空间名“SequenceReader<>”(是否缺少 using 指令或程序集引用?)
+(110,42): error CS1061: “ProxyProtocol”未包含“None”的定义，并且找不到可接受第一个“ProxyProtocol”类型参数的可访问扩展方法“None”(是否缺少 using 指令或程序集引用?)
+(112,31): error CS0103: 当前上下文中不存在名称“AspNetCoreHttpMethod”
+(114,42): error CS1061: “ProxyProtocol”未包含“TunnelProxy”的定义，并且找不到可接受第一个“ProxyProtocol”类型参数的可访问扩展方法“TunnelProxy”(是否缺少 using 指令或程序集引用?)
+(116,38): error CS1061: “ProxyProtocol”未包含“HttpProxy”的定义，并且找不到可接受第一个“ProxyProtocol”类型参数的可访问扩展方法“HttpProxy”(是否缺少 using 指令或程序集引用?)
+(123,24): error CS0103: 当前上下文中不存在名称“Encoding”
+(124,44): error CS0103: 当前上下文中不存在名称“AspNetCoreHttpMethod”
+(126,29): error CS0103: 当前上下文中不存在名称“HostString”
+(128,22): error CS0103: 当前上下文中不存在名称“Uri”
+(128,42): error CS0103: 当前上下文中不存在名称“UriKind”
+(130,29): error CS0103: 当前上下文中不存在名称“HostString”

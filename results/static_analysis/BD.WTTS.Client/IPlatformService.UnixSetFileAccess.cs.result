@@ -1,0 +1,19 @@
+(6,11): error CS0246: 未能找到类型或命名空间名“UnixFileMode”(是否缺少 using 指令或程序集引用?)
+(11,11): error CS0246: 未能找到类型或命名空间名“UnixFileMode”(是否缺少 using 指令或程序集引用?)
+(6,38): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+(6,62): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+(7,9): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+(7,36): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+(8,9): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+(8,37): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+(9,9): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+(11,38): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+(11,62): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+(12,13): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+(12,40): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+(13,13): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+(13,39): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+(14,13): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+(14,38): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+(15,13): error CS0103: 当前上下文中不存在名称“UnixFileMode”
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法

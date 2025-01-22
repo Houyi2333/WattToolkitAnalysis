@@ -1,0 +1,12 @@
+(22,35): error CS0246: 未能找到类型或命名空间名“HttpContext”(是否缺少 using 指令或程序集引用?)
+(22,56): error CS0246: 未能找到类型或命名空间名“RequestDelegate”(是否缺少 using 指令或程序集引用?)
+(22,18): error CS0246: 未能找到类型或命名空间名“Task”(是否缺少 using 指令或程序集引用?)
+(44,27): error CS0246: 未能找到类型或命名空间名“HostString”(是否缺少 using 指令或程序集引用?)
+(9,14): error CS0246: 未能找到类型或命名空间名“IReverseProxyConfig”(是否缺少 using 指令或程序集引用?)
+(11,35): error CS0246: 未能找到类型或命名空间名“IReverseProxyConfig”(是否缺少 using 指令或程序集引用?)
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(25,49): error CS0246: 未能找到类型或命名空间名“IHttpProxyFeature”(是否缺少 using 指令或程序集引用?)
+(26,67): error CS0103: 当前上下文中不存在名称“ProxyProtocol”
+(22,23): error CS0161: “HttpProxyPacMiddleware.InvokeAsync(HttpContext, RequestDelegate)”: 并非所有的代码路径都返回值
+(46,27): error CS0246: 未能找到类型或命名空间名“StringBuilder”(是否缺少 using 指令或程序集引用?)
+(51,61): error CS0103: 当前上下文中不存在名称“DomainPattern”

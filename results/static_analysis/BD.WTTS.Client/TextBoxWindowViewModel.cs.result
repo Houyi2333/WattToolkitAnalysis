@@ -1,0 +1,28 @@
+(1,30): error CS0234: 命名空间“BD.WTTS”中不存在类型或命名空间名“Client”(是否缺少程序集引用?)
+(6,39): error CS0246: 未能找到类型或命名空间名“DialogWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(6,62): error CS0246: 未能找到类型或命名空间名“ITextBoxWindowViewModel”(是否缺少 using 指令或程序集引用?)
+(8,19): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(13,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(22,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(28,19): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(30,19): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(35,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(58,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(63,18): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(89,77): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(89,25): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(89,36): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+(99,19): error CS0246: 未能找到类型或命名空间名“Task<>”(是否缺少 using 指令或程序集引用?)
+(99,30): warning CS8632: 只能在 "#nullable" 注释上下文内的代码中使用可为 null 的引用类型的注释。
+error CS5001: 程序不包含适合于入口点的静态 "Main" 方法
+(16,21): error CS1061: “TextBoxWindowViewModel”未包含“RaiseAndSetIfChanged”的定义，并且找不到可接受第一个“TextBoxWindowViewModel”类型参数的可访问扩展方法“RaiseAndSetIfChanged”(是否缺少 using 指令或程序集引用?)
+(25,21): error CS1061: “TextBoxWindowViewModel”未包含“RaiseAndSetIfChanged”的定义，并且找不到可接受第一个“TextBoxWindowViewModel”类型参数的可访问扩展方法“RaiseAndSetIfChanged”(是否缺少 using 指令或程序集引用?)
+(38,21): error CS1061: “TextBoxWindowViewModel”未包含“RaiseAndSetIfChanged”的定义，并且找不到可接受第一个“TextBoxWindowViewModel”类型参数的可访问扩展方法“RaiseAndSetIfChanged”(是否缺少 using 指令或程序集引用?)
+(47,21): error CS1061: “TextBoxWindowViewModel”未包含“RaiseAndSetIfChanged”的定义，并且找不到可接受第一个“TextBoxWindowViewModel”类型参数的可访问扩展方法“RaiseAndSetIfChanged”(是否缺少 using 指令或程序集引用?)
+(73,13): error CS0103: 当前上下文中不存在名称“Toast”
+(73,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(78,13): error CS0103: 当前上下文中不存在名称“Toast”
+(78,24): error CS0103: 当前上下文中不存在名称“ToastIcon”
+(92,23): error CS0103: 当前上下文中不存在名称“IWindowManager”
+(92,74): error CS1061: “TextBoxWindowViewModel”未包含“Title”的定义，并且找不到可接受第一个“TextBoxWindowViewModel”类型参数的可访问扩展方法“Title”(是否缺少 using 指令或程序集引用?)
+(103,13): error CS0117: “TextBoxWindowViewModel”未包含“Title”的定义
