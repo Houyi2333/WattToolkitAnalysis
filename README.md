@@ -30,16 +30,16 @@
 
 ```plaintext
 WattToolkitAnalysis/
-├── data/                   # 分析过程中生成的数据文件
-├── src/                    # 代码文件目录
-│   ├── commit_analysis.py  # 提交历史分析脚本
-│   ├── issue_pr_get.py     # Issue 和 PR 获取脚本
-│   ├── issue_pr_analysis.py# Issue 和 PR 分析脚本
-│   ├── static_analysis.py  # 代码静态分析脚本
-│   └── fuzz_test.py        # 模糊测试实现脚本
-├── results/                # 分析结果（图表和报告）
-├── README.md               # 项目说明文档
-└── requirements.txt        # 依赖库清单
+├── data/                    # 分析过程中生成的数据文件
+├── src/                     # 代码文件目录
+│   ├── commit_analysis.py   # 提交历史分析脚本
+│   ├── issue_pr_get.py      # Issue 和 PR 获取脚本
+│   ├── issue_pr_analysis.py # Issue 和 PR 分析脚本
+│   ├── static_analysis.py   # 代码静态分析脚本
+│   └── fuzz_test.py         # 模糊测试实现脚本
+├── results/                 # 分析结果（图表和报告）
+├── README.md                # 项目说明文档
+└── requirements.txt         # 依赖库清单
 ```
 
 ---
