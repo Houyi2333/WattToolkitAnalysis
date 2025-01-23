@@ -21,9 +21,9 @@
 
 - **编程语言**：Python, C#
 - **使用工具**：  
-  - 数据分析：`pandas`, `matplotlib`  
-  - 静态分析：`Roslyn`  
-  - Git 仓库数据获取：`PyGitHub`, `GitPython`  
+  - 数据分析：`collections`, `matplotlib`  
+  - Git 仓库数据获取：`GitPython`
+  - 静态分析：`Roslyn`   
   - 模糊测试：`AFL`, `fuzzing`  
 
 ## **文件结构**  
