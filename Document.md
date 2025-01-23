@@ -146,5 +146,3 @@ Results for DrawingContextExtensions.cs:
 ```
 
 ## 模糊测试实现
-
-## 数据可视化
