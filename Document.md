@@ -144,5 +144,3 @@ Results for DrawingContextExtensions.cs:
      (9,65): error CS0246: 未能找到类型或命名空间名“Bitmap”(是否缺少 using 指令或程序集引用?)
 ...
 ```
-
-## 模糊测试实现
