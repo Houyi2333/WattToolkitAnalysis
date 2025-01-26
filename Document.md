@@ -97,11 +97,11 @@
 
 使用 `request` 库与 `GithubAPI`来提取提交历史数据，代码位于 `./src/issue_pr_get.py`
 
-1. **构建请求 URL**：将 GITHUB_API_URL、REPO_OWNER、REPO_NAME拼接到 GitHub API 的 issues 接口 URL 中。
-2. **发送 GET 请求**：调用 `requests.get` 方法，向 GitHub API 发送 GET 请求获取 Issue 信息。
+1. **构建请求 URL**：将 GITHUB_API_URL、REPO_OWNER、REPO_NAME拼接到 GitHub API 的 issues 接口 URL 中
+2. **发送 GET 请求**：调用 `requests.get` 方法，向 GitHub API 发送 GET 请求获取 Issue 信息
 3. **处理响应结果**：
-   - **请求成功（状态码 200）**：解析响应的 JSON 数据，并将相关信息存储到 issues_data 列表中。
-   - **请求失败**：打印无法获取 Issue 信息及对应的错误状态码。
+   - **请求成功**：解析响应的 JSON 数据，并将相关信息存储到 issues_data 列表中
+   - **请求失败**：打印无法获取 Issue 信息及对应的错误状态码
 4. **保存数据**：将 issues_data 列表以 JSON 格式写入 `./data/issue_info.json` 文件
 
 通过 `issue_pr_analysis.py` 可读取 `./data/issue_info.json` 文件计算问题解决率，平均解决时间，作者问题解决率和高质量作者率
@@ -121,11 +121,11 @@
 > - **Roslyn**：这是一个开源的 .NET 编译平台，提供了丰富的 API，用于代码分析和编译。通过自定义分析器，开发者能够创建特定的规则来检查代码质量。
 
 1. **编写C#分析器**：分析器对应的C#项目目录为 `./src/static_analysis_cs` 。使用 `.NET8.0` 进行编译。分析器通过一下流程进行对代码的诊断分析：
-   1. 初始化分析器：通过 `Initialize` 方法，分析器注册了对方法声明的分析。每当遇到方法声明时，都会触发 `AnalyzeNode` 方法对其进行具体分析。
-   2. 检查未处理的异常：在 `AnalyzeNode` 方法中，分析器会检查方法体内是否存在 `catch` 子句。如果没有，它将报告一个诊断信息，提示该方法可能抛出未处理的异常。
-2. **使用Python脚本调用分析器**：通过遍历 `Watt Toolkit` 源代码的所有 `.cs` 文件，并调用上述编译的C#分析器，分析包括检查未处理的异常及其他潜在的代码问题。
-3. **结果保存**：对于每个模块中的 `.cs` 文件，生成一个分析后的结果文件，保存在 `./results/static_analysis/{模块名}` 中。
-4. **报告生成**：对于每个模块，将该模块中生成的所有 `.results` 文件内容汇总为一个PDF报告，保存在 `./results/static_analysis` 中。同时汇总所有分析结果，生成最终的代码静态分析报告，位置为 `./results/static_analysis_report.pdf`。
+   1. 初始化分析器：通过 `Initialize` 方法，分析器注册了对方法声明的分析。每当遇到方法声明时，都会触发 `AnalyzeNode` 方法对其进行具体分析
+   2. 检查未处理的异常：在 `AnalyzeNode` 方法中，分析器会检查方法体内是否存在 `catch` 子句。如果没有，它将报告一个诊断信息，提示该方法可能抛出未处理的异常
+2. **使用Python脚本调用分析器**：通过遍历 `Watt Toolkit` 源代码的所有 `.cs` 文件，并调用上述编译的C#分析器，分析包括检查未处理的异常及其他潜在的代码问题
+3. **结果保存**：对于每个模块中的 `.cs` 文件，生成一个分析后的结果文件，保存在 `./results/static_analysis/{模块名}` 中
+4. **报告生成**：对于每个模块，将该模块中生成的所有 `.results` 文件内容汇总为一个PDF报告，保存在 `./results/static_analysis` 中。同时汇总所有分析结果，生成最终的代码静态分析报告，位置为 `./results/static_analysis_report.pdf`
 
 以下列出部分分析结果：
 
@@ -160,3 +160,5 @@ Results for DrawingContextExtensions.cs:
 不同操作系统的编译条件可能会有所不同。操作系统之间的差异会影响到程序的编译方式、运行时环境以及可用的系统调用、库等。为了适应不同操作系统的环境，通常使用条件编译指令来在代码中根据操作系统进行选择性编译
 
 分析运行结果保存在 `./result/output.txt`
+
+该软件支持的操作系统非常之多，跨平台非常好
