@@ -16,7 +16,7 @@
   - 扫描代码库并查找潜在的平台兼容性问题
 - **数据可视化**：  
   
-  - 将分析结果进行可视化
+  - 将分析结果进行可视化,绘制柱状图和折线图
 
 ## **技术栈与工具**  
 
@@ -40,6 +40,7 @@ WattToolkitAnalysis/
 │   ├── static_analysis.py                  # 代码静态分析脚本
 │   └── platform_compatibility_analysis.py  # 平台兼容性分析
 ├── results/                                # 分析结果（图表和报告）
+├── Document.md                             # 项目文档
 ├── README.md                               # 项目说明文档
 └── requirements.txt                        # 依赖库清单
 ```
